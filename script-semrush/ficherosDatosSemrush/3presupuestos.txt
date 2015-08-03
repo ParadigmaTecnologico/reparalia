@@ -1,0 +1,97 @@
+Keyword;Position;Previous Position;Position Difference;Search Volume;CPC;Url;Traffic (%);Traffic Cost (%);Competition;Number of Results;Trends
+presupuestos online;1;1;0;260;2.08;http://www.3presupuestos.com/;27.58;23.49;0.69;8970000;0.81,0.99,0.54,0.35,0.35,0.28,0.44,0.54,0.54,0.35,0.44,0.54
+3 presupuestos;1;1;0;140;0.22;http://www.3presupuestos.com/;14.85;1.33;0.40;37400000;0.99,0.99,0.99,0.82,0.82,0.41,0.65,0.82,0.82,0.65,0.53,0.65
+presupuestos;9;10;1;1600;1.31;http://www.3presupuestos.com/;10.83;5.81;0.40;44600000;0.84,0.84,0.99,0.84,0.68,0.53,0.99,0.99,0.99,0.68,0.84,0.84
+presupuestos de reformas;3;3;0;390;4.58;http://www.3presupuestos.com/;7.92;14.85;0.86;11900000;0.81,0.99,0.66,0.54,0.44,0.44,0.66,0.66,0.66,0.66,0.44,0.44
+presupuestos reformas;4;4;0;260;4.38;http://www.3presupuestos.com/;4.10;7.36;0.86;11800000;0.99,0.81,0.99,0.99,0.53,0.53,0.81,0.99,0.81,0.66,0.81,0.81
+presupuesto reforma;11;12;1;320;4.00;http://www.3presupuestos.com/;3.39;5.56;0.91;39600000;0.99,0.66,0.54,0.54,0.44,0.28,0.44,0.54,0.66,0.54,0.66,0.54
+presupuesto online;2;3;1;110;2.85;http://www.3presupuestos.com/;3.22;3.76;0.61;9790000;0.82,0.65,0.65,0.65,0.65,0.41,0.82,0.82,0.99,0.53,0.82,0.65
+presupuestos gratis;2;2;0;110;1.31;http://www.3presupuestos.com/;3.22;1.73;0.73;8820000;0.52,0.81,0.99,0.81,0.43,0.33,0.52,0.52,0.43,0.43,0.33,0.43
+presupuestos on line;1;1;0;30;1.81;http://www.3presupuestos.com/;3.18;2.35;0.81;8740000;0.99,0.40,0.80,0.80,0.60,0.40,0.60,0.80,0.80,0.40,0.80,0.60
+presupuestos para reformas;4;4;0;140;3.52;http://www.3presupuestos.com/;2.21;3.18;0.64;11000000;0.43,0.19,0.33,0.67,0.99,0.52,0.52,0.81,0.67,0.67,0.99,0.81
+presupuestos reforma;1;1;0;20;3.70;http://www.3presupuestos.com/;2.12;3.21;0.90;23600000;0.67,0.33,0.33,0.33,0.67,0.33,0.67,0.99,0.67,0.33,0.67,0.33
+presupuestos reformas madrid;4;4;0;110;5.42;http://www.3presupuestos.com/madrid;1.73;3.85;0.62;667000;0.35,0.35,0.42,0.42,0.35,0.27,0.19,0.42,0.42,0.42,0.99,0.65
+pedir presupuestos;7;7;0;170;1.39;http://www.3presupuestos.com/pedir-presupuestos;1.53;0.87;0.59;1170000;0.28,0.44,0.99,0.82,0.82,0.82,0.67,0.18,0.05,0.08,0.05,0.08
+presupuesto de reforma;6;6;0;110;3.92;http://www.3presupuestos.com/;1.24;1.99;0.83;39800000;0.67,0.52,0.52,0.19,0.43,0.99,0.81,0.43,0.52,0.24,0.24,0.33
+presupuestos.com;4;0;0;70;1.07;http://www.3presupuestos.com/registrar-empresa;1.10;0.48;0.39;31400000;0.45,0.45,0.64,0.64,0.99,0.45,0.82,0.64,0.64,0.45,0.45,0.45
+presupuestos gratis de reformas;1;1;0;10;5.01;http://www.3presupuestos.com/;1.06;2.17;0.86;822000;0.33,0.33,0.67,0.67,0.33,0.33,0.99,0.33,0.33,0.33,0.33,0.33
+reformas online;3;3;0;50;2.70;http://www.3presupuestos.com/;1.01;1.12;0.80;9560000;0.56,0.33,0.99,0.44,0.33,0.22,0.99,0.56,0.78,0.56,0.78,0.78
+presupuesto de reformas;5;5;0;90;3.91;http://www.3presupuestos.com/;1.01;1.62;0.88;23800000;0.82,0.65,0.53,0.99,0.41,0.28,0.65,0.28,0.28,0.53,0.28,0.41
+presupuesto reformas;9;9;0;140;4.65;http://www.3presupuestos.com/;0.94;1.80;0.80;23200000;0.82,0.82,0.65,0.99,0.82,0.82,0.65,0.82,0.65,0.53,0.65,0.82
+presupuestos de reformas online;2;2;0;30;3.95;http://www.3presupuestos.com/;0.88;1.42;0.93;623000;0.80,0.60,0.40,0.40,0.20,0.20,0.60,0.99,0.60,0.40,0.99,0.99
+presupuestos online reformas;2;2;0;30;2.04;http://www.3presupuestos.com/;0.88;0.73;0.90;607000;0.56,0.14,0.71,0.14,0.14,0.14,0.14,0.28,0.71,0.56,0.99,0.56
+presupuestos.com;6;0;0;70;1.07;http://www.3presupuestos.com/pedir-presupuestos;0.79;0.34;0.39;31400000;0.45,0.45,0.64,0.64,0.99,0.45,0.82,0.64,0.64,0.45,0.45,0.45
+presupuestos.com;5;0;0;70;1.07;http://www.3presupuestos.com/;0.79;0.34;0.39;31400000;0.45,0.45,0.64,0.64,0.99,0.45,0.82,0.64,0.64,0.45,0.45,0.45
+presupuestos reformas online;5;5;0;70;4.49;http://www.3presupuestos.com/;0.79;1.45;0.75;643000;0.99,0.41,0.65,0.53,0.18,0.06,0.24,0.24,0.18,0.24,0.28,0.24
+presupuestos de reformas madrid;2;2;0;20;0.00;http://www.3presupuestos.com/madrid;0.58;0.00;0.81;608000;0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.78,0.22,0.11,0.99,0.22
+presupuesto reforma online;2;3;1;20;3.80;http://www.3presupuestos.com/;0.58;0.91;0.87;692000;0.50,0.50,0.99,0.75,0.25,0.25,0.50,0.50,0.50,0.25,0.50,0.50
+presupuestos instalaciones electricas;2;2;0;20;1.46;http://www.3presupuestos.com/instalaciones-electricas;0.58;0.35;0.46;368000;0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.99
+presupuesto reformas online;2;2;0;20;4.32;http://www.3presupuestos.com/;0.58;1.03;0.90;531000;0.67,0.99,0.67,0.67,0.99,0.67,0.67,0.67,0.67,0.33,0.67,0.67
+reformas presupuestos;6;4;-2;50;3.66;http://www.3presupuestos.com/;0.56;0.84;0.92;12500000;0.36,0.18,0.18,0.18,0.36,0.27,0.27,0.36,0.45,0.64,0.82,0.99
+presupuesto reforma baño;13;0;0;260;1.89;http://www.3presupuestos.com/reformar-bano;0.52;0.40;0.87;503000;0.82,0.67,0.67,0.67,0.99,0.54,0.67,0.67,0.67,0.67,0.82,0.67
+solicitar presupuestos;14;13;-1;320;1.92;http://www.3presupuestos.com/;0.50;0.39;0.03;17900000;0.18,0.36,0.82,0.82,0.67,0.99,0.82,0.82,0.82,0.99,0.82,0.67
+presupuesto reformas madrid;4;4;0;30;5.73;http://www.3presupuestos.com/madrid;0.47;1.11;0.56;703000;0.40,0.60,0.99,0.40,0.40,0.40,0.40,0.40,0.40,0.20,0.60,0.99
+pedir presupuesto reforma;5;0;0;40;4.58;http://www.3presupuestos.com/pedir-presupuestos;0.45;0.84;0.97;4200000;0.44,0.22,0.33,0.56,0.56,0.33,0.99,0.99,0.33,0.33,0.44,0.11
+presupuestos de reformas en madrid;3;2;-1;20;5.71;http://www.3presupuestos.com/madrid;0.40;0.94;0.61;635000;0.43,0.14,0.14,0.28,0.14,0.14,0.14,0.28,0.14,0.28,0.99,0.14
+presupuestos gratis reformas;3;2;-1;20;6.34;http://www.3presupuestos.com/;0.40;1.05;0.43;865000;0.14,0.14,0.14,0.14,0.28,0.28,0.43,0.71,0.14,0.99,0.56,0.28
+presupuestos de reforma;3;2;-1;20;5.48;http://www.3presupuestos.com/;0.40;0.91;1.00;23700000;0.99,0.25,0.25,0.50,0.75,0.50,0.25,0.25,0.50,0.50,0.75,0.25
+blog interiorismo;15;14;-1;320;0.16;http://blog.3presupuestos.com/;0.36;0.02;0.25;823000;0.99,0.67,0.81,0.54,0.54,0.44,0.67,0.81,0.67,0.54,0.67,0.81
+presupuesto gratis;5;5;0;30;1.34;http://www.3presupuestos.com/;0.33;0.18;0.55;11800000;0.33,0.33,0.33,0.22,0.22,0.11,0.33,0.22,0.99,0.33,0.22,0.22
+presupuesto reforma madrid;4;4;0;20;4.08;http://www.3presupuestos.com/madrid;0.31;0.52;0.84;11200000;0.11,0.11,0.11,0.22,0.22,0.22,0.22,0.11,0.33,0.22,0.33,0.99
+presupuesto para reforma;4;4;0;20;1.94;http://www.3presupuestos.com/;0.31;0.25;0.91;40000000;0.75,0.50,0.99,0.75,0.50,0.50,0.25,0.25,0.75,0.25,0.50,0.50
+pedir presupuesto online;4;4;0;20;1.20;http://www.3presupuestos.com/pedir-presupuestos;0.31;0.15;0.56;529000;0.33,0.99,0.99,0.33,0.99,0.33,0.33,0.33,0.33,0.67,0.99,0.67
+presupuestos de instalaciones electricas;2;2;0;10;1.43;http://www.3presupuestos.com/instalaciones-electricas;0.29;0.17;0.62;759000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99
+presupuesto instalacion electrica;14;16;2;140;2.04;http://www.3presupuestos.com/instalaciones-electricas;0.22;0.18;0.47;279000;0.99,0.43,0.67,0.67,0.81,0.33,0.43,0.67,0.43,0.52,0.81,0.81
+mobiliario pub;10;0;0;30;0.41;http://www.3presupuestos.com/reformas-en-las-palmas/4429-mobiliario-pub-en-las-palmas-de-gran-canaria;0.20;0.03;0.67;499000;0.60,0.40,0.80,0.60,0.40,0.40,0.60,0.80,0.80,0.40,0.99,0.99
+piscinas waterair;14;16;2;110;0.30;http://www.3presupuestos.com/piscinas/6176-reparar-piscina-waterair-y-cambiar-liner;0.17;0.02;0.88;12000;0.43,0.81,0.81,0.99,0.67,0.67,0.43,0.33,0.24,0.19,0.19,0.19
+presupuestos y reformas;4;3;-1;10;4.45;http://www.3presupuestos.com/;0.15;0.28;0.99;12500000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99
+presupuestos profesionales;9;0;0;20;2.44;http://www.3presupuestos.com/;0.13;0.13;0.59;26200000;0.33,0.33,0.67,0.33,0.33,0.33,0.67,0.67,0.67,0.33,0.33,0.99
+reforma online;5;6;1;10;2.17;http://www.3presupuestos.com/;0.11;0.10;0.59;26600000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+reformas presupuesto;6;7;1;10;6.01;http://www.3presupuestos.com/;0.11;0.27;0.96;23400000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.99
+presupuestos obras y reformas;13;0;0;50;4.07;http://www.3presupuestos.com/;0.10;0.16;0.89;565000;0.36,0.99,0.27,0.09,0.36,0.36,0.45,0.45,0.45,0.45,0.36,0.64
+presupuesto para construir una casa;13;13;0;50;1.18;http://www.3presupuestos.com/construir-casa;0.10;0.04;0.86;10700000;0.78,0.99,0.78,0.44,0.56,0.56,0.56,0.56,0.44,0.44,0.33,0.44
+colocar tela asfaltica;20;20;0;140;0.00;http://www.3presupuestos.com/cubiertas/5511-levantar-tejado-colocar-tela-asfaltica-y-volver-a-colocar-la-teja;0.09;0.00;0.11;25000;0.52,0.52,0.67,0.67,0.81,0.81,0.99,0.81,0.67,0.67,0.52,0.52
+presupuesto vivienda unifamiliar;16;17;1;70;1.46;http://www.3presupuestos.com/construccion/1479-construccion-vivienda-unifamiliar-con-proyecto;0.07;0.04;0.49;344000;0.64,0.45,0.64,0.82,0.36,0.36,0.99,0.82,0.64,0.45,0.64,0.64
+presupuestos obras online;9;9;0;10;1.96;http://www.3presupuestos.com/;0.06;0.05;0.99;603000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.00,0.50,0.50
+alfombras pasillo ikea;19;0;0;90;0.25;http://blog.3presupuestos.com/pasillocorridor/;0.06;0.00;0.73;29000;0.41,0.41,0.28,0.41,0.28,0.53,0.53,0.65,0.65,0.53,0.99,0.99
+arreglar parquet;18;0;0;90;1.30;http://www.3presupuestos.com/humedades/4790-arreglar-humedad-en-pared-y-parquet;0.06;0.03;0.63;142000;0.64,0.82,0.99,0.64,0.82,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto construir casa;18;17;-1;70;0.80;http://www.3presupuestos.com/construir-casa;0.04;0.01;0.83;11100000;0.99,0.78,0.78,0.56,0.33,0.56,0.99,0.44,0.99,0.44,0.78,0.78
+presupuestos fontaneria;14;14;0;30;1.11;http://www.3presupuestos.com/fontaneria;0.04;0.02;0.79;482000;0.60,0.40,0.40,0.40,0.40,0.20,0.80,0.80,0.60,0.40,0.99,0.40
+precios reformas;17;18;1;50;2.88;http://www.3presupuestos.com/;0.04;0.05;0.93;19800000;0.71,0.71,0.43,0.56,0.56,0.99,0.56,0.56,0.71,0.43,0.99,0.99
+reformar cocina pequeña;17;13;-4;50;2.00;http://blog.3presupuestos.com/category/reformar-cocina-pequena/;0.04;0.03;0.68;370000;0.44,0.56,0.22,0.33,0.22,0.56,0.56,0.44,0.78,0.78,0.99,0.99
+presupuestos baños;13;14;1;20;2.31;http://www.3presupuestos.com/reformar-bano;0.04;0.03;0.82;705000;0.50,0.50,0.50,0.25,0.50,0.25,0.50,0.50,0.50,0.50,0.99,0.75
+reformas en jaen;13;0;0;20;1.51;http://www.3presupuestos.com/jaen;0.04;0.02;0.66;619000;0.25,0.25,0.50,0.25,0.25,0.25,0.75,0.50,0.99,0.25,0.99,0.99
+presupuesto tejado;15;16;1;30;2.08;http://www.3presupuestos.com/cubiertas;0.03;0.02;0.53;416000;0.50,0.75,0.50,0.50,0.75,0.75,0.75,0.50,0.99,0.99,0.50,0.50
+presupuesto de instalacion electrica;15;17;2;30;1.68;http://www.3presupuestos.com/instalaciones-electricas;0.03;0.02;0.75;279000;0.99,0.99,0.99,0.99,0.99,0.67,0.33,0.99,0.67,0.99,0.67,0.67
+presupuesto reformar baño;16;0;0;30;1.48;http://www.3presupuestos.com/reformar-bano;0.03;0.02;0.86;391000;0.40,0.40,0.40,0.60,0.80,0.60,0.99,0.80,0.60,0.40,0.80,0.60
+embaldosar suelo;16;16;0;30;0.53;http://www.3presupuestos.com/embaldosar-alicatar;0.03;0.00;0.22;44000;0.80,0.20,0.40,0.40,0.40,0.60,0.80,0.80,0.99,0.40,0.99,0.99
+armario empotrado pladur;18;15;-3;50;1.39;http://www.3presupuestos.com/albanileria/6979-creaci%C3%B3n-pared-pladur,-derribo-armarios-empotrados-y-creaci%C3%B3n-de-vestidor;0.03;0.01;0.19;64000;0.36,0.21,0.28,0.21,0.36,0.36,0.28,0.28,0.36,0.50,0.64,0.99
+reforma piso antiguo;18;19;1;40;1.83;http://www.3presupuestos.com/sevilla/877-reforma-piso-antiguo-en-sevilla;0.02;0.02;0.49;1090000;0.43,0.43,0.28,0.14,0.56,0.28,0.56,0.56,0.56,0.56,0.99,0.99
+barra de bar en casa;19;0;0;40;0.00;http://blog.3presupuestos.com/como-integrar-una-barra-de-bar-en-el-hogar/;0.02;0.00;0.13;24200000;0.60,0.60,0.80,0.60,0.40,0.80,0.99,0.80,0.99,0.80,0.99,0.60
+presupuestos piscinas;17;0;0;30;1.51;http://www.3presupuestos.com/piscinas;0.02;0.01;0.92;707000;0.40,0.60,0.80,0.80,0.99,0.99,0.40,0.40,0.20,0.40,0.60,0.80
+presupuestos de piscinas;17;14;-3;30;1.68;http://www.3presupuestos.com/piscinas;0.02;0.01;0.92;708000;0.80,0.60,0.80,0.99,0.80,0.99,0.60,0.40,0.20,0.20,0.40,0.40
+presupuestos de obras y reformas;17;13;-4;30;0.00;http://www.3presupuestos.com/;0.02;0.00;0.83;12100000;0.99,0.43,0.56,0.43,0.14,0.14,0.28,0.71,0.56,0.43,0.28,0.14
+presupuestos reformas baños;17;0;0;30;2.44;http://www.3presupuestos.com/reformar-bano;0.02;0.02;0.83;498000;0.28,0.28,0.28,0.14,0.28,0.14,0.14,0.99,0.56,0.56,0.71,0.71
+presupuestos cocinas online;16;17;1;20;1.09;http://www.3presupuestos.com/reformar-cocina;0.02;0.01;0.88;501000;0.67,0.33,0.67,0.33,0.33,0.33,0.99,0.33,0.33,0.67,0.99,0.67
+presupuestos de fontaneria;16;16;0;20;1.12;http://www.3presupuestos.com/fontaneria;0.02;0.01;0.83;468000;0.99,0.99,0.67,0.33,0.33,0.67,0.67,0.33,0.99,0.67,0.99,0.99
+presupuestos de baños;15;17;2;20;1.69;http://www.3presupuestos.com/reformar-bano;0.02;0.01;0.85;657000;0.33,0.67,0.33,0.33,0.67,0.33,0.67,0.99,0.67,0.67,0.99,0.67
+chimeneas exentas;16;12;-4;20;0.09;http://blog.3presupuestos.com/chimeneasfireplace/;0.02;0.00;0.49;95000;0.50,0.50,0.25,0.25,0.75,0.25,0.25,0.50,0.99,0.50,0.75,0.50
+construir casas online;15;14;-1;20;0.02;http://www.3presupuestos.com/construir-casa;0.02;0.00;0.37;667000;0.50,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.50,0.99,0.50
+humedad en cadiz;20;0;0;30;2.31;http://www.3presupuestos.com/cadiz/4865-filtracion-humedad-en-cadiz;0.02;0.01;0.32;288000;0.60,0.60,0.20,0.60,0.60,0.80,0.80,0.99,0.60,0.99,0.80,0.40
+como hacer presupuestos de reformas;18;20;2;30;0.92;http://www.3presupuestos.com/;0.02;0.00;0.87;38500000;0.56,0.43,0.43,0.14,0.14,0.14,0.28,0.14,0.14,0.14,0.56,0.99
+reforma on line;13;14;1;10;0.00;http://www.3presupuestos.com/;0.02;0.00;0.32;38200000;0.00,0.99,0.00,0.00,0.99,0.00,0.99,0.00,0.99,0.99,0.00,0.99
+presupuestos de reformas integrales;17;0;0;20;2.21;http://www.3presupuestos.com/reformas-integrales;0.01;0.01;1.00;505000;0.25,0.25,0.50,0.25,0.25,0.25,0.25,0.99,0.99,0.50,0.50,0.25
+reformas decoracion;17;17;0;20;1.76;http://blog.3presupuestos.com/;0.01;0.01;0.87;707000;0.99,0.50,0.75,0.25,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.25
+presupuesto reformas barcelona;19;20;1;20;8.69;http://www.3presupuestos.com/;0.01;0.04;0.94;590000;0.75,0.75,0.50,0.99,0.75,0.50,0.50,0.50,0.25,0.25,0.25,0.25
+reformas integrales girona;18;0;0;20;2.86;http://www.3presupuestos.com/girona/1052-reformas-integrales-en-girona;0.01;0.01;0.93;227000;0.25,0.99,0.25,0.25,0.50,0.25,0.25,0.50,0.50,0.25,0.25,0.75
+reparar liner piscina;20;19;-1;20;0.00;http://www.3presupuestos.com/piscinas/6176-reparar-piscina-waterair-y-cambiar-liner;0.01;0.00;0.80;13000;0.28,0.28,0.56,0.99,0.71,0.14,0.28,0.14,0.14,0.14,0.14,0.14
+presupuestos de casas;19;0;0;20;0.56;http://www.3presupuestos.com/construir-casa;0.01;0.00;0.72;9200000;0.67,0.67,0.67,0.33,0.67,0.67,0.67,0.99,0.67,0.67,0.99,0.67
+instalacion electrica presupuesto;16;12;-4;10;0.00;http://www.3presupuestos.com/instalaciones-electricas;0.01;0.00;0.20;280000;0.67,0.33,0.33,0.67,0.33,0.33,0.33,0.99,0.67,0.33,0.33,0.33
+como presupuestar una instalacion electrica;16;0;0;10;0.00;http://www.3presupuestos.com/instalaciones-electricas;0.01;0.00;0.18;700000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99
+construir una casa online;16;15;-1;10;0.65;http://www.3presupuestos.com/construir-casa;0.01;0.00;0.37;12200000;0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.50,0.50,0.50,0.50,0.50
+piscinas presupuestos;16;13;-3;10;1.02;http://www.3presupuestos.com/piscinas;0.01;0.00;0.89;694000;0.99,0.50,0.50,0.50,0.99,0.99,0.50,0.50,0.00,0.50,0.50,0.50
+presupuestos de;17;0;0;10;0.00;http://www.3presupuestos.com/;0.00;0.00;0.32;38900000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+tejas de tela asfaltica;17;18;1;10;0.02;http://www.3presupuestos.com/cubiertas/5511-levantar-tejado-colocar-tela-asfaltica-y-volver-a-colocar-la-teja;0.00;0.00;0.50;101000;0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50
+presupuesto de construccion de vivienda;20;0;0;10;1.27;http://www.3presupuestos.com/construccion/1479-construccion-vivienda-unifamiliar-con-proyecto;0.00;0.00;0.61;627000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.00,0.50,0.50,0.50
+pintar casa online;20;0;0;10;0.00;http://www.3presupuestos.com/malaga/6061-pintar-casa-en-malaga;0.00;0.00;0.27;33400000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto de reforma baño;18;19;1;10;0.00;http://www.3presupuestos.com/reformar-bano;0.00;0.00;0.00;500000;0.99,0.75,0.50,0.25,0.25,0.25,0.00,0.25,0.25,0.25,0.00,0.00

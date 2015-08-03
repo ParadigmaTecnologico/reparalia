@@ -1,0 +1,34 @@
+Keyword;Position;Previous Position;Position Difference;Search Volume;CPC;Url;Traffic (%);Traffic Cost (%);Competition;Number of Results;Trends
+electricista;6;7;1;2400;3.19;http://www.electricistabarato.es/;51.06;45.78;0.77;12400000;0.53,0.44,0.53,0.53,0.53,0.44,0.99,0.81,0.67,0.67,0.81,0.67
+electricistas;3;2;-1;880;4.38;http://www.electricistabarato.es/;33.70;41.49;0.81;1550000;0.88,0.88,0.88,0.88,0.72,0.59,0.88,0.88,0.99,0.99,0.99,0.88
+electricista barato;1;1;0;50;4.09;http://www.electricistabarato.es/;10.00;11.49;0.77;850000;0.78,0.78,0.99,0.44,0.44,0.56,0.33,0.33,0.78,0.99,0.78,0.78
+trans bilbao;7;5;-2;320;0.35;http://www.electricistabarato.es/electro-trans-bilbao/;5.44;0.53;0.16;532000;0.44,0.67,0.67,0.99,0.99,0.82,0.82,0.82,0.82,0.82,0.67,0.54
+electricistas baratos;3;4;1;90;5.52;http://www.electricistabarato.es/;3.44;5.34;0.95;719000;0.19,0.19,0.19,0.10,0.43,0.43,0.33,0.52,0.67,0.67,0.99,0.52
+precio hora electricista;4;4;0;90;1.82;http://www.electricistabarato.es/precio-para-reparar-una-averia-electrica/;2.68;1.37;0.65;390000;0.50,0.50,0.64,0.64,0.79,0.99,0.99,0.64,0.50,0.36,0.64,0.79
+electricistas malaga;11;10;-1;90;6.05;http://www.electricistabarato.es/electricistas/malaga/;1.80;3.06;0.90;398000;0.33,0.33,0.81,0.99,0.33,0.14,0.33,0.43,0.33,0.24,0.24,0.24
+electricistas lleida;3;3;0;30;0.76;http://www.electricistabarato.es/electricistas/lleida/;1.14;0.24;0.81;392000;0.99,0.78,0.44,0.33,0.22,0.22,0.22,0.11,0.22,0.22,0.22,0.22
+montajes ortiz;9;0;0;50;0.00;http://www.electricistabarato.es/montajes-ortiz-fuenlabrada/;0.63;0.00;0.00;373000;0.56,0.44,0.44,0.44,0.56,0.33,0.56,0.99,0.44,0.44,0.44,0.56
+electricista lleida;4;4;0;20;0.75;http://www.electricistabarato.es/electricistas/lleida/;0.59;0.12;0.78;378000;0.75,0.25,0.50,0.25,0.25,0.25,0.75,0.50,0.75,0.25,0.75,0.99
+instalaciones electricas segura;8;7;-1;40;0.00;http://www.electricistabarato.es/instalaciones-electricas-segura-vicar/;0.51;0.00;0.10;512000;0.80,0.80,0.99,0.60,0.80,0.40,0.80,0.60,0.80,0.60,0.80,0.99
+elecnor bilbao;14;15;1;170;0.00;http://www.electricistabarato.es/elecnor-bilbao/;0.50;0.00;0.00;59000;0.99,0.82,0.82,0.99,0.99,0.65,0.82,0.99,0.99,0.82,0.99,0.99
+domotica bilbao;5;5;0;20;0.42;http://www.electricistabarato.es/domotica-bilbao/;0.42;0.05;0.82;53000;0.33,0.33,0.67,0.33,0.67,0.33,0.99,0.99,0.99,0.99,0.67,0.99
+tudela solar;12;10;-2;70;0.00;http://www.electricistabarato.es/tudela-solar-sl-tudela/;0.38;0.00;0.02;366000;0.64,0.64,0.64,0.64,0.64,0.45,0.64,0.82,0.99,0.64,0.99,0.64
+elecnor valencia;16;0;0;170;1.21;http://www.electricistabarato.es/elecnor-valencia/;0.36;0.12;0.02;107000;0.81,0.67,0.81,0.81,0.81,0.81,0.99,0.99,0.99,0.81,0.81,0.99
+eiffage energia s.l.u;14;0;0;70;0.00;http://www.electricistabarato.es/eiffage-energia-slu-lorqui/;0.20;0.00;0.00;7000;0.78,0.99,0.78,0.56,0.78,0.56,0.78,0.78,0.78,0.56,0.44,0.56
+elecnor valladolid;19;0;0;140;0.00;http://www.electricistabarato.es/elecnor-valladolid/;0.17;0.00;0.01;45000;0.82,0.65,0.99,0.82,0.82,0.53,0.65,0.99,0.82,0.53,0.99,0.65
+eiffage energia s.l.u;15;0;0;70;0.00;http://www.electricistabarato.es/eiffage-energia-slu-albacete/;0.14;0.00;0.00;7000;0.78,0.99,0.78,0.56,0.78,0.56,0.78,0.78,0.78,0.56,0.44,0.56
+eiffage energia s.l.u;16;0;0;70;0.00;http://www.electricistabarato.es/eiffage-energia-slu-alcala-de-henares/;0.14;0.00;0.00;7000;0.78,0.99,0.78,0.56,0.78,0.56,0.78,0.78,0.78,0.56,0.44,0.56
+electricistas vitoria;14;18;4;50;0.93;http://www.electricistabarato.es/tag/electricistas-baratos-vitoria-gasteiz/;0.14;0.03;0.54;126000;0.56,0.44,0.56,0.44,0.22,0.33,0.56,0.78,0.44,0.33,0.78,0.99
+instaladores electricos madrid;13;13;0;30;2.88;http://www.electricistabarato.es/asociacion-de-instaladores-electricos-madrid/;0.11;0.09;0.86;95000;0.80,0.60,0.80,0.80,0.60,0.40,0.20,0.80,0.60,0.80,0.40,0.99
+godoy talavera;18;18;0;90;0.00;http://www.electricistabarato.es/instalaciones-electricas-godoy-y-alternativas-sl-talavera-de-la-reina/;0.11;0.00;0.02;321000;0.28,0.14,0.28,0.50,0.64,0.64,0.79,0.79,0.99,0.79,0.64,0.36
+ferreteria hernandez;18;20;2;90;0.00;http://www.electricistabarato.es/electricidad-y-ferreteria-hernandez-sl-arnedo/;0.11;0.00;0.01;392000;0.41,0.41,0.53,0.41,0.65,0.53,0.65,0.99,0.53,0.53,0.65,0.82
+electricistas almeria;13;12;-1;30;2.54;http://www.electricistabarato.es/electricistas/almeria/;0.11;0.08;0.86;279000;0.60,0.40,0.99,0.60,0.60,0.99,0.60,0.40,0.40,0.80,0.40,0.60
+eiffage energia albacete;13;14;1;30;0.00;http://www.electricistabarato.es/eiffage-energia-slu-albacete/;0.11;0.00;0.01;6000;0.43,0.43,0.28,0.56,0.43,0.28,0.56,0.28,0.28,0.28,0.99,0.71
+elecnor cantabria;14;19;5;30;0.00;http://www.electricistabarato.es/elecnor-santander/;0.08;0.00;0.02;28000;0.99,0.40,0.40,0.40,0.60,0.40,0.60,0.60,0.40,0.20,0.40,0.40
+cofely españa sa;19;19;0;40;0.00;http://www.electricistabarato.es/cofely-espana-sa-figueruelas/;0.05;0.00;0.00;16000;0.33,0.44,0.33,0.33,0.33,0.33,0.44,0.99,0.78,0.44,0.44,0.33
+eiffage valencia;15;16;1;20;0.00;http://www.electricistabarato.es/eiffage-infraestructuras-sa-valencia/;0.04;0.00;0.00;38000;0.99,0.75,0.50,0.75,0.50,0.25,0.75,0.25,0.25,0.25,0.25,0.25
+cb algemesi;16;16;0;20;0.00;http://www.electricistabarato.es/gomez-bueno-cb-algemesi/;0.04;0.00;0.00;136000;0.99,0.67,0.67,0.67,0.33,0.33,0.67,0.99,0.67,0.33,0.67,0.67
+suministros electricos malaga;18;17;-1;30;0.00;http://www.electricistabarato.es/suministros-electricos-tegmasur-sl-malaga/;0.03;0.00;0.19;29000;0.80,0.40,0.60,0.60,0.80,0.80,0.40,0.60,0.99,0.60,0.40,0.60
+iberdrola gandia telefono;15;0;0;10;0.00;http://www.electricistabarato.es/proyse-energy-punto-iberdrola-gandia/;0.02;0.00;0.07;6000;0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+eifagge energia;17;0;0;10;0.18;http://www.electricistabarato.es/eiffage-energia-slu-lorqui/;0.01;0.00;0.18;0;0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99
+galp butano;18;0;0;10;0.00;http://www.electricistabarato.es/butano-galp-gas-ponferrada/;0.01;0.00;0.01;35000;0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.99,0.99,0.99,0.99,0.50

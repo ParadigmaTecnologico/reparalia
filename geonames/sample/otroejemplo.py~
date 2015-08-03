@@ -1,0 +1,10 @@
+import xlrd
+import re
+
+#Sacamos lista con comunidades del fichero de geonames
+
+list_geoname = li = ["Albacete", "Alicante", 
+"Almeria", "z", "example"]
+for comunidad in list_geoname:
+    print comunidad
+   

@@ -1,0 +1,444 @@
+Keyword;Position;Previous Position;Position Difference;Search Volume;CPC;Url;Traffic (%);Traffic Cost (%);Competition;Number of Results;Trends
+reparalia;1;1;0;40500;0.07;http://www.reparalia.es/;68.47;14.37;0.00;206000;0.99,0.82,0.82,0.82,0.82,0.82,0.99,0.99,0.82,0.82,0.82,0.82
+reparalia profesionales;1;1;0;5400;0.00;http://www.clientes.reparalia.es/cgi-bin/fccgi.exe?w3exec=PROF_PASS;9.13;0.00;0.00;122000;0.54,0.44,0.36,0.54,0.67,0.44,0.54,0.54,0.99,0.99,0.99,0.67
+reparalia direct;1;1;0;1900;0.02;http://www.reparalia.es/;3.21;0.19;0.04;10000;0.99,0.79,0.79,0.79,0.99,0.67,0.79,0.99,0.99,0.67,0.79,0.67
+reparalia profesionales;2;2;0;5400;0.00;https://www.clientes.reparalia.es/cgi-bin/fccgi.exe?w3exec=lista_servicios_total;2.52;0.00;0.00;122000;0.54,0.44,0.36,0.54,0.67,0.44,0.54,0.54,0.99,0.99,0.99,0.67
+fontaneros;1;1;0;1300;5.49;http://www.reparalia.es/fontaneros;2.19;36.19;0.85;922000;0.62,0.55,0.62,0.55,0.62,0.81,0.81,0.81,0.99,0.99,0.81,0.62
+reparalia profesionales;3;3;0;5400;0.00;http://www.reparalia.es/;1.74;0.00;0.00;122000;0.54,0.44,0.36,0.54,0.67,0.44,0.54,0.54,0.99,0.99,0.99,0.67
+tacos para pladur;1;1;0;880;0.18;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;1.48;0.80;0.10;105000;0.77,0.77,0.68,0.68,0.68,0.68,0.68,0.68,0.99,0.68,0.77,0.77
+reparalia profesionales;4;4;0;5400;0.00;http://www.reparalia.es/conocenos/;1.35;0.00;0.00;122000;0.54,0.44,0.36,0.54,0.67,0.44,0.54,0.54,0.99,0.99,0.99,0.67
+fontanero;2;2;0;2400;3.61;http://www.reparalia.es/fontaneros;1.12;12.15;0.73;1270000;0.83,0.83,0.83,0.99,0.99,0.66,0.83,0.99,0.99,0.99,0.99,0.99
+chalk paint;10;11;1;9900;0.15;http://www.reparalia.es/blog/2014/10/23/los-6-motivos-por-los-que-la-chalk-paint-es-la-pintura-de-moda/;1.06;0.48;0.25;6150000;0.67,0.67,0.82,0.82,0.82,0.82,0.99,0.99,0.99,0.67,0.99,0.99
+tacos pladur;1;1;0;480;0.28;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.81;0.68;0.10;81000;0.66,0.54,0.54,0.54,0.54,0.81,0.81,0.81,0.81,0.81,0.99,0.81
+reformar cocina sin obras;1;1;0;260;1.37;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.43;1.80;0.64;81000;0.99,0.81,0.66,0.24,0.19,0.44,0.81,0.66,0.24,0.12,0.19,0.19
+electricista;5;3;-2;2400;3.19;http://www.reparalia.es/electricistas;0.43;4.13;0.77;12400000;0.53,0.44,0.53,0.53,0.53,0.44,0.99,0.81,0.67,0.67,0.81,0.67
+electricistas;2;3;1;880;4.38;http://www.reparalia.es/electricistas;0.41;5.40;0.81;1550000;0.88,0.88,0.88,0.88,0.72,0.59,0.88,0.88,0.99,0.99,0.99,0.88
+boletin electrico;2;2;0;720;4.19;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.33;4.23;0.82;1570000;0.67,0.55,0.99,0.82,0.99,0.44,0.82,0.82,0.82,0.82,0.82,0.82
+desatascador;3;3;0;1000;0.66;http://www.reparalia.es/blog/2014/04/01/como-usar-el-desatascador-y-evitar-atascos-en-tuberias/;0.32;0.64;0.61;195000;0.68,0.68,0.68,0.68,0.68,0.68,0.77,0.77,0.77,0.77,0.99,0.99
+boletin instalacion electrica;1;1;0;170;3.52;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.28;3.03;0.53;71000;0.81,0.67,0.81,0.81,0.81,0.67,0.81,0.99,0.99,0.99,0.99,0.99
+reparalia direct s.l;1;1;0;170;0.02;http://www.reparalia.es/;0.28;0.01;0.03;7000;0.99,0.23,0.19,0.44,0.67,0.54,0.67,0.19,0.19,0.15,0.15,0.15
+reformar cocina sin obra;1;1;0;170;1.62;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.28;1.39;0.59;317000;0.06,0.06,0.06,0.28,0.28,0.19,0.19,0.28,0.44,0.44,0.99,0.81
+tacos de pladur;1;1;0;140;0.32;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.23;0.22;0.11;104000;0.65,0.65,0.65,0.82,0.65,0.82,0.82,0.82,0.82,0.99,0.99,0.99
+reparalia endesa;3;1;-2;720;0.49;http://www.reparalia.es/;0.23;0.34;0.03;3000;0.72,0.59,0.72,0.59,0.88,0.59,0.59,0.48,0.72,0.99,0.99,0.99
+reparaciones hogar;1;2;1;110;1.22;http://www.reparalia.es/;0.18;0.68;0.86;1100000;0.79,0.64,0.64,0.79,0.64,0.36,0.99,0.50,0.79,0.79,0.79,0.79
+reparaciones del hogar;2;3;1;390;1.07;http://www.reparalia.es/;0.18;0.58;0.60;1090000;0.36,0.36,0.36,0.30,0.24,0.30,0.24,0.30,0.36,0.99,0.99,0.55
+taco para pladur;1;1;0;70;0.11;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.11;0.03;0.15;101000;0.45,0.45,0.64,0.99,0.45,0.45,0.64,0.64,0.82,0.82,0.64,0.82
+reforma cocina sin obras;1;1;0;70;1.50;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.11;0.53;0.69;240000;0.21,0.21,0.14,0.21,0.36,0.36,0.21,0.79,0.79,0.79,0.99,0.50
+colgar tv en pladur;1;1;0;70;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.11;0.00;0.03;19000;0.18,0.27,0.45,0.64,0.82,0.64,0.45,0.64,0.99,0.99,0.64,0.18
+endesa atencion al cliente;18;18;0;9900;0.09;http://www.reparalia.es/conocenos/atencion-al-cliente;0.10;0.02;0.13;62000;0.30,0.82,0.20,0.07,0.30,0.99,0.55,0.09,0.13,0.16,0.45,0.67
+reparaciones;5;5;0;590;1.05;http://www.reparalia.es/;0.10;0.33;0.21;34100000;0.59,0.59,0.48,0.48,0.48,0.48,0.48,0.59,0.99,0.72,0.72,0.72
+certificado instalacion electrica;2;2;0;210;3.33;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.09;0.98;0.54;812000;0.44,0.28,0.44,0.44,0.44,0.54,0.67,0.82,0.67,0.67,0.67,0.99
+certificado de instalacion electrica;3;3;0;260;3.69;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.08;0.93;0.52;201000;0.53,0.53,0.53,0.66,0.66,0.53,0.81,0.99,0.99,0.81,0.99,0.99
+pared de pladur;4;4;0;320;0.01;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.08;0.00;0.12;480000;0.82,0.54,0.54,0.54,0.67,0.67,0.82,0.82,0.99,0.82,0.99,0.99
+taco pladur;2;2;0;170;0.08;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.07;0.01;0.07;50000;0.65,0.54,0.65,0.65,0.65,0.65,0.81,0.65,0.99,0.65,0.81,0.81
+reformar cocina;10;12;2;720;1.77;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.07;0.41;0.84;12800000;0.72,0.59,0.59,0.48,0.48,0.59,0.59,0.59,0.72,0.72,0.99,0.99
+colgar en pladur;1;1;0;40;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.06;0.00;0.03;75000;0.71,0.56,0.43,0.28,0.43,0.43,0.56,0.99,0.71,0.71,0.71,0.99
+reparalia direct s.l telefono;1;1;0;40;0.02;http://www.reparalia.es/;0.06;0.00;0.10;0;0.99,0.99,0.71,0.43,0.71,0.56,0.43,0.56,0.43,0.43,0.28,0.28
+telefono de reparalia;1;1;0;40;0.30;http://www.reparalia.es/;0.06;0.06;0.17;63000;0.99,0.60,0.60,0.80,0.80,0.40,0.80,0.60,0.80,0.60,0.80,0.99
+reforma cocina;9;0;0;590;1.91;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.06;0.36;0.79;18800000;0.55,0.55,0.55,0.44,0.55,0.55,0.55,0.55,0.67,0.55,0.82,0.99
+grifo monomando;11;12;1;320;0.51;http://www.reparalia.es/blog/2014/11/21/como-cambiar-un-grifo-monomando/;0.05;0.08;0.71;328000;0.54,0.44,0.54,0.44,0.44,0.54,0.54,0.54,0.67,0.67,0.99,0.81
+desatascar fregadero;13;13;0;1600;2.00;http://www.reparalia.es/blog/2014/04/01/como-usar-el-desatascador-y-evitar-atascos-en-tuberias/;0.05;0.31;0.65;56000;0.16,0.16,0.44,0.53,0.44,0.20,0.28,0.67,0.81,0.99,0.53,0.24
+boletin de instalacion electrica;2;2;0;110;5.04;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.05;0.77;0.70;67000;0.43,0.24,0.67,0.67,0.67,0.43,0.43,0.99,0.67,0.33,0.33,0.33
+reforma de cocina sin obras;1;1;0;30;2.22;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.05;0.33;0.70;303000;0.80,0.80,0.20,0.20,0.20,0.20,0.40,0.60,0.40,0.40,0.80,0.99
+tipos de persianas;5;7;2;260;1.31;http://www.reparalia.es/blog/2014/11/27/9-tipos-de-persianas-para-decorar-tu-hogar/;0.04;0.18;0.42;728000;0.81,0.81,0.81,0.81,0.81,0.81,0.99,0.81,0.81,0.66,0.81,0.81
+endesa atencion cliente;14;13;-1;1600;0.51;http://www.reparalia.es/conocenos/atencion-al-cliente;0.04;0.06;0.07;62000;0.66,0.34,0.66,0.83,0.55,0.20,0.99,0.99,0.30,0.20,0.55,0.45
+reparalia direct endesa;3;3;0;110;0.12;http://www.reparalia.es/conocenos/atencion-al-cliente;0.03;0.01;0.08;0;0.19,0.65,0.27,0.08,0.08,0.08,0.54,0.42,0.65,0.99,0.65,0.54
+colgar tv en pared de pladur;1;1;0;20;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.03;0.00;0.13;12000;0.40,0.40,0.60,0.20,0.40,0.40,0.80,0.40,0.40,0.20,0.60,0.99
+reparalia franquicia;3;6;3;90;0.36;http://www.reparalia.es/;0.02;0.03;0.77;1000;0.36,0.99,0.99,0.50,0.79,0.64,0.99,0.79,0.64,0.28,0.36,0.36
+reparalia direct endesa;4;2;-2;110;0.12;http://www.reparalia.es/;0.02;0.00;0.08;0;0.19,0.65,0.27,0.08,0.08,0.08,0.54,0.42,0.65,0.99,0.65,0.54
+atencion al cliente endesa;19;0;0;2400;0.13;http://www.reparalia.es/conocenos/atencion-al-cliente;0.02;0.01;0.13;61000;0.81,0.67,0.53,0.67,0.67,0.53,0.67,0.81,0.81,0.81,0.99,0.99
+como reformar una cocina;6;6;0;140;1.07;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.02;0.08;0.68;13000000;0.53,0.65,0.53,0.65,0.65,0.82,0.65,0.82,0.99,0.65,0.99,0.99
+reforma de cocina;7;9;2;170;3.03;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.02;0.22;0.81;17900000;0.81,0.67,0.67,0.67,0.67,0.81,0.81,0.67,0.67,0.67,0.99,0.99
+boletin de instalaciones electricas;2;3;1;50;5.87;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.02;0.41;0.66;581000;0.99,0.99,0.56,0.44,0.33,0.33,0.33,0.33,0.33,0.33,0.78,0.44
+cocinas de obra;13;18;5;720;0.24;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.02;0.01;0.31;924000;0.82,0.67,0.67,0.55,0.67,0.67,0.82,0.67,0.82,0.67,0.99,0.82
+reparar electrodomesticos;7;0;0;140;2.31;http://www.reparalia.es/electrodomesticos;0.02;0.13;0.70;428000;0.99,0.52,0.43,0.43,0.43,0.33,0.67,0.52,0.67,0.67,0.81,0.67
+reparar tarima flotante;5;10;5;110;1.68;http://www.reparalia.es/blog/2014/12/05/como-reparar-una-tarima-flotante-que-hace-ruido-al-pisar/;0.01;0.09;0.41;46000;0.64,0.64,0.79,0.64,0.50,0.79,0.64,0.79,0.79,0.50,0.99,0.79
+reparaciones de hogar;2;2;0;40;0.32;http://www.reparalia.es/;0.01;0.01;0.51;1090000;0.60,0.80,0.99,0.60,0.40,0.40,0.60,0.60,0.99,0.99,0.40,0.80
+reparalia direct s.l telefono;2;2;0;40;0.02;http://www.reparalia.es/conocenos/atencion-al-cliente;0.01;0.00;0.10;0;0.99,0.99,0.71,0.43,0.71,0.56,0.43,0.56,0.43,0.43,0.28,0.28
+boletín eléctrico;2;2;0;40;2.92;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.01;0.16;0.72;2280000;0.60,0.60,0.40,0.60,0.60,0.99,0.99,0.80,0.80,0.80,0.80,0.60
+telefono de reparalia;2;2;0;40;0.30;http://www.reparalia.es/conocenos/atencion-al-cliente;0.01;0.01;0.17;63000;0.99,0.60,0.60,0.80,0.80,0.40,0.80,0.60,0.80,0.60,0.80,0.99
+certificado de instalaciones electricas;2;2;0;40;0.69;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.01;0.03;0.51;846000;0.43,0.28,0.56,0.28,0.56,0.43,0.71,0.99,0.71,0.56,0.56,0.56
+caritas valencia;16;16;0;1000;0.65;http://www.reparalia.es/blog/2015/01/27/una-reforma-solidaria-el-centro-manantial-de-caritas-valencia/;0.01;0.03;0.19;539000;0.77,0.68,0.77,0.68,0.68,0.45,0.77,0.99,0.99,0.99,0.77,0.77
+reparacion mamparas de baño;1;0;0;10;0.51;https://www.reparalia.es/fontaneros/reparar_mampara_de_bano;0.01;0.02;0.80;324000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.99
+reparalia sl;1;0;0;10;0.00;http://www.reparalia.es/;0.01;0.00;0.01;102000;0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+espejos pequeños;11;10;-1;90;0.22;http://www.reparalia.es/blog/2015/02/24/5-efectos-especiales-con-espejos-para-agrandar-tus-espacios-pequenos/;0.01;0.01;0.60;1070000;0.28,0.41,0.41,0.28,0.28,0.53,0.65,0.65,0.65,0.65,0.82,0.99
+pared pladur;9;7;-2;140;0.18;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.01;0.00;0.12;356000;0.82,0.82,0.65,0.65,0.65,0.65,0.65,0.82,0.99,0.82,0.99,0.82
+tendencias interiorismo;2;4;2;30;0.26;http://www.reparalia.es/blog/2015/01/21/las-5-tendencias-de-interiorismo-y-decoracion-para-2015/;0.01;0.01;0.39;1010000;0.28,0.14,0.28,0.28,0.28,0.43,0.71,0.56,0.28,0.28,0.99,0.56
+soporte tv pladur;3;3;0;40;0.61;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.01;0.02;0.42;28000;0.56,0.43,0.56,0.28,0.28,0.43,0.99,0.71,0.56,0.56,0.71,0.56
+atencion cliente endesa;17;18;1;880;0.20;http://www.reparalia.es/conocenos/atencion-al-cliente;0.01;0.00;0.15;62000;0.68,0.55,0.68,0.55,0.68,0.45,0.55,0.68,0.68,0.77,0.77,0.99
+endesa telefono atencion al cliente;17;18;1;880;0.88;http://www.reparalia.es/conocenos/atencion-al-cliente;0.01;0.03;0.18;15000;0.55,0.37,0.99,0.81,0.37,0.30,0.99,0.55,0.37,0.24,0.45,0.62
+fontaneros urgentes madrid;8;9;1;110;13.69;http://www.reparalia.es/fontaneros;0.01;0.48;1.00;356000;0.81,0.99,0.81,0.65,0.42,0.15,0.35,0.42,0.42,0.19,0.19,0.12
+reformar la cocina;10;10;0;110;1.67;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.01;0.05;0.81;12900000;0.79,0.64,0.64,0.64,0.50,0.99,0.99,0.99,0.79,0.64,0.79,0.99
+pintores alicante;11;10;-1;70;0.85;http://www.reparalia.es/pintores/alicante;0.01;0.03;0.72;556000;0.45,0.45,0.45,0.27,0.82,0.36,0.45,0.64,0.82,0.45,0.99,0.99
+cerrajeros huelva;13;8;-5;320;2.85;http://www.reparalia.es/cerrajeros/huelva;0.01;0.08;0.64;480000;0.15,0.15,0.12,0.07,0.67,0.99,0.19,0.36,0.99,0.82,0.82,0.36
+fontaneros burgos;7;6;-1;70;1.66;http://www.reparalia.es/fontaneros/burgos;0.01;0.05;0.55;409000;0.36,0.36,0.45,0.36,0.64,0.36,0.64,0.64,0.99,0.36,0.99,0.64
+parquetista;7;5;-2;70;0.71;http://www.reparalia.es/reparar_parquet;0.01;0.02;0.59;47000;0.99,0.78,0.78,0.56,0.78,0.56,0.56,0.78,0.78,0.56,0.78,0.99
+arreglar cerradura puerta;4;3;-1;40;0.00;http://www.reparalia.es/blog/2014/04/23/problemas-con-la-cerradura-te-ensenamos-6-trucos-para-resolverlos/;0.01;0.00;0.32;163000;0.20,0.20,0.40,0.60,0.80,0.60,0.99,0.99,0.60,0.80,0.99,0.99
+fontanero urgente;7;6;-1;70;5.24;http://www.reparalia.es/fontaneros;0.01;0.15;0.98;371000;0.19,0.19,0.14,0.14,0.19,0.19,0.33,0.33,0.33,0.19,0.24,0.99
+reparaciones en el hogar;4;6;2;40;0.60;http://www.reparalia.es/;0.01;0.01;0.68;1100000;0.56,0.22,0.56,0.44,0.33,0.33,0.22,0.56,0.99,0.33,0.33,0.44
+precio certificado instalacion electrica;3;2;-1;30;0.85;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.00;0.02;0.64;124000;0.75,0.25,0.50,0.50,0.50,0.50,0.50,0.75,0.99,0.75,0.99,0.50
+trabaja con nosotros valencia;20;0;0;880;0.00;http://www.reparalia.es/conocenos/trabaja-en-reparalia;0.00;0.00;0.05;1100000;0.72,0.88,0.88,0.99,0.59,0.32,0.88,0.99,0.99,0.59,0.99,0.72
+certificado instalaciones electricas;2;2;0;20;0.81;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.00;0.02;0.44;781000;0.75,0.25,0.50,0.25,0.25,0.25,0.75,0.99,0.75,0.50,0.75,0.75
+reparalia empleo;2;2;0;20;0.05;http://www.reparalia.es/conocenos/trabaja-en-reparalia;0.00;0.00;0.21;26000;0.99,0.80,0.20,0.20,0.20,0.20,0.40,0.40,0.20,0.20,0.40,0.40
+electricistas tarragona;6;5;-1;50;4.51;http://www.reparalia.es/electricistas/tarragona;0.00;0.12;0.80;474000;0.99,0.99,0.36,0.21,0.28,0.50,0.36,0.36,0.14,0.28,0.28,0.21
+presupuesto pintores;6;6;0;50;2.08;http://www.reparalia.es/pintores;0.00;0.05;0.77;504000;0.28,0.21,0.28,0.50,0.99,0.50,0.14,0.28,0.28,0.36,0.50,0.36
+reformas sin obras;6;4;-2;50;2.22;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.00;0.05;0.81;655000;0.99,0.71,0.71,0.43,0.43,0.71,0.99,0.99,0.71,0.43,0.99,0.99
+albañiles;15;19;4;480;1.84;http://www.reparalia.es/albaniles;0.00;0.04;0.62;983000;0.54,0.54,0.54,0.54,0.54,0.54,0.67,0.67,0.67,0.82,0.67,0.99
+colgar muebles en pladur;11;16;5;50;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.03;51000;0.22,0.33,0.33,0.44,0.99,0.78,0.78,0.78,0.78,0.22,0.56,0.44
+fontaneros en granada;11;0;0;50;2.86;http://www.reparalia.es/fontaneros;0.00;0.07;0.68;475000;0.78,0.99,0.22,0.78,0.56,0.44,0.44,0.56,0.78,0.78,0.99,0.78
+reparar persiana;13;13;0;260;2.97;http://www.reparalia.es/reparar_persianas;0.00;0.07;0.56;255000;0.99,0.81,0.81,0.81,0.99,0.99,0.81,0.81,0.99,0.99,0.99,0.99
+certificado de instalacion;4;3;-1;30;0.03;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.00;0.00;0.20;715000;0.75,0.50,0.50,0.75,0.50,0.25,0.50,0.99,0.75,0.25,0.75,0.75
+tambor persiana;4;3;-1;30;0.50;http://www.reparalia.es/blog/2014/11/14/video-consejo-ahorro-como-aislar-el-tambor-de-tu-persiana-del-frio/;0.00;0.01;0.56;88000;0.50,0.75,0.50,0.75,0.99,0.99,0.50,0.75,0.99,0.75,0.99,0.75
+franquicia reparalia;4;5;1;30;0.33;http://www.reparalia.es/;0.00;0.00;0.71;1000;0.60,0.80,0.80,0.40,0.60,0.40,0.40,0.80,0.40,0.40,0.99,0.60
+electricistas en cordoba;10;10;0;70;2.98;http://www.reparalia.es/electricistas/cordoba;0.00;0.06;0.73;409000;0.18,0.12,0.12,0.12,0.12,0.82,0.28,0.53,0.99,0.41,0.41,0.41
+caja de persiana;7;7;0;50;0.49;http://www.reparalia.es/blog/2014/11/14/video-consejo-ahorro-como-aislar-el-tambor-de-tu-persiana-del-frio/;0.00;0.01;0.26;433000;0.56,0.56,0.78,0.56,0.33,0.44,0.56,0.56,0.99,0.78,0.78,0.78
+la caja en casa;16;0;0;390;0.00;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.00;0.00;18100000;0.54,0.81,0.81,0.67,0.67,0.67,0.81,0.99,0.99,0.99,0.99,0.81
+carpinteros;16;0;0;390;0.77;http://www.reparalia.es/carpinteros;0.00;0.01;0.50;1050000;0.99,0.54,0.66,0.54,0.66,0.54,0.66,0.66,0.66,0.66,0.81,0.81
+trucos para el hogar;13;15;2;210;0.77;http://www.reparalia.es/blog/2015/01/13/10-super-trucos-rapidos-de-limpieza-para-tu-hogar/;0.00;0.01;0.04;593000;0.65,0.65,0.65,0.54,0.81,0.81,0.99,0.81,0.99,0.65,0.99,0.99
+endesa atencion al cliente 91;11;11;0;40;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.07;11000;0.27,0.64,0.18,0.18,0.36,0.99,0.99,0.36,0.09,0.09,0.09,0.09
+fontaneros coruña;12;13;1;140;2.70;http://www.reparalia.es/fontaneros/a_coruna;0.00;0.05;0.92;435000;0.22,0.22,0.16,0.16,0.22,0.22,0.66,0.53,0.44,0.44,0.99,0.53
+fontaneros urgentes;3;5;2;20;7.00;http://www.reparalia.es/fontaneros;0.00;0.13;1.00;474000;0.80,0.60,0.40,0.20,0.60,0.40,0.20,0.40,0.40,0.20,0.40,0.99
+paredes de pladur;18;15;-3;590;0.53;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.01;0.15;478000;0.82,0.55,0.67,0.55,0.55,0.67,0.67,0.67,0.82,0.55,0.99,0.99
+peso pladur;7;7;0;40;0.36;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.02;178000;0.80,0.60,0.60,0.80,0.60,0.40,0.80,0.99,0.80,0.60,0.99,0.80
+correos trabaja con nosotros;13;16;3;170;0.19;http://www.reparalia.es/conocenos/trabaja-en-reparalia;0.00;0.00;0.16;785000;0.44,0.28,0.44,0.53,0.44,0.44,0.53,0.81,0.53,0.44,0.99,0.66
+pintores en alicante;10;9;-1;50;0.87;http://www.reparalia.es/pintores/alicante;0.00;0.01;0.85;589000;0.71,0.71,0.99,0.71,0.99,0.71,0.99,0.56,0.71,0.28,0.56,0.56
+cerrajeros en huelva;8;8;0;50;5.28;http://www.reparalia.es/cerrajeros/huelva;0.00;0.08;0.85;484000;0.36,0.50,0.36,0.21,0.21,0.14,0.21,0.28,0.36,0.14,0.99,0.64
+caja persiana;8;8;0;50;0.00;http://www.reparalia.es/blog/2014/11/14/video-consejo-ahorro-como-aislar-el-tambor-de-tu-persiana-del-frio/;0.00;0.00;0.24;731000;0.56,0.56,0.56,0.56,0.33,0.56,0.78,0.56,0.78,0.56,0.56,0.99
+persianas albacete;10;10;0;50;0.03;http://www.reparalia.es/reparar_persianas/albacete;0.00;0.00;0.56;810000;0.78,0.44,0.78,0.56,0.78,0.56,0.78,0.99,0.56,0.22,0.33,0.33
+tipos de persiana;5;6;1;30;2.37;http://www.reparalia.es/blog/2014/11/27/9-tipos-de-persianas-para-decorar-tu-hogar/;0.00;0.03;0.34;704000;0.50,0.75,0.50,0.75,0.99,0.75,0.99,0.75,0.99,0.75,0.99,0.99
+reformar cocinas;9;9;0;50;1.98;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.00;0.03;0.84;465000;0.71,0.56,0.71,0.43,0.56,0.56,0.56,0.43,0.71,0.71,0.99,0.99
+pladur pared;6;6;0;30;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.07;350000;0.71,0.28,0.43,0.28,0.28,0.71,0.28,0.28,0.43,0.99,0.56,0.43
+todo reparaciones;5;8;3;30;1.06;http://www.reparalia.es/;0.00;0.01;0.15;19300000;0.40,0.20,0.40,0.20,0.20,0.20,0.60,0.80,0.99,0.40,0.60,0.60
+presupuesto pintura;12;12;0;110;1.73;http://www.reparalia.es/pintores;0.00;0.02;0.75;2130000;0.99,0.67,0.67,0.52,0.67,0.52,0.67,0.52,0.52,0.43,0.43,0.52
+limpieza en el hogar;11;8;-3;30;1.68;http://www.reparalia.es/blog/2015/01/13/10-super-trucos-rapidos-de-limpieza-para-tu-hogar/;0.00;0.02;0.75;22600000;0.67,0.67,0.67,0.33,0.67,0.67,0.99,0.99,0.99,0.99,0.67,0.99
+sitges provincia;11;0;0;30;0.00;http://www.reparalia.es/pintores/sitges;0.00;0.00;0.12;581000;0.25,0.50,0.75,0.75,0.50,0.99,0.50,0.99,0.50,0.75,0.99,0.99
+pintores de huelva;11;10;-1;30;0.00;http://www.reparalia.es/pintores/huelva;0.00;0.00;0.22;1720000;0.18,0.27,0.27,0.18,0.18,0.18,0.18,0.27,0.18,0.27,0.27,0.99
+arreglar pestillo puerta;4;5;1;20;0.00;http://www.reparalia.es/blog/2014/04/23/problemas-con-la-cerradura-te-ensenamos-6-trucos-para-resolverlos/;0.00;0.00;0.15;44000;0.50,0.25,0.25,0.50,0.50,0.50,0.75,0.50,0.50,0.99,0.25,0.75
+seguros reparalia direct s.l;2;0;0;10;0.80;http://www.reparalia.es/;0.00;0.01;0.21;28000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.33,0.33,0.33
+reparacion de mamparas de baño;2;0;0;10;0.88;https://www.reparalia.es/fontaneros/reparar_mampara_de_bano;0.00;0.01;0.74;324000;0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.99,0.50
+reparalia sl;2;0;0;10;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.01;102000;0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+suscriptores de la vanguardia;17;0;0;320;0.00;http://www.reparalia.es/lavanguardia/;0.00;0.00;0.00;601000;0.55,0.24,0.55,0.99,0.44,0.12,0.10,0.44,0.82,0.16,0.19,0.19
+colgar tv pared;13;16;3;140;0.47;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.46;474000;0.81,0.67,0.81,0.52,0.67,0.43,0.67,0.99,0.99,0.99,0.67,0.19
+como reciclar correctamente;10;8;-2;40;0.46;http://www.reparalia.es/blog/2014/11/11/vida-extra-como-reciclar-todo-lo-que-sale-de-tu-casa/;0.00;0.00;0.10;812000;0.71,0.71,0.99,0.56,0.28,0.28,0.43,0.56,0.43,0.56,0.56,0.71
+cocina obra;8;6;-2;40;0.00;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.00;0.00;0.06;65800000;0.56,0.28,0.56,0.56,0.56,0.56,0.56,0.43,0.99,0.56,0.71,0.43
+reparacion de parquet;9;10;1;40;1.50;http://www.reparalia.es/reparar_parquet;0.00;0.01;0.75;520000;0.99,0.99,0.40,0.80,0.40,0.99,0.80,0.80,0.80,0.40,0.99,0.80
+fontaneros barcelona;19;20;1;390;6.01;http://www.reparalia.es/fontaneros;0.00;0.07;0.86;528000;0.81,0.99,0.99,0.99,0.67,0.99,0.99,0.99,0.99,0.99,0.67,0.67
+pintores profesionales;12;14;2;90;1.51;http://www.reparalia.es/pintores;0.00;0.01;0.83;907000;0.99,0.65,0.82,0.28,0.53,0.24,0.53,0.41,0.41,0.41,0.41,0.41
+suelos para baños;19;0;0;390;0.86;http://www.reparalia.es/blog/2014/07/08/elige-el-suelo-perfecto-para-tu-bano-tu-dormitorio-o-tu-cocina/;0.00;0.01;0.72;18300000;0.99,0.81,0.67,0.67,0.67,0.54,0.67,0.67,0.81,0.54,0.99,0.99
+camino cerro de los gamos 1;12;13;1;90;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.00;72000;0.64,0.36,0.36,0.50,0.64,0.50,0.99,0.99,0.64,0.79,0.79,0.99
+reparar parquet;16;0;0;210;1.48;http://www.reparalia.es/reparar_parquet/lleida;0.00;0.01;0.53;270000;0.81,0.53,0.81,0.66,0.53,0.81,0.66,0.66,0.81,0.66,0.99,0.81
+sin compromiso torrent;16;0;0;210;0.00;http://www.reparalia.es/reformas/gerona/torrent;0.00;0.00;0.00;431000;0.28,0.35,0.28,0.35,0.99,0.44,0.35,0.23,0.28,0.44,0.54,0.44
+reparaciones fontaneria;6;6;0;20;0.92;http://www.reparalia.es/fontaneros;0.00;0.00;0.82;406000;0.75,0.50,0.75,0.99,0.25,0.25,0.50,0.50,0.25,0.50,0.75,0.50
+tipo de persianas;6;11;5;20;0.27;http://www.reparalia.es/blog/2014/11/27/9-tipos-de-persianas-para-decorar-tu-hogar/;0.00;0.00;0.64;3380000;0.67,0.67,0.33,0.67,0.67,0.67,0.99,0.67,0.99,0.99,0.67,0.99
+cocinas obra;5;10;5;20;0.25;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.00;0.00;0.31;821000;0.50,0.50,0.75,0.25,0.50,0.50,0.75,0.99,0.50,0.50,0.99,0.25
+tipos persianas;6;12;6;20;0.00;http://www.reparalia.es/blog/2014/11/27/9-tipos-de-persianas-para-decorar-tu-hogar/;0.00;0.00;0.33;441000;0.50,0.50,0.99,0.99,0.99,0.50,0.99,0.50,0.99,0.99,0.99,0.50
+servicios de pintura;5;4;-1;20;0.00;http://www.reparalia.es/pintores;0.00;0.00;0.67;24500000;0.99,0.99,0.67,0.33,0.33,0.33,0.33,0.67,0.67,0.33,0.67,0.67
+reparacion hogar;5;0;0;20;0.85;http://www.reparalia.es/;0.00;0.00;0.53;709000;0.67,0.67,0.33,0.99,0.99,0.33,0.33,0.33,0.33,0.67,0.33,0.33
+endesa telefono cliente;13;15;2;110;1.08;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.01;0.16;173000;0.10,0.13,0.05,0.10,0.18,0.13,0.13,0.13,0.23,0.28,0.67,0.99
+fontaneros salamanca;13;12;-1;110;2.25;http://www.reparalia.es/fontaneros/salamanca;0.00;0.02;0.71;458000;0.27,0.27,0.19,0.27,0.19,0.19,0.35,0.65,0.99,0.65,0.54,0.65
+endesa atencion al cliente gratuito;19;0;0;320;0.34;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.03;7000;0.16,0.37,0.08,0.13,0.25,0.37,0.20,0.20,0.99,0.11,0.13,0.20
+atencion al cliente endesa telefono;18;20;2;320;1.01;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.01;0.18;15000;0.19,0.12,0.28,0.15,0.54,0.12,0.15,0.36,0.36,0.82,0.99,0.99
+endesa telefono atencion cliente;18;18;0;320;1.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.01;0.13;15000;0.36,0.24,0.66,0.54,0.54,0.99,0.28,0.66,0.66,0.99,0.66,0.44
+estilos de interiorismo;11;17;6;20;0.26;http://www.reparalia.es/blog/2015/01/21/las-5-tendencias-de-interiorismo-y-decoracion-para-2015/;0.00;0.00;0.13;817000;0.33,0.33,0.99,0.33,0.33,0.67,0.67,0.33,0.67,0.33,0.67,0.67
+reciclar bien;11;0;0;20;0.00;http://www.reparalia.es/blog/2014/11/11/vida-extra-como-reciclar-todo-lo-que-sale-de-tu-casa/;0.00;0.00;0.02;17600000;0.33,0.99,0.99,0.33,0.33,0.33,0.33,0.67,0.67,0.33,0.33,0.67
+parquet marbella;11;17;6;20;1.52;http://www.reparalia.es/reparar_parquet/malaga/marbella;0.00;0.01;0.59;343000;0.67,0.33,0.33,0.33,0.67,0.99,0.99,0.99,0.33,0.67,0.67,0.99
+persianas para todos;11;11;0;20;0.00;http://www.reparalia.es/blog/2014/11/27/9-tipos-de-persianas-para-decorar-tu-hogar/;0.00;0.00;0.91;692000;0.99,0.99,0.67,0.99,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+presupuesto de pintores;11;8;-3;20;0.39;http://www.reparalia.es/pintores;0.00;0.00;0.77;2400000;0.25,0.25,0.75,0.25,0.75,0.50,0.50,0.25,0.25,0.25,0.99,0.25
+precio fontanero;11;6;-5;20;0.83;http://www.reparalia.es/fontaneros;0.00;0.00;0.90;427000;0.67,0.67,0.67,0.67,0.99,0.67,0.33,0.99,0.99,0.67,0.99,0.67
+persianas tarragona;12;16;4;70;1.40;http://www.reparalia.es/reparar_persianas/tarragona;0.00;0.01;0.80;468000;0.64,0.64,0.36,0.36,0.64,0.99,0.82,0.64,0.45,0.45,0.64,0.64
+reparar caldera;12;18;6;70;3.86;http://www.reparalia.es/calefaccion;0.00;0.03;0.87;409000;0.56,0.99,0.78,0.44,0.56,0.33,0.44,0.99,0.78,0.99,0.78,0.78
+mapfre urgencias hogar;10;10;0;30;0.00;http://www.reparalia.es/;0.00;0.00;0.03;38000;0.14,0.28,0.28,0.14,0.28,0.28,0.14,0.28,0.43,0.71,0.99,0.71
+cajas de persiana;10;12;2;30;0.00;http://www.reparalia.es/blog/2014/11/14/video-consejo-ahorro-como-aislar-el-tambor-de-tu-persiana-del-frio/;0.00;0.00;0.41;612000;0.40,0.99,0.60,0.20,0.60,0.40,0.80,0.40,0.80,0.40,0.60,0.60
+pintores en pamplona;10;0;0;30;1.95;http://www.reparalia.es/pintores/pamplona-iruna;0.00;0.01;0.69;305000;0.43,0.28,0.56,0.43,0.43,0.28,0.43,0.99,0.56,0.43,0.71,0.43
+servicios de cerrajeria;3;3;0;10;14.33;http://www.reparalia.es/cerrajeros;0.00;0.13;0.70;1160000;0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+cambiar azulejos cocina sin obra;10;10;0;30;0.17;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.00;0.00;0.25;93000;0.40,0.40,0.99,0.40,0.80,0.40,0.80,0.80,0.60,0.80,0.99,0.60
+todo parquet;9;9;0;30;1.14;http://www.reparalia.es/blog/2014/10/02/8-cosas-que-todos-deberiamos-saber-sobre-el-parquet/;0.00;0.01;0.67;10900000;0.50,0.75,0.50,0.50,0.50,0.75,0.50,0.75,0.75,0.99,0.75,0.50
+tendencias decoracion;15;15;0;170;0.63;http://www.reparalia.es/blog/2015/01/21/las-5-tendencias-de-interiorismo-y-decoracion-para-2015/;0.00;0.00;0.33;968000;0.54,0.54,0.54,0.65,0.54,0.54,0.65,0.65,0.81,0.42,0.99,0.65
+caja fuerte pequeña;16;14;-2;170;1.95;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.01;1.00;760000;0.54,0.65,0.42,0.54,0.54,0.65,0.81,0.65,0.65,0.65,0.99,0.99
+reparar parquet;17;19;2;210;1.48;http://www.reparalia.es/reparar_parquet;0.00;0.01;0.53;270000;0.81,0.53,0.81,0.66,0.53,0.81,0.66,0.66,0.81,0.66,0.99,0.81
+trucos hogar;17;17;0;210;0.00;http://www.reparalia.es/blog/2015/01/13/10-super-trucos-rapidos-de-limpieza-para-tu-hogar/;0.00;0.00;0.03;1060000;0.81,0.81,0.99,0.54,0.81,0.65,0.81,0.81,0.81,0.65,0.99,0.81
+paredes pladur;13;13;0;90;0.63;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.18;469000;0.64,0.79,0.50,0.64,0.50,0.64,0.64,0.64,0.79,0.79,0.99,0.79
+pintores en burgos;13;13;0;90;0.00;http://www.reparalia.es/pintores/burgos;0.00;0.00;0.11;584000;0.24,0.33,0.24,0.24,0.43,0.24,0.43,0.33,0.52,0.43,0.43,0.99
+persianas tipos;7;12;5;20;0.00;http://www.reparalia.es/blog/2014/11/27/9-tipos-de-persianas-para-decorar-tu-hogar/;0.00;0.00;0.38;623000;0.67,0.67,0.67,0.67,0.67,0.67,0.99,0.99,0.67,0.33,0.67,0.67
+fontanero en granada;16;18;2;140;2.85;http://www.reparalia.es/fontaneros;0.00;0.02;0.91;364000;0.42,0.81,0.42,0.42,0.35,0.35,0.42,0.99,0.65,0.42,0.27,0.27
+tipos de caja fuerte;4;8;4;10;1.39;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.01;0.68;708000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+reparacion del hogar;4;0;0;10;0.63;http://www.reparalia.es/;0.00;0.00;0.92;18200000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+pintores sevilla;17;15;-2;170;1.35;http://www.reparalia.es/pintores/sevilla;0.00;0.00;0.56;736000;0.44,0.99,0.36,0.36,0.44,0.36,0.36,0.44,0.28,0.23,0.28,0.54
+cambiar bombin puerta blindada;20;0;0;210;0.88;http://www.reparalia.es/cerrajeros;0.00;0.00;0.39;6000;0.23,0.13,0.44,0.67,0.82,0.36,0.23,0.54,0.99,0.99,0.54,0.28
+fontanero granada;14;13;-1;90;1.95;http://www.reparalia.es/fontaneros;0.00;0.01;0.83;366000;0.64,0.50,0.28,0.64,0.64,0.28,0.64,0.79,0.79,0.64,0.99,0.99
+toldos lleida;13;14;1;70;0.69;http://www.reparalia.es/toldos_y_pergolas/lleida;0.00;0.00;0.59;446000;0.65,0.82,0.82,0.99,0.65,0.28,0.28,0.18,0.18,0.18,0.18,0.28
+estilos interiorismo;8;8;0;20;0.00;http://www.reparalia.es/blog/2015/01/21/las-5-tendencias-de-interiorismo-y-decoracion-para-2015/;0.00;0.00;0.09;626000;0.50,0.50,0.50,0.25,0.25,0.25,0.25,0.75,0.50,0.25,0.25,0.99
+reparaciones persianas;8;7;-1;20;3.95;http://www.reparalia.es/reparar_persianas;0.00;0.02;0.84;516000;0.28,0.14,0.28,0.99,0.14,0.56,0.28,0.28,0.28,0.14,0.14,0.14
+pintores badajoz;8;10;2;20;0.00;http://www.reparalia.es/pintores/badajoz;0.00;0.00;0.28;511000;0.99,0.50,0.99,0.99,0.50,0.50,0.99,0.50,0.99,0.99,0.99,0.50
+tipos de cajas fuertes;9;12;3;20;2.15;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.01;0.80;716000;0.67,0.67,0.67,0.67,0.67,0.99,0.99,0.67,0.99,0.33,0.99,0.67
+fontanero fontanero;8;5;-3;20;0.00;http://www.reparalia.es/fontaneros;0.00;0.00;0.42;1120000;0.75,0.99,0.25,0.50,0.25,0.50,0.50,0.25,0.75,0.25,0.25,0.50
+persianas para balcones;8;18;10;20;0.64;http://www.reparalia.es/blog/2014/11/27/9-tipos-de-persianas-para-decorar-tu-hogar/;0.00;0.00;0.68;420000;0.67,0.67,0.33,0.99,0.67,0.67,0.67,0.67,0.33,0.33,0.67,0.67
+pintores en badajoz;9;8;-1;20;1.34;http://www.reparalia.es/pintores/badajoz;0.00;0.00;0.35;501000;0.67,0.67,0.33,0.67,0.99,0.33,0.67,0.67,0.67,0.33,0.67,0.99
+caja fuerte para casa;10;11;1;20;0.51;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.00;0.99;6720000;0.40,0.40,0.40,0.40,0.40,0.20,0.40,0.60,0.60,0.40,0.99,0.60
+lo ultimo en decoracion;17;0;0;140;0.50;http://www.reparalia.es/blog/2015/01/21/las-5-tendencias-de-interiorismo-y-decoracion-para-2015/;0.00;0.00;0.34;594000;0.82,0.65,0.65,0.65,0.65,0.65,0.82,0.82,0.82,0.65,0.99,0.99
+endesa telefono de atencion al cliente;17;18;1;140;0.39;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.04;15000;0.12,0.99,0.10,0.04,0.06,0.07,0.10,0.15,0.36,0.19,0.12,0.10
+haro parquet;17;17;0;140;1.42;http://www.reparalia.es/reparar_parquet/la_rioja/haro;0.00;0.00;0.15;351000;0.99,0.52,0.67,0.67,0.52,0.52,0.67,0.81,0.67,0.52,0.81,0.81
+fontaneros huelva;15;18;3;110;2.84;http://www.reparalia.es/fontaneros/huelva;0.00;0.01;0.52;457000;0.08,0.07,0.08,0.02,0.07,0.03,0.05,0.03,0.15,0.66,0.99,0.28
+filtraciones de agua;15;15;0;110;2.40;http://www.reparalia.es/blog/2014/04/01/que-tipo-de-goteras-hay-y-como-tratar-las-filtraciones-de-agua/;0.00;0.01;0.88;711000;0.28,0.41,0.41,0.41,0.53,0.41,0.65,0.82,0.99,0.99,0.99,0.99
+pintores en murcia;16;16;0;110;0.32;http://www.reparalia.es/pintores/murcia;0.00;0.00;0.64;646000;0.33,0.33,0.33,0.43,0.43,0.43,0.52,0.43,0.81,0.52,0.67,0.99
+pintores en sevilla;15;15;0;110;2.13;http://www.reparalia.es/pintores/sevilla;0.00;0.01;0.71;602000;0.65,0.65,0.65,0.53,0.53,0.53,0.65,0.65,0.65,0.99,0.82,0.99
+suelo baño;15;0;0;110;1.29;http://www.reparalia.es/blog/2014/07/08/elige-el-suelo-perfecto-para-tu-bano-tu-dormitorio-o-tu-cocina/;0.00;0.00;0.42;32300000;0.53,0.53,0.65,0.53,0.41,0.53,0.53,0.65,0.82,0.65,0.82,0.99
+endesa atención cliente;12;11;-1;40;0.66;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.10;275000;0.80,0.60,0.60,0.40,0.99,0.40,0.80,0.99,0.99,0.99,0.99,0.99
+endesa atencion al cliente telefono gratuito;19;19;0;170;0.65;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.01;4000;0.44,0.81,0.44,0.16,0.22,0.44,0.28,0.16,0.99,0.99,0.81,0.66
+hogar reparacion;5;0;0;10;0.00;http://www.reparalia.es/;0.00;0.00;0.44;5010000;0.00,0.00,0.00,0.00,0.00,0.00,0.99,0.99,0.99,0.99,0.99,0.99
+reparacion calefaccion;5;5;0;10;4.69;http://www.reparalia.es/calefaccion;0.00;0.02;0.72;504000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.99,0.67,0.67
+reparaciones para el hogar;5;0;0;10;0.00;http://www.reparalia.es/;0.00;0.00;0.45;1140000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+pergolas rosario;6;0;0;10;0.00;http://www.reparalia.es/toldos_y_pergolas/puerto_del_rosario;0.00;0.00;0.00;260000;0.99,0.99,0.00,0.99,0.00,0.00,0.00,0.00,0.00,0.99,0.00,0.00
+certificado instalacion;5;6;1;10;0.00;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.00;0.00;0.03;703000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50
+consejos para tu hogar;11;13;2;10;0.00;http://www.reparalia.es/blog/2015/01/13/10-super-trucos-rapidos-de-limpieza-para-tu-hogar/;0.00;0.00;0.00;1010000;0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+cajas fuertes hogar;11;0;0;10;1.09;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.00;1.00;601000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+pintura paint;11;11;0;10;0.00;http://www.reparalia.es/blog/2014/10/23/los-6-motivos-por-los-que-la-chalk-paint-es-la-pintura-de-moda/;0.00;0.00;0.06;1500000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+provincia olot;11;0;0;10;0.00;http://www.reparalia.es/climatizacion/olot;0.00;0.00;0.00;493000;0.50,0.99,0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.99,0.50,0.50
+servicios de reparaciones;11;11;0;10;0.00;http://www.reparalia.es/;0.00;0.00;0.40;26600000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+fontaneros en cordoba;13;14;1;50;2.38;http://www.reparalia.es/fontaneros/cordoba;0.00;0.01;0.67;283000;0.56,0.56,0.44,0.33,0.56,0.56,0.78,0.56,0.56,0.78,0.78,0.99
+atencion al cliente endesa barcelona;16;17;1;90;0.44;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.08;26000;0.53,0.53,0.24,0.24,0.24,0.28,0.65,0.41,0.28,0.53,0.99,0.82
+pintores en toledo;13;13;0;50;0.64;http://www.reparalia.es/pintores/toledo;0.00;0.00;0.46;373000;0.99,0.78,0.78,0.33,0.33,0.33,0.44,0.44,0.56,0.22,0.33,0.44
+persianas salamanca;15;18;3;90;0.19;http://www.reparalia.es/reparar_persianas/salamanca;0.00;0.00;0.26;478000;0.64,0.50,0.64,0.64,0.64,0.79,0.99,0.50,0.79,0.64,0.64,0.64
+cerrajeros lleida;19;19;0;140;2.66;http://www.reparalia.es/cerrajeros/lleida;0.00;0.01;0.70;419000;0.99,0.82,0.65,0.41,0.53,0.99,0.99,0.82,0.65,0.82,0.82,0.82
+fernando prieto;19;18;-1;140;0.00;http://www.reparalia.es/conocenos/fernando-prieto-nuevo-director-general-de-reparalia;0.00;0.00;0.01;18900000;0.99,0.52,0.52,0.52,0.52,0.43,0.52,0.67,0.67,0.81,0.81,0.81
+grifo monomando cocina;19;0;0;140;0.37;http://www.reparalia.es/blog/2014/11/21/como-cambiar-un-grifo-monomando/;0.00;0.00;0.94;185000;0.67,0.43,0.24,0.52,0.52,0.52,0.67,0.67,0.67,0.99,0.99,0.81
+cajas fuertes para el hogar;7;0;0;10;1.48;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.00;1.00;669000;0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+caja fuerte hogar;7;0;0;10;0.26;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.00;1.00;810000;0.50,0.50,0.50,0.50,0.99,0.50,0.00,0.50,0.50,0.50,0.50,0.50
+cerrajeros guipuzcoa;12;15;3;30;3.74;http://www.reparalia.es/cerrajeros/guipuzcoa;0.00;0.01;0.75;153000;0.99,0.18,0.12,0.06,0.06,0.06,0.06,0.06,0.12,0.06,0.06,0.06
+pintores en guadalajara;12;14;2;30;0.74;http://www.reparalia.es/pintores/guadalajara;0.00;0.00;0.69;660000;0.99,0.22,0.11,0.33,0.33,0.22,0.11,0.22,0.56,0.11,0.22,0.33
+reparaciones de fontaneria;12;0;0;30;0.00;http://www.reparalia.es/fontaneros;0.00;0.00;0.69;591000;0.75,0.99,0.99,0.99,0.50,0.50,0.99,0.75,0.50,0.50,0.75,0.50
+getxo provincia;12;0;0;30;0.00;http://www.reparalia.es/carpinteros/getxo;0.00;0.00;0.00;450000;0.50,0.50,0.75,0.75,0.99,0.25,0.75,0.75,0.75,0.99,0.75,0.75
+cajas de persianas;12;15;3;30;0.52;http://www.reparalia.es/blog/2014/11/14/video-consejo-ahorro-como-aislar-el-tambor-de-tu-persiana-del-frio/;0.00;0.00;0.80;667000;0.75,0.25,0.50,0.50,0.50,0.50,0.75,0.75,0.99,0.99,0.75,0.99
+fontaneros almeria;17;16;-1;90;2.38;http://www.reparalia.es/fontaneros/almeria;0.00;0.00;0.73;269000;0.35,0.15,0.19,0.99,0.19,0.15,0.27,0.27,0.27,0.35,0.81,0.54
+telefono gratuito endesa atencion al cliente;17;18;1;90;0.77;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.04;4000;0.64,0.50,0.64,0.64,0.50,0.50,0.64,0.64,0.79,0.50,0.79,0.99
+endesa barcelona atencion al cliente;17;15;-2;90;0.42;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.07;26000;0.82,0.65,0.24,0.24,0.28,0.24,0.41,0.28,0.53,0.65,0.99,0.82
+trucos limpieza hogar;17;13;-4;90;0.50;http://www.reparalia.es/blog/2015/01/13/10-super-trucos-rapidos-de-limpieza-para-tu-hogar/;0.00;0.00;0.25;635000;0.14,0.14,0.52,0.67,0.67,0.67,0.99,0.81,0.33,0.14,0.19,0.24
+fontanero coruña;14;9;-5;50;2.78;http://www.reparalia.es/fontaneros;0.00;0.01;0.89;352000;0.56,0.33,0.33,0.44,0.78,0.33,0.44,0.33,0.44,0.99,0.78,0.44
+reformas santa pola;14;0;0;50;1.17;https://www.reparalia.es/reformas/alicante/santa_pola/reformar_bano;0.00;0.00;0.62;215000;0.41,0.24,0.99,0.24,0.12,0.12,0.18,0.12,0.24,0.18,0.24,0.18
+fontaneros granada;15;0;0;70;3.32;http://www.reparalia.es/fontaneros;0.00;0.01;0.82;475000;0.36,0.50,0.36,0.50,0.14,0.28,0.36,0.36,0.36,0.50,0.99,0.64
+fontaneros valladolid;15;0;0;70;2.54;http://www.reparalia.es/fontaneros/valladolid;0.00;0.00;0.93;458000;0.64,0.45,0.45,0.36,0.64,0.64,0.64,0.64,0.99,0.82,0.99,0.99
+pintores en albacete;16;16;0;70;0.92;http://www.reparalia.es/pintores/albacete;0.00;0.00;0.51;500000;0.33,0.67,0.99,0.33,0.33,0.33,0.24,0.33,0.24,0.10,0.10,0.19
+cerrajeros ciudad real;16;15;-1;70;2.66;http://www.reparalia.es/cerrajeros/ciudad_real/ciudad_real;0.00;0.01;0.91;448000;0.82,0.36,0.45,0.45,0.99,0.64,0.82,0.64,0.45,0.36,0.45,0.64
+colocar pladur en pared;16;19;3;70;0.60;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.11;111000;0.28,0.50,0.99,0.50,0.28,0.50,0.28,0.28,0.79,0.28,0.79,0.99
+endesa att cliente;14;13;-1;50;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.02;12000;0.43,0.56,0.56,0.71,0.71,0.71,0.71,0.71,0.99,0.99,0.99,0.99
+endesa atención al cliente gratis;16;19;3;70;0.34;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.10;51000;0.36,0.79,0.21,0.21,0.36,0.36,0.64,0.50,0.36,0.36,0.50,0.99
+atención cliente endesa;16;16;0;70;0.44;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.18;271000;0.78,0.78,0.56,0.78,0.78,0.78,0.78,0.78,0.78,0.78,0.78,0.99
+fontaneros en murcia;14;15;1;50;3.85;http://www.reparalia.es/fontaneros/murcia;0.00;0.01;0.98;498000;0.99,0.36,0.14,0.36,0.21,0.14,0.21,0.28,0.36,0.14,0.21,0.36
+reparar persianas;15;15;0;70;1.32;http://www.reparalia.es/reparar_persianas;0.00;0.00;0.95;389000;0.99,0.78,0.56,0.56,0.99,0.56,0.44,0.78,0.78,0.56,0.78,0.56
+arreglar lavadora;20;0;0;110;3.05;http://www.reparalia.es/electrodomesticos;0.00;0.01;0.80;408000;0.65,0.82,0.53,0.53,0.82,0.53,0.99,0.65,0.82,0.82,0.82,0.65
+estanteria de pladur;19;13;-6;110;0.10;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.14;90000;0.79,0.64,0.64,0.50,0.79,0.79,0.50,0.64,0.79,0.64,0.79,0.99
+grifos monomando;18;15;-3;110;0.51;http://www.reparalia.es/blog/2014/11/21/como-cambiar-un-grifo-monomando/;0.00;0.00;0.84;452000;0.65,0.65,0.65,0.41,0.53,0.65,0.65,0.82,0.65,0.65,0.99,0.65
+carpinteros barcelona;19;0;0;110;1.03;http://www.reparalia.es/carpinteros/barcelona;0.00;0.00;0.84;507000;0.65,0.41,0.53,0.53,0.65,0.53,0.65,0.65,0.99,0.53,0.65,0.99
+telefono endesa atencion cliente;19;0;0;110;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.15;15000;0.19,0.35,0.54,0.81,0.81,0.42,0.35,0.99,0.42,0.19,0.15,0.27
+telefono de endesa atencion al cliente gratuito;19;18;-1;110;0.31;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.23;4000;0.33,0.24,0.52,0.81,0.99,0.52,0.52,0.43,0.43,0.33,0.43,0.43
+fontaneros murcia;18;20;2;110;4.12;http://www.reparalia.es/fontaneros/murcia;0.00;0.01;0.95;505000;0.99,0.36,0.36,0.64,0.79,0.64,0.64,0.64,0.79,0.64,0.99,0.99
+cajas fuertes para hogar;10;10;0;10;1.58;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.00;0.86;625000;0.00,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+servicios de reparaciones del hogar;8;9;1;10;0.98;http://www.reparalia.es/;0.00;0.00;0.94;1830000;0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99
+sanxenxo provincia;9;0;0;10;0.00;http://www.reparalia.es/pintores/sanxenxo;0.00;0.00;0.00;444000;0.33,0.33,0.33,0.67,0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+reformar una cocina con pintura;9;10;1;10;0.00;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.00;0.00;0.37;406000;0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.50
+presupuestos albañiles;10;10;0;10;0.00;http://www.reparalia.es/albaniles;0.00;0.00;1.00;394000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+el pladur;10;13;3;10;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.10;631000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+hondarribia provincia;9;10;1;10;0.00;http://www.reparalia.es/climatizacion/hondarribia;0.00;0.00;0.03;381000;0.67,0.33,0.67,0.33,0.67,0.67,0.67,0.99,0.33,0.33,0.33,0.33
+cunit provincia;10;0;0;10;0.00;http://www.reparalia.es/climatizacion/cunit;0.00;0.00;0.00;368000;0.50,0.50,0.99,0.99,0.50,0.99,0.99,0.99,0.50,0.50,0.50,0.50
+telefono de atencion al cliente de endesa gratuito;17;0;0;70;0.77;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.05;5000;0.64,0.64,0.64,0.64,0.64,0.64,0.64,0.99,0.64,0.36,0.45,0.36
+atencion cliente endesa gratis;17;19;2;70;1.08;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.00;15000;0.99,0.10,0.14,0.10,0.10,0.24,0.33,0.24,0.33,0.24,0.33,0.81
+pintores en terrassa;14;0;0;40;2.27;http://www.reparalia.es/pintores/barcelona/terrassa;0.00;0.00;0.97;201000;0.43,0.43,0.71,0.99,0.43,0.28,0.43,0.43,0.56,0.43,0.43,0.28
+reparar una persiana;14;13;-1;40;1.83;http://www.reparalia.es/reparar_persianas;0.00;0.00;0.56;592000;0.99,0.60,0.80,0.60,0.80,0.99,0.99,0.99,0.99,0.40,0.80,0.80
+cambiar grifo fregadero;14;13;-1;40;0.00;http://www.reparalia.es/blog/2014/11/21/como-cambiar-un-grifo-monomando/;0.00;0.00;0.08;283000;0.99,0.99,0.80,0.40,0.60,0.80,0.99,0.99,0.99,0.80,0.99,0.80
+reformas oviedo;17;18;1;70;1.46;http://www.reparalia.es/reformas/oviedo;0.00;0.00;0.63;509000;0.99,0.64,0.45,0.64,0.45,0.36,0.36,0.64,0.64,0.64,0.82,0.82
+electricistas malaga;20;0;0;90;6.05;http://www.reparalia.es/electricistas/malaga;0.00;0.01;0.90;398000;0.33,0.33,0.81,0.99,0.33,0.14,0.33,0.43,0.33,0.24,0.24,0.24
+cajas fuertes para casa;13;19;6;30;0.71;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.00;0.99;618000;0.99,0.60,0.60,0.60,0.40,0.40,0.40,0.40,0.99,0.99,0.99,0.40
+arreglar parquet;19;0;0;90;1.30;http://www.reparalia.es/reparar_parquet;0.00;0.00;0.63;142000;0.64,0.82,0.99,0.64,0.82,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+cambiar puertas armarios cocina;18;0;0;90;0.54;http://www.reparalia.es/blog/2014/10/02/como-cambiar-los-tiradores-de-tus-muebles-y-transformar-su-estilo-en-un-diy-de-unos-minutos/;0.00;0.00;0.63;667000;0.82,0.45,0.82,0.82,0.82,0.64,0.99,0.64,0.64,0.82,0.99,0.64
+como limpiar espejos;19;17;-2;90;0.85;http://www.reparalia.es/blog/2014/04/29/como-puedes-limpiar-tus-espejos-y-cristales-de-forma-ecologica/;0.00;0.00;0.14;1420000;0.82,0.64,0.45,0.64,0.64,0.82,0.99,0.99,0.82,0.64,0.99,0.99
+instalar caja fuerte;13;0;0;30;2.29;http://www.reparalia.es/blog/2014/08/09/como-elegir-la-caja-fuerte-ideal-para-aumentar-la-seguridad-de-tu-hogar/;0.00;0.00;0.71;340000;0.60,0.40,0.40,0.40,0.60,0.99,0.40,0.40,0.40,0.80,0.99,0.60
+fontaneros las palmas;19;16;-3;90;8.82;http://www.reparalia.es/fontaneros/las_palmas;0.00;0.02;0.95;488000;0.82,0.64,0.36,0.45,0.82,0.99,0.99,0.99,0.99,0.82,0.82,0.64
+presupuestos fontaneria;13;11;-2;30;1.11;http://www.reparalia.es/fontaneros;0.00;0.00;0.79;482000;0.60,0.40,0.40,0.40,0.40,0.20,0.80,0.80,0.60,0.40,0.99,0.40
+fontaneros en almeria;18;0;0;90;4.05;http://www.reparalia.es/fontaneros/almeria;0.00;0.01;0.75;269000;0.99,0.99,0.35,0.42,0.35,0.27,0.12,0.15,0.27,0.15,0.15,0.15
+atención al cliente endesa gratuito;19;18;-1;90;0.56;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.04;29000;0.99,0.53,0.41,0.41,0.53,0.53,0.41,0.53,0.53,0.65,0.82,0.65
+parquet almeria;12;16;4;20;0.86;http://www.reparalia.es/reparar_parquet/almeria;0.00;0.00;0.37;345000;0.67,0.33,0.67,0.67,0.67,0.67,0.33,0.67,0.67,0.99,0.67,0.99
+los mejores pintores;12;12;0;20;1.94;http://www.reparalia.es/pintores;0.00;0.00;0.07;0;0.99,0.50,0.50,0.50,0.50,0.25,0.50,0.75,0.99,0.25,0.75,0.75
+fax endesa;16;17;1;50;1.87;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.10;396000;0.71,0.71,0.99,0.71,0.56,0.43,0.71,0.71,0.56,0.56,0.71,0.56
+fontanero urgente madrid;16;15;-1;50;10.79;http://www.reparalia.es/fontaneros;0.00;0.02;0.97;134000;0.64,0.82,0.45,0.27,0.45,0.45,0.82,0.99,0.36,0.36,0.36,0.27
+electrodomesticos ciudad real;16;17;1;50;0.15;http://www.reparalia.es/electrodomesticos/ciudad_real;0.00;0.00;0.20;574000;0.71,0.56,0.99,0.71,0.56,0.43,0.56,0.56,0.99,0.99,0.99,0.71
+fontaneros tarragona;16;14;-2;50;2.68;http://www.reparalia.es/fontaneros;0.00;0.00;0.92;463000;0.82,0.99,0.28,0.12,0.12,0.18,0.24,0.28,0.12,0.24,0.18,0.28
+pintores albacete;16;17;1;50;1.45;http://www.reparalia.es/pintores/albacete;0.00;0.00;0.44;500000;0.99,0.71,0.99,0.28,0.43,0.56,0.56,0.56,0.71,0.43,0.43,0.71
+pintores en almeria;16;17;1;50;0.72;http://www.reparalia.es/pintores/almeria;0.00;0.00;0.53;338000;0.56,0.71,0.99,0.71,0.99,0.71,0.71,0.99,0.71,0.28,0.43,0.99
+reformas toledo;15;16;1;50;1.29;http://www.reparalia.es/reformas/toledo;0.00;0.00;0.80;935000;0.78,0.56,0.56,0.22,0.33,0.22,0.78,0.78,0.99,0.44,0.33,0.78
+pintores tarragona;14;0;0;30;0.94;http://www.reparalia.es/pintores/tarragona;0.00;0.00;0.70;527000;0.43,0.14,0.28,0.43,0.71,0.43,0.71,0.99,0.28,0.28,0.28,0.43
+atencion al cliente de endesa gratuito;20;0;0;70;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.02;7000;0.99,0.52,0.33,0.24,0.24,0.33,0.33,0.33,0.33,0.14,0.24,0.24
+pintores toledo;14;0;0;30;1.19;http://www.reparalia.es/pintores/toledo;0.00;0.00;0.34;670000;0.60,0.60,0.40,0.40,0.40,0.20,0.40,0.40,0.40,0.40,0.80,0.99
+pintores en tarragona;14;15;1;30;1.63;http://www.reparalia.es/pintores/tarragona;0.00;0.00;0.80;526000;0.40,0.40,0.60,0.40,0.60,0.80,0.60,0.80,0.40,0.40,0.99,0.60
+fontaneros en malaga;19;0;0;70;3.77;http://www.reparalia.es/fontaneros/malaga;0.00;0.00;0.88;383000;0.45,0.82,0.99,0.64,0.82,0.45,0.99,0.64,0.99,0.64,0.64,0.36
+reformas en guadalajara;19;20;1;70;0.98;http://www.reparalia.es/reformas/guadalajara;0.00;0.00;0.66;946000;0.42,0.27,0.15,0.12,0.15,0.04,0.12,0.19,0.99,0.19,0.27,0.27
+parquet valladolid;14;0;0;30;0.07;http://www.reparalia.es/reparar_parquet/valladolid;0.00;0.00;0.38;465000;0.99,0.40,0.80,0.40,0.80,0.20,0.60,0.60,0.60,0.40,0.60,0.99
+presupuestos toldos;14;0;0;30;1.12;http://www.reparalia.es/toldos_y_pergolas;0.00;0.00;0.91;446000;0.71,0.99,0.71,0.71,0.43,0.14,0.43,0.28,0.28,0.14,0.28,0.28
+pintores en valladolid;19;0;0;70;0.59;http://www.reparalia.es/pintores/valladolid;0.00;0.00;0.62;554000;0.64,0.45,0.45,0.82,0.99,0.45,0.45,0.64,0.64,0.45,0.45,0.82
+manitas en casa;18;0;0;70;0.87;http://www.reparalia.es/conocenos/los-padres-espanoles-estan-a-la-altura-de-macgyver-cuando-ejercen-de-manitas-en-casa-segun-sus-hijos;0.00;0.00;0.42;520000;0.78,0.56,0.78,0.56,0.78,0.56,0.78,0.78,0.99,0.78,0.99,0.78
+cambiar radiador;18;14;-4;70;0.00;https://www.reparalia.es/fontaneros/sustituir_o_cambiar_un_radiador;0.00;0.00;0.04;529000;0.45,0.36,0.45,0.36,0.27,0.45,0.45,0.45,0.82,0.82,0.99,0.99
+telefono atencion al cliente endesa gratuito;19;18;-1;70;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.01;4000;0.99,0.82,0.82,0.64,0.82,0.45,0.82,0.64,0.45,0.45,0.64,0.64
+parquet zaragoza;19;0;0;70;0.61;http://www.reparalia.es/reparar_parquet/zaragoza;0.00;0.00;0.42;488000;0.78,0.78,0.56,0.78,0.44,0.56,0.78,0.78,0.99,0.78,0.99,0.99
+endesa informacion al cliente;16;17;1;40;0.31;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.04;77000;0.99,0.14,0.14,0.14,0.50,0.21,0.21,0.21,0.36,0.28,0.21,0.07
+persianas en salamanca;15;14;-1;40;1.06;http://www.reparalia.es/reparar_persianas/salamanca;0.00;0.00;0.59;475000;0.56,0.28,0.71,0.56,0.71,0.99,0.99,0.43,0.43,0.71,0.56,0.43
+fontaneros cadiz;16;19;3;40;2.49;http://www.reparalia.es/fontaneros/cadiz;0.00;0.00;0.78;350000;0.43,0.71,0.99,0.71,0.43,0.28,0.28,0.56,0.71,0.56,0.28,0.56
+electricistas granada;17;18;1;50;3.90;http://www.reparalia.es/electricistas/granada;0.00;0.00;0.74;496000;0.44,0.78,0.44,0.56,0.33,0.33,0.44,0.44,0.78,0.78,0.99,0.78
+persianas burgos;15;17;2;40;0.00;http://www.reparalia.es/reparar_persianas/burgos;0.00;0.00;0.61;461000;0.99,0.60,0.99,0.40,0.60,0.80,0.60,0.80,0.80,0.80,0.60,0.60
+pintores en salamanca;17;18;1;50;0.73;http://www.reparalia.es/pintores/salamanca;0.00;0.00;0.72;589000;0.71,0.56,0.43,0.99,0.99,0.56,0.56,0.99,0.43,0.56,0.56,0.71
+endesa telefono clientes;16;17;1;40;0.45;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.12;120000;0.80,0.40,0.40,0.60,0.80,0.40,0.60,0.99,0.99,0.99,0.99,0.99
+pintores de albacete;15;16;1;40;1.53;http://www.reparalia.es/pintores/albacete;0.00;0.00;0.38;934000;0.33,0.99,0.22,0.22,0.11,0.22,0.33,0.22,0.78,0.56,0.56,0.44
+reformas avila;13;13;0;20;1.41;http://www.reparalia.es/reformas/avila;0.00;0.00;0.70;691000;0.50,0.50,0.75,0.50,0.50,0.50,0.25,0.50,0.75,0.50,0.99,0.50
+elegir deshumidificador;13;13;0;20;0.66;http://www.reparalia.es/blog/2014/12/10/como-elegir-un-deshumidificador-y-como-sacarle-el-maximo-partido/;0.00;0.00;0.79;32000;0.25,0.25,0.00,0.25,0.25,0.25,0.25,0.50,0.99,0.99,0.99,0.50
+pladur para paredes;13;15;2;20;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.12;507000;0.67,0.67,0.67,0.33,0.33,0.99,0.67,0.67,0.67,0.67,0.33,0.67
+provincia de olot;13;13;0;20;0.00;http://www.reparalia.es/climatizacion/olot;0.00;0.00;0.01;459000;0.50,0.50,0.99,0.99,0.99,0.50,0.99,0.99,0.99,0.99,0.50,0.50
+portugalete provincia;13;0;0;20;0.00;http://www.reparalia.es/climatizacion/portugalete;0.00;0.00;0.01;411000;0.67,0.67,0.67,0.99,0.67,0.67,0.33,0.33,0.67,0.33,0.67,0.67
+como poner pladur en la pared;13;16;3;20;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.03;145000;0.33,0.33,0.33,0.33,0.99,0.99,0.33,0.33,0.99,0.33,0.67,0.33
+suelos de cocina sin obra;13;11;-2;20;0.83;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.00;0.00;0.64;727000;0.67,0.99,0.67,0.33,0.67,0.33,0.33,0.33,0.67,0.33,0.99,0.67
+reparar parquet flotante;13;9;-4;20;0.51;http://www.reparalia.es/blog/2014/12/05/como-reparar-una-tarima-flotante-que-hace-ruido-al-pisar/;0.00;0.00;0.34;18000;0.25,0.50,0.50,0.50,0.75,0.75,0.25,0.25,0.99,0.25,0.75,0.50
+pintores coruña;17;0;0;40;2.39;http://www.reparalia.es/pintores/a_coruna;0.00;0.00;0.27;528000;0.71,0.99,0.71,0.71,0.56,0.71,0.56,0.43,0.71,0.28,0.71,0.56
+pintores en asturias;17;19;2;40;1.26;http://www.reparalia.es/pintores/asturias;0.00;0.00;0.35;588000;0.99,0.43,0.43,0.43,0.43,0.43,0.56,0.43,0.43,0.28,0.56,0.71
+endesa telefono gratis atencion al cliente;17;18;1;40;0.88;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.14;6000;0.64,0.99,0.45,0.27,0.18,0.09,0.27,0.27,0.36,0.18,0.18,0.18
+atención al cliente endesa gratis;18;19;1;50;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.05;55000;0.05,0.05,0.24,0.10,0.05,0.43,0.99,0.99,0.24,0.05,0.05,0.05
+arreglar aire acondicionado;20;16;-4;50;1.31;http://www.reparalia.es/climatizacion;0.00;0.00;0.76;499000;0.12,0.06,0.28,0.65,0.99,0.53,0.24,0.12,0.12,0.24,0.18,0.18
+reparar calderas;16;18;2;30;7.15;http://www.reparalia.es/calefaccion;0.00;0.01;0.81;470000;0.43,0.56,0.43,0.43,0.14,0.14,0.28,0.43,0.99,0.56,0.56,0.43
+atencion al cliente endesa telefono gratuito;18;17;-1;50;0.74;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.11;4000;0.36,0.18,0.18,0.99,0.99,0.18,0.09,0.18,0.27,0.45,0.64,0.99
+telefono endesa atencion al cliente gratuito;18;20;2;50;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.14;4000;0.99,0.21,0.21,0.07,0.14,0.07,0.64,0.99,0.36,0.28,0.21,0.14
+endesa atencion cliente gratuito;19;17;-2;50;0.43;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.04;8000;0.78,0.56,0.78,0.78,0.44,0.44,0.78,0.99,0.78,0.44,0.56,0.56
+ferrol provincia;20;19;-1;50;0.00;http://www.reparalia.es/fontaneros/ferrol;0.00;0.00;0.00;503000;0.99,0.99,0.99,0.99,0.71,0.71,0.71,0.56,0.71,0.71,0.56,0.99
+suscriptor de la vanguardia;15;17;2;30;0.00;http://www.reparalia.es/lavanguardia/;0.00;0.00;0.00;87000;0.99,0.99,0.99,0.40,0.40,0.20,0.40,0.60,0.60,0.40,0.40,0.40
+pintores en cordoba;20;0;0;50;2.50;http://www.reparalia.es/pintores/cordoba;0.00;0.00;0.37;430000;0.28,0.28,0.99,0.64,0.36,0.14,0.50,0.50,0.28,0.14,0.21,0.50
+tendencias en baños;18;0;0;50;0.02;http://www.reparalia.es/blog/2015/03/25/top-5-tendencias-en-banos-y-cocinas-para-2015-desde-las-vegas/;0.00;0.00;0.06;1100000;0.71,0.56,0.43,0.56,0.71,0.71,0.99,0.99,0.99,0.43,0.56,0.71
+endesa sevilla atencion al cliente;18;19;1;50;0.26;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.13;16000;0.36,0.45,0.99,0.64,0.27,0.36,0.64,0.99,0.27,0.36,0.45,0.45
+pintores burgos;15;15;0;30;0.00;http://www.reparalia.es/pintores/burgos;0.00;0.00;0.19;596000;0.28,0.28,0.43,0.14,0.43,0.43,0.43,0.56,0.43,0.56,0.99,0.28
+atencion cliente endesa gratuito;18;18;0;50;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.01;7000;0.99,0.78,0.56,0.56,0.44,0.33,0.56,0.78,0.78,0.56,0.78,0.78
+fontaneros en salamanca;15;11;-4;30;2.40;http://www.reparalia.es/fontaneros/salamanca;0.00;0.00;0.73;458000;0.75,0.75,0.75,0.50,0.75,0.50,0.75,0.75,0.75,0.99,0.75,0.50
+endesa teléfono atención al cliente;19;0;0;50;1.24;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.24;80000;0.44,0.22,0.11,0.99,0.78,0.44,0.44,0.33,0.56,0.78,0.78,0.78
+reformas en cantabria;20;15;-5;50;1.41;http://www.reparalia.es/reformas/cantabria;0.00;0.00;0.69;973000;0.64,0.27,0.18,0.27,0.99,0.27,0.64,0.45,0.27,0.18,0.36,0.36
+pintores murcia;18;19;1;50;0.72;http://www.reparalia.es/pintores/murcia;0.00;0.00;0.50;588000;0.64,0.36,0.36,0.36,0.45,0.27,0.64,0.99,0.45,0.27,0.45,0.64
+electricistas lleida;15;15;0;30;0.76;http://www.reparalia.es/electricistas/lleida;0.00;0.00;0.81;392000;0.99,0.78,0.44,0.33,0.22,0.22,0.22,0.11,0.22,0.22,0.22,0.22
+endesa atencion al cliente numero gratuito;19;19;0;50;1.12;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.02;4000;0.28,0.53,0.65,0.28,0.06,0.12,0.12,0.06,0.06,0.06,0.12,0.99
+pintores en avila;14;15;1;20;1.07;http://www.reparalia.es/pintores/avila;0.00;0.00;0.84;415000;0.99,0.67,0.99,0.33,0.67,0.33,0.67,0.99,0.67,0.67,0.99,0.33
+parquetistas;14;13;-1;20;0.93;http://www.reparalia.es/reparar_parquet;0.00;0.00;0.79;112000;0.67,0.33,0.67,0.33,0.99,0.33,0.99,0.99,0.99,0.99,0.67,0.67
+pintores en cuenca;14;15;1;20;0.52;http://www.reparalia.es/pintores/cuenca;0.00;0.00;0.35;334000;0.99,0.25,0.50,0.50,0.50,0.25,0.25,0.50,0.50,0.25,0.50,0.50
+utrera provincia;14;20;6;20;0.00;http://www.reparalia.es/climatizacion/utrera;0.00;0.00;0.01;539000;0.50,0.75,0.75,0.99,0.25,0.50,0.25,0.25,0.50,0.25,0.25,0.75
+reciclaje punk;12;0;0;10;0.00;http://www.reparalia.es/blog/2015/02/19/inspiracion-10-piezas-de-reciclaje-metalico-steam-punk-que-te-dejaran-sin-palabras/;0.00;0.00;0.00;243000;0.99,0.99,0.99,0.99,0.00,0.00,0.00,0.99,0.99,0.00,0.00,0.00
+reformas en la cocina;12;16;4;10;0.00;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.00;0.00;0.97;6240000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.99
+parquet tarragona;18;0;0;40;0.34;http://www.reparalia.es/reparar_parquet/tarragona;0.00;0.00;0.74;495000;0.80,0.99,0.80,0.20,0.60,0.40,0.60,0.80,0.40,0.80,0.99,0.80
+endesa numero de atencion al cliente;20;0;0;40;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.11;14000;0.56,0.11,0.22,0.78,0.44,0.22,0.22,0.11,0.44,0.56,0.99,0.56
+numero de atencion al cliente de endesa gratuito;20;0;0;40;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.07;4000;0.99,0.99,0.99,0.56,0.71,0.56,0.43,0.43,0.43,0.28,0.28,0.71
+cerrajeros en tarragona;20;18;-2;40;0.95;http://www.reparalia.es/cerrajeros/tarragona;0.00;0.00;0.80;489000;0.60,0.60,0.80,0.60,0.99,0.40,0.80,0.99,0.60,0.40,0.99,0.60
+pintores huelva;20;18;-2;40;0.00;http://www.reparalia.es/pintores/huelva;0.00;0.00;0.26;519000;0.99,0.33,0.56,0.22,0.22,0.44,0.44,0.11,0.22,0.33,0.56,0.44
+atencion cliente endesa telefono gratuito;20;0;0;40;0.76;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.13;4000;0.18,0.18,0.64,0.99,0.64,0.18,0.18,0.18,0.36,0.45,0.36,0.18
+atencion al cliente de endesa gratis;19;19;0;40;0.69;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.09;61000;0.56,0.11,0.22,0.56,0.78,0.22,0.78,0.33,0.22,0.22,0.33,0.99
+reformas badajoz;20;0;0;40;0.78;http://www.reparalia.es/reformas/badajoz;0.00;0.00;0.55;986000;0.78,0.33,0.33,0.56,0.33,0.44,0.22,0.99,0.33,0.11,0.33,0.44
+reformas lleida;20;0;0;40;0.95;http://www.reparalia.es/reformas/lleida;0.00;0.00;0.62;1060000;0.56,0.33,0.11,0.33,0.22,0.33,0.56,0.44,0.22,0.56,0.56,0.99
+persianas en alicante;17;0;0;30;1.14;http://www.reparalia.es/reparar_persianas/alicante;0.00;0.00;0.87;514000;0.75,0.75,0.50,0.50,0.99,0.75,0.99,0.75,0.99,0.75,0.99,0.75
+pintores de sevilla;17;19;2;30;1.18;http://www.reparalia.es/pintores/sevilla;0.00;0.00;0.48;975000;0.33,0.33,0.56,0.22,0.22,0.22,0.22,0.22,0.33,0.56,0.22,0.99
+pintores cordoba;17;0;0;30;0.00;http://www.reparalia.es/pintores/cordoba;0.00;0.00;0.20;1080000;0.44,0.33,0.22,0.22,0.44,0.33,0.33,0.33,0.11,0.22,0.33,0.99
+atencion clientes endesa;20;19;-1;40;0.34;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.16;45000;0.80,0.40,0.99,0.80,0.80,0.60,0.60,0.80,0.99,0.99,0.99,0.99
+endesa telefono atencion cliente gratuito;17;18;1;30;0.69;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.11;4000;0.50,0.25,0.50,0.50,0.99,0.75,0.50,0.50,0.75,0.75,0.99,0.50
+camino cerro de los gamos;17;18;1;30;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.01;60000;0.75,0.75,0.99,0.50,0.50,0.75,0.50,0.99,0.50,0.75,0.50,0.50
+pintores en sabadell;20;0;0;40;1.94;http://www.reparalia.es/pintores/sabadell;0.00;0.00;0.95;227000;0.28,0.99,0.36,0.21,0.14,0.14,0.21,0.14,0.36,0.21,0.14,0.36
+iva reparaciones;17;18;1;30;0.67;http://www.reparalia.es/faqs;0.00;0.00;0.08;635000;0.80,0.60,0.20,0.40,0.60,0.40,0.60,0.60,0.60,0.60,0.80,0.99
+suelos cocina sin obra;19;0;0;40;0.39;http://www.reparalia.es/blog/2014/06/13/reforma-tu-cocina-sin-hacer-obra/;0.00;0.00;0.59;430000;0.99,0.44,0.22,0.22,0.22,0.22,0.22,0.56,0.56,0.44,0.22,0.22
+fuengirola provincia;17;0;0;30;0.26;http://www.reparalia.es/reparar_parquet/fuengirola;0.00;0.00;0.02;552000;0.40,0.60,0.60,0.80,0.60,0.60,0.40,0.40,0.40,0.40,0.80,0.99
+pintores cantabria;18;18;0;40;0.42;http://www.reparalia.es/pintores/cantabria;0.00;0.00;0.35;528000;0.80,0.80,0.60,0.60,0.80,0.40,0.80,0.60,0.80,0.60,0.99,0.99
+electrodomesticos badajoz;19;17;-2;40;0.00;http://www.reparalia.es/electrodomesticos/badajoz;0.00;0.00;0.32;563000;0.56,0.43,0.43,0.43,0.71,0.43,0.56,0.28,0.43,0.43,0.99,0.43
+pintores salamanca;19;0;0;40;0.97;http://www.reparalia.es/pintores/salamanca;0.00;0.00;0.43;607000;0.60,0.60,0.60,0.99,0.99,0.80,0.99,0.60,0.99,0.40,0.99,0.80
+reformas cantabria;18;20;2;40;1.10;http://www.reparalia.es/reformas/cantabria;0.00;0.00;0.66;1110000;0.56,0.44,0.99,0.33,0.44,0.33,0.44,0.22,0.56,0.44,0.44,0.56
+alcañiz provincia;15;12;-3;20;0.00;http://www.reparalia.es/climatizacion/alcaniz;0.00;0.00;0.00;433000;0.40,0.20,0.20,0.40,0.40,0.40,0.99,0.60,0.60,0.20,0.20,0.40
+reformas granollers;16;0;0;20;1.83;http://www.reparalia.es/reformas/barcelona/granollers;0.00;0.00;0.92;357000;0.75,0.75,0.50,0.50,0.50,0.75,0.75,0.25,0.50,0.25,0.50,0.99
+salou provincia;16;0;0;20;0.00;http://www.reparalia.es/electricistas/salou;0.00;0.00;0.01;755000;0.67,0.99,0.67,0.99,0.99,0.99,0.99,0.33,0.33,0.33,0.33,0.67
+tendencias decoración;16;17;1;20;0.00;http://www.reparalia.es/blog/2015/01/21/las-5-tendencias-de-interiorismo-y-decoracion-para-2015/;0.00;0.00;0.13;1590000;0.50,0.75,0.75,0.25,0.99,0.50,0.50,0.99,0.50,0.50,0.50,0.75
+fontaneros en huelva;15;14;-1;20;1.67;http://www.reparalia.es/fontaneros/huelva;0.00;0.00;0.45;460000;0.28,0.71,0.14,0.28,0.14,0.28,0.14,0.14,0.43,0.43,0.99,0.14
+pintores en navarra;15;16;1;20;0.97;https://www.reparalia.es/pintores/navarra/pintar_piso_pintura_plastica_por_m2;0.00;0.00;0.45;521000;0.33,0.33,0.99,0.33,0.33,0.33,0.99,0.99,0.67,0.33,0.33,0.33
+reformas en cadiz;15;13;-2;20;1.12;http://www.reparalia.es/reformas/cadiz;0.00;0.00;0.79;637000;0.50,0.25,0.25,0.50,0.50,0.25,0.50,0.75,0.75,0.25,0.99,0.50
+descuentos suscriptores la vanguardia;16;17;1;20;0.00;http://www.reparalia.es/lavanguardia/;0.00;0.00;0.00;33000;0.33,0.33,0.67,0.99,0.99,0.67,0.99,0.67,0.67,0.67,0.99,0.33
+mesas cafe;15;18;3;20;0.34;http://www.reparalia.es/blog/2015/03/13/15-espectaculares-mesas-de-cafe-do-it-yourself/;0.00;0.00;0.96;23900000;0.33,0.67,0.67,0.33,0.67,0.99,0.67,0.67,0.99,0.99,0.99,0.67
+endesa atencion al cliente telefono gratuito madrid;16;17;1;20;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.03;3000;0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.40,0.60,0.99,0.60,0.40
+como instalar pladur en pared;16;0;0;20;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.02;99000;0.50,0.25,0.25,0.25,0.25,0.25,0.25,0.50,0.99,0.50,0.25,0.25
+ribadeo provincia;15;0;0;20;0.00;http://www.reparalia.es/reformas/ribadeo;0.00;0.00;0.01;405000;0.25,0.50,0.50,0.50,0.99,0.99,0.50,0.50,0.50,0.25,0.25,0.50
+igualada provincia;19;16;-3;30;0.00;http://www.reparalia.es/climatizacion/igualada;0.00;0.00;0.00;542000;0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.80,0.80,0.60,0.60,0.99
+pintores almeria;18;18;0;30;0.67;http://www.reparalia.es/pintores/almeria;0.00;0.00;0.42;333000;0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.43,0.56,0.28,0.56,0.99
+tlf atencion al cliente endesa;19;18;-1;30;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.16;4000;0.50,0.50,0.99,0.75,0.75,0.50,0.50,0.50,0.75,0.50,0.75,0.50
+reformas huesca;20;19;-1;30;1.44;http://www.reparalia.es/reformas/huesca;0.00;0.00;0.64;838000;0.99,0.67,0.99,0.67,0.99,0.67,0.67,0.99,0.99,0.67,0.99,0.67
+endesa atención al cliente gratuito;18;18;0;30;0.78;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.05;29000;0.99,0.28,0.06,0.12,0.12,0.12,0.18,0.06,0.06,0.06,0.06,0.06
+aire sant feliu de llobregat;20;0;0;30;0.00;http://www.reparalia.es/reparar_aire_acondicionado/barcelona/sant_feliu_de_llobregat;0.00;0.00;0.00;428000;0.14,0.14,0.43,0.43,0.43,0.43,0.56,0.99,0.28,0.56,0.28,0.28
+interiorismo zen;13;14;1;10;0.00;http://www.reparalia.es/blog/2015/01/21/las-5-tendencias-de-interiorismo-y-decoracion-para-2015/;0.00;0.00;0.08;113000;0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.67,0.33,0.99,0.33
+campana extractora frecan;19;0;0;30;0.41;http://www.reparalia.es/blog/2015/02/26/inspiracion-las-10-campanas-extractoras-que-revolucionarian-tu-cocina/;0.00;0.00;0.54;3000;0.40,0.40,0.60,0.40,0.80,0.60,0.60,0.80,0.99,0.60,0.99,0.99
+endesa atencion clientes;18;18;0;30;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.04;46000;0.28,0.14,0.28,0.28,0.43,0.28,0.43,0.28,0.56,0.99,0.43,0.43
+calafell provincia;20;0;0;30;0.00;http://www.reparalia.es/reformas/calafell;0.00;0.00;0.02;426000;0.67,0.99,0.99,0.67,0.99,0.99,0.99,0.67,0.99,0.67,0.99,0.99
+electricistas almeria;20;17;-3;30;2.54;http://www.reparalia.es/electricistas/almeria;0.00;0.00;0.86;279000;0.60,0.40,0.99,0.60,0.60,0.99,0.60,0.40,0.40,0.80,0.40,0.60
+albañiles barcelona;18;17;-1;30;2.50;http://www.reparalia.es/albaniles/barcelona;0.00;0.00;0.95;461000;0.40,0.40,0.20,0.40,0.40,0.20,0.60,0.60,0.60,0.60,0.80,0.99
+reformas en oviedo;18;15;-3;30;1.53;http://www.reparalia.es/reformas/vizcaya/oviedo;0.00;0.00;0.67;497000;0.43,0.71,0.43,0.14,0.43,0.43,0.43,0.71,0.28,0.28,0.43,0.99
+persianas jerez;19;0;0;30;0.00;http://www.reparalia.es/reparar_persianas/cadiz/jerez_de_la_frontera;0.00;0.00;0.21;283000;0.67,0.99,0.99,0.67,0.99,0.99,0.67,0.67,0.67,0.67,0.67,0.67
+parquet reparacion;13;19;6;10;0.00;http://www.reparalia.es/reparar_parquet;0.00;0.00;0.80;445000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99
+reformas en huelva;20;0;0;30;1.26;http://www.reparalia.es/reformas/huelva;0.00;0.00;0.73;1010000;0.43,0.28,0.43,0.14,0.14,0.28,0.14,0.43,0.43,0.28,0.99,0.99
+pintores santander;18;0;0;30;0.02;http://www.reparalia.es/pintores/santander;0.00;0.00;0.44;495000;0.99,0.99,0.40,0.60,0.40,0.40,0.60,0.20,0.60,0.60,0.40,0.40
+persianas santander;18;0;0;30;0.16;http://www.reparalia.es/reparar_persianas/cantabria/santander;0.00;0.00;0.70;418000;0.60,0.40,0.40,0.40,0.40,0.60,0.60,0.99,0.60,0.40,0.60,0.40
+persianas lugo;18;0;0;30;1.20;https://www.reparalia.es/reparar_persianas/lugo/cambiar_persianas_de_aluminio;0.00;0.00;0.24;452000;0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.99
+presupuesto albañil;13;15;2;10;0.00;http://www.reparalia.es/albaniles;0.00;0.00;0.73;392000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.50,0.99,0.50,0.50
+presupuestos pintores;18;0;0;30;1.40;http://www.reparalia.es/pintores;0.00;0.00;0.95;451000;0.99,0.99,0.75,0.99,0.75,0.50,0.75,0.75,0.99,0.75,0.75,0.75
+reformas en tres cantos;20;19;-1;30;3.26;http://www.reparalia.es/reformas/madrid/tres_cantos;0.00;0.00;0.69;305000;0.60,0.20,0.20,0.60,0.40,0.40,0.60,0.40,0.60,0.40,0.99,0.60
+reparaciones de parquet;13;0;0;10;1.28;http://www.reparalia.es/reparar_parquet;0.00;0.00;0.79;497000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50
+endesa atencion al cliente telefono barcelona;19;20;1;30;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.00;7000;0.18,0.36,0.82,0.27,0.99,0.09,0.09,0.09,0.09,0.09,0.09,0.09
+atencion cliente de endesa;17;18;1;20;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.12;64000;0.67,0.33,0.33,0.33,0.33,0.99,0.33,0.67,0.33,0.99,0.67,0.67
+almendralejo provincia;17;20;3;20;0.00;http://www.reparalia.es/pintores/almendralejo;0.00;0.00;0.00;453000;0.33,0.99,0.33,0.99,0.67,0.67,0.33,0.33,0.33,0.33,0.33,0.33
+catalogo navidad ikea;17;0;0;20;0.00;http://www.reparalia.es/blog/2014/12/05/los-10-trucos-de-ikea-para-decorar-tu-hogar-en-navidad/;0.00;0.00;0.00;92000;0.11,0.00,0.00,0.00,0.00,0.00,0.11,0.44,0.99,0.56,0.11,0.00
+presupuestos de pintores;17;0;0;20;3.14;http://www.reparalia.es/pintores;0.00;0.00;0.73;1160000;0.67,0.99,0.67,0.67,0.67,0.33,0.33,0.67,0.99,0.67,0.67,0.67
+getafe provincia;17;11;-6;20;0.00;http://www.reparalia.es/climatizacion/getafe;0.00;0.00;0.00;585000;0.33,0.33,0.67,0.33,0.67,0.33,0.33,0.67,0.99,0.33,0.67,0.67
+persianas avila;14;18;4;10;0.00;http://www.reparalia.es/reparar_persianas/avila/avila;0.00;0.00;0.35;6150000;0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.50,0.50
+jaca provincia;14;11;-3;10;0.00;http://www.reparalia.es/climatizacion/jaca;0.00;0.00;0.03;520000;0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.50,0.99
+pintores en huelva;14;14;0;10;0.86;http://www.reparalia.es/pintores/huelva;0.00;0.00;0.65;497000;0.99,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99
+coste instalacion electrica;14;15;1;10;1.31;http://www.reparalia.es/blog/2014/04/29/que-es-el-boletin-electrico-o-certificado-de-instalacion-electrica/;0.00;0.00;0.56;96000;0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.99,0.99
+fontaneros 24h;14;0;0;10;11.75;http://www.reparalia.es/fontaneros;0.00;0.00;0.71;493000;0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.99,0.33,0.33,0.33,0.33
+camino cerro de los gamos 3;18;0;0;20;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.00;72000;0.99,0.50,0.50,0.50,0.50,0.50,0.75,0.75,0.25,0.75,0.25,0.50
+endesa telefono de atencion al cliente gratuito;20;19;-1;20;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.10;5000;0.99,0.99,0.50,0.99,0.99,0.50,0.50,0.50,0.99,0.50,0.99,0.50
+cambrils provincia;20;0;0;20;0.00;http://www.reparalia.es/climatizacion/cambrils;0.00;0.00;0.00;481000;0.33,0.67,0.33,0.99,0.67,0.67,0.67,0.67,0.67,0.33,0.67,0.33
+pintores terrassa;19;18;-1;20;2.35;http://www.reparalia.es/pintores/terrassa;0.00;0.00;0.90;208000;0.99,0.99,0.67,0.67,0.67,0.67,0.99,0.99,0.99,0.67,0.99,0.33
+endesa madrid atencion al cliente;20;18;-2;20;0.66;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.06;32000;0.25,0.25,0.99,0.50,0.99,0.50,0.99,0.99,0.50,0.25,0.50,0.50
+fontaneros en toledo;18;16;-2;20;2.58;http://www.reparalia.es/fontaneros/toledo;0.00;0.00;0.93;477000;0.67,0.67,0.99,0.67,0.67,0.67,0.99,0.67,0.99,0.99,0.33,0.67
+decoracion tendencias;19;0;0;20;0.60;http://www.reparalia.es/blog/2015/01/21/las-5-tendencias-de-interiorismo-y-decoracion-para-2015/;0.00;0.00;0.27;953000;0.50,0.25,0.50,0.25,0.50,0.50,0.75,0.50,0.50,0.50,0.75,0.99
+pintores en ciudad real;20;0;0;20;0.00;http://www.reparalia.es/pintores/ciudad_real;0.00;0.00;0.37;634000;0.99,0.50,0.25,0.50,0.25,0.25,0.25,0.25,0.50,0.25,0.50,0.25
+atencion al cliente endesa madrid;20;19;-1;20;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.08;32000;0.99,0.43,0.28,0.14,0.28,0.14,0.28,0.14,0.28,0.14,0.28,0.28
+aire acondicionado dos hermanas;18;0;0;20;0.00;http://www.reparalia.es/reparar_aire_acondicionado/osuna/dos_hermanas;0.00;0.00;0.47;404000;0.40,0.60,0.99,0.40,0.40,0.20,0.20,0.40,0.20,0.20,0.20,0.40
+telefono atencion cliente de endesa;19;0;0;20;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.14;15000;0.50,0.50,0.25,0.50,0.25,0.50,0.25,0.50,0.50,0.99,0.50,0.25
+endesa teléfono de atención al cliente;20;19;-1;20;1.60;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.44;83000;0.99,0.40,0.20,0.40,0.20,0.20,0.40,0.20,0.20,0.20,0.20,0.20
+estepona provincia;20;19;-1;20;0.00;http://www.reparalia.es/electrodomesticos/estepona;0.00;0.00;0.01;761000;0.50,0.50,0.50,0.50,0.99,0.25,0.50,0.50,0.50,0.25,0.25,0.50
+empresa de reparaciones del hogar;19;0;0;20;0.62;http://www.reparalia.es/;0.00;0.00;0.70;1120000;0.50,0.75,0.25,0.50,0.50,0.25,0.50,0.75,0.75,0.99,0.75,0.50
+endesa telefono gratuito de atencion al cliente;19;20;1;20;1.35;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.13;5000;0.60,0.20,0.20,0.20,0.20,0.60,0.80,0.20,0.60,0.20,0.99,0.60
+endesa fax;18;20;2;20;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.11;396000;0.33,0.67,0.99,0.67,0.67,0.33,0.67,0.67,0.99,0.33,0.33,0.67
+ikea catalogo navidad;19;0;0;20;0.00;http://www.reparalia.es/blog/2014/12/05/los-10-trucos-de-ikea-para-decorar-tu-hogar-en-navidad/;0.00;0.00;0.05;93000;0.00,0.00,0.00,0.00,0.11,0.00,0.11,0.44,0.99,0.99,0.11,0.11
+reformas irun;20;19;-1;20;1.57;http://www.reparalia.es/reformas/irun;0.00;0.00;0.86;202000;0.67,0.67,0.33,0.99,0.67,0.33,0.33,0.67,0.67,0.67,0.67,0.67
+ontinyent provincia;18;0;0;20;0.00;http://www.reparalia.es/pintores/ontinyent;0.00;0.00;0.00;524000;0.33,0.99,0.67,0.99,0.33,0.33,0.67,0.67,0.33,0.67,0.67,0.67
+telefono de atencion al cliente endesa gratuito;18;0;0;20;1.42;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.03;5000;0.40,0.20,0.80,0.40,0.20,0.20,0.60,0.20,0.20,0.60,0.99,0.60
+roquetas de mar provincia;18;17;-1;20;0.00;http://www.reparalia.es/climatizacion/roquetas_de_mar;0.00;0.00;0.03;516000;0.67,0.67,0.99,0.67,0.99,0.67,0.99,0.33,0.33,0.33,0.33,0.67
+el parquet;18;0;0;20;0.00;http://www.reparalia.es/blog/2014/10/02/8-cosas-que-todos-deberiamos-saber-sobre-el-parquet/;0.00;0.00;0.24;28500000;0.67,0.67,0.67,0.67,0.33,0.33,0.67,0.67,0.67,0.67,0.99,0.67
+telefono atencion clientes endesa;19;18;-1;20;1.12;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.14;11000;0.99,0.33,0.67,0.33,0.67,0.33,0.67,0.99,0.67,0.67,0.67,0.99
+figueres provincia;20;0;0;20;0.00;http://www.reparalia.es/pintores/figueres;0.00;0.00;0.00;552000;0.33,0.67,0.33,0.67,0.67,0.67,0.33,0.99,0.33,0.67,0.67,0.67
+estantes de pladur;19;0;0;20;0.00;http://www.reparalia.es/blog/2014/06/18/puedo-colgar-cosas-pesadas-de-una-pared-de-pladur/;0.00;0.00;0.35;216000;0.50,0.50,0.99,0.50,0.25,0.50,0.50,0.75,0.75,0.50,0.75,0.50
+endesa atención cliente gratis;18;18;0;20;0.32;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.04;52000;0.25,0.25,0.75,0.50,0.25,0.25,0.50,0.25,0.25,0.25,0.75,0.99
+persianas hogar;19;19;0;20;1.79;http://www.reparalia.es/blog/2014/11/27/9-tipos-de-persianas-para-decorar-tu-hogar/;0.00;0.00;0.59;825000;0.33,0.67,0.99,0.99,0.67,0.67,0.67,0.33,0.33,0.67,0.33,0.33
+servicio de atencion al cliente de endesa;18;20;2;20;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.07;44000;0.99,0.99,0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.99,0.99,0.99
+persianas el avila;15;17;2;10;0.00;http://www.reparalia.es/reparar_persianas/avila/avila;0.00;0.00;0.00;407000;0.99,0.00,0.00,0.00,0.99,0.00,0.99,0.99,0.00,0.99,0.99,0.00
+parquet norte;16;14;-2;10;0.00;http://www.reparalia.es/reparar_parquet/tenerife/buenavista_del_norte;0.00;0.00;0.00;527000;0.99,0.99,0.99,0.99,0.00,0.99,0.00,0.99,0.00,0.00,0.99,0.00
+endesa telefono 91;16;17;1;10;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.13;44000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50
+endesa atencion al cliente madrid;15;17;2;10;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.06;31000;0.99,0.14,0.14,0.14,0.14,0.43,0.14,0.14,0.14,0.14,0.14,0.14
+pergolas en cordoba;15;0;0;10;0.00;http://www.reparalia.es/toldos_y_pergolas/villanueva_de_cordoba;0.00;0.00;0.80;411000;0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.00,0.99
+brico tu;15;14;-1;10;0.00;http://www.reparalia.es/blog/2015/01/08/cumple-tu-proposito-1-descubre-el-brico-gimnasio-para-manitas/;0.00;0.00;0.00;524000;0.33,0.33,0.33,0.33,0.99,0.33,0.67,0.33,0.33,0.33,0.33,0.33
+persianas vizcaya;15;0;0;10;1.08;http://www.reparalia.es/reparar_persianas/vizcaya;0.00;0.00;0.91;392000;0.99,0.50,0.99,0.99,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50
+electrodomésticos andorra;17;19;2;10;0.00;http://www.reparalia.es/electrodomesticos/teruel/andorra;0.00;0.00;0.56;719000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.99,0.67,0.67
+servicio de atencion al cliente endesa;17;0;0;10;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.09;44000;0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+fax de endesa;17;19;2;10;1.69;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.17;395000;0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99
+reformas en irun;20;18;-2;10;0.00;http://www.reparalia.es/reformas/irun;0.00;0.00;0.69;190000;0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+seguros direct hogar;19;0;0;10;1.94;http://www.reparalia.es/;0.00;0.00;0.83;390000;0.50,0.50,0.99,0.99,0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.50
+escalera para casas;18;0;0;10;0.00;http://www.reparalia.es/blog/2014/10/07/tienes-escaleras-en-casa-sigue-estas-normas-de-seguridad-para-no-acabar-en-el-hospital/;0.00;0.00;0.36;9580000;0.99,0.99,0.00,0.00,0.00,0.99,0.00,0.99,0.99,0.99,0.00,0.99
+lo ultimo en tendencia;19;19;0;10;0.10;http://www.reparalia.es/blog/2015/01/21/las-5-tendencias-de-interiorismo-y-decoracion-para-2015/;0.00;0.00;0.07;2630000;0.99,0.99,0.99,0.00,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99
+reciclar todo;19;16;-3;10;0.00;http://www.reparalia.es/blog/2014/11/11/vida-extra-como-reciclar-todo-lo-que-sale-de-tu-casa/;0.00;0.00;0.11;10200000;0.33,0.33,0.33,0.67,0.33,0.67,0.33,0.67,0.99,0.67,0.33,0.33
+don benito provincia;20;0;0;10;0.00;http://www.reparalia.es/climatizacion/don_benito;0.00;0.00;0.00;1940000;0.99,0.99,0.50,0.99,0.50,0.50,0.50,0.99,0.99,0.99,0.50,0.99
+reparacion gas;18;0;0;10;0.00;http://www.reparalia.es/;0.00;0.00;0.48;709000;0.50,0.00,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+pergolas cordoba;18;0;0;10;0.53;https://www.reparalia.es/toldos_y_pergolas/cordoba/reparar_toldos_y_pergolas;0.00;0.00;0.89;411000;0.99,0.99,0.99,0.99,0.99,0.00,0.00,0.99,0.99,0.99,0.99,0.99
+endesa email atencion al cliente;20;20;0;10;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.05;12000;0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99
+preparar jardin;18;17;-1;10;0.00;http://www.reparalia.es/blog/2014/09/24/los-7-pasos-para-preparar-tu-terraza-o-jardin-para-este-otono/;0.00;0.00;0.13;1130000;0.99,0.67,0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.67
+cómo aprender a pintar;19;16;-3;10;0.00;http://www.reparalia.es/blog/2014/06/10/como-aprender-a-pintar-mientras-haces-nuevos-amigos-i-workshop-reparalia-de-pintura-decorativa/;0.00;0.00;0.23;68200000;0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+email endesa atencion al cliente;18;0;0;10;0.00;http://www.reparalia.es/conocenos/atencion-al-cliente;0.00;0.00;0.10;12000;0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+el tiempo en molins de rei ahora;20;0;0;10;0.00;http://www.reparalia.es/cerrajeros/barcelona/molins_de_rei;0.00;0.00;0.00;142000;0.40,0.40,0.40,0.40,0.99,0.40,0.20,0.20,0.00,0.20,0.20,0.00

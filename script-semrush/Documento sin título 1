@@ -1,0 +1,30 @@
+import sqlite3 as lite
+
+def _desest(vcdda):
+   vforlis = "["+vcdda+"]" ###esto me crea una cadena para formar mi lista
+   lista = eval(vforlis) #esto trasforma mi cadena en lista
+   lista2 = []
+   A = len(lista)
+   suma=0
+   varis=0
+   if A>1:
+       for i in lista:
+           suma += i
+       p = ((suma+0.0)/(A+0.0))
+       for j in range((A)):
+            sumat = (lista[j]-p)**2
+           lista2.append(sumat)
+       for k in lista2:
+           varis += k
+       vari = varis
+       va = sqrt((vari+0.0)/(A+0.0))
+       print "Desviacion estandar"
+       print str(va)
+       #vb = Label(ventana, text="La desviacion estandar es de=\n"+str(va), justify=CENTER)
+       #vb.grid(row=5, column=2,)
+   else:
+       print "Datos insuficientes", "No han sido incluidos suficientes datos como para realizar la desviación estándar.\n introduzca más datos; gracias"
+
+if __name__ == "__main__":
+    vcdda = (8,8,8,8,9,9,6,6,65,5,3,2,)
+    _desest(vcdda)

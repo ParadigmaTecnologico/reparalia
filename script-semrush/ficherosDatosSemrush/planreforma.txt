@@ -1,0 +1,981 @@
+Keyword;Position;Previous Position;Position Difference;Search Volume;CPC;Url;Traffic (%);Traffic Cost (%);Competition;Number of Results;Trends
+reformas integrales;2;2;0;3600;3.51;http://planreforma.com/;13.74;23.01;0.88;690000;0.82,0.66,0.82,0.66,0.66,0.55,0.82,0.99,0.99,0.99,0.99,0.99
+reformas;4;3;-1;4400;1.61;http://planreforma.com/;9.04;6.94;0.88;61500000;0.99,0.99,0.99,0.81,0.81,0.67,0.99,0.99,0.99,0.67,0.99,0.99
+reforma integral;1;1;0;390;2.87;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;5.38;7.37;0.70;688000;0.66,0.54,0.66,0.66,0.54,0.54,0.54,0.81,0.66,0.44,0.66,0.99
+reformas pisos;1;1;0;210;2.99;http://planreforma.com/;2.89;4.13;0.78;1240000;0.81,0.42,0.81,0.54,0.65,0.54,0.65,0.81,0.99,0.81,0.99,0.81
+piscinas desbordantes;2;2;0;390;1.04;http://planreforma.com/blog/piscinas-desbordantes-o-piscinas-infinitas/;1.48;0.73;0.78;166000;0.66,0.66,0.54,0.81,0.99,0.81,0.54,0.54,0.44,0.28,0.54,0.54
+cuanto cuesta un ascensor;1;1;0;90;1.05;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;1.24;0.62;0.80;249000;0.82,0.64,0.82,0.64,0.45,0.64,0.99,0.82,0.82,0.64,0.82,0.82
+presupuesto reforma;2;1;-1;320;4.00;http://planreforma.com/;1.22;2.33;0.91;39600000;0.99,0.66,0.54,0.54,0.44,0.28,0.44,0.54,0.66,0.54,0.66,0.54
+cuanto cuesta construir una casa;11;6;-5;880;0.47;http://planreforma.com/calculador-obra_nueva/;1.21;0.27;0.51;1010000;0.72,0.59,0.72,0.59,0.72,0.99,0.99,0.99,0.88,0.72,0.88,0.88
+el croquis;10;10;0;1300;0.27;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;1.14;0.14;0.00;674000;0.84,0.68,0.68,0.46,0.53,0.46,0.68,0.99,0.84,0.84,0.68,0.68
+ventanas pvc o aluminio;3;2;-1;390;0.74;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;1.03;0.36;0.68;681000;0.36,0.36,0.36,0.36,0.28,0.36,0.44,0.54,0.67,0.54,0.82,0.99
+cuanto cuesta reformar un baño;3;3;0;390;1.69;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;1.03;0.83;0.79;36000;0.54,0.54,0.54,0.54,0.54,0.54,0.81,0.66,0.66,0.66,0.99,0.81
+cuanto cuesta reformar un piso;3;3;0;390;2.15;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;1.03;1.05;0.72;42000;0.66,0.44,0.36,0.36,0.44,0.54,0.66,0.66,0.66,0.66,0.99,0.81
+presupuesto reforma casa;1;1;0;70;2.41;http://planreforma.com/;0.96;1.11;0.94;13500000;0.56,0.44,0.78,0.78,0.99,0.78,0.78,0.78,0.78,0.44,0.78,0.78
+cuanto cuesta poner un ascensor;1;1;0;70;2.57;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.96;1.18;0.77;101000;0.64,0.45,0.36,0.36,0.36,0.36,0.45,0.64,0.64,0.64,0.99,0.82
+construir una casa;8;8;0;1000;0.81;http://planreforma.com/calculador-obra_nueva/;0.88;0.34;0.77;64300000;0.99,0.99,0.77,0.77,0.77,0.99,0.77,0.99,0.99,0.77,0.99,0.99
+tarima sintetica exterior;4;5;1;390;1.45;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.80;0.55;0.75;46000;0.81,0.67,0.99,0.99,0.81,0.67,0.99,0.81,0.54,0.28,0.54,0.81
+pvc o aluminio;4;4;0;390;0.73;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.80;0.27;0.44;1860000;0.54,0.54,0.66,0.54,0.54,0.36,0.54,0.81,0.99,0.81,0.99,0.99
+reformar piso;4;3;-1;390;2.31;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;0.80;0.88;0.85;13400000;0.54,0.44,0.66,0.44,0.54,0.54,0.66,0.81,0.81,0.66,0.99,0.81
+presupuesto ascensor;1;1;0;50;3.45;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.68;1.13;0.90;599000;0.43,0.56,0.99,0.71,0.43,0.28,0.56,0.71,0.71,0.71,0.99,0.99
+presupuestos reformas;3;3;0;260;4.38;http://planreforma.com/;0.68;1.43;0.86;11800000;0.99,0.81,0.99,0.99,0.53,0.53,0.81,0.99,0.81,0.66,0.81,0.81
+suelos de cocina;11;10;-1;480;0.66;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.66;0.20;0.48;24100000;0.82,0.67,0.67,0.54,0.54,0.44,0.54,0.67,0.67,0.54,0.99,0.99
+reforma integral piso;11;17;6;480;2.49;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.66;0.78;0.85;561000;0.67,0.44,0.54,0.54,0.44,0.44,0.54,0.67,0.67,0.54,0.99,0.99
+reformas de pisos;4;7;3;320;2.54;http://planreforma.com/;0.65;0.79;0.90;1220000;0.54,0.44,0.44,0.44,0.36,0.36,0.54,0.66,0.66,0.99,0.99,0.81
+tarima exterior sintetica;5;6;1;390;1.24;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.57;0.33;0.77;46000;0.99,0.81,0.99,0.99,0.66,0.66,0.54,0.54,0.44,0.44,0.66,0.54
+presupuestos de reformas;5;5;0;390;4.58;http://planreforma.com/;0.57;1.25;0.86;11900000;0.81,0.99,0.66,0.54,0.44,0.44,0.66,0.66,0.66,0.66,0.44,0.44
+reformas de casas;7;6;-1;480;2.18;http://planreforma.com/;0.56;0.58;0.89;19500000;0.82,0.67,0.67,0.54,0.54,0.54,0.67,0.54,0.67,0.67,0.82,0.99
+presupuesto reforma piso;2;2;0;140;2.88;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.53;0.73;0.74;683000;0.65,0.35,0.65,0.65,0.65,0.81,0.81,0.99,0.35,0.27,0.27,0.54
+comparar presupuestos;4;4;0;260;1.27;http://planreforma.com/blog/como-comparar-presupuestos-de-reforma-de-forma-facil/;0.53;0.32;0.02;848000;0.23,0.28,0.82,0.67,0.54,0.67,0.82,0.82,0.82,0.99,0.82,0.82
+precio construir casa;4;4;0;260;0.44;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.53;0.11;0.73;16800000;0.35,0.44,0.44,0.28,0.54,0.81,0.67,0.67,0.67,0.67,0.99,0.67
+reformar un piso;2;2;0;140;1.45;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;0.53;0.36;0.79;13800000;0.81,0.52,0.67,0.52,0.52,0.67,0.81,0.81,0.67,0.52,0.81,0.99
+precio cerramiento terraza;2;2;0;140;1.61;http://planreforma.com/blog/cuanto-cuesta-construir-un-cerramiento-en-la-terraza-beneficiate-ademas-de-las-ayudas-que-da-el-gobierno/;0.53;0.41;0.88;365000;0.43,0.33,0.43,0.43,0.52,0.43,0.52,0.52,0.81,0.67,0.99,0.99
+cuanto cuesta reformar una casa;4;1;-3;260;1.92;http://planreforma.com/calculador-reforma/;0.53;0.48;0.64;72000;0.81,0.81,0.99,0.81,0.81,0.81,0.99,0.81,0.81,0.66,0.99,0.99
+pintar piso;6;6;0;320;1.24;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.46;0.27;0.46;837000;0.99,0.67,0.82,0.82,0.82,0.44,0.82,0.99,0.82,0.54,0.82,0.67
+ventanas de aluminio o pvc;6;5;-1;320;0.83;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.46;0.18;0.75;638000;0.24,0.24,0.36,0.28,0.28,0.36,0.44,0.44,0.99,0.54,0.99,0.99
+piscina desbordante;5;8;3;320;1.18;http://planreforma.com/blog/piscinas-desbordantes-o-piscinas-infinitas/;0.46;0.26;0.56;163000;0.54,0.81,0.81,0.81,0.99,0.81,0.81,0.44,0.35,0.35,0.54,0.67
+reforma casa;3;3;0;170;2.86;http://planreforma.com/calculador-reforma/;0.44;0.61;0.78;75100000;0.67,0.67,0.99,0.81,0.67,0.67,0.81,0.99,0.67,0.67,0.81,0.99
+cerramientos de terrazas precios;3;3;0;170;1.91;http://planreforma.com/blog/cuanto-cuesta-construir-un-cerramiento-en-la-terraza-beneficiate-ademas-de-las-ayudas-que-da-el-gobierno/;0.44;0.40;0.93;240000;0.81,0.99,0.81,0.54,0.15,0.54,0.65,0.27,0.42,0.42,0.81,0.99
+ventanas de pvc o aluminio;4;5;1;210;0.72;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.43;0.14;0.79;498000;0.36,0.36,0.44,0.44,0.36,0.28,0.54,0.67,0.99,0.82,0.54,0.82
+presupuesto reforma integral;4;3;-1;210;2.79;http://planreforma.com/presupuesto-reforma/;0.43;0.57;0.86;732000;0.99,0.99,0.54,0.28,0.18,0.28,0.44,0.54,0.54,0.36,0.82,0.99
+suelos cocina;10;11;1;480;1.01;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.42;0.20;0.56;24000000;0.81,0.66,0.81,0.66,0.54,0.66,0.81,0.81,0.81,0.54,0.99,0.99
+aislantes acusticos;9;9;0;480;0.79;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.42;0.15;1.00;290000;0.81,0.66,0.66,0.66,0.66,0.54,0.66,0.81,0.99,0.81,0.99,0.81
+ladrillo visto;8;6;-2;480;0.26;http://planreforma.com/blog/decorando-con-paredes-de-ladrillo-visto/;0.42;0.05;0.17;872000;0.99,0.81,0.81,0.81,0.81,0.66,0.81,0.81,0.81,0.81,0.99,0.99
+salones minimalistas;8;9;1;480;0.23;http://planreforma.com/blog/como-decorar-un-salon-con-estilo-minimalista/;0.42;0.04;0.06;562000;0.66,0.54,0.66,0.66,0.44,0.66,0.81,0.81,0.99,0.81,0.99,0.99
+jardin minimalista;2;2;0;110;0.00;http://planreforma.com/blog/10-consejos-para-tu-jardin-minimalista-sabes-que-tener-en-cuenta/;0.41;0.00;0.05;487000;0.99,0.82,0.99,0.82,0.65,0.65,0.53,0.53,0.41,0.28,0.53,0.53
+cerramientos terrazas precios;2;2;0;110;1.48;http://planreforma.com/blog/cuanto-cuesta-construir-un-cerramiento-en-la-terraza-beneficiate-ademas-de-las-ayudas-que-da-el-gobierno/;0.41;0.29;0.85;239000;0.42,0.19,0.15,0.12,0.27,0.35,0.42,0.81,0.81,0.54,0.99,0.54
+presupuestos reformas madrid;2;3;1;110;5.42;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.41;1.08;0.62;667000;0.35,0.35,0.42,0.42,0.35,0.27,0.19,0.42,0.42,0.42,0.99,0.65
+presupuesto de reforma;2;2;0;110;3.92;http://planreforma.com/;0.41;0.78;0.83;39800000;0.67,0.52,0.52,0.19,0.43,0.99,0.81,0.43,0.52,0.24,0.24,0.33
+reforma terraza;1;1;0;30;1.55;http://planreforma.com/blog/tag/terrazas/;0.41;0.30;0.37;7290000;0.99,0.60,0.80,0.60,0.60,0.20,0.40,0.40,0.60,0.60,0.80,0.60
+presupuesto obra casa;1;1;0;30;2.52;http://planreforma.com/calculador-obra_nueva/;0.41;0.49;0.80;18200000;0.14,0.14,0.14,0.14,0.28,0.28,0.28,0.71,0.99,0.71,0.56,0.28
+jardines artificiales;1;1;0;30;0.48;http://planreforma.com/blog/jardines-artificiales-interior-exterior/;0.41;0.09;0.56;538000;0.99,0.20,0.60,0.99,0.60,0.80,0.80,0.80,0.60,0.40,0.60,0.99
+honorarios arquitecto;6;6;0;260;0.96;http://planreforma.com/blog/cuales-son-los-honorarios-de-un-arquitecto/;0.38;0.17;0.27;378000;0.99,0.81,0.66,0.66,0.53,0.44,0.81,0.81,0.99,0.81,0.99,0.99
+suelo cocina;6;5;-1;260;0.91;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.38;0.16;0.28;32700000;0.81,0.66,0.81,0.66,0.81,0.66,0.81,0.81,0.81,0.66,0.99,0.99
+precio construir casa;5;5;0;260;0.44;http://planreforma.com/calculador-obra_nueva/;0.38;0.08;0.73;16800000;0.35,0.44,0.44,0.28,0.54,0.81,0.67,0.67,0.67,0.67,0.99,0.67
+cerrar terraza;5;5;0;260;2.23;http://planreforma.com/blog/cuanto-cuesta-construir-un-cerramiento-en-la-terraza-beneficiate-ademas-de-las-ayudas-que-da-el-gobierno/;0.38;0.40;0.73;14400000;0.82,0.54,0.54,0.67,0.54,0.54,0.67,0.82,0.82,0.67,0.82,0.99
+presupuesto construccion casa;3;4;1;140;0.90;http://planreforma.com/calculador-obra_nueva/;0.36;0.15;0.87;620000;0.82,0.65,0.99,0.65,0.65,0.82,0.99,0.65,0.65,0.65,0.82,0.82
+presupuesto reformas;3;0;0;140;4.65;http://planreforma.com/presupuesto-reforma/;0.36;0.82;0.80;23200000;0.82,0.82,0.65,0.99,0.82,0.82,0.65,0.82,0.65,0.53,0.65,0.82
+presupuestos para reformas;3;3;0;140;3.52;http://planreforma.com/;0.36;0.62;0.64;11000000;0.43,0.19,0.33,0.67,0.99,0.52,0.52,0.81,0.67,0.67,0.99,0.81
+reformas piso;11;0;0;260;3.65;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.35;0.62;0.81;10400000;0.82,0.99,0.36,0.12,0.12,0.06,0.67,0.44,0.15,0.24,0.36,0.15
+terrazas urbanas;2;2;0;90;2.76;http://planreforma.com/blog/decoracion-feng-shui-terrazas-urbanas/;0.34;0.45;0.11;5280000;0.82,0.65,0.99,0.82,0.65,0.41,0.53,0.28,0.28,0.18,0.28,0.53
+reforma tu casa;2;4;2;90;1.82;http://planreforma.com/calculador-reforma/;0.34;0.29;0.87;922000;0.99,0.64,0.50,0.79,0.64,0.64,0.79,0.64,0.50,0.36,0.79,0.79
+presupuesto de reformas;2;2;0;90;3.91;http://planreforma.com/;0.34;0.64;0.88;23800000;0.82,0.65,0.53,0.99,0.41,0.28,0.65,0.28,0.28,0.53,0.28,0.41
+presupuesto reforma vivienda;2;2;0;90;2.84;http://planreforma.com/;0.34;0.46;0.93;12300000;0.41,0.41,0.53,0.28,0.41,0.28,0.28,0.41,0.65,0.53,0.82,0.99
+cuanto cuesta construir una casa;12;0;0;880;0.47;http://planreforma.com/blog/cuanto-cuesta-construir-una-casa-utiliza-el-calculador-de-obra-nueva-de-plan-reforma-para-saberlo/;0.33;0.07;0.51;1010000;0.72,0.59,0.72,0.59,0.72,0.99,0.99,0.99,0.88,0.72,0.88,0.88
+precio construccion casa;6;7;1;210;0.49;http://planreforma.com/calculador-obra_nueva/;0.30;0.07;0.78;10700000;0.81,0.81,0.99,0.81,0.66,0.53,0.44,0.44,0.53,0.34,0.66,0.81
+aluminio o pvc;5;5;0;210;0.63;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.30;0.09;0.44;1840000;0.54,0.44,0.44,0.44,0.44,0.36,0.54,0.67,0.67,0.54,0.67,0.99
+construir casa;7;10;3;260;0.79;http://planreforma.com/calculador-obra_nueva/;0.30;0.11;0.84;67000000;0.82,0.54,0.67,0.54,0.54,0.67,0.54,0.54,0.67,0.54,0.99,0.54
+precio reforma integral piso;11;10;-1;210;2.56;http://planreforma.com/presupuesto-reforma/;0.28;0.35;0.76;339000;0.28,0.10,0.18,0.18,0.28,0.67,0.67,0.67,0.82,0.54,0.99,0.67
+precio reforma baño;8;10;2;320;1.74;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.28;0.23;0.85;7930000;0.82,0.67,0.67,0.67,0.67,0.54,0.67,0.67,0.82,0.67,0.99,0.99
+reformas de viviendas;9;8;-1;320;4.17;http://planreforma.com/;0.28;0.56;0.86;10600000;0.54,0.28,0.36,0.36,0.44,0.54,0.99,0.54,0.44,0.54,0.44,0.28
+presupuesto para reformar una casa;1;0;0;20;2.41;http://planreforma.com/presupuesto-reforma/;0.27;0.31;0.89;670000;0.99,0.67,0.99,0.99,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33
+ventanas aluminio vs pvc;1;1;0;20;0.84;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.27;0.11;0.51;56000;0.67,0.67,0.67,0.67,0.67,0.33,0.67,0.99,0.67,0.67,0.67,0.67
+reformas de terrazas;1;1;0;20;1.30;http://planreforma.com/blog/tag/terrazas/;0.27;0.17;0.71;1490000;0.99,0.67,0.67,0.99,0.67,0.67,0.33,0.67,0.67,0.33,0.67,0.67
+presupuesto de reforma de vivienda;1;2;1;20;2.77;http://planreforma.com/;0.27;0.36;1.00;12700000;0.56,0.71,0.99,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14
+hacer un croquis;1;1;0;20;0.00;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.27;0.00;0.00;760000;0.99,0.67,0.99,0.67,0.99,0.33,0.99,0.99,0.99,0.67,0.67,0.99
+suelos para cocinas;12;11;-1;720;0.88;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.27;0.11;0.74;20700000;0.88,0.59,0.72,0.59,0.59,0.59,0.72,0.59,0.88,0.59,0.99,0.99
+presupuesto reforma casa;2;0;0;70;2.41;http://planreforma.com/presupuesto-reforma/;0.26;0.30;0.94;13500000;0.56,0.44,0.78,0.78,0.99,0.78,0.78,0.78,0.78,0.44,0.78,0.78
+presupuestos reformas online;2;2;0;70;4.49;http://planreforma.com/;0.26;0.57;0.75;643000;0.99,0.41,0.65,0.53,0.18,0.06,0.24,0.24,0.18,0.24,0.28,0.24
+cerramiento terraza precio;2;2;0;70;1.96;http://planreforma.com/blog/cuanto-cuesta-construir-un-cerramiento-en-la-terraza-beneficiate-ademas-de-las-ayudas-que-da-el-gobierno/;0.26;0.24;0.84;365000;0.64,0.36,0.64,0.50,0.50,0.79,0.99,0.21,0.36,0.36,0.79,0.50
+precio reforma integral;6;6;0;170;2.81;http://planreforma.com/presupuesto-reforma/;0.24;0.33;0.82;628000;0.81,0.66,0.66,0.99,0.66,0.16,0.34,0.53,0.53,0.34,0.53,0.66
+ventanas aluminio o pvc;6;4;-2;170;0.90;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.24;0.10;0.72;471000;0.28,0.23,0.28,0.28,0.36,0.28,0.44,0.44,0.54,0.44,0.82,0.99
+como pintar un piso;6;5;-1;170;1.91;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.24;0.22;0.15;910000;0.99,0.99,0.99,0.99,0.99,0.99,0.82,0.82,0.65,0.53,0.82,0.99
+tarima de exterior;6;6;0;170;1.18;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.24;0.14;0.79;561000;0.81,0.66,0.99,0.81,0.53,0.34,0.34,0.34,0.34,0.28,0.28,0.34
+precio ascensor;6;4;-2;170;1.39;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.24;0.16;0.95;32400000;0.65,0.54,0.54,0.54,0.42,0.65,0.54,0.65,0.65,0.65,0.99,0.81
+ancho silla de ruedas;3;3;0;90;0.44;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.23;0.04;0.28;487000;0.64,0.64,0.82,0.64,0.64,0.64,0.82,0.99,0.82,0.64,0.99,0.99
+ideas para reformar un piso;3;3;0;90;1.43;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.23;0.16;0.65;241000;0.65,0.53,0.65,0.41,0.65,0.53,0.41,0.24,0.28,0.65,0.99,0.65
+reformar casa;11;11;0;170;2.81;http://planreforma.com/calculador-reforma/;0.23;0.31;0.84;13700000;0.99,0.67,0.81,0.67,0.81,0.81,0.67,0.81,0.99,0.67,0.99,0.99
+ideas interiorismo;11;13;2;170;0.26;http://planreforma.com/cajon_de_ideas/;0.23;0.02;0.24;641000;0.65,0.81,0.65,0.65,0.65,0.42,0.81,0.65,0.65,0.65,0.65,0.99
+tarima sintetica;10;13;3;260;0.90;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.22;0.09;0.56;132000;0.82,0.82,0.67,0.54,0.44,0.54,0.82,0.82,0.54,0.54,0.82,0.99
+cuanto cuesta reformar una cocina;9;6;-3;260;1.63;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.22;0.17;0.64;39000;0.67,0.54,0.67,0.44,0.54,0.44,0.67,0.67,0.67,0.54,0.99,0.82
+presupuesto reforma baño;9;8;-1;260;1.89;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.22;0.20;0.87;503000;0.82,0.67,0.67,0.67,0.99,0.54,0.67,0.67,0.67,0.67,0.82,0.67
+suelo radiante opiniones;4;4;0;110;0.74;http://planreforma.com/blog/sistemas-de-calefaccion-que-es-el-suelo-radiante-y-cuando-usarlo/;0.22;0.07;0.26;101000;0.16,0.12,0.09,0.12,0.16,0.12,0.22,0.28,0.53,0.81,0.81,0.99
+reformas integrales barcelona;14;12;-2;1000;4.29;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.20;0.42;0.82;473000;0.55,0.55,0.81,0.81,0.62,0.45,0.55,0.62,0.62,0.62,0.99,0.99
+tarima madera exterior;5;6;1;140;1.55;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.20;0.15;0.82;509000;0.81,0.81,0.99,0.81,0.67,0.52,0.52,0.43,0.43,0.33,0.67,0.67
+presupuesto obra;6;6;0;140;1.88;http://planreforma.com/;0.20;0.18;0.73;43400000;0.65,0.65,0.82,0.99,0.82,0.53,0.82,0.82,0.82,0.65,0.99,0.82
+precio reforma integral;7;0;0;170;2.81;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.19;0.26;0.82;628000;0.81,0.66,0.66,0.99,0.66,0.16,0.34,0.53,0.53,0.34,0.53,0.66
+obras en casa;11;10;-1;140;0.80;http://planreforma.com/;0.19;0.07;0.39;93200000;0.65,0.65,0.99,0.82,0.65,0.65,0.99,0.65,0.82,0.53,0.65,0.82
+tipos de inodoros;2;2;0;50;0.73;http://planreforma.com/blog/tipos-de-inodoros/;0.19;0.06;0.37;583000;0.80,0.99,0.80,0.80,0.60,0.99,0.80,0.99,0.80,0.99,0.99,0.99
+reformas presupuestos;2;2;0;50;3.66;http://planreforma.com/;0.19;0.33;0.92;12500000;0.36,0.18,0.18,0.18,0.36,0.27,0.27,0.36,0.45,0.64,0.82,0.99
+aluminio vs pvc;2;1;-1;50;0.00;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.19;0.00;0.19;227000;0.56,0.43,0.56,0.43,0.71,0.28,0.56,0.99,0.71,0.71,0.71,0.99
+piscinas rebosantes;2;6;4;50;1.20;http://planreforma.com/blog/piscinas-desbordantes-o-piscinas-infinitas/;0.19;0.10;0.64;81000;0.56,0.56,0.99,0.99,0.99,0.99,0.71,0.43,0.28,0.43,0.56,0.99
+pvc vs aluminio;2;1;-1;50;0.78;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.19;0.07;0.35;226000;0.56,0.56,0.78,0.44,0.44,0.33,0.78,0.78,0.78,0.56,0.78,0.99
+cuanto vale reformar un piso;2;2;0;50;1.25;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;0.19;0.11;0.85;70000;0.44,0.22,0.22,0.22,0.33,0.44,0.78,0.78,0.99,0.44,0.78,0.78
+ventana pvc o aluminio;2;2;0;50;0.38;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.19;0.03;0.62;583000;0.33,0.33,0.56,0.33,0.44,0.22,0.78,0.78,0.99,0.78,0.99,0.99
+reforma barata;3;3;0;70;1.88;http://planreforma.com/blog/%C2%BFcomo-conseguir-que-mi-reforma-sea-bbb-buena-bonita-y-barata/;0.18;0.16;0.66;2360000;0.28,0.28,0.41,0.18,0.41,0.65,0.99,0.82,0.53,0.41,0.41,0.28
+construir una casa precio;4;4;0;90;0.34;http://planreforma.com/calculador-obra_nueva/;0.18;0.03;0.68;16800000;0.79,0.36,0.79,0.64,0.79,0.50,0.28,0.64,0.50,0.99,0.64,0.79
+ideas para pintar un piso;8;9;1;210;0.33;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.18;0.02;0.27;491000;0.99,0.99,0.81,0.81,0.81,0.66,0.66,0.34,0.22,0.34,0.34,0.44
+jardines sin cesped;3;2;-1;70;0.00;http://planreforma.com/blog/reduce-el-consumo-de-agua-de-tu-jardin-sustituye-el-cesped-por-otros-materiales/;0.18;0.00;0.15;699000;0.82,0.82,0.99,0.64,0.99,0.64,0.64,0.45,0.64,0.18,0.45,0.82
+precio reforma integral piso;10;12;2;210;2.56;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.18;0.22;0.76;339000;0.28,0.10,0.18,0.18,0.28,0.67,0.67,0.67,0.82,0.54,0.99,0.67
+cuanto cuesta una reforma integral de un piso;3;4;1;70;2.72;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;0.18;0.24;0.81;80000;0.99,0.64,0.82,0.64,0.64,0.99,0.82,0.27,0.27,0.18,0.36,0.64
+piscina de obra;10;12;2;210;1.38;http://planreforma.com/blog/piscina-de-obra-o-prefabricada/;0.18;0.12;0.86;41900000;0.44,0.44,0.67,0.67,0.99,0.99,0.44,0.23,0.23,0.13,0.36,0.36
+hormigon impreso opiniones;3;2;-1;70;1.58;http://planreforma.com/blog/sabes-como-el-hormigon-impreso-puede-dar-juego-en-tu-jardin/;0.18;0.13;0.70;16000;0.36,0.50,0.64,0.50,0.50,0.50,0.64,0.36,0.50,0.36,0.36,0.99
+reforma de casas;3;4;1;70;2.52;http://planreforma.com/;0.18;0.22;0.87;39300000;0.45,0.64,0.64,0.45,0.82,0.64,0.45,0.64,0.64,0.36,0.99,0.64
+cerrar terraza precio;3;3;0;70;1.24;http://planreforma.com/blog/cuanto-cuesta-construir-un-cerramiento-en-la-terraza-beneficiate-ademas-de-las-ayudas-que-da-el-gobierno/;0.18;0.10;0.77;15200000;0.41,0.41,0.53,0.24,0.24,0.12,0.28,0.24,0.28,0.18,0.65,0.99
+reforma piso;10;6;-4;210;2.64;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.18;0.23;0.66;25700000;0.53,0.66,0.53,0.44,0.44,0.44,0.53,0.66,0.66,0.66,0.81,0.99
+presupuesto construir casa;3;3;0;70;0.80;http://planreforma.com/calculador-obra_nueva/;0.18;0.07;0.83;11100000;0.99,0.78,0.78,0.56,0.33,0.56,0.99,0.44,0.99,0.44,0.78,0.78
+precio reforma cocina;9;8;-1;210;2.24;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.18;0.19;0.81;9300000;0.67,0.54,0.54,0.54,0.44,0.54,0.54,0.54,0.54,0.44,0.99,0.82
+reformas integrales precios;10;11;1;210;3.04;http://planreforma.com/presupuesto-reforma/;0.18;0.26;0.88;416000;0.28,0.81,0.53,0.44,0.34,0.44,0.99,0.53,0.44,0.44,0.81,0.99
+reformas completas viviendas;3;3;0;70;0.00;http://planreforma.com/;0.18;0.00;0.00;479000;0.05,0.14,0.05,0.33,0.43,0.99,0.52,0.99,0.43,0.43,0.19,0.00
+reforma integral piso;12;10;-2;480;2.49;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.18;0.21;0.85;561000;0.67,0.44,0.54,0.54,0.44,0.44,0.54,0.67,0.67,0.54,0.99,0.99
+cuanto cuesta construir un chalet;7;6;-1;140;0.51;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.16;0.04;0.62;45000;0.81,0.99,0.52,0.52,0.33,0.81,0.99,0.81,0.52,0.24,0.81,0.99
+aislante acustico casero;6;5;-1;110;0.73;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.16;0.05;0.67;32000;0.53,0.53,0.82,0.41,0.28,0.41,0.53,0.65,0.82,0.65,0.99,0.82
+amueblar piso completo ikea;5;4;-1;110;0.09;http://planreforma.com/blog/decoracion-de-un-piso-con-muebles-de-ikea-y-la-ayuda-de-una-decoradora/;0.16;0.00;0.17;9000;0.27,0.19,0.27,0.35,0.35,0.42,0.42,0.99,0.54,0.19,0.65,0.99
+reforma integral casa;6;8;2;110;2.10;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.16;0.16;0.77;911000;0.82,0.82,0.64,0.99,0.99,0.82,0.99,0.99,0.82,0.99,0.99,0.99
+pintar un piso;6;6;0;110;1.19;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.16;0.09;0.39;29200000;0.79,0.79,0.99,0.79,0.99,0.79,0.79,0.64,0.64,0.64,0.64,0.64
+permisos de obra;2;4;2;40;0.00;http://planreforma.com/blog/que-permisos-tengo-que-solicitar-para-hacer-obras-en-mi-piso/;0.15;0.00;0.07;14400000;0.71,0.71,0.99,0.43,0.43,0.43,0.71,0.71,0.56,0.43,0.71,0.56
+cuanto cuesta una reforma;2;2;0;40;1.02;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;0.15;0.07;0.36;892000;0.80,0.80,0.60,0.60,0.60,0.60,0.99,0.99,0.80,0.80,0.99,0.80
+reforma de casa;2;2;0;40;2.64;http://planreforma.com/;0.15;0.19;0.83;75300000;0.99,0.60,0.40,0.60,0.60,0.80,0.60,0.60,0.60,0.60,0.99,0.99
+decorar terrazas urbanas;2;2;0;40;0.00;http://planreforma.com/blog/decoracion-feng-shui-terrazas-urbanas/;0.15;0.00;0.25;618000;0.18,0.18,0.45,0.99,0.09,0.09,0.09,0.09,0.45,0.45,0.64,0.09
+piscinas infinity;11;11;0;110;1.35;http://planreforma.com/blog/piscinas-desbordantes-o-piscinas-infinitas/;0.15;0.09;0.44;343000;0.41,0.53,0.65,0.65,0.99,0.99,0.65,0.41,0.53,0.41,0.65,0.53
+suelos cocinas;11;9;-2;110;1.05;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.15;0.07;0.56;872000;0.99,0.64,0.99,0.79,0.64,0.64,0.64,0.79,0.64,0.64,0.99,0.99
+reforma baño precio;9;10;1;170;2.11;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.14;0.15;0.87;7900000;0.66,0.53,0.34,0.22,0.66,0.53,0.53,0.28,0.53,0.66,0.99,0.81
+madera sintetica;10;11;1;170;0.83;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.14;0.05;0.59;402000;0.99,0.81,0.81,0.65,0.65,0.42,0.54,0.54,0.54,0.42,0.65,0.81
+reformas casas;10;8;-2;170;2.04;http://planreforma.com/;0.14;0.14;0.88;19400000;0.81,0.42,0.81,0.65,0.42,0.65,0.54,0.65,0.65,0.65,0.99,0.81
+pedir presupuestos;9;15;6;170;1.39;http://planreforma.com/presupuesto-categorias-otros_proyectos/;0.14;0.09;0.59;1170000;0.28,0.44,0.99,0.82,0.82,0.82,0.67,0.18,0.05,0.08,0.05,0.08
+reformas en casa;9;7;-2;170;2.20;http://planreforma.com/;0.14;0.15;0.90;38200000;0.81,0.65,0.65,0.54,0.65,0.65,0.65,0.81,0.65,0.42,0.99,0.81
+reformas en casa;8;0;0;170;2.20;http://planreforma.com/calculador-reforma/;0.14;0.15;0.90;38200000;0.81,0.65,0.65,0.54,0.65,0.65,0.65,0.81,0.65,0.42,0.99,0.81
+hacer piscina de obra;4;5;1;70;2.44;http://planreforma.com/blog/piscina-de-obra-o-prefabricada/;0.14;0.16;0.72;968000;0.07,0.14,0.64,0.79,0.99,0.99,0.36,0.36,0.50,0.21,0.28,0.21
+alternativas al cesped;4;4;0;70;0.00;http://planreforma.com/blog/reduce-el-consumo-de-agua-de-tu-jardin-sustituye-el-cesped-por-otros-materiales/;0.14;0.00;0.09;661000;0.99,0.78,0.78,0.78,0.78,0.99,0.99,0.44,0.33,0.44,0.44,0.44
+reforma integral barcelona;4;4;0;70;5.36;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.14;0.36;0.78;520000;0.45,0.45,0.64,0.82,0.64,0.36,0.45,0.45,0.64,0.64,0.45,0.99
+presupuesto reformar casa;1;0;0;10;2.04;http://planreforma.com/presupuesto-reforma/;0.13;0.13;0.84;505000;0.99,0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.99
+como hacer una reforma integral de un piso;1;0;0;10;1.58;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.13;0.10;0.71;434000;0.00,0.00,0.00,0.00,0.00,0.00,0.67,0.99,0.67,0.67,0.99,0.33
+precios de ascensores para edificios;1;1;0;10;1.79;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.13;0.11;1.00;26000000;0.99,0.33,0.67,0.33,0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.33
+plantas sin mantenimiento;1;1;0;10;0.00;http://planreforma.com/blog/es-posible-un-jardin-sin-mantenimiento/;0.13;0.00;0.11;1330000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuestos de reformas de casas;1;0;0;10;1.56;http://planreforma.com/presupuesto-reforma/;0.13;0.10;1.00;12100000;0.99,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.40,0.20,0.20
+reformas de patios;1;1;0;10;0.84;http://planreforma.com/blog/diseno-de-terrazas-jardines-patios-reconectate-con-la-naturaleza/;0.13;0.05;0.68;439000;0.25,0.25,0.25,0.25,0.25,0.50,0.25,0.50,0.25,0.25,0.25,0.99
+precio construir una casa;3;3;0;50;0.56;http://planreforma.com/calculador-obra_nueva/;0.13;0.03;0.72;19100000;0.99,0.45,0.82,0.45,0.64,0.64,0.36,0.27,0.36,0.18,0.45,0.36
+precio reforma casa;3;0;0;50;1.80;http://planreforma.com/presupuesto-reforma/;0.13;0.11;0.77;21900000;0.56,0.28,0.56,0.56,0.56,0.99,0.71,0.99,0.99,0.56,0.99,0.71
+construir una casa precio;5;0;0;90;0.34;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.13;0.02;0.68;16800000;0.79,0.36,0.79,0.64,0.79,0.50,0.28,0.64,0.50,0.99,0.64,0.79
+precios reformas;3;0;0;50;2.88;http://planreforma.com/presupuesto-reforma/;0.13;0.18;0.93;19800000;0.71,0.71,0.43,0.56,0.56,0.99,0.56,0.56,0.71,0.43,0.99,0.99
+reformar cocina precio;5;6;1;90;1.61;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.13;0.10;0.86;6080000;0.82,0.53,0.65,0.65,0.41,0.28,0.65,0.53,0.99,0.41,0.28,0.53
+reformas casa;6;11;5;90;2.64;http://planreforma.com/calculador-reforma/;0.13;0.16;0.92;35300000;0.99,0.64,0.82,0.64,0.64,0.82,0.82,0.99,0.99,0.82,0.99,0.99
+presupuestos reformas integrales;3;2;-1;50;3.37;http://planreforma.com/;0.13;0.21;0.95;410000;0.43,0.43,0.43,0.56,0.28,0.56,0.99,0.99,0.99,0.71,0.71,0.71
+presupuesto casa;3;3;0;50;1.01;http://planreforma.com/calculador-obra_nueva/;0.13;0.06;0.59;42100000;0.80,0.60,0.80,0.80,0.60,0.99,0.99,0.99,0.99,0.80,0.80,0.99
+precio reformas;3;0;0;50;2.50;http://planreforma.com/presupuesto-reforma/;0.13;0.15;0.96;22900000;0.99,0.78,0.99,0.44,0.22,0.33,0.33,0.22,0.44,0.44,0.56,0.44
+ventanas de pvc o de aluminio;3;3;0;50;0.44;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.13;0.02;0.71;534000;0.56,0.56,0.44,0.44,0.44,0.44,0.33,0.33,0.44,0.22,0.99,0.99
+reformas cocinas pequeñas;3;3;0;50;1.69;http://planreforma.com/blog/como-ganar-espacio-en-cocinas-pequenas/;0.13;0.10;0.84;446000;0.28,0.14,0.21,0.36,0.21,0.36,0.14,0.28,0.50,0.28,0.99,0.79
+paredes de ladrillo;7;4;-3;110;0.17;http://planreforma.com/blog/decorando-con-paredes-de-ladrillo-visto/;0.12;0.01;0.06;689000;0.53,0.65,0.53,0.65,0.53,0.53,0.65,0.65,0.99,0.99,0.82,0.82
+reformas viviendas;7;6;-1;110;3.55;http://planreforma.com/;0.12;0.21;0.88;10400000;0.82,0.53,0.65,0.65,0.28,0.41,0.99,0.53,0.82,0.82,0.82,0.82
+material aislante acustico;7;7;0;110;0.52;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.12;0.03;0.97;90000;0.79,0.79,0.64,0.50,0.50,0.64,0.64,0.99,0.99,0.64,0.79,0.79
+tarima sintetica exterior precio;7;9;2;110;1.13;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.12;0.06;0.75;32000;0.50,0.36,0.79,0.99,0.99,0.99,0.99,0.79,0.64,0.36,0.79,0.64
+reformas de baños precios;11;16;5;90;1.41;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.12;0.08;0.87;653000;0.53,0.53,0.53,0.28,0.41,0.53,0.82,0.99,0.82,0.41,0.53,0.53
+reformas baños pequeños;11;14;3;90;1.45;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.12;0.08;0.74;506000;0.99,0.41,0.53,0.28,0.24,0.41,0.41,0.53,0.99,0.28,0.53,0.53
+rieles puertas correderas;11;10;-1;90;0.75;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-ii/;0.12;0.04;0.62;45000;0.64,0.50,0.50,0.36,0.50,0.36,0.50,0.64,0.79,0.36,0.99,0.64
+reforma casas;10;12;2;140;2.34;http://planreforma.com/blog/;0.12;0.13;0.78;39300000;0.99,0.65,0.54,0.35,0.35,0.42,0.42,0.35,0.42,0.35,0.99,0.81
+baños con bañera;9;9;0;140;0.50;http://planreforma.com/blog/reformar-los-banos-banera-o-ducha-bide-si-o-no/;0.12;0.02;0.10;16100000;0.67,0.43,0.67,0.67,0.52,0.43,0.67,0.81,0.81,0.43,0.99,0.99
+materiales aislantes acusticos;8;9;1;140;1.12;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.12;0.06;0.94;40000;0.81,0.67,0.81,0.43,0.43,0.33,0.52,0.99,0.99,0.67,0.81,0.67
+reforma cocina precio;9;8;-1;140;2.11;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.12;0.12;0.90;9290000;0.81,0.54,0.65,0.42,0.19,0.27,0.42,0.42,0.42,0.54,0.99,0.65
+ikea bombillas;12;14;2;320;0.13;http://planreforma.com/blog/iluminacion-eficiente-ikea-anuncia-que-en-2016-solo-vendera-bombillas-y-lamparas-led/;0.12;0.00;0.16;207000;0.67,0.54,0.54,0.44,0.44,0.54,0.67,0.67,0.81,0.81,0.99,0.81
+bombillas ikea;12;11;-1;320;0.20;http://planreforma.com/blog/iluminacion-eficiente-ikea-anuncia-que-en-2016-solo-vendera-bombillas-y-lamparas-led/;0.12;0.01;0.21;208000;0.67,0.54,0.44,0.28,0.44,0.54,0.67,0.81,0.99,0.81,0.99,0.81
+quiero reformar mi piso;2;2;0;30;2.90;http://planreforma.com/blog/quiero-reformar-mi-piso-%C2%BFpor-donde-empiezo-i/;0.11;0.15;0.87;725000;0.20,0.40,0.20,0.40,0.40,0.40,0.60,0.99,0.60,0.99,0.80,0.60
+presupuesto obra casa;2;2;0;30;2.52;http://planreforma.com/;0.11;0.13;0.80;18200000;0.14,0.14,0.14,0.14,0.28,0.28,0.28,0.71,0.99,0.71,0.56,0.28
+presupuesto reformas madrid;2;2;0;30;5.73;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.11;0.31;0.56;703000;0.40,0.60,0.99,0.40,0.40,0.40,0.40,0.40,0.40,0.20,0.60,0.99
+madera sintetica exterior;7;8;1;90;1.86;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.10;0.09;0.64;175000;0.18,0.18,0.65,0.65,0.82,0.99,0.82,0.53,0.41,0.28,0.41,0.24
+presupuesto para reformar un piso;3;2;-1;40;1.69;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;0.10;0.08;0.94;446000;0.71,0.56,0.71,0.56,0.28,0.14,0.56,0.43,0.56,0.14,0.99,0.71
+reforma de casa;3;3;0;40;2.64;http://planreforma.com/calculador-reforma/;0.10;0.13;0.83;75300000;0.99,0.60,0.40,0.60,0.60,0.80,0.60,0.60,0.60,0.60,0.99,0.99
+reforma pisos;3;3;0;40;3.68;http://planreforma.com/;0.10;0.18;0.84;15100000;0.99,0.80,0.80,0.20,0.60,0.40,0.80,0.80,0.80,0.60,0.99,0.99
+precio reforma casa;4;4;0;50;1.80;http://planreforma.com/calculador-reforma/;0.10;0.08;0.77;21900000;0.56,0.28,0.56,0.56,0.56,0.99,0.71,0.99,0.99,0.56,0.99,0.71
+presupuesto arquitecto;6;6;0;70;1.00;http://planreforma.com/blog/cuales-son-los-honorarios-de-un-arquitecto/;0.10;0.04;0.54;773000;0.27,0.15,0.27,0.99,0.19,0.19,0.27,0.19,0.19,0.19,0.35,0.42
+mejor cesped artificial;6;6;0;70;1.65;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.10;0.08;0.89;229000;0.64,0.64,0.64,0.99,0.64,0.50,0.28,0.36,0.28,0.21,0.28,0.36
+presupuestos reformas integrales;4;0;0;50;3.37;http://planreforma.com/presupuesto-reforma/;0.10;0.16;0.95;410000;0.43,0.43,0.43,0.56,0.28,0.56,0.99,0.99,0.99,0.71,0.71,0.71
+precio reformas;4;0;0;50;2.50;http://planreforma.com/calculador-reforma/;0.10;0.12;0.96;22900000;0.99,0.78,0.99,0.44,0.22,0.33,0.33,0.22,0.44,0.44,0.56,0.44
+precio reforma piso;4;6;2;50;2.97;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.10;0.14;0.68;9450000;0.56,0.56,0.56,0.44,0.44,0.44,0.56,0.56,0.78,0.56,0.99,0.99
+presupuesto baño;6;9;3;70;1.63;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.10;0.07;0.82;8890000;0.36,0.36,0.50,0.64,0.50,0.50,0.36,0.64,0.50,0.50,0.64,0.99
+jardin sin cesped;4;4;0;50;0.00;http://planreforma.com/blog/reduce-el-consumo-de-agua-de-tu-jardin-sustituye-el-cesped-por-otros-materiales/;0.10;0.00;0.09;648000;0.99,0.71,0.99,0.71,0.56,0.99,0.71,0.43,0.28,0.28,0.56,0.71
+cuanto cuesta una cocina nueva;4;2;-2;50;0.00;http://planreforma.com/calculador-cocina/;0.10;0.00;0.38;947000;0.99,0.99,0.99,0.56,0.56,0.22,0.44,0.22,0.44,0.11,0.22,0.78
+suelos para cocinas blancas;6;6;0;70;0.70;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.10;0.03;0.27;4650000;0.24,0.24,0.53,0.28,0.53,0.28,0.65,0.53,0.41,0.12,0.24,0.99
+reformar cocina pequeña;4;3;-1;50;2.00;http://planreforma.com/blog/como-ganar-espacio-en-cocinas-pequenas/;0.10;0.09;0.68;370000;0.44,0.56,0.22,0.33,0.22,0.56,0.56,0.44,0.78,0.78,0.99,0.99
+presupuesto cerramiento terraza;4;3;-1;50;2.04;http://planreforma.com/blog/cuanto-cuesta-construir-un-cerramiento-en-la-terraza-beneficiate-ademas-de-las-ayudas-que-da-el-gobierno/;0.10;0.10;0.81;237000;0.56,0.56,0.22,0.22,0.44,0.44,0.99,0.44,0.44,0.56,0.99,0.99
+reformas piso;12;9;-3;260;3.65;http://planreforma.com/presupuesto-reforma/;0.09;0.17;0.81;10400000;0.82,0.99,0.36,0.12,0.12,0.06,0.67,0.44,0.15,0.24,0.36,0.15
+para tu reforma;9;0;0;110;1.79;http://planreforma.com/presupuesto-reforma/;0.09;0.08;0.18;808000;0.50,0.79,0.99,0.99,0.79,0.64,0.79,0.64,0.64,0.64,0.64,0.79
+vinilo efecto espejo;10;9;-1;110;0.23;http://planreforma.com/blog/soluciones-para-ventanas-ver-y-que-no-te-vean/;0.09;0.01;0.85;113000;0.79,0.50,0.79,0.79,0.79,0.64,0.79,0.79,0.99,0.64,0.99,0.99
+pedir presupuesto;8;9;1;110;2.94;http://planreforma.com/presupuesto-categorias-otros_proyectos/;0.09;0.13;0.66;16500000;0.82,0.65,0.99,0.53,0.53,0.65,0.53,0.65,0.53,0.82,0.82,0.82
+reformar baño precio;10;9;-1;110;1.47;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.09;0.06;0.90;3060000;0.42,0.35,0.42,0.42,0.27,0.27,0.27,0.35,0.42,0.54,0.81,0.99
+sube interiorismo;8;10;2;110;1.24;http://planreforma.com/directorio-marcas-comerciales/sube_interiorismo/56/;0.09;0.05;0.10;340000;0.81,0.43,0.52,0.33,0.43,0.24,0.43,0.67,0.52,0.43,0.43,0.99
+temperatura ideal;8;8;0;110;0.00;http://planreforma.com/blog/temperatura-ideal/;0.09;0.00;0.01;21400000;0.24,0.24,0.33,0.43,0.52,0.43,0.43,0.43,0.99,0.67,0.52,0.52
+camas sin cabecero;10;10;0;110;0.41;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.09;0.01;0.44;771000;0.28,0.41,0.28,0.41,0.65,0.82,0.99,0.82,0.65,0.65,0.99,0.82
+baños con ducha y bañera;9;9;0;110;1.46;http://planreforma.com/blog/reformar-los-banos-banera-o-ducha-bide-si-o-no/;0.09;0.06;0.18;7820000;0.53,0.53,0.53,0.41,0.41,0.82,0.82,0.82,0.82,0.53,0.99,0.99
+como reformar un piso;8;9;1;110;1.72;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;0.09;0.07;0.68;13300000;0.79,0.50,0.79,0.64,0.79,0.99,0.99,0.79,0.64,0.50,0.99,0.99
+cabeceros de obra;11;10;-1;70;0.68;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.09;0.03;0.38;586000;0.64,0.45,0.45,0.64,0.64,0.82,0.82,0.99,0.99,0.64,0.82,0.99
+decorar el recibidor;11;12;1;70;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.09;0.00;0.12;611000;0.78,0.78,0.78,0.44,0.56,0.56,0.56,0.56,0.99,0.78,0.78,0.56
+bombillas led ikea;18;18;0;1000;0.69;http://planreforma.com/blog/iluminacion-eficiente-ikea-anuncia-que-en-2016-solo-vendera-bombillas-y-lamparas-led/;0.08;0.02;0.83;46000;0.99,0.53,0.46,0.46,0.38,0.31,0.46,0.68,0.99,0.84,0.53,0.46
+ascensor precio;4;4;0;40;1.69;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.08;0.06;0.97;33500000;0.99,0.60,0.99,0.99,0.60,0.40,0.80,0.80,0.99,0.40,0.80,0.80
+presupuesto obras;4;5;1;40;2.23;http://planreforma.com/;0.08;0.08;0.74;51200000;0.43,0.43,0.99,0.71,0.56,0.43,0.43,0.43,0.71,0.43,0.43,0.71
+reformas de cocinas precios;7;0;0;70;1.70;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.08;0.06;0.86;627000;0.78,0.56,0.56,0.78,0.78,0.99,0.78,0.44,0.78,0.33,0.78,0.78
+calcular presupuesto reforma;4;0;0;40;2.46;http://planreforma.com/presupuesto-reforma/;0.08;0.09;0.79;471000;0.71,0.43,0.56,0.71,0.43,0.43,0.43,0.28,0.43,0.71,0.99,0.56
+ascensor exterior;7;6;-1;70;1.10;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.08;0.04;0.56;31600000;0.36,0.82,0.82,0.64,0.82,0.27,0.99,0.82,0.45,0.45,0.45,0.45
+precio reforma;4;4;0;40;2.37;http://planreforma.com/presupuesto-reforma/;0.08;0.09;0.74;44900000;0.43,0.43,0.43,0.56,0.28,0.56,0.71,0.56,0.43,0.71,0.71,0.99
+reforma piso precio;4;4;0;40;1.05;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.08;0.04;0.77;8730000;0.28,0.28,0.28,0.28,0.43,0.71,0.71,0.43,0.99,0.99,0.71,0.28
+precio reforma integral piso;12;13;1;210;2.56;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.08;0.09;0.76;339000;0.28,0.10,0.18,0.18,0.28,0.67,0.67,0.67,0.82,0.54,0.99,0.67
+medidas silla de ruedas;12;12;0;210;0.56;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.08;0.02;0.33;744000;0.81,0.81,0.81,0.54,0.65,0.42,0.65,0.81,0.81,0.81,0.81,0.99
+hacer croquis;3;2;-1;30;0.00;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.07;0.00;0.00;868000;0.75,0.50,0.50,0.50,0.25,0.50,0.25,0.99,0.99,0.50,0.99,0.99
+cristales espejo;3;4;1;30;0.13;http://planreforma.com/blog/soluciones-para-ventanas-ver-y-que-no-te-vean/;0.07;0.00;0.53;1130000;0.75,0.99,0.75,0.75,0.99,0.99,0.99,0.50,0.50,0.50,0.99,0.75
+reformas de piso;3;2;-1;30;1.40;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.07;0.05;0.88;11600000;0.43,0.43,0.99,0.43,0.28,0.14,0.14,0.28,0.14,0.99,0.43,0.28
+vinilos espejo;9;9;0;90;0.26;http://planreforma.com/blog/soluciones-para-ventanas-ver-y-que-no-te-vean/;0.07;0.00;0.82;508000;0.82,0.82,0.64,0.45,0.64,0.82,0.82,0.82,0.99,0.64,0.82,0.82
+convertir puerta en corredera;3;3;0;30;0.00;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-ii/;0.07;0.00;0.18;49000;0.99,0.99,0.60,0.40,0.60,0.40,0.60,0.40,0.60,0.40,0.60,0.60
+techos con vigas de madera;8;8;0;90;0.00;http://planreforma.com/blog/decoracion-con-vigas-de-madera-vistas/;0.07;0.00;0.15;507000;0.64,0.45,0.82,0.64,0.45,0.45,0.45,0.99,0.82,0.82,0.99,0.82
+suelo para cocina;10;8;-2;90;0.67;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.07;0.02;0.67;27700000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.64,0.64,0.99,0.79
+colocar cuadros;9;9;0;90;0.18;http://planreforma.com/blog/%C2%BFcomo-colocar-cuadros-en-una-pared/;0.07;0.00;0.14;1450000;0.64,0.45,0.64,0.45,0.82,0.82,0.99,0.64,0.82,0.82,0.99,0.64
+reformar;10;0;0;90;2.39;http://planreforma.com/calculador-reforma/;0.07;0.09;0.44;15400000;0.79,0.50,0.64,0.64,0.50,0.64,0.50,0.79,0.79,0.50,0.79,0.99
+tarimas de exterior;8;9;1;90;1.47;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.07;0.05;0.80;653000;0.53,0.65,0.99,0.65,0.53,0.41,0.41,0.41,0.24,0.28,0.41,0.41
+presupuesto reformas integrales;3;3;0;30;3.14;http://planreforma.com/;0.07;0.11;0.80;462000;0.40,0.20,0.80,0.99,0.60,0.60,0.60,0.80,0.60,0.60,0.40,0.60
+reforma de pisos;10;10;0;90;2.86;http://planreforma.com/;0.07;0.10;0.96;15500000;0.64,0.50,0.64,0.36,0.28,0.50,0.99,0.64,0.50,0.79,0.99,0.50
+precio reformar casa;3;3;0;30;1.69;http://planreforma.com/calculador-reforma/;0.07;0.06;0.74;10500000;0.25,0.25,0.99,0.75,0.75,0.50,0.75,0.75,0.75,0.50,0.99,0.50
+baños con bañera y ducha;8;8;0;90;0.00;http://planreforma.com/blog/reformar-los-banos-banera-o-ducha-bide-si-o-no/;0.07;0.00;0.08;7770000;0.79,0.36,0.64,0.36,0.36,0.50,0.64,0.64,0.64,0.50,0.99,0.99
+precio reforma vivienda;3;4;1;30;0.00;http://planreforma.com/presupuesto-reforma/;0.07;0.00;0.89;14400000;0.99,0.60,0.60,0.40,0.40,0.40,0.20,0.40,0.20,0.40,0.60,0.60
+como colocar cuadros;9;9;0;90;0.56;http://planreforma.com/blog/%C2%BFcomo-colocar-cuadros-en-una-pared/;0.07;0.02;0.13;1280000;0.64,0.82,0.64,0.64,0.82,0.99,0.64,0.64,0.64,0.99,0.82,0.99
+decoracion terrazas urbanas;2;2;0;20;0.00;http://planreforma.com/blog/decoracion-feng-shui-terrazas-urbanas/;0.07;0.00;0.28;54000;0.56,0.99,0.14,0.14,0.43,0.14,0.14,0.14,0.14,0.14,0.14,0.14
+presupuesto para reformar una casa;2;2;0;20;2.41;http://planreforma.com/;0.07;0.08;0.89;670000;0.99,0.67,0.99,0.99,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33
+presupuestos reforma;2;3;1;20;3.70;http://planreforma.com/;0.07;0.13;0.90;23600000;0.67,0.33,0.33,0.33,0.67,0.33,0.67,0.99,0.67,0.33,0.67,0.33
+ancho silla ruedas;2;2;0;20;1.67;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.07;0.06;0.56;483000;0.67,0.67,0.99,0.99,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.99
+presupuestos de reformas en madrid;2;4;2;20;5.71;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.07;0.20;0.61;635000;0.43,0.14,0.14,0.28,0.14,0.14,0.14,0.28,0.14,0.28,0.99,0.14
+reformas terrazas;2;2;0;20;0.69;http://planreforma.com/blog/tag/terrazas/;0.07;0.02;0.64;568000;0.67,0.99,0.67,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.99,0.67
+presupuesto para reforma;2;2;0;20;1.94;http://planreforma.com/;0.07;0.07;0.91;40000000;0.75,0.50,0.99,0.75,0.50,0.50,0.25,0.25,0.75,0.25,0.50,0.50
+cabeceros de cama restaurados;2;2;0;20;0.00;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.07;0.00;0.48;83000;0.50,0.50,0.25,0.50,0.50,0.75,0.50,0.50,0.75,0.50,0.75,0.99
+presupuestos de reforma;2;3;1;20;5.48;http://planreforma.com/;0.07;0.19;1.00;23700000;0.99,0.25,0.25,0.50,0.75,0.50,0.25,0.25,0.50,0.50,0.75,0.25
+presupuestos ascensores;2;2;0;20;3.64;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.07;0.13;0.99;408000;0.50,0.50,0.75,0.99,0.50,0.25,0.25,0.50,0.25,0.25,0.25,0.25
+aluminio o pvc para ventanas;2;2;0;20;1.18;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.07;0.04;0.73;562000;0.99,0.25,0.75,0.50,0.50,0.25,0.25,0.25,0.50,0.25,0.75,0.50
+presupuesto obra baño;2;2;0;20;1.66;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.07;0.06;0.89;746000;0.25,0.25,0.50,0.50,0.25,0.50,0.50,0.50,0.75,0.99,0.75,0.75
+presupuestos reformas pisos;2;2;0;20;5.27;http://planreforma.com/;0.07;0.19;0.68;409000;0.40,0.20,0.40,0.40,0.40,0.60,0.99,0.99,0.40,0.20,0.20,0.20
+reformas pisos pequeños;5;5;0;50;2.86;http://planreforma.com/blog/tag/espacios-reducidos/;0.07;0.10;0.83;479000;0.22,0.33,0.78,0.56,0.44,0.56,0.78,0.99,0.56,0.56,0.78,0.56
+reformas precios;6;0;0;50;2.06;http://planreforma.com/presupuesto-reforma/;0.07;0.07;0.97;20000000;0.56,0.78,0.99,0.56,0.44,0.33,0.44,0.44,0.56,0.33,0.44,0.56
+jardines sin mantenimiento;5;5;0;50;1.12;http://planreforma.com/blog/es-posible-un-jardin-sin-mantenimiento/;0.07;0.03;0.31;515000;0.64,0.64,0.64,0.99,0.64,0.45,0.36,0.45,0.18,0.27,0.36,0.27
+presupuestos obras y reformas;6;6;0;50;4.07;http://planreforma.com/;0.07;0.14;0.89;565000;0.36,0.99,0.27,0.09,0.36,0.36,0.45,0.45,0.45,0.45,0.36,0.64
+coste reforma integral piso;6;9;3;50;3.25;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.07;0.11;0.81;51000;0.21,0.36,0.50,0.36,0.07,0.14,0.21,0.50,0.99,0.64,0.64,0.14
+el mejor cesped artificial;6;6;0;50;1.13;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.07;0.03;0.92;232000;0.99,0.99,0.99,0.78,0.56,0.44,0.56,0.44,0.56,0.33,0.22,0.33
+reformas de casa;5;7;2;50;1.46;http://planreforma.com/;0.07;0.05;0.92;34900000;0.56,0.44,0.78,0.44,0.56,0.44,0.56,0.78,0.44,0.78,0.78,0.99
+reformas de casa;6;8;2;50;1.46;http://planreforma.com/calculador-reforma/;0.07;0.05;0.92;34900000;0.56,0.44,0.78,0.44,0.56,0.44,0.56,0.78,0.44,0.78,0.78,0.99
+reformas online;5;5;0;50;2.70;http://planreforma.com/;0.07;0.09;0.80;9560000;0.56,0.33,0.99,0.44,0.33,0.22,0.99,0.56,0.78,0.56,0.78,0.78
+cabeceros de piedra;6;5;-1;50;0.00;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.07;0.00;0.18;483000;0.44,0.22,0.11,0.44,0.56,0.56,0.99,0.44,0.56,0.56,0.56,0.78
+precio proyecto arquitecto;6;6;0;50;1.08;http://planreforma.com/blog/cuales-son-los-honorarios-de-un-arquitecto/;0.07;0.03;0.73;657000;0.56,0.56,0.71,0.71,0.99,0.56,0.99,0.56,0.99,0.99,0.71,0.71
+ventanas de aluminio o de pvc;5;5;0;50;1.26;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.07;0.04;0.67;600000;0.99,0.44,0.56,0.44,0.56,0.33,0.78,0.56,0.78,0.44,0.99,0.78
+precio tarima sintetica exterior;6;9;3;50;1.20;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.07;0.04;0.87;28000;0.99,0.56,0.99,0.99,0.56,0.56,0.43,0.43,0.43,0.28,0.99,0.56
+tarimas de madera para exterior;5;5;0;50;1.12;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.07;0.03;0.85;574000;0.71,0.99,0.43,0.56,0.43,0.71,0.99,0.56,0.56,0.56,0.71,0.43
+madera sintetica para exterior;6;6;0;50;0.67;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.07;0.02;0.69;164000;0.99,0.81,0.33,0.10,0.05,0.14,0.14,0.10,0.19,0.05,0.05,0.05
+presupuestos reformas barcelona;5;5;0;50;3.83;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.07;0.13;0.82;632000;0.56,0.99,0.99,0.56,0.99,0.56,0.56,0.56,0.56,0.44,0.44,0.33
+griferia empotrada;6;5;-1;50;0.48;http://planreforma.com/blog/griferia-de-lavabo-empotrada-ventajas-e-inconvenientes/;0.07;0.01;0.91;377000;0.99,0.43,0.56,0.56,0.71,0.56,0.71,0.99,0.71,0.56,0.71,0.71
+precio de un ascensor;5;7;2;50;1.12;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.07;0.03;1.00;32500000;0.71,0.56,0.71,0.71,0.56,0.71,0.71,0.71,0.99,0.43,0.71,0.56
+cuanto cuesta alicatar un baño;11;11;0;50;1.08;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.06;0.03;0.49;28000;0.78,0.78,0.78,0.78,0.56,0.56,0.78,0.78,0.22,0.11,0.78,0.99
+lamparas para techos bajos;11;12;1;50;0.21;http://planreforma.com/blog/7-consejos-en-interiorismo-para-que-los-techos-de-tu-casa-parezcan-mas-altos/;0.06;0.00;0.56;558000;0.56,0.56,0.56,0.56,0.22,0.44,0.56,0.44,0.78,0.56,0.56,0.99
+cabeceros de obra para dormitorios;11;9;-2;50;0.28;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.06;0.00;0.22;285000;0.56,0.44,0.56,0.11,0.78,0.78,0.44,0.56,0.44,0.33,0.33,0.99
+reformar casa;12;12;0;170;2.81;http://planreforma.com/;0.06;0.08;0.84;13700000;0.99,0.67,0.81,0.67,0.81,0.81,0.67,0.81,0.99,0.67,0.99,0.99
+presupuestos de reformas online;4;4;0;30;3.95;http://planreforma.com/;0.06;0.11;0.93;623000;0.80,0.60,0.40,0.40,0.20,0.20,0.60,0.99,0.60,0.40,0.99,0.99
+suelos de cocinas;9;10;1;70;0.54;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.06;0.01;0.48;903000;0.99,0.64,0.45,0.64,0.45,0.45,0.64,0.82,0.82,0.64,0.99,0.99
+tarima de madera exterior;8;7;-1;70;0.91;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.06;0.02;0.91;506000;0.82,0.99,0.82,0.99,0.45,0.18,0.64,0.36,0.36,0.45,0.45,0.64
+presupuestos obras;9;8;-1;70;3.06;http://planreforma.com/;0.06;0.09;0.93;26600000;0.82,0.99,0.82,0.64,0.45,0.27,0.45,0.64,0.64,0.36,0.64,0.64
+colores para pintar un piso;9;9;0;70;1.48;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.06;0.04;0.27;495000;0.99,0.99,0.99,0.99,0.99,0.99,0.71,0.71,0.56,0.71,0.71,0.99
+reformas integrales de viviendas;4;4;0;30;2.88;http://planreforma.com/;0.06;0.08;0.91;510000;0.75,0.75,0.75,0.99,0.25,0.50,0.75,0.50,0.75,0.25,0.25,0.75
+presupuesto reformas integrales;4;4;0;30;3.14;http://planreforma.com/presupuesto-reforma/;0.06;0.09;0.80;462000;0.40,0.20,0.80,0.99,0.60,0.60,0.60,0.80,0.60,0.60,0.40,0.60
+recibidor estrecho;9;11;2;70;0.17;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.06;0.00;0.25;88000;0.36,0.28,0.36,0.28,0.36,0.64,0.36,0.64,0.99,0.50,0.79,0.64
+traviesas para jardin;10;11;1;70;0.22;http://planreforma.com/blog/las-traviesas-de-tren-un-buen-aliado-en-el-diseno-de-jardines/;0.06;0.00;0.42;536000;0.78,0.56,0.78,0.56,0.56,0.56,0.78,0.99,0.78,0.78,0.44,0.56
+cama sin cabecero;10;9;-1;70;0.23;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.06;0.00;0.61;730000;0.64,0.45,0.64,0.64,0.82,0.64,0.82,0.64,0.64,0.64,0.99,0.82
+presupuesto reforma integral piso;9;0;0;70;2.66;http://planreforma.com/presupuesto-reforma/;0.06;0.07;0.89;282000;0.82,0.45,0.45,0.99,0.82,0.45,0.45,0.45,0.64,0.64,0.99,0.64
+pide presupuesto;8;3;-5;70;1.73;http://planreforma.com/presupuesto-categorias-otros_proyectos/;0.06;0.05;0.38;1270000;0.99,0.78,0.78,0.78,0.78,0.56,0.56,0.56,0.78,0.78,0.99,0.99
+pide presupuesto;9;0;0;70;1.73;http://planreforma.com/presupuesto-reforma/;0.06;0.05;0.38;1270000;0.99,0.78,0.78,0.78,0.78,0.56,0.56,0.56,0.78,0.78,0.99,0.99
+cual es el mejor cesped artificial;4;4;0;30;1.90;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.06;0.05;0.79;39000;0.56,0.56,0.56,0.99,0.56,0.28,0.43,0.28,0.14,0.14,0.28,0.43
+reformas de pisos precios;4;4;0;30;1.95;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.06;0.05;0.94;568000;0.71,0.14,0.14,0.28,0.14,0.14,0.28,0.56,0.99,0.99,0.71,0.28
+decoracion minimalista salon;9;10;1;70;0.61;http://planreforma.com/blog/como-decorar-un-salon-con-estilo-minimalista/;0.06;0.01;0.14;157000;0.28,0.12,0.41,0.12,0.24,0.18,0.41,0.12,0.82,0.53,0.99,0.82
+quiero reformar mi casa;7;8;1;50;2.02;http://planreforma.com/blog/quiero-reformar-mi-piso-%C2%BFpor-donde-empiezo-i/;0.05;0.05;0.79;601000;0.56,0.71,0.71,0.56,0.99,0.71,0.71,0.28,0.43,0.56,0.99,0.71
+ventanas de aluminio o pvc precios;5;4;-1;40;0.99;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.05;0.02;0.85;523000;0.33,0.22,0.33,0.22,0.33,0.22,0.33,0.33,0.56,0.44,0.99,0.56
+reforma de viviendas;6;6;0;40;3.98;http://planreforma.com/;0.05;0.11;0.81;20600000;0.99,0.80,0.80,0.60,0.60,0.40,0.60,0.60,0.99,0.40,0.60,0.80
+ventanas de aluminio y pvc;5;5;0;40;0.78;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.05;0.02;0.84;458000;0.43,0.28,0.56,0.28,0.28,0.56,0.99,0.43,0.71,0.43,0.43,0.71
+tarimas para terrazas;6;7;1;40;1.48;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.05;0.04;0.76;446000;0.28,0.56,0.71,0.99,0.71,0.56,0.71,0.28,0.14,0.14,0.28,0.28
+trabajo interiorista;5;6;1;40;0.03;http://planreforma.com/blog/trabajo-interiorista-decorador-ofertas-empleo/;0.05;0.00;0.37;285000;0.80,0.60,0.99,0.99,0.60,0.40,0.99,0.99,0.60,0.60,0.60,0.99
+ideas reformas;6;7;1;40;1.33;http://planreforma.com/cajon_de_ideas/;0.05;0.03;0.24;18500000;0.18,0.18,0.18,0.36,0.36,0.27,0.18,0.82,0.99,0.18,0.36,0.36
+precio construir chalet;6;6;0;40;0.59;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.05;0.01;0.62;428000;0.60,0.80,0.80,0.60,0.80,0.60,0.80,0.99,0.80,0.60,0.80,0.60
+presupuestos de obras;7;6;-1;50;3.07;http://planreforma.com/;0.05;0.08;0.93;27100000;0.99,0.56,0.99,0.56,0.43,0.28,0.71,0.99,0.56,0.71,0.71,0.99
+precio de ascensores;5;6;1;40;1.29;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.05;0.03;0.99;1090000;0.56,0.56,0.71,0.71,0.71,0.43,0.28,0.56,0.43,0.71,0.99,0.71
+calcular presupuesto reforma;5;0;0;40;2.46;http://planreforma.com/calculador-reforma/;0.05;0.06;0.79;471000;0.71,0.43,0.56,0.71,0.43,0.43,0.43,0.28,0.43,0.71,0.99,0.56
+coste reforma baño;6;6;0;40;1.90;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.05;0.05;0.84;325000;0.56,0.43,0.43,0.28,0.56,0.56,0.71,0.71,0.71,0.56,0.99,0.71
+hacer una piscina de obra;7;7;0;50;2.39;http://planreforma.com/blog/piscina-de-obra-o-prefabricada/;0.05;0.06;1.00;3540000;0.50,0.50,0.50,0.21,0.64,0.99,0.50,0.07,0.21,0.07,0.07,0.07
+anchura silla de ruedas;5;6;1;40;0.00;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.05;0.00;0.48;260000;0.80,0.80,0.99,0.80,0.99,0.60,0.40,0.40,0.80,0.60,0.80,0.80
+precios de reformas;7;7;0;50;2.95;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.05;0.08;0.83;19800000;0.99,0.71,0.99,0.43,0.28,0.28,0.71,0.71,0.71,0.56,0.56,0.99
+cesped artificial opiniones;5;5;0;40;0.00;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.05;0.00;0.65;46000;0.78,0.99,0.78,0.44,0.78,0.44,0.33,0.22,0.11,0.11,0.22,0.33
+precio reforma;5;0;0;40;2.37;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.05;0.06;0.74;44900000;0.43,0.43,0.43,0.56,0.28,0.56,0.71,0.56,0.43,0.71,0.71,0.99
+presupuesto para construir una casa;7;7;0;50;1.18;http://planreforma.com/presupuesto-obra_nueva/;0.05;0.03;0.86;10700000;0.78,0.99,0.78,0.44,0.56,0.56,0.56,0.56,0.44,0.44,0.33,0.44
+tarima terraza;6;7;1;40;0.79;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.05;0.02;0.82;542000;0.43,0.99,0.99,0.71,0.43,0.28,0.28,0.43,0.28,0.28,0.56,0.56
+decorar recibidor;17;16;-1;480;0.46;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.05;0.01;0.11;574000;0.67,0.44,0.54,0.44,0.54,0.82,0.67,0.67,0.82,0.54,0.99,0.67
+jardines minimalistas;13;12;-1;210;0.30;http://planreforma.com/blog/sabes-que-son-los-jardines-minimalistas/;0.05;0.00;0.10;538000;0.99,0.81,0.81,0.81,0.66,0.66,0.81,0.66,0.53,0.34,0.66,0.66
+tarima para exteriores;11;15;4;40;1.54;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.05;0.04;0.81;499000;0.99,0.78,0.78,0.56,0.33,0.22,0.22,0.22,0.11,0.11,0.11,0.22
+construir un chalet;11;13;2;40;0.49;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.05;0.01;0.79;574000;0.56,0.28,0.99,0.56,0.43,0.56,0.56,0.43,0.71,0.43,0.56,0.43
+pedir presupuesto reforma;11;14;3;40;4.58;http://planreforma.com/presupuesto-categorias-otros_proyectos/;0.05;0.12;0.97;4200000;0.44,0.22,0.33,0.56,0.56,0.33,0.99,0.99,0.33,0.33,0.44,0.11
+que es la ite;11;11;0;40;1.53;http://planreforma.com/blog/que-es-la-ite/;0.05;0.04;0.36;2320000;0.43,0.71,0.28,0.56,0.43,0.28,0.28,0.99,0.56,0.71,0.99,0.71
+decoracion salon minimalista;11;12;1;40;0.59;http://planreforma.com/blog/como-decorar-un-salon-con-estilo-minimalista/;0.05;0.01;0.16;143000;0.56,0.28,0.43,0.28,0.56,0.43,0.43,0.71,0.99,0.43,0.71,0.56
+ventanas puente termico;11;11;0;40;0.66;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.05;0.01;0.60;86000;0.99,0.60,0.60,0.40,0.60,0.60,0.80,0.80,0.99,0.99,0.99,0.99
+cerramiento pvc;11;13;2;40;1.68;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.05;0.04;0.79;444000;0.80,0.99,0.99,0.60,0.40,0.80,0.60,0.60,0.99,0.60,0.80,0.99
+reformas integrales en barcelona;12;14;2;140;4.13;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.05;0.10;0.86;471000;0.54,0.65,0.54,0.81,0.99,0.54,0.65,0.54,0.42,0.42,0.54,0.54
+cuanto cuesta una cocina;12;0;0;140;0.82;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.05;0.02;0.28;1750000;0.82,0.65,0.53,0.65,0.65,0.65,0.82,0.65,0.99,0.65,0.99,0.99
+iva reducido reformas;14;15;1;260;0.00;http://planreforma.com/blog/obras-aplicar-iva-reducido/;0.05;0.00;0.01;272000;0.23,0.44,0.82,0.82,0.67,0.36,0.36,0.67,0.99,0.82,0.82,0.82
+presupuesto de reformas de viviendas;3;0;0;20;3.44;http://planreforma.com/;0.05;0.08;0.92;21600000;0.50,0.50,0.25,0.25,0.50,0.50,0.50,0.25,0.25,0.25,0.99,0.99
+ventanas pvc aluminio;3;3;0;20;0.71;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.05;0.01;0.86;533000;0.50,0.99,0.75,0.50,0.50,0.25,0.50,0.75,0.75,0.50,0.75,0.50
+presupuesto reforma online;3;2;-1;20;3.80;http://planreforma.com/;0.05;0.09;0.87;692000;0.50,0.50,0.99,0.75,0.25,0.25,0.50,0.50,0.50,0.25,0.50,0.50
+presupuesto reforma madrid;3;3;0;20;4.08;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.05;0.10;0.84;11200000;0.11,0.11,0.11,0.22,0.22,0.22,0.22,0.11,0.33,0.22,0.33,0.99
+presupuestos de reformas integrales;3;0;0;20;2.21;http://planreforma.com/;0.05;0.05;1.00;505000;0.25,0.25,0.50,0.25,0.25,0.25,0.25,0.99,0.99,0.50,0.50,0.25
+personal shopper decoracion;3;5;2;20;1.21;http://planreforma.com/blog/%C2%BFque-es-un-personal-shopper-de-decoracion/;0.05;0.03;0.39;145000;0.67,0.33,0.67,0.33,0.67,0.33,0.99,0.67,0.67,0.33,0.99,0.99
+presupuesto reformar piso;3;3;0;20;2.73;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.05;0.06;0.90;394000;0.67,0.33,0.99,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.33
+el mejor cesped artificial del mercado;3;2;-1;20;1.50;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.05;0.03;0.85;186000;0.25,0.99,0.50,0.50,0.75,0.99,0.25,0.25,0.25,0.25,0.25,0.75
+ancho de silla de ruedas;3;4;1;20;0.47;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.05;0.01;0.60;481000;0.50,0.25,0.50,0.25,0.25,0.50,0.25,0.50,0.75,0.75,0.99,0.50
+presupuestos reformas vivienda;3;0;0;20;2.74;http://planreforma.com/;0.05;0.06;0.95;21200000;0.40,0.20,0.40,0.60,0.80,0.20,0.20,0.40,0.40,0.20,0.99,0.60
+precio obra nueva;3;3;0;20;0.46;http://planreforma.com/calculador-obra_nueva/;0.05;0.01;0.28;13500000;0.33,0.33,0.67,0.67,0.67,0.67,0.33,0.33,0.33,0.67,0.67,0.99
+ancho de una silla de ruedas;3;4;1;20;0.00;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.05;0.00;0.18;597000;0.75,0.50,0.50,0.25,0.50,0.50,0.25,0.50,0.99,0.50,0.75,0.75
+presupuesto interiorismo;3;3;0;20;2.14;http://planreforma.com/blog/presupuestos-de-decoracion-cuanto-cuesta-un-decorador/;0.05;0.05;0.83;453000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.67,0.67,0.99,0.99
+presupuestos de casas;3;3;0;20;0.56;http://planreforma.com/calculador-obra_nueva/;0.05;0.01;0.72;9200000;0.67,0.67,0.67,0.33,0.67,0.67,0.67,0.99,0.67,0.67,0.99,0.67
+reformas con pladur;3;3;0;20;0.00;http://planreforma.com/blog/reformas-pladur/;0.05;0.00;0.56;571000;0.75,0.99,0.25,0.50,0.50,0.75,0.50,0.50,0.50,0.50,0.75,0.75
+presupuestos reformas pisos;3;0;0;20;5.27;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.05;0.13;0.68;409000;0.40,0.20,0.40,0.40,0.40,0.60,0.99,0.99,0.40,0.20,0.20,0.20
+un croquis;3;3;0;20;0.00;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.05;0.00;0.00;10300000;0.67,0.33,0.67,0.67,0.33,0.33,0.67,0.99,0.99,0.67,0.99,0.99
+presupuesto reformas online;3;3;0;20;4.32;http://planreforma.com/;0.05;0.10;0.90;531000;0.67,0.99,0.67,0.67,0.99,0.67,0.67,0.67,0.67,0.33,0.67,0.67
+precios reformas integrales;7;7;0;40;2.37;http://planreforma.com/presupuesto-reforma/;0.04;0.05;0.82;417000;0.22,0.22,0.44,0.11,0.56,0.44,0.99,0.56,0.44,0.11,0.33,0.44
+ideas reformas;7;8;1;40;1.33;http://planreforma.com/blog/;0.04;0.02;0.24;18500000;0.18,0.18,0.18,0.36,0.36,0.27,0.18,0.82,0.99,0.18,0.36,0.36
+reforma integral cocina;7;14;7;40;2.63;http://planreforma.com/presupuesto-reforma/;0.04;0.05;0.83;601000;0.44,0.44,0.44,0.44,0.33,0.22,0.44,0.22,0.33,0.99,0.44,0.56
+reformas integrales de pisos;7;8;1;40;2.29;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.04;0.05;0.83;397000;0.99,0.60,0.80,0.60,0.99,0.99,0.20,0.60,0.99,0.60,0.99,0.99
+recibidores sencillos;7;6;-1;40;0.16;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.04;0.00;0.35;212000;0.60,0.40,0.60,0.60,0.40,0.60,0.80,0.99,0.99,0.40,0.99,0.80
+ikea bombillas led;17;18;1;390;0.41;http://planreforma.com/blog/iluminacion-eficiente-ikea-anuncia-que-en-2016-solo-vendera-bombillas-y-lamparas-led/;0.04;0.00;0.62;43000;0.54,0.36,0.36,0.24,0.28,0.36,0.54,0.54,0.82,0.67,0.99,0.82
+mejor aislante acustico;13;13;0;170;0.89;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.04;0.01;0.96;98000;0.81,0.54,0.65,0.54,0.35,0.42,0.42,0.65,0.81,0.81,0.99,0.65
+ventana aluminio o pvc;5;4;-1;30;0.88;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.04;0.01;0.59;592000;0.43,0.28,0.43,0.14,0.28,0.28,0.43,0.56,0.56,0.56,0.71,0.99
+construccion de casas precio;8;9;1;50;0.51;http://planreforma.com/calculador-obra_nueva/;0.04;0.01;0.95;10500000;0.78,0.78,0.99,0.56,0.44,0.78,0.99,0.99,0.33,0.22,0.22,0.33
+tarima sintetica para exterior;6;5;-1;30;1.28;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.04;0.02;0.79;44000;0.99,0.80,0.80,0.40,0.40,0.80,0.40,0.40,0.40,0.20,0.60,0.99
+precio reformar cocina;9;7;-2;50;3.02;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.04;0.06;0.90;2050000;0.71,0.99,0.56,0.71,0.56,0.99,0.71,0.71,0.71,0.56,0.99,0.99
+diseñar un baño;9;8;-1;50;0.11;http://planreforma.com/blog/consejos-para-reformar-y-disenar-un-bano/;0.04;0.00;0.38;782000;0.99,0.78,0.78,0.44,0.33,0.56,0.99,0.44,0.44,0.44,0.78,0.78
+ejemplos de presupuestos de reformas;8;10;2;50;1.28;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.04;0.02;0.75;397000;0.33,0.44,0.99,0.78,0.44,0.33,0.33,0.44,0.56,0.99,0.99,0.78
+tarima para terraza;5;7;2;30;1.34;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.04;0.02;0.87;456000;0.99,0.43,0.56,0.28,0.28,0.28,0.14,0.14,0.43,0.14,0.56,0.56
+baño con ducha y bañera;9;10;1;50;0.68;http://planreforma.com/blog/reformar-los-banos-banera-o-ducha-bide-si-o-no/;0.04;0.01;0.28;16400000;0.56,0.43,0.56,0.56,0.56,0.71,0.71,0.71,0.99,0.71,0.99,0.99
+precio metro cuadrado construido;9;13;4;50;0.04;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.04;0.00;0.16;407000;0.21,0.21,0.21,0.28,0.28,0.28,0.28,0.28,0.21,0.28,0.64,0.99
+ventanas de aluminio con rotura de puente termico precios;6;6;0;30;0.65;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.04;0.01;0.86;22000;0.50,0.50,0.75,0.50,0.50,0.50,0.50,0.75,0.99,0.50,0.50,0.99
+arquitecto barato;6;6;0;30;0.73;http://planreforma.com/blog/contratar-a-un-decorador-o-a-un-arquitecto-para-una-reforma-hoy-es-barato/;0.04;0.01;0.90;1400000;0.40,0.40,0.80,0.40,0.20,0.40,0.20,0.60,0.80,0.99,0.40,0.40
+opiniones cesped artificial;5;5;0;30;3.28;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.04;0.06;0.69;46000;0.71,0.99,0.71,0.99,0.43,0.56,0.71,0.28,0.14,0.14,0.28,0.28
+baño con bañera y ducha;10;10;0;50;0.00;http://planreforma.com/blog/reformar-los-banos-banera-o-ducha-bide-si-o-no/;0.04;0.00;0.09;15400000;0.56,0.28,0.28,0.28,0.43,0.56,0.99,0.71,0.99,0.71,0.99,0.99
+precio reformar baño;9;10;1;50;2.35;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.04;0.04;0.88;18000000;0.44,0.56,0.56,0.56,0.44,0.56,0.78,0.78,0.78,0.56,0.99,0.78
+tarimas de madera exterior;5;5;0;30;1.42;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.04;0.02;0.90;426000;0.43,0.56,0.71,0.56,0.99,0.43,0.14,0.14,0.28,0.14,0.56,0.28
+precios de reformas;8;0;0;50;2.95;http://planreforma.com/presupuesto-reforma/;0.04;0.06;0.83;19800000;0.99,0.71,0.99,0.43,0.28,0.28,0.71,0.71,0.71,0.56,0.56,0.99
+presupuestos online reformas;5;4;-1;30;2.04;http://planreforma.com/;0.04;0.04;0.90;607000;0.56,0.14,0.71,0.14,0.14,0.14,0.14,0.28,0.71,0.56,0.99,0.56
+precio arquitecto;5;5;0;30;0.72;http://planreforma.com/blog/cuales-son-los-honorarios-de-un-arquitecto/;0.04;0.01;0.56;1930000;0.60,0.60,0.60,0.60,0.20,0.40,0.60,0.40,0.40,0.60,0.99,0.40
+tarima de exterior sintetica;6;9;3;30;0.79;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.04;0.01;0.55;46000;0.43,0.99,0.71,0.28,0.14,0.43,0.28,0.28,0.56,0.28,0.43,0.56
+tarima de madera para exterior;6;6;0;30;0.00;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.04;0.00;0.89;444000;0.28,0.28,0.28,0.56,0.43,0.99,0.43,0.43,0.43,0.14,0.14,0.14
+hormigon impreso para piscinas;5;5;0;30;1.12;http://planreforma.com/blog/sabes-como-el-hormigon-impreso-puede-dar-juego-en-tu-jardin/;0.04;0.02;0.78;267000;0.60,0.99,0.80,0.80,0.80,0.80,0.40,0.40,0.20,0.40,0.60,0.80
+tarimas sinteticas exterior;5;7;2;30;1.34;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.04;0.02;0.80;42000;0.99,0.99,0.99,0.40,0.20,0.20,0.40,0.20,0.20,0.20,0.60,0.99
+alternativa al cesped;5;3;-2;30;0.00;http://planreforma.com/blog/reduce-el-consumo-de-agua-de-tu-jardin-sustituye-el-cesped-por-otros-materiales/;0.04;0.00;0.16;9240000;0.56,0.43,0.56,0.43,0.43,0.43,0.14,0.14,0.14,0.14,0.14,0.99
+tarimas sinteticas;10;10;0;50;0.56;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.04;0.01;0.76;258000;0.78,0.44,0.78,0.44,0.56,0.56,0.99,0.78,0.56,0.44,0.44,0.56
+vinilos de espejo;10;11;1;50;0.32;http://planreforma.com/blog/soluciones-para-ventanas-ver-y-que-no-te-vean/;0.04;0.00;0.64;959000;0.99,0.56,0.28,0.56,0.43,0.71,0.43,0.71,0.99,0.71,0.56,0.56
+presupuesto para construir una casa;8;8;0;50;1.18;http://planreforma.com/calculador-obra_nueva/;0.04;0.02;0.86;10700000;0.78,0.99,0.78,0.44,0.56,0.56,0.56,0.56,0.44,0.44,0.33,0.44
+jardines minimalistas;14;13;-1;210;0.30;http://planreforma.com/blog/10-consejos-para-tu-jardin-minimalista-sabes-que-tener-en-cuenta/;0.04;0.00;0.10;538000;0.99,0.81,0.81,0.81,0.66,0.66,0.81,0.66,0.53,0.34,0.66,0.66
+estanterias originales;19;17;-2;480;0.55;http://planreforma.com/blog/como-almacenar-los-libros-estanterias-originales/;0.04;0.01;0.54;674000;0.82,0.54,0.54,0.44,0.54,0.67,0.82,0.82,0.82,0.67,0.99,0.99
+suelos para cocina;12;10;-2;110;0.92;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.04;0.01;0.68;19700000;0.65,0.41,0.65,0.53,0.53,0.65,0.65,0.53,0.53,0.65,0.65,0.99
+tu reforma;12;12;0;110;1.62;http://planreforma.com/blog/presupuestos-de-arquitectos-y-decoradores-para-tu-reforma-integral/;0.04;0.03;0.19;49000000;0.81,0.67,0.81,0.67,0.33,0.19,0.43,0.99,0.67,0.43,0.43,0.67
+instalacion de ascensor;11;12;1;30;2.60;http://planreforma.com/blog/instalar-un-ascensor-en-una-finca-sin-ascensor-solucion-para-poner-de-acuerdo-a-tu-comunidad-de-vecinos/;0.04;0.05;0.89;668000;0.99,0.71,0.99,0.56,0.14,0.14,0.14,0.28,0.28,0.14,0.14,0.14
+reforma en casa;11;0;0;30;1.73;http://planreforma.com/;0.04;0.03;0.77;58800000;0.99,0.40,0.60,0.60,0.60,0.60,0.60,0.40,0.60,0.40,0.80,0.80
+escalera para buhardilla;11;12;1;30;0.54;http://planreforma.com/blog/abrir-hueco-para-poner-una-escalera-en-un-atico-o-buhardilla-y-comunicarlo-con-una-terraza/;0.04;0.01;0.76;394000;0.60,0.40,0.60,0.60,0.40,0.40,0.60,0.60,0.99,0.60,0.99,0.80
+medidas silla ruedas;11;11;0;30;0.50;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.04;0.00;0.44;644000;0.75,0.75,0.75,0.99,0.50,0.50,0.75,0.75,0.99,0.75,0.75,0.75
+ideas para un recibidor;11;12;1;30;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.04;0.00;0.05;362000;0.60,0.40,0.40,0.60,0.20,0.60,0.60,0.40,0.80,0.40,0.99,0.80
+ventana de pvc o aluminio;4;3;-1;20;0.78;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.04;0.01;0.65;583000;0.20,0.20,0.40,0.20,0.20,0.40,0.60,0.60,0.99,0.60,0.99,0.99
+presupuestos de reformas madrid;4;4;0;20;0.00;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.04;0.00;0.81;608000;0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.78,0.22,0.11,0.99,0.22
+presupuestos de reformas integrales;4;0;0;20;2.21;http://planreforma.com/presupuesto-reforma/;0.04;0.04;1.00;505000;0.25,0.25,0.50,0.25,0.25,0.25,0.25,0.99,0.99,0.50,0.50,0.25
+presupuestos obra;4;3;-1;20;3.22;http://planreforma.com/;0.04;0.06;0.71;23700000;0.75,0.50,0.75,0.75,0.50,0.25,0.75,0.99,0.50,0.25,0.50,0.75
+precios reformas pisos;4;4;0;20;2.27;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.04;0.04;0.87;559000;0.25,0.25,0.50,0.75,0.99,0.25,0.50,0.75,0.75,0.25,0.25,0.75
+precios de reformas de pisos;4;4;0;20;1.08;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.04;0.02;0.94;600000;0.40,0.20,0.20,0.40,0.40,0.80,0.99,0.80,0.20,0.20,0.20,0.20
+precio decorador;4;0;0;20;0.77;http://planreforma.com/blog/presupuestos-de-decoracion-cuanto-cuesta-un-decorador/;0.04;0.01;0.63;417000;0.33,0.67,0.33,0.67,0.67,0.67,0.67,0.33,0.67,0.33,0.99,0.67
+comparador de presupuestos;4;8;4;20;1.09;http://planreforma.com/blog/comparador-de-presupuestos-de-arquitectos-y-decoradores/;0.04;0.02;0.70;381000;0.99,0.40,0.99,0.60,0.20,0.20,0.40,0.40,0.20,0.20,0.40,0.40
+reformas integrales viviendas;4;4;0;20;0.00;http://planreforma.com/;0.04;0.00;0.73;511000;0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.67,0.99,0.33
+ideas reformas pisos;4;4;0;20;2.69;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.04;0.05;0.53;474000;0.50,0.25,0.25,0.25,0.25,0.50,0.50,0.50,0.99,0.75,0.99,0.99
+instalacion de ascensores en edificios;4;0;0;20;0.00;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.04;0.00;1.00;598000;0.99,0.56,0.14,0.28,0.99,0.56,0.14,0.14,0.14,0.14,0.14,0.14
+presupuesto reformar piso;4;0;0;20;2.73;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;0.04;0.05;0.90;394000;0.67,0.33,0.99,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.33
+presupuestos reformas vivienda;4;0;0;20;2.74;http://planreforma.com/presupuesto-reforma/;0.04;0.05;0.95;21200000;0.40,0.20,0.40,0.60,0.80,0.20,0.20,0.40,0.40,0.20,0.99,0.60
+ventanas de aluminio o pvc que es mejor;4;4;0;20;0.00;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.04;0.00;0.59;483000;0.75,0.75,0.75,0.75,0.99,0.25,0.25,0.50,0.50,0.25,0.50,0.50
+cerramientos de pvc precios;4;3;-1;20;0.72;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.04;0.01;0.75;417000;0.99,0.67,0.67,0.33,0.33,0.33,0.67,0.67,0.67,0.67,0.99,0.67
+presupuesto reformar casa;2;2;0;10;2.04;http://planreforma.com/;0.03;0.03;0.84;505000;0.99,0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.99
+reformar una casa;16;12;-4;260;1.95;http://planreforma.com/presupuesto-reforma/;0.03;0.03;0.78;13600000;0.82,0.44,0.36,0.54,0.54,0.82,0.99,0.99,0.82,0.67,0.82,0.82
+presupuestos de reformas de casas;2;1;-1;10;1.56;http://planreforma.com/;0.03;0.02;1.00;12100000;0.99,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.40,0.20,0.20
+presupuestos construccion casa;2;2;0;10;1.58;http://planreforma.com/calculador-obra_nueva/;0.03;0.02;0.82;10200000;0.00,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.99
+blog reformas integrales;2;0;0;10;3.70;http://planreforma.com/blog/;0.03;0.06;0.73;190000;0.67,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.99,0.33,0.33,0.67
+como decorar un recibidor;15;15;0;260;0.25;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.03;0.00;0.19;772000;0.99,0.81,0.81,0.81,0.81,0.99,0.99,0.81,0.99,0.66,0.99,0.99
+reforma casas;13;13;0;140;2.34;http://planreforma.com/;0.03;0.04;0.78;39300000;0.99,0.65,0.54,0.35,0.35,0.42,0.42,0.35,0.42,0.35,0.99,0.81
+reformas de baños pequeños;13;15;2;140;1.50;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.03;0.02;0.88;966000;0.99,0.65,0.42,0.27,0.35,0.65,0.65,0.65,0.42,0.19,0.54,0.54
+sillas de colores;13;13;0;140;0.45;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.03;0.00;0.64;1610000;0.81,0.67,0.67,0.52,0.67,0.67,0.81,0.81,0.99,0.52,0.81,0.99
+reformas pisos madrid;13;13;0;140;3.41;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.03;0.06;0.88;738000;0.99,0.54,0.42,0.54,0.42,0.54,0.54,0.42,0.42,0.42,0.65,0.42
+cuanto cuesta una cocina;13;8;-5;140;0.82;http://planreforma.com/calculador-cocina/;0.03;0.01;0.28;1750000;0.82,0.65,0.53,0.65,0.65,0.65,0.82,0.65,0.99,0.65,0.99,0.99
+vinilos efecto espejo;8;7;-1;40;0.25;http://planreforma.com/blog/soluciones-para-ventanas-ver-y-que-no-te-vean/;0.03;0.00;0.77;109000;0.99,0.99,0.80,0.60,0.99,0.99,0.99,0.80,0.99,0.80,0.60,0.60
+como reformar mi casa;9;9;0;40;1.26;http://planreforma.com/;0.03;0.02;0.74;519000;0.18,0.24,0.41,0.12,0.12,0.24,0.18,0.99,0.06,0.06,0.24,0.24
+arquitectos baratos;7;7;0;30;0.67;http://planreforma.com/blog/contratar-a-un-decorador-o-a-un-arquitecto-para-una-reforma-hoy-es-barato/;0.03;0.01;0.94;1010000;0.60,0.60,0.60,0.60,0.80,0.60,0.60,0.60,0.60,0.60,0.60,0.99
+coste reforma cocina;9;10;1;40;3.71;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.03;0.06;0.81;389000;0.80,0.80,0.40,0.80,0.80,0.80,0.80,0.80,0.99,0.99,0.99,0.80
+dormitorios sin cabecero;9;8;-1;40;0.00;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.03;0.00;0.41;679000;0.56,0.56,0.56,0.43,0.71,0.71,0.43,0.43,0.71,0.56,0.99,0.43
+aluminio y pvc;7;5;-2;30;0.70;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.03;0.01;0.52;1690000;0.50,0.50,0.50,0.50,0.50,0.50,0.75,0.75,0.99,0.75,0.75,0.25
+precio construccion chalet;7;9;2;30;0.59;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.03;0.00;0.71;518000;0.99,0.99,0.25,0.75,0.75,0.75,0.75,0.75,0.75,0.50,0.99,0.50
+presupuesto reformar baño;7;0;0;30;1.48;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.03;0.02;0.86;391000;0.40,0.40,0.40,0.60,0.80,0.60,0.99,0.80,0.60,0.40,0.80,0.60
+cuanto vale reformar una cocina;7;7;0;30;0.97;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.03;0.01;0.83;177000;0.80,0.40,0.60,0.40,0.40,0.80,0.80,0.20,0.80,0.80,0.99,0.80
+cocina suelo gris;7;8;1;30;0.00;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.03;0.00;0.02;684000;0.60,0.40,0.40,0.40,0.60,0.40,0.60,0.60,0.80,0.60,0.80,0.99
+hormigon impreso piscinas;7;7;0;30;4.38;http://planreforma.com/blog/sabes-como-el-hormigon-impreso-puede-dar-juego-en-tu-jardin/;0.03;0.07;0.78;123000;0.60,0.60,0.99,0.99,0.20,0.40,0.20,0.20,0.20,0.40,0.40,0.60
+presupuestos de obras y reformas;7;6;-1;30;0.00;http://planreforma.com/;0.03;0.00;0.83;12100000;0.99,0.43,0.56,0.43,0.14,0.14,0.28,0.71,0.56,0.43,0.28,0.14
+proyecto reforma vivienda;7;8;1;30;1.35;http://planreforma.com/blog/cuales-son-los-honorarios-de-un-arquitecto/;0.03;0.02;0.65;19600000;0.43,0.28,0.56,0.99,0.43,0.28,0.28,0.28,0.28,0.14,0.56,0.28
+mejor suelo cocina;7;7;0;30;0.09;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.03;0.00;0.33;15400000;0.99,0.99,0.75,0.25,0.25,0.25,0.75,0.50,0.50,0.50,0.99,0.99
+ideas pintar piso;8;7;-1;40;0.00;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.03;0.00;0.07;532000;0.43,0.43,0.71,0.43,0.43,0.56,0.43,0.43,0.71,0.43,0.71,0.99
+reformas integrales de pisos;8;0;0;40;2.29;http://planreforma.com/;0.03;0.03;0.83;397000;0.99,0.60,0.80,0.60,0.99,0.99,0.20,0.60,0.99,0.60,0.99,0.99
+licencias de obras madrid;10;9;-1;40;1.59;http://planreforma.com/blog/que-permisos-tengo-que-solicitar-para-hacer-obras-en-mi-piso/;0.03;0.02;0.83;627000;0.36,0.27,0.18,0.18,0.09,0.09,0.27,0.99,0.45,0.36,0.45,0.27
+reformar tu casa;7;8;1;30;1.95;http://planreforma.com/calculador-reforma/;0.03;0.03;0.64;949000;0.75,0.50,0.25,0.50,0.75,0.75,0.99,0.50,0.75,0.25,0.99,0.75
+cabeceros de cama de obra;7;7;0;30;0.00;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.03;0.00;0.14;70000;0.43,0.28,0.14,0.43,0.14,0.43,0.43,0.99,0.28,0.43,0.71,0.71
+coste construccion casa;9;8;-1;40;0.24;http://planreforma.com/calculador-obra_nueva/;0.03;0.00;0.68;1980000;0.43,0.28,0.43,0.56,0.43,0.56,0.99,0.99,0.99,0.43,0.28,0.56
+presupuesto cuarto de baño;9;6;-3;40;1.17;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.03;0.01;0.89;20400000;0.56,0.56,0.56,0.43,0.14,0.43,0.56,0.56,0.71,0.43,0.56,0.99
+aislante de sonido;7;5;-2;30;0.36;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.03;0.00;0.98;542000;0.60,0.40,0.60,0.40,0.20,0.20,0.40,0.60,0.99,0.60,0.60,0.60
+presupuestos reformas baños;7;8;1;30;2.44;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.03;0.04;0.83;498000;0.28,0.28,0.28,0.14,0.28,0.14,0.14,0.99,0.56,0.56,0.71,0.71
+decorar un recibidor;14;11;-3;170;0.12;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.03;0.00;0.05;760000;0.81,0.81,0.43,0.67,0.67,0.67,0.81,0.81,0.81,0.67,0.99,0.99
+reformas casas;14;10;-4;170;2.04;http://planreforma.com/blog/;0.03;0.03;0.88;19400000;0.81,0.42,0.81,0.65,0.42,0.65,0.54,0.65,0.65,0.65,0.99,0.81
+grava para jardin;14;11;-3;170;0.09;http://planreforma.com/blog/las-gravas-dan-mucho-juego-en-tu-jardin/;0.03;0.00;0.49;572000;0.81,0.66,0.99,0.99,0.44,0.44,0.53,0.53,0.28,0.06,0.28,0.28
+decorar entrada;14;13;-1;170;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.03;0.00;0.07;1380000;0.65,0.42,0.42,0.35,0.42,0.81,0.65,0.99,0.99,0.54,0.65,0.65
+troncos de madera;18;14;-4;390;0.10;http://planreforma.com/blog/13-ideas-para-decorar-paredes-con-troncos-de-madera/;0.03;0.00;0.26;667000;0.66,0.44,0.54,0.36,0.24,0.44,0.66,0.66,0.99,0.99,0.99,0.81
+dimensiones silla de ruedas;12;11;-1;90;0.20;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.03;0.00;0.30;444000;0.82,0.82,0.99,0.64,0.64,0.64,0.64,0.64,0.64,0.64,0.82,0.99
+reforma piso;15;0;0;210;2.64;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.03;0.03;0.66;25700000;0.53,0.66,0.53,0.44,0.44,0.44,0.53,0.66,0.66,0.66,0.81,0.99
+reformas integrales precios;15;12;-3;210;3.04;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.03;0.04;0.88;416000;0.28,0.81,0.53,0.44,0.34,0.44,0.99,0.53,0.44,0.44,0.81,0.99
+como hacer una puerta corredera;16;18;2;210;1.36;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-ii/;0.03;0.02;0.16;362000;0.81,0.66,0.53,0.53,0.44,0.66,0.53,0.53,0.81,0.81,0.99,0.99
+reformar una casa;17;13;-4;260;1.95;http://planreforma.com/;0.03;0.02;0.78;13600000;0.82,0.44,0.36,0.54,0.54,0.82,0.99,0.99,0.82,0.67,0.82,0.82
+casas para reformar;17;20;3;260;1.51;http://planreforma.com/;0.03;0.02;0.55;12900000;0.82,0.67,0.54,0.67,0.67,0.99,0.67,0.67,0.54,0.54,0.54,0.54
+temperatura ideal calefaccion;17;15;-2;260;5.57;http://planreforma.com/blog/temperatura-ideal/;0.03;0.08;0.03;2910000;0.04,0.01,0.01,0.01,0.01,0.01,0.02,0.05,0.45,0.99,0.68,0.37
+tarimas de madera para exteriores;5;5;0;20;1.88;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.02;0.88;574000;0.33,0.67,0.99,0.67,0.67,0.99,0.67,0.67,0.67,0.33,0.67,0.99
+tarima exterior madera;6;7;1;20;0.65;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.00;0.84;501000;0.25,0.99,0.99,0.99,0.75,0.50,0.25,0.25,0.25,0.25,0.75,0.50
+dibujar croquis;5;5;0;20;0.02;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.02;0.00;0.00;293000;0.67,0.67,0.99,0.33,0.33,0.33,0.67,0.33,0.67,0.99,0.99,0.99
+presupuesto construccion chalet;5;5;0;20;1.31;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.02;0.01;0.74;342000;0.22,0.22,0.99,0.22,0.22,0.22,0.11,0.11,0.11,0.22,0.11,0.22
+maderas sinteticas para exteriores;6;7;1;20;1.00;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.01;0.84;494000;0.75,0.50,0.75,0.99,0.50,0.25,0.50,0.50,0.50,0.25,0.50,0.50
+ideas para alicatar un baño;5;6;1;20;0.00;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.02;0.00;0.23;65000;0.99,0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.67,0.99,0.99,0.67
+modelos de presupuestos de reformas;5;6;1;20;1.70;http://planreforma.com/blog/como-elegir-el-mejor-presupuesto-de-reforma-%C2%BFque-debe-contener/;0.02;0.02;1.00;427000;0.60,0.20,0.20,0.20,0.20,0.20,0.20,0.60,0.99,0.80,0.40,0.20
+empresas de reforma;5;4;-1;20;5.09;http://planreforma.com/;0.02;0.07;0.88;80800000;0.40,0.20,0.40,0.40,0.40,0.40,0.60,0.99,0.40,0.20,0.40,0.80
+precios reformas pisos;5;0;0;20;2.27;http://planreforma.com/presupuesto-reforma/;0.02;0.03;0.87;559000;0.25,0.25,0.50,0.75,0.99,0.25,0.50,0.75,0.75,0.25,0.25,0.75
+ejemplo presupuesto reforma vivienda;6;0;0;20;0.00;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.02;0.00;0.69;540000;0.25,0.25,0.25,0.50,0.25,0.25,0.50,0.99,0.75,0.50,0.50,0.75
+construir chalet precio;6;5;-1;20;0.52;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.02;0.00;0.63;428000;0.75,0.50,0.50,0.25,0.75,0.50,0.75,0.25,0.50,0.50,0.75,0.99
+ideas reformas pisos;5;0;0;20;2.69;http://planreforma.com/blog/;0.02;0.03;0.53;474000;0.50,0.25,0.25,0.25,0.25,0.50,0.50,0.50,0.99,0.75,0.99,0.99
+reformas integrales pisos;6;4;-2;20;4.19;http://planreforma.com/;0.02;0.05;0.81;406000;0.50,0.25,0.25,0.25,0.25,0.50,0.25,0.75,0.99,0.75,0.99,0.75
+reformas integral;5;0;0;20;1.92;http://planreforma.com/;0.02;0.02;0.94;25700000;0.33,0.33,0.33,0.67,0.99,0.33,0.33,0.99,0.67,0.33,0.67,0.99
+presupuestos baños;5;4;-1;20;2.31;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.02;0.03;0.82;705000;0.50,0.50,0.50,0.25,0.50,0.25,0.50,0.50,0.50,0.50,0.99,0.75
+cedula de habitabilidad galicia;6;6;0;20;0.02;http://planreforma.com/blog/que-es-la-cedula-de-habitabilidad-y-como-tramitarla/;0.02;0.00;0.11;3000;0.50,0.50,0.50,0.50,0.50,0.25,0.50,0.75,0.99,0.25,0.50,0.50
+tarimas sinteticas para exterior;6;5;-1;20;1.59;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.02;0.63;39000;0.50,0.25,0.99,0.50,0.75,0.50,0.25,0.50,0.25,0.25,0.75,0.75
+presupuestos de baños;5;5;0;20;1.69;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.02;0.02;0.85;657000;0.33,0.67,0.33,0.33,0.67,0.33,0.67,0.99,0.67,0.67,0.99,0.67
+aluminio pvc;5;5;0;20;0.81;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.02;0.01;0.49;7370000;0.99,0.99,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.67
+coste reforma vivienda;5;0;0;20;3.84;http://planreforma.com/calculador-reforma/;0.02;0.05;0.78;541000;0.50,0.50,0.50,0.99,0.99,0.99,0.99,0.99,0.50,0.50,0.50,0.99
+coste reforma vivienda;6;0;0;20;3.84;http://planreforma.com/presupuesto-reforma/;0.02;0.05;0.78;541000;0.50,0.50,0.50,0.99,0.99,0.99,0.99,0.99,0.50,0.50,0.50,0.99
+decoracion sillas comedor;6;6;0;20;0.40;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.02;0.00;0.70;1530000;0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.67,0.99,0.67,0.67,0.99
+ventanas aluminio y pvc;6;5;-1;20;0.67;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.02;0.00;0.71;681000;0.50,0.75,0.25,0.25,0.25,0.25,0.50,0.25,0.50,0.75,0.25,0.99
+ventana de aluminio o pvc;5;5;0;20;0.77;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.02;0.01;0.66;517000;0.20,0.20,0.40,0.20,0.40,0.60,0.20,0.40,0.60,0.20,0.99,0.99
+reformar mi piso;6;7;1;20;1.42;http://planreforma.com/blog/quiero-reformar-mi-piso-%C2%BFpor-donde-empiezo-i/;0.02;0.01;0.76;7520000;0.99,0.50,0.99,0.50,0.50,0.50,0.99,0.99,0.99,0.50,0.99,0.99
+cuanto vale construir un chalet;6;6;0;20;0.00;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.02;0.00;0.48;34000;0.25,0.50,0.50,0.50,0.25,0.99,0.50,0.75,0.25,0.25,0.25,0.25
+obras de reforma;6;7;1;20;1.90;http://planreforma.com/;0.02;0.02;0.63;59600000;0.99,0.99,0.99,0.67,0.33,0.33,0.99,0.99,0.67,0.67,0.99,0.99
+tarimas madera exterior;5;6;1;20;1.57;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.02;0.81;449000;0.60,0.80,0.99,0.80,0.60,0.40,0.40,0.20,0.20,0.20,0.40,0.20
+tu reforma;13;11;-2;110;1.62;http://planreforma.com/presupuesto-reforma/;0.02;0.02;0.19;49000000;0.81,0.67,0.81,0.67,0.33,0.19,0.43,0.99,0.67,0.43,0.43,0.67
+arboles de navidad adornados;13;14;1;110;0.00;http://planreforma.com/blog/arboles-navidad-decorados-estilo-nordico/;0.02;0.00;0.00;20000;0.00,0.01,0.00,0.01,0.00,0.01,0.01,0.03,0.44,0.99,0.01,0.00
+gravilla para jardin;13;14;1;110;0.11;http://planreforma.com/blog/las-gravas-dan-mucho-juego-en-tu-jardin/;0.02;0.00;0.27;515000;0.99,0.12,0.19,0.54,0.54,0.54,0.42,0.42,0.15,0.04,0.35,0.54
+reformas de pisos en madrid;13;13;0;110;2.65;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.02;0.03;0.93;761000;0.52,0.24,0.33,0.43,0.33,0.33,0.43,0.43,0.43,0.99,0.81,0.67
+decorar recibidor pequeño;14;13;-1;140;0.51;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.02;0.00;0.05;179000;0.54,0.54,0.54,0.42,0.35,0.35,0.81,0.81,0.99,0.35,0.27,0.65
+reformas de vivienda;11;12;1;20;2.11;http://planreforma.com/;0.02;0.02;0.99;18700000;0.67,0.33,0.99,0.33,0.33,0.67,0.67,0.33,0.33,0.67,0.67,0.33
+escalera de buhardilla;11;10;-1;20;0.45;http://planreforma.com/blog/abrir-hueco-para-poner-una-escalera-en-un-atico-o-buhardilla-y-comunicarlo-con-una-terraza/;0.02;0.00;0.55;395000;0.67,0.33,0.33,0.33,0.67,0.33,0.67,0.33,0.99,0.33,0.99,0.67
+ideas para el recibidor;11;11;0;20;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.02;0.00;0.02;366000;0.50,0.50,0.25,0.25,0.25,0.75,0.50,0.99,0.99,0.50,0.75,0.75
+reforma integral cocina precio;11;0;0;20;1.69;http://planreforma.com/presupuesto-reforma/;0.02;0.02;0.89;590000;0.75,0.50,0.50,0.25,0.50,0.75,0.75,0.50,0.50,0.25,0.75,0.99
+instalacion tarima exterior;11;11;0;20;2.02;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.02;0.85;224000;0.99,0.99,0.99,0.75,0.75,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+papel y pintura;11;11;0;20;0.00;http://planreforma.com/blog/papel-pintado-vs-pintura/;0.02;0.00;0.36;26500000;0.99,0.67,0.33,0.67,0.33,0.33,0.67,0.67,0.67,0.33,0.67,0.67
+decoradores de casas;11;15;4;20;0.36;http://planreforma.com/;0.02;0.00;0.84;533000;0.50,0.25,0.25,0.50,0.25,0.25,0.50,0.25,0.50,0.25,0.99,0.25
+ventanas aluminio rotura puente termico;11;10;-1;20;1.37;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.02;0.01;0.69;61000;0.67,0.67,0.67,0.33,0.33,0.67,0.33,0.67,0.99,0.99,0.67,0.99
+sillas de colores para comedor;11;0;0;20;0.36;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.02;0.00;0.80;458000;0.50,0.50,0.25,0.50,0.50,0.99,0.75,0.99,0.50,0.50,0.25,0.25
+presupuesto reforma local;11;10;-1;20;0.00;http://planreforma.com/presupuesto-categorias-reformas_locales_comerciales/;0.02;0.00;0.94;20100000;0.67,0.67,0.99,0.67,0.99,0.33,0.67,0.67,0.67,0.33,0.67,0.67
+decoracion de salones minimalistas;11;10;-1;20;0.00;http://planreforma.com/blog/como-decorar-un-salon-con-estilo-minimalista/;0.02;0.00;0.12;421000;0.20,0.20,0.20,0.40,0.40,0.40,0.80,0.20,0.99,0.80,0.60,0.40
+reforma en madrid;11;0;0;20;2.04;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.02;0.02;0.86;53800000;0.67,0.33,0.99,0.33,0.67,0.33,0.67,0.67,0.67,0.67,0.33,0.99
+reforma de baños precios;11;10;-1;20;1.71;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.02;0.02;0.88;662000;0.75,0.50,0.50,0.50,0.50,0.75,0.75,0.75,0.25,0.25,0.75,0.99
+instalar tarima exterior;11;10;-1;20;0.00;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.00;0.85;319000;0.25,0.50,0.75,0.75,0.99,0.50,0.25,0.25,0.25,0.25,0.25,0.25
+precios de reformas de baños;11;11;0;20;1.57;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.02;0.02;0.93;487000;0.99,0.25,0.75,0.50,0.50,0.50,0.99,0.25,0.25,0.25,0.50,0.50
+reformar una vivienda;11;0;0;20;2.25;http://planreforma.com/presupuesto-reforma/;0.02;0.02;0.87;13800000;0.40,0.40,0.20,0.20,0.40,0.20,0.20,0.20,0.20,0.40,0.99,0.80
+cabeceros de obra;12;17;5;70;0.68;http://planreforma.com/blog/ideas-cabeceros-para-la-cama/;0.02;0.00;0.38;586000;0.64,0.45,0.45,0.64,0.64,0.82,0.82,0.99,0.99,0.64,0.82,0.99
+reformar casas;12;12;0;70;2.81;http://planreforma.com/;0.02;0.03;0.73;12700000;0.99,0.64,0.45,0.45,0.64,0.45,0.45,0.45,0.45,0.45,0.82,0.45
+medidas sillas de ruedas;12;12;0;70;0.43;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.02;0.00;0.86;643000;0.71,0.99,0.71,0.71,0.99,0.71,0.99,0.99,0.99,0.99,0.99,0.99
+decorar con papel pintado y pintura;12;12;0;70;0.23;http://planreforma.com/blog/papel-pintado-vs-pintura/;0.02;0.00;0.54;341000;0.50,0.36,0.21,0.50,0.28,0.14,0.50,0.79,0.99,0.14,0.28,0.36
+piscinas obra;12;13;1;70;1.39;http://planreforma.com/blog/piscina-de-obra-o-prefabricada/;0.02;0.01;0.89;8680000;0.28,0.28,0.28,0.53,0.99,0.82,0.53,0.28,0.18,0.18,0.24,0.28
+reforma completa piso;9;12;3;30;1.30;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.02;0.01;0.86;359000;0.14,0.28,0.28,0.43,0.14,0.28,0.71,0.56,0.56,0.28,0.43,0.99
+presupuesto reformar casa;3;0;0;10;2.04;http://planreforma.com/calculador-reforma/;0.02;0.02;0.84;505000;0.99,0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.99
+reformar un baño precio;9;9;0;30;1.28;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.02;0.01;0.74;3230000;0.80,0.40,0.40,0.40,0.40,0.40,0.80,0.99,0.20,0.20,0.60,0.60
+precios de reformas integrales;9;7;-2;30;2.37;http://planreforma.com/presupuesto-reforma/;0.02;0.02;0.93;535000;0.60,0.80,0.80,0.20,0.20,0.20,0.20,0.60,0.60,0.99,0.99,0.99
+ejemplo presupuesto reforma;10;8;-2;30;0.00;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.02;0.00;0.65;17900000;0.80,0.60,0.60,0.40,0.20,0.20,0.60,0.60,0.60,0.60,0.99,0.99
+materiales para aislamiento acustico;8;9;1;30;0.77;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.02;0.00;0.91;503000;0.80,0.60,0.60,0.80,0.60,0.40,0.40,0.80,0.99,0.40,0.80,0.80
+suelo cocinas;9;10;1;30;1.49;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.02;0.01;0.56;939000;0.99,0.67,0.67,0.67,0.99,0.67,0.99,0.99,0.99,0.67,0.99,0.99
+cabeceros con luz;9;6;-3;30;0.35;http://planreforma.com/blog/ideas-cabeceros-para-la-cama/;0.02;0.00;0.70;455000;0.33,0.11,0.22,0.22,0.33,0.33,0.33,0.22,0.56,0.33,0.99,0.33
+cortinas para jardin;8;13;5;30;0.11;http://planreforma.com/blog/ideas-para-los-textiles-de-exterior-toldos-cojines-manteles-toldos-cortinas/;0.02;0.00;0.82;639000;0.71,0.99,0.71,0.99,0.43,0.43,0.14,0.14,0.14,0.14,0.14,0.14
+cuanto vale una cocina;9;9;0;30;0.15;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.02;0.00;0.22;2430000;0.80,0.40,0.40,0.80,0.80,0.40,0.40,0.40,0.99,0.60,0.60,0.80
+ventanas de aluminio con puente termico;10;11;1;30;1.27;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.02;0.01;0.56;347000;0.43,0.43,0.28,0.28,0.14,0.14,0.28,0.43,0.56,0.99,0.56,0.56
+terrazas feng shui;3;3;0;10;0.00;http://planreforma.com/blog/decoracion-feng-shui-terrazas-urbanas/;0.02;0.00;0.27;225000;0.50,0.50,0.99,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+necesito arquitecto;10;6;-4;30;0.00;http://planreforma.com/blog/%C2%BFpor-que-necesito-contratar-a-un-arquitecto-para-reformar-mi-piso/;0.02;0.00;0.44;507000;0.40,0.60,0.40,0.99,0.20,0.60,0.60,0.20,0.40,0.60,0.60,0.40
+cocinas con suelo gris;9;9;0;30;0.00;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.02;0.00;0.08;719000;0.80,0.40,0.60,0.80,0.60,0.60,0.40,0.80,0.80,0.40,0.99,0.80
+reformas presupuesto;3;2;-1;10;6.01;http://planreforma.com/;0.02;0.07;0.96;23400000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.99
+web de reformas;10;10;0;30;2.04;http://planreforma.com/;0.02;0.02;0.81;21500000;0.99,0.50,0.50,0.75,0.99,0.75,0.50,0.75,0.99,0.25,0.75,0.99
+terraza feng shui;3;3;0;10;0.00;http://planreforma.com/blog/decoracion-feng-shui-terrazas-urbanas/;0.02;0.00;0.12;257000;0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+reformas pladur;9;9;0;30;1.22;http://planreforma.com/blog/reformas-pladur/;0.02;0.01;0.42;529000;0.40,0.60,0.40,0.40,0.40,0.40,0.60,0.40,0.60,0.40,0.99,0.80
+cuanto puede costar reformar una cocina;9;8;-1;30;1.53;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.02;0.01;0.81;198000;0.80,0.99,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60
+reformar la casa;9;12;3;30;1.03;http://planreforma.com/calculador-reforma/;0.02;0.01;0.74;13400000;0.99,0.50,0.50,0.99,0.75,0.50,0.75,0.75,0.50,0.50,0.99,0.99
+reformas casas antiguas;10;12;2;30;1.98;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.02;0.02;0.89;499000;0.40,0.40,0.20,0.40,0.80,0.99,0.80,0.40,0.60,0.20,0.60,0.99
+reformas baños precios;10;12;2;30;2.31;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.02;0.02;0.85;700000;0.22,0.11,0.22,0.56,0.22,0.11,0.22,0.22,0.22,0.78,0.99,0.78
+tarifas arquitectos;9;9;0;30;0.08;http://planreforma.com/blog/cuales-son-los-honorarios-de-un-arquitecto/;0.02;0.00;0.43;433000;0.50,0.50,0.50,0.25,0.75,0.50,0.75,0.99,0.99,0.50,0.50,0.99
+tarima piscina;9;10;1;30;0.30;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.00;0.72;554000;0.99,0.99,0.99,0.99,0.60,0.40,0.40,0.20,0.20,0.40,0.60,0.40
+materiales aislamiento acustico;9;10;1;30;0.90;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.02;0.01;0.82;124000;0.60,0.40,0.40,0.40,0.20,0.40,0.40,0.40,0.99,0.40,0.60,0.40
+presupuesto de obras;8;8;0;30;2.59;http://planreforma.com/;0.02;0.03;0.94;50300000;0.67,0.67,0.99,0.99,0.67,0.67,0.67,0.99,0.99,0.67,0.67,0.99
+decoracion de jardineras;10;11;1;30;0.00;http://planreforma.com/blog/decorar-el-jardin-con-macetas-y-jardineras/;0.02;0.00;0.47;331000;0.99,0.60,0.99,0.80,0.40,0.40,0.60,0.40,0.40,0.20,0.40,0.60
+mejor cesped artificial del mercado;3;3;0;10;1.26;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.02;0.01;0.87;186000;0.99,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.75
+feng shui terraza;3;3;0;10;0.00;http://planreforma.com/blog/decoracion-feng-shui-terrazas-urbanas/;0.02;0.00;0.20;249000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto de ascensores;3;0;0;10;1.31;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.02;0.01;0.98;689000;0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.99
+presupuesto reforma cocina;15;17;2;170;2.29;http://planreforma.com/presupuesto-reforma/;0.02;0.02;0.86;631000;0.99,0.65,0.65,0.65,0.65,0.54,0.54,0.65,0.81,0.65,0.81,0.81
+estilo eclectico;15;0;0;170;0.00;http://planreforma.com/blog/estilo-de-decoracion-eclectico/;0.02;0.00;0.01;55000;0.65,0.54,0.42,0.65,0.65,0.54,0.99,0.65,0.54,0.65,0.81,0.65
+ideas recibidor;15;12;-3;170;0.35;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.02;0.00;0.04;420000;0.54,0.42,0.54,0.35,0.54,0.65,0.81,0.65,0.81,0.65,0.99,0.99
+armarios a medida leroy merlin;16;19;3;170;0.50;http://planreforma.com/blog/increibles-muebles-a-medida-para-ahorrar-espacio/;0.02;0.00;0.55;60000;0.53,0.34,0.28,0.34,0.44,0.53,0.34,0.28,0.99,0.44,0.81,0.53
+reformar una cocina;13;18;5;90;1.13;http://planreforma.com/calculador-cocina/;0.02;0.01;0.78;13000000;0.79,0.50,0.50,0.36,0.50,0.50,0.64,0.99,0.50,0.36,0.79,0.79
+tarima para exterior;13;0;0;90;1.96;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.02;0.89;479000;0.64,0.64,0.99,0.99,0.99,0.82,0.99,0.45,0.45,0.82,0.99,0.82
+plantas artificiales para exterior;13;13;0;90;0.22;http://planreforma.com/blog/jardines-artificiales-interior-exterior/;0.02;0.00;0.91;339000;0.79,0.99,0.64,0.50,0.50,0.64,0.50,0.64,0.64,0.50,0.79,0.36
+empresas de reformas integrales;7;11;4;20;3.97;http://planreforma.com/;0.02;0.04;0.85;586000;0.60,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.99,0.80,0.80
+aislantes acústicos;7;8;1;20;0.49;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.02;0.00;1.00;283000;0.75,0.25,0.50,0.99,0.25,0.25,0.25,0.50,0.75,0.25,0.75,0.50
+graffitis en casa;7;8;1;20;0.43;http://planreforma.com/blog/graffitis-para-decorar-interiores/;0.02;0.00;0.12;2600000;0.99,0.99,0.99,0.50,0.50,0.99,0.99,0.99,0.99,0.50,0.50,0.50
+pedir presupuesto online;7;8;1;20;1.20;http://planreforma.com/;0.02;0.01;0.56;529000;0.33,0.99,0.99,0.33,0.99,0.33,0.33,0.33,0.33,0.67,0.99,0.67
+pintar el piso;7;6;-1;20;1.50;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.02;0.01;0.31;1700000;0.99,0.67,0.67,0.67,0.99,0.67,0.99,0.99,0.67,0.33,0.33,0.67
+precio cambiar cocina;7;0;0;20;0.25;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.02;0.00;0.64;60800000;0.99,0.99,0.50,0.50,0.50,0.50,0.99,0.99,0.99,0.50,0.99,0.99
+ikea reformas;7;5;-2;20;1.02;http://planreforma.com/blog/decoracion-de-un-piso-con-muebles-de-ikea-y-la-ayuda-de-una-decoradora/;0.02;0.01;0.46;480000;0.99,0.67,0.67,0.99,0.67,0.67,0.99,0.67,0.99,0.33,0.99,0.67
+presupuestos profesionales;7;7;0;20;2.44;http://planreforma.com/;0.02;0.02;0.59;26200000;0.33,0.33,0.67,0.33,0.33,0.33,0.67,0.67,0.67,0.33,0.33,0.99
+empresa de reformas integrales;7;10;3;20;0.00;http://planreforma.com/;0.02;0.00;0.93;668000;0.99,0.20,0.20,0.20,0.20,0.20,0.20,0.40,0.80,0.60,0.80,0.40
+project manager arquitectura;7;8;1;20;5.39;http://planreforma.com/blog/el-arquitecto-como-project-manager-una-apuesta-de-futuro/;0.02;0.06;0.48;505000;0.99,0.25,0.25,0.25,0.50,0.25,0.50,0.50,0.50,0.50,0.25,0.50
+precio tarima exterior sintetica;7;6;-1;20;1.08;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.01;0.80;29000;0.80,0.60,0.40,0.99,0.20,0.40,0.20,0.20,0.20,0.20,0.60,0.60
+tarima sintética;7;8;1;20;1.17;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.02;0.01;0.66;238000;0.67,0.67,0.67,0.67,0.99,0.99,0.33,0.67,0.67,0.33,0.67,0.99
+reformar una casa;18;0;0;260;1.95;http://planreforma.com/calculador-reforma/;0.02;0.02;0.78;13600000;0.82,0.44,0.36,0.54,0.54,0.82,0.99,0.99,0.82,0.67,0.82,0.82
+reformar mi casa;14;15;1;110;1.95;http://planreforma.com/;0.02;0.02;0.79;874000;0.27,0.27,0.27,0.19,0.54,0.42,0.35,0.99,0.42,0.65,0.35,0.19
+piscina infinity;14;13;-1;110;0.00;http://planreforma.com/blog/piscinas-desbordantes-o-piscinas-infinitas/;0.02;0.00;0.08;491000;0.53,0.41,0.53,0.65,0.99,0.99,0.65,0.53,0.41,0.41,0.41,0.53
+árboles de navidad decorados;15;15;0;140;0.00;http://planreforma.com/blog/arboles-navidad-decorados-estilo-nordico/;0.02;0.00;0.03;195000;0.00,0.00,0.00,0.01,0.00,0.01,0.02,0.08,0.82,0.99,0.01,0.02
+hacer puerta corredera;15;12;-3;140;0.43;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-ii/;0.02;0.00;0.19;360000;0.81,0.33,0.67,0.52,0.81,0.67,0.67,0.81,0.99,0.52,0.99,0.81
+reforma piso presupuesto;4;0;0;10;0.00;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.02;0.00;0.87;703000;0.99,0.33,0.33,0.67,0.67,0.67,0.99,0.33,0.33,0.33,0.33,0.33
+informe de obra;4;4;0;10;0.00;http://planreforma.com/ayuda/usuario/informe_completo/obra_nueva/;0.02;0.00;0.11;63400000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50
+leroy merlin armarios a medida;15;14;-1;140;0.61;http://planreforma.com/blog/increibles-muebles-a-medida-para-ahorrar-espacio/;0.02;0.00;0.47;60000;0.65,0.35,0.54,0.54,0.42,0.19,0.81,0.99,0.65,0.54,0.54,0.81
+modelos de cesped artificial;4;4;0;10;0.00;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.02;0.00;0.71;459000;0.50,0.99,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99
+estilo kitsch;15;16;1;140;0.02;http://planreforma.com/blog/que-es-el-estilo-kitsch-en-decoracion/;0.02;0.00;0.00;514000;0.67,0.67,0.67,0.67,0.52,0.52,0.52,0.81,0.67,0.81,0.81,0.99
+presupuesto ascensores;4;3;-1;10;1.81;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.02;0.01;0.91;465000;0.67,0.33,0.99,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+reforma de una casa;4;0;0;10;1.33;http://planreforma.com/;0.02;0.01;0.66;80400000;0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.99
+presupuesto para casa;4;5;1;10;0.00;http://planreforma.com/presupuesto-obra_nueva/;0.02;0.00;0.64;44900000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+puerta para discapacitados;4;4;0;10;0.00;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.02;0.00;0.36;688000;0.00,0.99,0.99,0.00,0.99,0.00,0.00,0.00,0.99,0.99,0.00,0.99
+ideas cabeceros;15;14;-1;140;1.04;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.02;0.01;0.28;357000;0.24,0.33,0.43,0.33,0.67,0.99,0.81,0.99,0.99,0.52,0.99,0.99
+escaleras para buhardillas;16;16;0;140;0.33;http://planreforma.com/blog/abrir-hueco-para-poner-una-escalera-en-un-atico-o-buhardilla-y-comunicarlo-con-una-terraza/;0.02;0.00;0.84;386000;0.82,0.53,0.82,0.65,0.65,0.65,0.82,0.99,0.82,0.65,0.82,0.82
+graffitis decorativos;4;4;0;10;0.92;http://planreforma.com/blog/graffitis-para-decorar-interiores/;0.02;0.00;0.73;528000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50
+decoracion recibidor;17;14;-3;170;0.20;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.01;0.00;0.17;527000;0.65,0.54,0.54,0.54,0.42,0.65,0.65,0.81,0.81,0.65,0.99,0.99
+obras en valencia;12;16;4;50;0.73;http://planreforma.com/presupuesto-reforma-valencia/;0.01;0.00;0.27;28800000;0.56,0.44,0.78,0.44,0.33,0.22,0.99,0.33,0.56,0.22,0.44,0.56
+poner puertas correderas;12;11;-1;50;0.44;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-i/;0.01;0.00;0.50;400000;0.56,0.56,0.43,0.43,0.71,0.99,0.71,0.99,0.71,0.56,0.99,0.99
+traviesas jardin;12;11;-1;50;0.34;http://planreforma.com/blog/las-traviesas-de-tren-un-buen-aliado-en-el-diseno-de-jardines/;0.01;0.00;0.32;171000;0.99,0.99,0.99,0.99,0.71,0.99,0.71,0.28,0.43,0.43,0.71,0.56
+instalacion ascensor;12;15;3;50;3.39;http://planreforma.com/blog/instalar-un-ascensor-en-una-finca-sin-ascensor-solucion-para-poner-de-acuerdo-a-tu-comunidad-de-vecinos/;0.01;0.03;0.80;377000;0.56,0.71,0.99,0.71,0.28,0.28,0.71,0.71,0.71,0.56,0.56,0.99
+reforma baños pequeños;12;17;5;50;1.61;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.01;0.01;0.81;503000;0.56,0.56,0.78,0.44,0.44,0.33,0.33,0.56,0.78,0.44,0.99,0.78
+medidas de una silla de ruedas;12;13;1;50;0.45;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.24;665000;0.99,0.43,0.99,0.71,0.56,0.28,0.71,0.71,0.99,0.43,0.71,0.99
+renovar el baño;12;0;0;50;1.45;http://planreforma.com/blog/7-ideas-para-renovar-tu-bano-sin-pasarte-de-presupuesto/;0.01;0.01;0.77;1200000;0.99,0.43,0.71,0.43,0.43,0.56,0.99,0.56,0.56,0.71,0.71,0.99
+reforma piso madrid;12;12;0;50;3.94;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.01;0.03;0.90;1120000;0.36,0.45,0.64,0.27,0.45,0.45,0.45,0.64,0.45,0.36,0.99,0.64
+pisos para reformar;13;15;2;70;1.60;http://planreforma.com/blog/consejos-para-reformar-un-piso-de-alquiler/;0.01;0.01;0.75;11400000;0.78,0.56,0.56,0.56,0.78,0.78,0.99,0.78,0.56,0.56,0.99,0.99
+reforma tu piso;10;0;0;20;2.13;http://planreforma.com/presupuesto-reforma/;0.01;0.01;0.86;2240000;0.99,0.67,0.33,0.67,0.33,0.67,0.33,0.33,0.67,0.33,0.67,0.67
+precios para construir una casa;8;8;0;20;0.43;http://planreforma.com/calculador-obra_nueva/;0.01;0.00;0.77;11900000;0.99,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.33,0.33,0.67,0.33
+precios reforma cocina;10;0;0;20;3.01;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.01;0.02;0.91;758000;0.67,0.33,0.33,0.67,0.33,0.33,0.67,0.33,0.99,0.67,0.99,0.99
+telas decorativas para paredes;10;9;-1;20;0.09;http://planreforma.com/blog/rodillos-decorativos-para-pintar-paredes-telas-y-madera/;0.01;0.00;0.45;563000;0.25,0.25,0.25,0.50,0.50,0.99,0.99,0.50,0.50,0.50,0.25,0.25
+presupuesto amueblar piso;8;0;0;20;0.54;http://planreforma.com/presupuesto-amueblar_piso/;0.01;0.00;0.53;277000;0.67,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.67,0.99
+ventana aluminio rotura puente termico;10;10;0;20;0.87;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.01;0.00;0.61;27000;0.25,0.25,0.25,0.25,0.50,0.25,0.25,0.50,0.99,0.99,0.75,0.99
+presupuesto reformas barcelona;9;7;-2;20;8.69;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.01;0.07;0.94;590000;0.75,0.75,0.50,0.99,0.75,0.50,0.50,0.50,0.25,0.25,0.25,0.25
+puertas para minusvalidos;10;10;0;20;0.28;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.55;456000;0.99,0.50,0.50,0.50,0.25,0.25,0.25,0.50,0.75,0.25,0.50,0.50
+precio de reformar una cocina;10;0;0;20;2.60;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.01;0.02;0.80;24400000;0.25,0.25,0.25,0.25,0.50,0.25,0.25,0.50,0.50,0.50,0.99,0.99
+tarimas exteriores sinteticas;10;10;0;20;0.63;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.01;0.00;0.85;35000;0.20,0.40,0.60,0.99,0.40,0.20,0.20,0.20,0.20,0.40,0.20,0.20
+presupuesto reforma de baño;10;0;0;20;2.76;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.01;0.02;0.95;499000;0.99,0.50,0.99,0.99,0.99,0.50,0.50,0.99,0.50,0.50,0.50,0.99
+arquitecto interiorista;9;0;0;20;0.00;http://planreforma.com/blog/contratar-a-un-decorador-o-a-un-arquitecto-para-una-reforma-hoy-es-barato/;0.01;0.00;0.59;1050000;0.60,0.20,0.40,0.20,0.99,0.20,0.20,0.40,0.60,0.60,0.40,0.40
+de reformas;10;7;-3;20;1.66;http://planreforma.com/calculador-reforma/;0.01;0.01;0.69;51600000;0.60,0.40,0.40,0.40,0.20,0.20,0.40,0.80,0.99,0.20,0.60,0.60
+web reformas;9;9;0;20;1.75;http://planreforma.com/;0.01;0.01;0.62;22300000;0.75,0.50,0.50,0.50,0.25,0.25,0.75,0.75,0.50,0.50,0.50,0.99
+medida silla de ruedas;10;13;3;20;0.00;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.37;570000;0.99,0.99,0.67,0.99,0.67,0.33,0.67,0.67,0.99,0.67,0.67,0.67
+reformas en viviendas;8;8;0;20;2.40;http://planreforma.com/;0.01;0.02;0.89;10300000;0.50,0.50,0.99,0.25,0.25,0.50,0.25,0.99,0.50,0.25,0.99,0.50
+reformas cocinas precios;10;8;-2;20;1.88;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.01;0.01;0.85;570000;0.20,0.40,0.20,0.20,0.20,0.20,0.60,0.60,0.40,0.60,0.99,0.60
+precio cuarto de baño completo;10;9;-1;20;1.00;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.01;0.00;0.66;17400000;0.99,0.75,0.50,0.50,0.50,0.50,0.25,0.50,0.25,0.25,0.75,0.75
+medidas de sillas de ruedas para minusvalidos;8;9;1;20;0.53;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.74;141000;0.75,0.75,0.75,0.75,0.25,0.25,0.25,0.50,0.25,0.25,0.50,0.99
+reforma de baño precio;10;0;0;20;1.55;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.01;0.01;0.79;8750000;0.33,0.11,0.11,0.11,0.22,0.11,0.11,0.11,0.11,0.22,0.44,0.99
+tarima sintetica precios;10;8;-2;20;0.00;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.01;0.00;0.60;25000;0.99,0.09,0.18,0.18,0.09,0.09,0.18,0.09,0.09,0.09,0.09,0.09
+reforma baño presupuesto;10;9;-1;20;1.57;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.01;0.01;0.88;500000;0.25,0.50,0.50,0.50,0.25,0.25,0.25,0.99,0.75,0.25,0.50,0.25
+precios reformas baños;10;11;1;20;1.83;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.01;0.01;0.93;662000;0.28,0.14,0.99,0.28,0.14,0.28,0.14,0.28,0.28,0.28,0.43,0.56
+presupuesto cocina nueva;8;10;2;20;1.49;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.01;0.01;0.80;1160000;0.50,0.25,0.50,0.25,0.25,0.25,0.75,0.50,0.50,0.50,0.75,0.99
+las mejores ventanas de aluminio;10;9;-1;20;0.50;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.01;0.00;0.75;606000;0.25,0.25,0.25,0.25,0.50,0.50,0.75,0.50,0.99,0.50,0.75,0.99
+dimensiones sillas de ruedas;10;9;-1;20;0.45;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.66;459000;0.99,0.25,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.75,0.50
+presupuesto para reformar una cocina;10;0;0;20;2.29;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.01;0.01;0.82;505000;0.33,0.33,0.99,0.33,0.33,0.33,0.67,0.33,0.33,0.67,0.67,0.67
+cortinas jardin;8;7;-1;20;0.07;http://planreforma.com/blog/ideas-para-los-textiles-de-exterior-toldos-cojines-manteles-toldos-cortinas/;0.01;0.00;0.65;1100000;0.40,0.99,0.99,0.99,0.60,0.40,0.40,0.20,0.20,0.20,0.20,0.20
+precios reforma baños;9;0;0;20;1.74;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.01;0.01;0.87;662000;0.20,0.20,0.20,0.20,0.20,0.20,0.40,0.20,0.60,0.40,0.99,0.40
+precio reforma integral cocina;9;0;0;20;1.92;http://planreforma.com/presupuesto-reforma/;0.01;0.01;0.81;394000;0.50,0.99,0.99,0.99,0.50,0.50,0.50,0.50,0.99,0.99,0.99,0.99
+reforma de cocina precio;9;0;0;20;0.70;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.01;0.00;0.85;9810000;0.99,0.99,0.60,0.20,0.20,0.20,0.40,0.20,0.20,0.40,0.40,0.40
+ideas para recibidores;15;15;0;110;0.11;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.01;0.00;0.07;365000;0.79,0.50,0.64,0.64,0.64,0.64,0.99,0.79,0.79,0.64,0.99,0.99
+presupuestos de cocinas;15;18;3;110;1.18;http://planreforma.com/blog/presupuestos-de-cocinas/;0.01;0.00;0.92;719000;0.82,0.53,0.65,0.65,0.53,0.53,0.65,0.65,0.65,0.53,0.99,0.99
+como reformar una casa;16;17;1;110;1.65;http://planreforma.com/;0.01;0.01;0.69;13600000;0.99,0.43,0.52,0.33,0.33,0.43,0.33,0.43,0.52,0.52,0.52,0.52
+reformar piso madrid;12;16;4;40;3.28;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.01;0.02;0.90;698000;0.56,0.56,0.56,0.43,0.28,0.43,0.71,0.71,0.43,0.56,0.99,0.56
+escaleras buhardilla;12;14;2;40;0.18;http://planreforma.com/blog/abrir-hueco-para-poner-una-escalera-en-un-atico-o-buhardilla-y-comunicarlo-con-una-terraza/;0.01;0.00;0.78;167000;0.43,0.56,0.28,0.56,0.28,0.56,0.56,0.71,0.71,0.56,0.99,0.71
+precio tarima exterior;12;16;4;40;1.21;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.01;0.00;0.84;563000;0.99,0.99,0.99,0.71,0.43,0.43,0.56,0.43,0.28,0.28,0.56,0.43
+pedir presupuesto reforma;12;0;0;40;4.58;http://planreforma.com/pedir_presupuestos/;0.01;0.03;0.97;4200000;0.44,0.22,0.33,0.56,0.56,0.33,0.99,0.99,0.33,0.33,0.44,0.11
+cabecero de obra;12;12;0;40;0.00;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.01;0.00;0.06;306000;0.80,0.60,0.80,0.80,0.60,0.80,0.99,0.80,0.80,0.80,0.99,0.99
+instalar ascensor;12;10;-2;40;3.04;http://planreforma.com/blog/instalar-un-ascensor-en-una-finca-sin-ascensor-solucion-para-poner-de-acuerdo-a-tu-comunidad-de-vecinos/;0.01;0.02;0.87;652000;0.99,0.28,0.28,0.21,0.28,0.14,0.21,0.21,0.21,0.14,0.21,0.21
+tipos de grava;12;17;5;40;0.00;http://planreforma.com/blog/las-gravas-dan-mucho-juego-en-tu-jardin/;0.01;0.00;0.02;580000;0.56,0.99,0.99,0.71,0.56,0.43,0.56,0.56,0.43,0.56,0.56,0.43
+papel pintado economico;20;20;0;170;0.45;http://planreforma.com/blog/papel-pintado-vs-pintura/;0.01;0.00;0.88;66000;0.99,0.44,0.53,0.44,0.66,0.66,0.53,0.66,0.53,0.34,0.34,0.53
+reforma viviendas;5;4;-1;10;1.56;http://planreforma.com/;0.01;0.01;0.82;27900000;0.99,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.99,0.99,0.99
+presupuestos obras online;6;7;1;10;1.96;http://planreforma.com/;0.01;0.01;0.99;603000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.00,0.50,0.50
+reforma ventanas;6;6;0;10;0.80;http://planreforma.com/blog/tag/ventanas/;0.01;0.00;0.84;1240000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.50,0.99,0.50
+presupuestos y reformas;5;5;0;10;4.45;http://planreforma.com/;0.01;0.03;0.99;12500000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99
+comedores con sillas de colores;6;0;0;10;0.00;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.01;0.00;0.60;829000;0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99
+ventanas de pvc y aluminio;5;3;-2;10;0.53;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.01;0.00;0.69;608000;0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.99,0.99,0.50,0.50,0.50
+presupuesto para obras;6;7;1;10;0.00;http://planreforma.com/;0.01;0.00;0.00;49300000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.00
+precio de reformas;5;5;0;10;2.47;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.01;0.01;0.95;22000000;0.50,0.50,0.99,0.99,0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.99
+precio de reformas;6;4;-2;10;2.47;http://planreforma.com/calculador-reforma/;0.01;0.01;0.95;22000000;0.50,0.50,0.99,0.99,0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.99
+presupuestos de construccion de casas;6;4;-2;10;1.67;http://planreforma.com/calculador-obra_nueva/;0.01;0.01;0.91;471000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+presupuesto de baños;6;6;0;10;2.31;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.01;0.01;0.82;7950000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+ventanas aluminio pvc;5;3;-2;10;1.06;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.01;0.00;0.78;685000;0.67,0.67,0.33,0.33,0.33,0.33,0.33,0.99,0.67,0.33,0.67,0.33
+empresas reforma;5;6;1;10;0.00;http://planreforma.com/;0.01;0.00;1.00;80200000;0.99,0.99,0.99,0.99,0.00,0.00,0.99,0.99,0.99,0.99,0.99,0.99
+presupuestos para casas;6;6;0;10;1.48;http://planreforma.com/calculador-obra_nueva/;0.01;0.01;0.86;8460000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99
+informe tecnico arquitecto;6;7;1;10;0.00;http://planreforma.com/blog/presupuestos-de-arquitectos-de-informe-tecnico-certificado-tecnico-e-dictamen-pericial-de-un-arquitecto/;0.01;0.00;0.17;49000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.99
+coste construccion chalet;5;5;0;10;0.64;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.01;0.00;0.81;77000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.50
+comedor con sillas de colores;6;0;0;10;0.00;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.01;0.00;0.70;518000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+ventanas pvc y aluminio;5;5;0;10;0.52;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.01;0.00;0.73;572000;0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.50,0.50,0.99,0.50,0.50
+precio decorador interiores;5;0;0;10;2.65;http://planreforma.com/blog/presupuestos-de-decoracion-cuanto-cuesta-un-decorador/;0.01;0.01;0.59;130000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99
+presupuesto reforma baño madrid;6;0;0;10;3.21;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.01;0.02;0.87;547000;0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.99
+puertas correderas tabique;6;6;0;10;0.00;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-i/;0.01;0.00;0.62;49000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+que tipo de piscina es mejor;6;6;0;10;0.00;http://planreforma.com/blog/piscina-de-obra-o-prefabricada/;0.01;0.00;0.41;61600000;0.33,0.33,0.33,0.67,0.67,0.99,0.33,0.33,0.33,0.33,0.33,0.33
+reformas completas;5;5;0;10;1.53;http://planreforma.com/;0.01;0.01;0.88;987000;0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+precios de arquitectos;6;6;0;10;0.80;http://planreforma.com/blog/cuales-son-los-honorarios-de-un-arquitecto/;0.01;0.00;0.63;1540000;0.25,0.99,0.25,0.50,0.25,0.25,0.25,0.25,0.25,0.50,0.25,0.25
+madera sintetica para exteriores;6;7;1;10;0.65;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.01;0.00;0.67;81000;0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50
+suelo de cocina;14;12;-2;70;0.00;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.01;0.00;0.37;32300000;0.82,0.64,0.64,0.64,0.36,0.36,0.64,0.82,0.45,0.64,0.82,0.99
+reforma de piso;14;14;0;70;1.52;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.01;0.01;0.78;27700000;0.78,0.78,0.78,0.56,0.78,0.33,0.56,0.78,0.78,0.56,0.99,0.99
+medidas de sillas de ruedas;14;15;1;70;0.52;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.84;657000;0.56,0.56,0.78,0.78,0.56,0.56,0.78,0.78,0.78,0.56,0.44,0.99
+reformar una cocina precio;11;0;0;10;1.47;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.01;0.00;0.90;9680000;0.67,0.33,0.33,0.33,0.33,0.33,0.99,0.33,0.33,0.33,0.67,0.33
+presupuesto de reforma de baño;11;0;0;10;1.93;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.01;0.01;0.88;500000;0.33,0.33,0.33,0.33,0.67,0.99,0.67,0.33,0.33,0.67,0.67,0.67
+programa tv decoracion;11;9;-2;10;0.00;http://planreforma.com/blog/programas-de-television-sobre-decoracion-y-reformas-tu-casa-a-juicio-reforma-sorpresa-los-asaltacasas/;0.01;0.00;0.10;503000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+medidas de las sillas de ruedas;11;11;0;10;0.62;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.86;660000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50
+como hacer un plano de una vivienda;11;11;0;10;0.35;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.01;0.00;0.27;12200000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+sillas de ruedas dimensiones;11;11;0;10;0.65;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.35;459000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuestos de reformas de cocinas;11;0;0;10;1.82;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.01;0.01;0.79;488000;0.25,0.25,0.25,0.25,0.99,0.25,0.25,0.50,0.25,0.25,0.25,0.25
+cómo hacer un plano de una casa;11;11;0;10;0.00;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.01;0.00;0.12;1310000;0.99,0.00,0.99,0.99,0.00,0.99,0.00,0.99,0.99,0.00,0.99,0.99
+ventilacion para casas;11;11;0;10;0.11;http://planreforma.com/blog/que-es-y-como-conseguir-una-buena-ventilacion-cruzada/;0.01;0.00;0.42;831000;0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+parquet pvc;16;0;0;90;0.53;http://planreforma.com/blog/parquet-de-madera-laminado-marmol-baldosa-microcemento-o-de-pvc-que-tipo-de-suelo-elegir/;0.01;0.00;0.47;596000;0.53,0.41,0.53,0.18,0.24,0.28,0.99,0.82,0.65,0.53,0.53,0.53
+emma sanchez;13;12;-1;50;0.00;http://planreforma.com/blog/emma-sanchez-miranda-interiorista-colaboradora-del-blog-de-www-planreforma-com/;0.01;0.00;0.00;18800000;0.56,0.33,0.33,0.44,0.33,0.44,0.44,0.78,0.44,0.78,0.99,0.56
+cuadros para escaleras;13;11;-2;50;0.23;http://planreforma.com/blog/decorar-las-escaleras/;0.01;0.00;0.56;719000;0.99,0.56,0.56,0.43,0.56,0.43,0.43,0.71,0.99,0.99,0.99,0.99
+reformar vivienda;13;12;-1;50;2.02;http://planreforma.com/;0.01;0.01;0.88;13700000;0.78,0.56,0.56,0.56,0.78,0.33,0.56,0.22,0.78,0.44,0.78,0.99
+reformas leroy merlin;13;14;1;50;0.65;http://planreforma.com/blog/leroy-merlin-y-la-escuela-iade-reforman-pisos-para-familias-en-apuros/;0.01;0.00;0.43;198000;0.78,0.78,0.78,0.78,0.78,0.56,0.99,0.78,0.44,0.22,0.44,0.44
+reformas vivienda;13;11;-2;50;2.63;http://planreforma.com/;0.01;0.01;0.96;19100000;0.44,0.22,0.44,0.33,0.44,0.56,0.56,0.99,0.44,0.44,0.78,0.56
+escalera buhardilla;13;15;2;50;0.44;http://planreforma.com/blog/abrir-hueco-para-poner-una-escalera-en-un-atico-o-buhardilla-y-comunicarlo-con-una-terraza/;0.01;0.00;0.56;270000;0.71,0.56,0.71,0.56,0.56,0.71,0.71,0.56,0.99,0.43,0.71,0.99
+ascensor antiguo;13;8;-5;50;0.00;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.01;0.00;0.32;8500000;0.56,0.44,0.56,0.56,0.44,0.44,0.44,0.99,0.56,0.33,0.56,0.78
+instalacion ascensor;13;0;0;50;3.39;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.01;0.02;0.80;377000;0.56,0.71,0.99,0.71,0.28,0.28,0.71,0.71,0.71,0.56,0.56,0.99
+empresas de decoracion;16;0;0;90;1.23;http://planreforma.com/;0.01;0.00;0.69;1060000;0.53,0.53,0.53,0.41,0.53,0.28,0.82,0.53,0.41,0.41,0.53,0.99
+construir chalet;13;10;-3;50;0.73;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.01;0.00;0.74;487000;0.56,0.71,0.71,0.43,0.71,0.99,0.99,0.99,0.71,0.56,0.99,0.71
+piscina obra;13;13;0;50;1.24;http://planreforma.com/blog/piscina-de-obra-o-prefabricada/;0.01;0.00;0.94;46800000;0.99,0.45,0.45,0.64,0.99,0.64,0.45,0.18,0.18,0.27,0.36,0.45
+reformas de pisos madrid;13;12;-1;50;0.00;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.01;0.00;0.69;691000;0.28,0.36,0.99,0.14,0.07,0.14,0.14,0.28,0.21,0.64,0.64,0.07
+ideas para decorar un recibidor;13;13;0;50;0.28;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.01;0.00;0.19;322000;0.99,0.99,0.56,0.43,0.71,0.71,0.71,0.71,0.71,0.56,0.99,0.71
+reformas pisos barcelona;17;16;-1;110;3.45;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.01;0.02;0.69;610000;0.67,0.52,0.99,0.43,0.33,0.43,0.67,0.43,0.67,0.52,0.67,0.67
+reforma de cocinas;17;0;0;110;2.33;http://planreforma.com/calculador-cocina/;0.01;0.01;0.89;1010000;0.99,0.82,0.53,0.65,0.53,0.53,0.65,0.53,0.65,0.53,0.99,0.82
+paula ruiz;19;16;-3;140;0.00;http://planreforma.com/blog/paula-ruiz-barrilero-interiorista-colaboradora-del-blog-de-www-planreforma-com/;0.01;0.00;0.00;22800000;0.82,0.65,0.82,0.65,0.82,0.82,0.82,0.99,0.82,0.82,0.99,0.99
+television de badalona;20;0;0;140;0.00;http://planreforma.com/blog/cristina-campos-nuestra-community-manager-cuenta-a-la-television-de-badalona-en-que-consiste-plan-reforma/;0.01;0.00;0.08;560000;0.54,0.65,0.99,0.65,0.42,0.19,0.54,0.65,0.54,0.35,0.54,0.65
+presupuesto para obra;7;7;0;10;0.00;http://planreforma.com/;0.01;0.00;0.96;43000000;0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto para una casa;7;7;0;10;0.39;http://planreforma.com/presupuesto-obra_nueva/;0.01;0.00;0.67;40200000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.00,0.50,0.50,0.99
+construir una piscina de obra;7;6;-1;10;0.00;http://planreforma.com/blog/piscina-de-obra-o-prefabricada/;0.01;0.00;0.82;658000;0.50,0.50,0.50,0.99,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.99
+precio de reformas;7;0;0;10;2.47;http://planreforma.com/presupuesto-reforma/;0.01;0.01;0.95;22000000;0.50,0.50,0.99,0.99,0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.99
+presupuestos de construccion de casas;7;0;0;10;1.67;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.01;0.00;0.91;471000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+puertas para discapacitados;7;7;0;10;0.00;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.78;612000;0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99
+suelo gris cocina;7;8;1;10;0.00;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.01;0.00;0.04;653000;0.50,0.99,0.50,0.50,0.50,0.99,0.99,0.50,0.50,0.50,0.99,0.50
+colores para sillas de comedor;7;0;0;10;0.00;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.01;0.00;0.00;626000;0.00,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.00
+como decorar el recibidor;12;12;0;30;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.01;0.00;0.07;777000;0.99,0.50,0.50,0.25,0.50,0.75,0.99,0.75,0.99,0.50,0.25,0.99
+instalacion de ascensor;12;13;1;30;2.60;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.01;0.01;0.89;668000;0.99,0.71,0.99,0.56,0.14,0.14,0.14,0.28,0.28,0.14,0.14,0.14
+reforma en casa;12;8;-4;30;1.73;http://planreforma.com/blog/;0.01;0.00;0.77;58800000;0.99,0.40,0.60,0.60,0.60,0.60,0.60,0.40,0.60,0.40,0.80,0.80
+presupuestos on line;12;13;1;30;1.81;http://planreforma.com/;0.01;0.00;0.81;8740000;0.99,0.40,0.80,0.80,0.60,0.40,0.60,0.80,0.80,0.40,0.80,0.60
+sillas de ruedas medidas;12;12;0;30;0.20;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.86;669000;0.60,0.60,0.80,0.60,0.60,0.40,0.60,0.60,0.60,0.40,0.99,0.80
+ideas decorar recibidor;12;12;0;30;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.01;0.00;0.04;424000;0.50,0.50,0.50,0.50,0.75,0.75,0.99,0.75,0.75,0.50,0.99,0.99
+ideas para decorar recibidor;12;12;0;30;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.01;0.00;0.06;264000;0.56,0.43,0.43,0.43,0.56,0.71,0.99,0.56,0.43,0.28,0.28,0.28
+medidas de silla de ruedas;12;13;1;30;0.47;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.60;715000;0.50,0.75,0.25,0.50,0.50,0.50,0.25,0.75,0.75,0.75,0.99,0.99
+reforma local comercial;13;13;0;40;4.72;http://planreforma.com/blog/reforma-local/;0.01;0.02;0.70;486000;0.22,0.33,0.33,0.22,0.99,0.22,0.33,0.44,0.33,0.56,0.56,0.78
+silla de ruedas medidas;13;13;0;40;0.40;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.01;0.00;0.64;754000;0.60,0.99,0.99,0.99,0.80,0.40,0.80,0.99,0.80,0.80,0.80,0.99
+leroy merlin reformas;13;13;0;40;1.26;http://planreforma.com/blog/leroy-merlin-y-la-escuela-iade-reforman-pisos-para-familias-en-apuros/;0.01;0.00;0.50;232000;0.71,0.56,0.71,0.56,0.56,0.56,0.99,0.43,0.43,0.28,0.43,0.28
+pedir presupuesto reforma;13;0;0;40;4.58;http://planreforma.com/presupuestos-otros-proyectos/;0.01;0.02;0.97;4200000;0.44,0.22,0.33,0.56,0.56,0.33,0.99,0.99,0.33,0.33,0.44,0.11
+tarimas para exterior;13;16;3;40;1.43;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.01;0.00;0.80;602000;0.80,0.80,0.99,0.80,0.80,0.99,0.99,0.40,0.80,0.80,0.20,0.60
+reformar piso barcelona;13;15;2;40;3.70;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.01;0.01;0.92;691000;0.56,0.56,0.99,0.28,0.99,0.28,0.28,0.56,0.28,0.43,0.56,0.28
+instalar ascensor;13;11;-2;40;3.04;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.01;0.01;0.87;652000;0.99,0.28,0.28,0.21,0.28,0.14,0.21,0.21,0.21,0.14,0.21,0.21
+pavimento cocina;13;13;0;40;0.00;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.01;0.00;0.30;609000;0.56,0.43,0.99,0.56,0.43,0.28,0.43,0.43,0.28,0.28,0.71,0.43
+reforma piso barcelona;13;12;-1;40;2.13;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.01;0.01;0.79;709000;0.28,0.28,0.28,0.28,0.43,0.71,0.71,0.56,0.56,0.71,0.99,0.43
+reformar vivienda;14;0;0;50;2.02;http://planreforma.com/calculador-reforma/;0.01;0.00;0.88;13700000;0.78,0.56,0.56,0.56,0.78,0.33,0.56,0.22,0.78,0.44,0.78,0.99
+tarima jardin;14;16;2;50;0.39;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.01;0.00;0.74;429000;0.78,0.99,0.99,0.56,0.78,0.33,0.33,0.56,0.11,0.22,0.33,0.22
+microcemento cocina;16;17;1;70;1.38;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.01;0.00;0.63;333000;0.82,0.64,0.45,0.27,0.36,0.45,0.64,0.64,0.82,0.64,0.99,0.99
+precio instalacion suelo radiante;16;15;-1;70;0.99;http://planreforma.com/blog/sistemas-de-calefaccion-que-es-el-suelo-radiante-y-cuando-usarlo/;0.01;0.00;0.79;106000;0.82,0.45,0.45,0.36,0.45,0.27,0.45,0.27,0.64,0.82,0.99,0.99
+jardin cesped artificial;15;15;0;70;1.21;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.01;0.00;0.81;220000;0.82,0.82,0.82,0.99,0.64,0.64,0.45,0.45,0.36,0.36,0.45,0.82
+reforma baño pequeño;18;18;0;110;1.41;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.00;0.00;0.79;271000;0.53,0.41,0.53,0.53,0.41,0.53,0.53,0.99,0.65,0.65,0.65,0.99
+reformar baño pequeño;19;0;0;110;1.60;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.00;0.00;0.79;789000;0.53,0.65,0.41,0.18,0.41,0.41,0.65,0.99,0.99,0.99,0.99,0.65
+presupuestos cocinas;20;17;-3;110;1.55;http://planreforma.com/presupuesto-cocina/;0.00;0.00;0.92;721000;0.99,0.99,0.99,0.79,0.79,0.64,0.64,0.79,0.79,0.64,0.99,0.99
+presupuesto para una casa;8;8;0;10;0.39;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.67;40200000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.00,0.50,0.50,0.99
+presupuesto para construir;9;0;0;10;0.00;http://planreforma.com/presupuesto-obra_nueva/;0.00;0.00;0.00;24400000;0.00,0.99,0.00,0.99,0.00,0.00,0.00,0.00,0.00,0.99,0.99,0.00
+ventanas aluminio puente térmico;10;13;3;10;0.78;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.00;0.00;0.56;184000;0.99,0.50,0.50,0.50,0.99,0.50,0.50,0.99,0.99,0.50,0.50,0.50
+cambiar cocina precio;8;0;0;10;1.19;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.00;0.00;0.59;59700000;0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.99,0.33,0.33,0.33,0.67
+diseño de jardineras;9;6;-3;10;0.00;http://planreforma.com/blog/decorar-el-jardin-con-macetas-y-jardineras/;0.00;0.00;0.32;599000;0.99,0.99,0.99,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50
+reformar baño presupuesto;9;14;5;10;1.56;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.00;0.00;0.89;394000;0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.99
+graffiti en casa;10;8;-2;10;0.00;http://planreforma.com/blog/graffitis-para-decorar-interiores/;0.00;0.00;0.05;14400000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.33
+reforma loft;8;10;2;10;4.47;http://planreforma.com/blog/convertir-un-local-en-una-vivienda-o-loft/;0.00;0.01;0.05;508000;0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.50,0.99,0.50,0.50,0.50
+personal shopper tarragona;10;16;6;10;1.12;http://planreforma.com/presupuesto-personal_shopper_inmobiliario/tarragona/;0.00;0.00;0.68;157000;0.67,0.33,0.67,0.33,0.67,0.33,0.33,0.67,0.99,0.67,0.67,0.33
+reformas en casas;9;9;0;10;0.76;http://planreforma.com/blog/;0.00;0.00;0.99;75500000;0.67,0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.33,0.33
+reformas en casas;8;8;0;10;0.76;http://planreforma.com/;0.00;0.00;0.99;75500000;0.67,0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.33,0.33
+decoracion con vigas de madera;10;8;-2;10;0.00;http://planreforma.com/blog/decoracion-con-vigas-de-madera-vistas/;0.00;0.00;0.22;600000;0.99,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.50
+reformar piso en madrid;10;0;0;10;0.00;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.00;0.00;0.91;494000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99
+pizarra decoracion pared;8;0;0;10;2.10;http://planreforma.com/blog/decorar-paredes-pizarra/;0.00;0.00;0.73;225000;0.50,0.99,0.99,0.99,0.50,0.99,0.50,0.99,0.99,0.99,0.50,0.50
+necesito reformar mi casa;9;6;-3;10;2.06;http://planreforma.com/blog/%C2%BFpor-que-necesito-contratar-a-un-arquitecto-para-reformar-mi-piso/;0.00;0.00;0.92;679000;0.67,0.33,0.67,0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+precio reforma de baño;9;0;0;10;3.79;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.00;0.01;0.77;8910000;0.99,0.50,0.99,0.50,0.50,0.99,0.99,0.50,0.99,0.50,0.50,0.99
+reforma online;8;0;0;10;2.17;http://planreforma.com/;0.00;0.00;0.59;26600000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+programas tv decoracion;10;10;0;10;0.00;http://planreforma.com/blog/programas-de-television-sobre-decoracion-y-reformas-tu-casa-a-juicio-reforma-sorpresa-los-asaltacasas/;0.00;0.00;0.12;402000;0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+ejemplo presupuesto reforma baño;10;0;0;10;1.76;http://planreforma.com/blog/como-elegir-el-mejor-presupuesto-de-reforma-%C2%BFque-debe-contener/;0.00;0.00;0.75;355000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+reformas en pisos;9;8;-1;10;2.38;http://planreforma.com/;0.00;0.01;0.95;1710000;0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.99,0.99,0.99
+como hacer plano de mi casa;9;0;0;10;0.00;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.00;0.00;0.14;429000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.00,0.50,0.50,0.50,0.50
+precio de un proyecto de obra;9;9;0;10;0.75;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.28;30500000;0.99,0.99,0.50,0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50
+presupuesto para hacer un baño;8;10;2;10;0.53;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.00;0.00;0.61;629000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+precios construccion casas;9;0;0;10;0.71;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.92;903000;0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+salones diseño minimalista;9;8;-1;10;0.00;http://planreforma.com/blog/como-decorar-un-salon-con-estilo-minimalista/;0.00;0.00;0.05;370000;0.33,0.33,0.33,0.33,0.67,0.67,0.33,0.33,0.67,0.33,0.99,0.99
+programas tv de decoracion;10;10;0;10;0.00;http://planreforma.com/blog/programas-de-television-sobre-decoracion-y-reformas-tu-casa-a-juicio-reforma-sorpresa-los-asaltacasas/;0.00;0.00;0.42;413000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+muebles de oportunidad;10;10;0;10;0.33;http://planreforma.com/blog/reciclar-muebles-dales-una-segunda-oportunidad/;0.00;0.00;0.92;23900000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.99
+como hacer el plano de mi casa;10;0;0;10;0.24;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.00;0.00;0.09;1040000;0.99,0.25,0.25,0.25,0.25,0.25,0.50,0.50,0.75,0.25,0.25,0.25
+presupuestos construccion casas;8;4;-4;10;1.62;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.77;470000;0.50,0.50,0.99,0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.00,0.50
+presupuestos construccion casas;9;0;0;10;1.62;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.77;470000;0.50,0.50,0.99,0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.00,0.50
+silla de ruedas dimensiones;10;9;-1;10;0.00;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.00;0.00;0.33;444000;0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.99,0.33
+decorados minimalistas;10;0;0;10;0.00;http://planreforma.com/blog/como-decorar-un-salon-con-estilo-minimalista/;0.00;0.00;0.00;934000;0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.00,0.99,0.99
+ventana de aluminio con rotura de puente termico;9;10;1;10;0.00;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.00;0.00;0.62;27000;0.67,0.33,0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+modelo presupuesto reforma;8;0;0;10;0.00;https://planreforma.com/pedir_presupuestos/;0.00;0.00;0.63;19100000;0.50,0.50,0.99,0.50,0.99,0.50,0.50,0.50,0.99,0.50,0.99,0.99
+empresa de reforma;9;9;0;10;2.56;http://planreforma.com/;0.00;0.01;0.85;72700000;0.99,0.33,0.33,0.67,0.33,0.33,0.67,0.33,0.67,0.67,0.33,0.33
+presupuesto reforma integral cocina;8;0;0;10;0.00;http://planreforma.com/presupuesto-reforma/;0.00;0.00;0.85;343000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.33,0.67,0.67
+presupuesto de reforma baño;9;8;-1;10;0.00;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.00;0.00;0.00;500000;0.99,0.75,0.50,0.25,0.25,0.25,0.00,0.25,0.25,0.25,0.00,0.00
+que piscina es mejor;8;8;0;10;0.00;http://planreforma.com/blog/piscina-de-obra-o-prefabricada/;0.00;0.00;0.28;185000000;0.99,0.33,0.67,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.33
+decoracion graffiti;14;16;2;40;0.00;http://planreforma.com/blog/graffitis-para-decorar-interiores/;0.00;0.00;0.23;377000;0.28,0.56,0.28,0.28,0.43,0.56,0.99,0.71,0.28,0.56,0.71,0.28
+construccion casa;17;0;0;70;0.70;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.78;26000000;0.64,0.64,0.99,0.64,0.36,0.64,0.36,0.64,0.64,0.45,0.82,0.64
+baño con bañera;14;13;-1;40;0.00;http://planreforma.com/blog/reformar-los-banos-banera-o-ducha-bide-si-o-no/;0.00;0.00;0.08;18600000;0.71,0.43,0.56,0.43,0.28,0.43,0.28,0.43,0.56,0.43,0.71,0.99
+reformar baños pequeños;14;15;1;40;1.18;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.00;0.00;0.78;976000;0.99,0.40,0.60,0.40,0.40,0.80,0.80,0.99,0.80,0.60,0.80,0.60
+armario a medida leroy merlin;14;14;0;40;0.75;http://planreforma.com/blog/increibles-muebles-a-medida-para-ahorrar-espacio/;0.00;0.00;0.35;50000;0.14,0.14,0.28,0.56,0.71,0.71,0.28,0.99,0.71,0.71,0.99,0.71
+reforma de baños pequeños;14;14;0;40;1.63;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.00;0.00;0.71;790000;0.71,0.71,0.43,0.14,0.14,0.99,0.71,0.28,0.28,0.28,0.43,0.56
+reforma en casa;13;0;0;30;1.73;http://planreforma.com/calculador-reforma/;0.00;0.00;0.77;58800000;0.99,0.40,0.60,0.60,0.60,0.60,0.60,0.40,0.60,0.40,0.80,0.80
+iluminacion pujol;13;17;4;30;0.00;http://planreforma.com/directorio-marcas-comerciales/pujol_iluminacion/28/;0.00;0.00;0.10;72000;0.75,0.50,0.50,0.50,0.75,0.25,0.75,0.75,0.75,0.50,0.99,0.75
+reformar cocina presupuesto;13;12;-1;30;2.18;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.00;0.00;0.89;399000;0.18,0.18,0.09,0.18,0.27,0.18,0.27,0.09,0.18,0.36,0.99,0.45
+como hacer puerta corredera;19;18;-1;90;0.12;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-ii/;0.00;0.00;0.13;357000;0.64,0.50,0.64,0.50,0.28,0.64,0.50,0.64,0.64,0.64,0.79,0.99
+tarima exteriores;13;15;2;30;1.31;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.86;514000;0.75,0.99,0.75,0.75,0.50,0.50,0.50,0.50,0.25,0.75,0.50,0.75
+precio construccion m2;18;16;-2;90;0.33;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.35;8460000;0.99,0.82,0.82,0.65,0.41,0.12,0.24,0.53,0.41,0.28,0.65,0.65
+reformas del hogar;19;0;0;90;2.35;http://planreforma.com/calculador-reforma/;0.00;0.00;0.91;9870000;0.99,0.64,0.64,0.64,0.50,0.50,0.64,0.64,0.64,0.64,0.79,0.79
+iluminacion cenital;18;18;0;90;0.00;http://planreforma.com/blog/luz-directa-o-indirecta-cenital/;0.00;0.00;0.01;23000;0.79,0.64,0.79,0.50,0.21,0.14,0.28,0.79,0.79,0.64,0.99,0.79
+cuanto cuesta poner parquet;20;0;0;90;0.81;http://planreforma.com/blog/parquet-de-madera-laminado-marmol-baldosa-microcemento-o-de-pvc-que-tipo-de-suelo-elegir/;0.00;0.00;0.56;18000;0.24,0.24,0.28,0.28,0.28,0.41,0.41,0.65,0.65,0.65,0.99,0.82
+tarima para jardin;12;12;0;20;0.32;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.69;455000;0.99,0.67,0.99,0.67,0.67,0.33,0.67,0.33,0.33,0.33,0.33,0.33
+reforma tu piso;12;8;-4;20;2.13;http://planreforma.com/blog/;0.00;0.00;0.86;2240000;0.99,0.67,0.33,0.67,0.33,0.67,0.33,0.33,0.67,0.33,0.67,0.67
+decoracion salones minimalistas;12;9;-3;20;0.00;http://planreforma.com/blog/como-decorar-un-salon-con-estilo-minimalista/;0.00;0.00;0.19;85000;0.50,0.50,0.50,0.99,0.50,0.99,0.99,0.99,0.99,0.50,0.50,0.99
+reforma integral cocina precio;12;0;0;20;1.69;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.00;0.00;0.89;590000;0.75,0.50,0.50,0.25,0.50,0.75,0.75,0.50,0.50,0.25,0.75,0.99
+decorar recibidores y pasillos;12;12;0;20;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.15;123000;0.20,0.20,0.20,0.20,0.20,0.40,0.80,0.99,0.40,0.20,0.20,0.20
+reforma pisos barcelona;12;10;-2;20;3.80;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.00;0.01;0.78;7880000;0.99,0.67,0.67,0.67,0.33,0.67,0.99,0.99,0.99,0.33,0.67,0.67
+precio de reformar una cocina;12;0;0;20;2.60;http://planreforma.com/calculador-reforma/;0.00;0.00;0.80;24400000;0.25,0.25,0.25,0.25,0.50,0.25,0.25,0.50,0.50,0.50,0.99,0.99
+pvc laminado;12;10;-2;20;1.94;http://planreforma.com/blog/parquet-de-madera-laminado-marmol-baldosa-microcemento-o-de-pvc-que-tipo-de-suelo-elegir/;0.00;0.00;0.25;540000;0.99,0.67,0.99,0.67,0.33,0.67,0.33,0.67,0.99,0.67,0.33,0.33
+presupuesto para reformar un baño;12;10;-2;20;2.44;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.00;0.00;0.87;516000;0.67,0.67,0.99,0.67,0.99,0.33,0.33,0.33,0.67,0.33,0.99,0.67
+colocar tarima exterior;12;11;-1;20;3.03;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.01;0.63;192000;0.20,0.60,0.99,0.80,0.60,0.40,0.40,0.20,0.20,0.40,0.20,0.40
+reforma cocina presupuesto;12;15;3;20;2.89;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.00;0.01;0.92;629000;0.50,0.25,0.50,0.50,0.50,0.25,0.50,0.50,0.75,0.25,0.50,0.99
+presupuesto reformar cocina;12;11;-1;20;1.88;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.00;0.00;0.89;401000;0.67,0.33,0.67,0.67,0.99,0.33,0.67,0.67,0.33,0.33,0.99,0.67
+reforma baño presupuesto;12;0;0;20;1.57;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.00;0.00;0.88;500000;0.25,0.50,0.50,0.50,0.25,0.25,0.25,0.99,0.75,0.25,0.50,0.25
+suelos sinteticos para cocinas;12;13;1;20;0.61;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.00;0.00;0.60;28000;0.50,0.50,0.50,0.50,0.50,0.99,0.75,0.25,0.25,0.25,0.50,0.50
+reformar una vivienda;12;16;4;20;2.25;http://planreforma.com/;0.00;0.00;0.87;13800000;0.40,0.40,0.20,0.20,0.40,0.20,0.20,0.20,0.20,0.40,0.99,0.80
+suelo marmol precio;12;10;-2;20;0.41;http://planreforma.com/blog/parquet-de-madera-laminado-marmol-baldosa-microcemento-o-de-pvc-que-tipo-de-suelo-elegir/;0.00;0.00;0.85;405000;0.20,0.20,0.20,0.20,0.40,0.40,0.40,0.40,0.80,0.40,0.60,0.99
+ideas para pintar piso;12;8;-4;20;5.00;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.00;0.01;0.15;476000;0.50,0.25,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.25,0.25,0.50
+como se hace el hormigon impreso;15;15;0;50;2.63;http://planreforma.com/blog/sabes-como-el-hormigon-impreso-puede-dar-juego-en-tu-jardin/;0.00;0.00;0.55;129000;0.78,0.56,0.56,0.78,0.33,0.56,0.56,0.99,0.56,0.33,0.78,0.44
+ikea bombilla led;16;0;0;50;0.44;http://planreforma.com/blog/iluminacion-eficiente-ikea-anuncia-que-en-2016-solo-vendera-bombillas-y-lamparas-led/;0.00;0.00;0.67;41000;0.71,0.56,0.28,0.28,0.56,0.71,0.71,0.71,0.99,0.71,0.71,0.71
+precio metro cuadrado construccion;15;14;-1;50;0.37;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.54;576000;0.33,0.33,0.56,0.44,0.44,0.78,0.78,0.56,0.99,0.44,0.56,0.78
+hacer puertas correderas;15;19;4;50;0.00;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-ii/;0.00;0.00;0.35;399000;0.78,0.99,0.44,0.78,0.33,0.22,0.56,0.78,0.56,0.44,0.78,0.56
+ideas decoracion recibidor;15;15;0;50;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.13;281000;0.71,0.43,0.71,0.43,0.56,0.99,0.71,0.99,0.99,0.56,0.99,0.71
+reformas baratas valencia;16;0;0;50;1.26;http://planreforma.com/blog/%C2%BFcomo-conseguir-que-mi-reforma-sea-bbb-buena-bonita-y-barata/;0.00;0.00;0.81;267000;0.64,0.18,0.45,0.27,0.36,0.27,0.18,0.99,0.99,0.45,0.45,0.36
+arquitectura low cost;16;15;-1;50;0.00;http://planreforma.com/directorio/profesionales/web_tuplano_es/1240/;0.00;0.00;0.22;531000;0.80,0.80,0.60,0.99,0.99,0.60,0.99,0.80,0.80,0.99,0.99,0.80
+decorar con muebles ikea;16;18;2;50;0.00;http://planreforma.com/blog/decoracion-de-un-piso-con-muebles-de-ikea-y-la-ayuda-de-una-decoradora/;0.00;0.00;0.08;535000;0.33,0.78,0.99,0.44,0.33,0.33,0.22,0.44,0.56,0.56,0.56,0.44
+casas con parquet;15;15;0;50;0.00;http://planreforma.com/blog/parquet-de-madera-laminado-marmol-baldosa-microcemento-o-de-pvc-que-tipo-de-suelo-elegir/;0.00;0.00;0.09;9670000;0.45,0.27,0.36,0.36,0.36,0.36,0.36,0.64,0.64,0.64,0.99,0.64
+el mejor aislante acustico;16;12;-4;50;1.44;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.00;0.00;0.89;99000;0.27,0.36,0.45,0.36,0.45,0.36,0.27,0.64,0.45,0.82,0.82,0.99
+precios de ascensores;16;0;0;50;0.90;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.00;0.00;0.98;698000;0.33,0.44,0.56,0.56,0.44,0.44,0.56,0.56,0.56,0.99,0.78,0.56
+reformas de pisos en barcelona;15;0;0;50;3.60;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.00;0.01;0.91;646000;0.71,0.56,0.71,0.71,0.99,0.99,0.71,0.43,0.56,0.14,0.99,0.99
+comparador de pisos;16;0;0;50;0.25;http://planreforma.com/;0.00;0.00;0.66;391000;0.56,0.71,0.56,0.56,0.71,0.71,0.43,0.56,0.56,0.56,0.99,0.99
+licencia de obras ayuntamiento de madrid;15;15;0;50;1.86;http://planreforma.com/blog/que-permisos-tengo-que-solicitar-para-hacer-obras-en-mi-piso/;0.00;0.00;0.47;502000;0.99,0.79,0.14,0.07,0.07,0.07,0.36,0.21,0.07,0.07,0.36,0.64
+plantas artificiales exterior;15;16;1;50;0.28;http://planreforma.com/blog/jardines-artificiales-interior-exterior/;0.00;0.00;1.00;365000;0.78,0.78,0.78,0.78,0.99,0.56,0.44,0.99,0.33,0.11,0.44,0.44
+decorar con muebles de ikea;18;0;0;70;0.00;http://planreforma.com/blog/decoracion-de-un-piso-con-muebles-de-ikea-y-la-ayuda-de-una-decoradora/;0.00;0.00;0.13;488000;0.99,0.45,0.27,0.64,0.64,0.82,0.82,0.27,0.45,0.27,0.82,0.82
+estructura hamaca;19;18;-1;70;0.19;http://planreforma.com/blog/colocar-una-hamaca-dentro-de-casa-como-sujetarlas/;0.00;0.00;0.83;360000;0.28,0.53,0.99,0.65,0.99,0.65,0.28,0.18,0.12,0.12,0.06,0.18
+como poner una puerta corredera;19;0;0;70;0.22;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-i/;0.00;0.00;0.28;433000;0.64,0.45,0.64,0.45,0.45,0.27,0.36,0.82,0.82,0.64,0.82,0.99
+precio reforma cocina y baño;14;14;0;30;2.29;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.00;0.00;0.87;675000;0.60,0.40,0.80,0.60,0.60,0.60,0.40,0.40,0.20,0.40,0.99,0.60
+plantilla presupuesto obra;18;18;0;70;0.08;http://planreforma.com/blog/conoce-las-ventajas-de-la-plantilla-de-presupuestos-de-plan-reforma/;0.00;0.00;0.23;618000;0.99,0.99,0.99,0.56,0.78,0.33,0.33,0.78,0.99,0.99,0.99,0.99
+decorar con alfombras;18;14;-4;70;0.63;http://planreforma.com/blog/10-consejos-decorar-alfombras/;0.00;0.00;0.28;1030000;0.28,0.28,0.21,0.21,0.21,0.50,0.50,0.79,0.99,0.64,0.64,0.64
+paredes de pizarra;18;18;0;70;0.84;http://planreforma.com/blog/decorar-paredes-pizarra/;0.00;0.00;0.49;689000;0.99,0.82,0.45,0.45,0.64,0.64,0.82,0.64,0.82,0.64,0.64,0.64
+como hacer puertas correderas;19;19;0;70;0.47;http://planreforma.com/blog/nos-vamos-de-reformas-puertas-correderas-ii/;0.00;0.00;0.25;422000;0.78,0.99,0.78,0.99,0.99,0.99,0.56,0.56,0.56,0.33,0.99,0.99
+presupuestos construccion;19;0;0;70;1.43;http://planreforma.com/presupuesto-categorias-construccion/;0.00;0.00;0.89;772000;0.99,0.78,0.99,0.78,0.78,0.44,0.78,0.78,0.78,0.78,0.78,0.99
+presupuesto nave industrial;19;19;0;70;1.14;http://planreforma.com/presupuesto-construccion_nave_industrial/;0.00;0.00;0.39;297000;0.56,0.44,0.99,0.56,0.44,0.56,0.44,0.99,0.78,0.56,0.99,0.78
+suelo madera terraza;18;0;0;70;2.68;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.66;783000;0.99,0.99,0.78,0.78,0.99,0.78,0.56,0.44,0.44,0.44,0.56,0.44
+decorar paredes con madera;18;18;0;70;0.59;http://planreforma.com/blog/13-ideas-para-decorar-paredes-con-troncos-de-madera/;0.00;0.00;0.28;770000;0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.79,0.79,0.99,0.79,0.50
+decorar mesas de comedor;19;19;0;70;0.43;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.00;0.00;0.24;653000;0.28,0.50,0.50,0.28,0.36,0.36,0.50,0.36,0.79,0.99,0.64,0.79
+reformas de baños ideas;19;0;0;70;0.59;http://planreforma.com/blog/consejos-para-reformar-y-disenar-un-bano/;0.00;0.00;0.64;443000;0.78,0.56,0.78,0.99,0.99,0.78,0.78,0.78,0.56,0.33,0.78,0.78
+escaleras de buhardilla;14;16;2;30;0.27;http://planreforma.com/blog/abrir-hueco-para-poner-una-escalera-en-un-atico-o-buhardilla-y-comunicarlo-con-una-terraza/;0.00;0.00;0.81;398000;0.80,0.60,0.60,0.60,0.40,0.60,0.99,0.40,0.60,0.60,0.40,0.60
+precios cesped artificial instalado;14;15;1;30;1.63;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.00;0.00;1.00;10000;0.60,0.99,0.99,0.40,0.40,0.40,0.20,0.20,0.40,0.20,0.60,0.80
+ascensor pequeño;15;15;0;40;1.97;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.00;0.00;0.84;6620000;0.80,0.60,0.60,0.99,0.80,0.60,0.80,0.60,0.99,0.99,0.60,0.99
+ideas recibidores;17;16;-1;50;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.08;327000;0.40,0.40,0.99,0.80,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+ventilar la casa;15;14;-1;40;0.00;http://planreforma.com/blog/que-es-y-como-conseguir-una-buena-ventilacion-cruzada/;0.00;0.00;0.15;466000;0.12,0.06,0.18,0.12,0.12,0.06,0.06,0.12,0.24,0.28,0.82,0.99
+ideas para recibidor;15;13;-2;40;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.04;373000;0.80,0.60,0.60,0.40,0.60,0.60,0.80,0.60,0.99,0.80,0.80,0.99
+tarima tecnologica exterior;16;0;0;40;1.23;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.65;18000;0.44,0.33,0.33,0.33,0.33,0.11,0.22,0.33,0.56,0.99,0.33,0.22
+reforma piso antiguo;16;11;-5;40;1.83;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.00;0.00;0.49;1090000;0.43,0.43,0.28,0.14,0.56,0.28,0.56,0.56,0.56,0.56,0.99,0.99
+aislantes acusticos para paredes;17;9;-8;50;0.96;http://planreforma.com/blog/%C2%BFque-materiales-son-aislantes-acusticos/;0.00;0.00;0.91;14000;0.45,0.36,0.36,0.36,0.45,0.36,0.27,0.36,0.45,0.36,0.99,0.64
+precio instalacion cesped artificial;17;16;-1;50;1.54;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.00;0.00;0.91;58000;0.64,0.82,0.99,0.64,0.45,0.45,0.36,0.27,0.36,0.18,0.27,0.45
+suelo para cocinas;15;14;-1;40;1.11;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.00;0.00;0.65;29400000;0.99,0.56,0.28,0.56,0.71,0.43,0.56,0.56,0.28,0.28,0.71,0.43
+estanterias originales para libros;16;14;-2;40;0.75;http://planreforma.com/blog/como-almacenar-los-libros-estanterias-originales/;0.00;0.00;0.39;108000;0.71,0.56,0.71,0.99,0.43,0.56,0.43,0.56,0.43,0.43,0.56,0.56
+reforma tu piso;13;0;0;20;2.13;http://planreforma.com/blog/cuanto-cuesta-reformar-un-piso/;0.00;0.00;0.86;2240000;0.99,0.67,0.33,0.67,0.33,0.67,0.33,0.33,0.67,0.33,0.67,0.67
+precio reforma baño y cocina;13;0;0;20;3.22;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.00;0.00;0.84;1020000;0.67,0.67,0.67,0.67,0.67,0.33,0.67,0.99,0.33,0.99,0.33,0.33
+precio de reformar una cocina;13;0;0;20;2.60;http://planreforma.com/calculador-cocina/;0.00;0.00;0.80;24400000;0.25,0.25,0.25,0.25,0.50,0.25,0.25,0.50,0.50,0.50,0.99,0.99
+presupuesto para reformar un baño;13;0;0;20;2.44;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.00;0.00;0.87;516000;0.67,0.67,0.99,0.67,0.99,0.33,0.33,0.33,0.67,0.33,0.99,0.67
+presupuesto reforma de baño;13;0;0;20;2.76;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.00;0.00;0.95;499000;0.99,0.50,0.99,0.99,0.99,0.50,0.50,0.99,0.50,0.50,0.50,0.99
+ideas para reformar mi casa;13;12;-1;20;4.20;http://planreforma.com/;0.00;0.01;0.44;227000;0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.99,0.22,0.33,0.22,0.11
+cuadros para salones minimalistas;13;0;0;20;0.41;http://planreforma.com/blog/como-decorar-un-salon-con-estilo-minimalista/;0.00;0.00;0.60;206000;0.50,0.25,0.50,0.25,0.25,0.50,0.25,0.75,0.25,0.25,0.99,0.75
+reformas.com;13;0;0;20;1.72;http://planreforma.com/;0.00;0.00;0.75;154000000;0.75,0.25,0.75,0.25,0.50,0.25,0.50,0.99,0.50,0.50,0.50,0.75
+presupuesto reformar cocina;13;12;-1;20;1.88;http://planreforma.com/calculador-reforma/;0.00;0.00;0.89;401000;0.67,0.33,0.67,0.67,0.99,0.33,0.67,0.67,0.33,0.33,0.99,0.67
+suelos para la cocina;13;11;-2;20;0.21;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.00;0.00;0.36;20700000;0.67,0.67,0.99,0.67,0.33,0.67,0.67,0.67,0.99,0.67,0.67,0.99
+casa arquitectos;13;10;-3;20;0.00;http://planreforma.com/;0.00;0.00;0.17;18100000;0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.67,0.99,0.67,0.67
+tipos de suelos para cocinas;13;12;-1;20;0.66;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.00;0.00;0.62;23900000;0.99,0.50,0.99,0.99,0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.99
+escaleras para aticos;13;12;-1;20;0.13;http://planreforma.com/blog/abrir-hueco-para-poner-una-escalera-en-un-atico-o-buhardilla-y-comunicarlo-con-una-terraza/;0.00;0.00;0.69;334000;0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.99,0.67,0.67,0.99
+viviendas loft;13;15;2;20;0.00;http://planreforma.com/blog/convertir-un-local-en-una-vivienda-o-loft/;0.00;0.00;0.18;587000;0.99,0.50,0.99,0.50,0.50,0.99,0.99,0.99,0.99,0.50,0.99,0.99
+colores para pintar piso;13;10;-3;20;0.00;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.00;0.00;0.19;486000;0.50,0.50,0.25,0.50,0.99,0.50,0.75,0.75,0.75,0.25,0.50,0.50
+reforma piso antiguo;17;0;0;40;1.83;http://planreforma.com/blog/reforma-integral-de-un-piso-pequeno-estilo-vintage/;0.00;0.00;0.49;1090000;0.43,0.43,0.28,0.14,0.56,0.28,0.56,0.56,0.56,0.56,0.99,0.99
+plantas artificiales de exterior;17;16;-1;40;0.25;http://planreforma.com/blog/jardines-artificiales-interior-exterior/;0.00;0.00;1.00;361000;0.99,0.80,0.80,0.99,0.60,0.99,0.40,0.40,0.40,0.20,0.99,0.60
+cuanto cuesta una ventana de pvc;17;14;-3;40;0.77;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.00;0.00;0.72;41700000;0.80,0.60,0.80,0.60,0.40,0.40,0.99,0.80,0.60,0.60,0.99,0.80
+cuanto vale una cocina completa;17;18;1;40;0.36;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.00;0.00;0.37;477000;0.56,0.43,0.43,0.14,0.28,0.56,0.56,0.71,0.71,0.43,0.99,0.56
+iluminacion ikea lamparas;17;0;0;40;0.06;http://planreforma.com/blog/iluminacion-eficiente-ikea-anuncia-que-en-2016-solo-vendera-bombillas-y-lamparas-led/;0.00;0.00;0.44;87000;0.22,0.22,0.11,0.78,0.56,0.33,0.33,0.33,0.78,0.99,0.78,0.33
+como iluminar una casa;19;19;0;50;0.00;http://planreforma.com/blog/iluminar-casa/;0.00;0.00;0.21;24000000;0.99,0.33,0.44,0.44,0.56,0.56,0.56,0.78,0.56,0.56,0.56,0.44
+empresas reformas integrales;15;15;0;30;2.14;http://planreforma.com/;0.00;0.00;0.98;601000;0.71,0.71,0.56,0.43,0.28,0.28,0.28,0.43,0.28,0.28,0.99,0.28
+reformar piso entero;18;18;0;50;2.45;http://planreforma.com/blog/reforma-integral-de-un-piso-pequeno-estilo-vintage/;0.00;0.00;0.90;402000;0.44,0.11,0.33,0.56,0.78,0.78,0.33,0.22,0.44,0.22,0.56,0.99
+precio metro cuadrado de pladur;20;19;-1;50;0.77;http://planreforma.com/blog/reformas-con-paneles-de-carton-yeso-o-ladrillo/;0.00;0.00;0.14;47000;0.71,0.43,0.28,0.43,0.43,0.56,0.99,0.56,0.71,0.99,0.99,0.71
+decorar muebles ikea;18;16;-2;50;0.40;http://planreforma.com/blog/decoracion-de-un-piso-con-muebles-de-ikea-y-la-ayuda-de-una-decoradora/;0.00;0.00;0.07;478000;0.33,0.22,0.44,0.44,0.56,0.99,0.78,0.99,0.56,0.33,0.78,0.99
+reforma barcelona;18;0;0;50;3.38;http://planreforma.com/blog/opiniones-de-clientes-de-plan-reforma-reforma-integral-del-piso-de-montse-y-francesc-en-barcelona/;0.00;0.00;0.80;40000000;0.56,0.44,0.22,0.56,0.44,0.22,0.22,0.99,0.99,0.99,0.99,0.78
+casas eficientes energeticamente;19;19;0;50;0.85;http://planreforma.com/blog/vivienda-energeticamente-autosuficiente/;0.00;0.00;0.64;21000;0.43,0.43,0.28,0.28,0.28,0.71,0.99,0.99,0.99,0.99,0.99,0.71
+balcones de aluminio;18;18;0;50;0.88;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.00;0.00;0.69;651000;0.99,0.99,0.71,0.99,0.71,0.56,0.56,0.56,0.71,0.99,0.71,0.71
+hacer chimenea de obra;18;17;-1;50;0.00;http://planreforma.com/blog/cambiar-una-chimenea-de-sitio-es-posible/;0.00;0.00;0.11;530000;0.19,0.12,0.12,0.08,0.04,0.08,0.08,0.12,0.35,0.99,0.42,0.12
+ikea armarios empotrados a medida;19;0;0;50;0.30;http://planreforma.com/blog/increibles-muebles-a-medida-para-ahorrar-espacio/;0.00;0.00;0.63;46000;0.71,0.56,0.71,0.71,0.99,0.99,0.71,0.71,0.56,0.56,0.71,0.99
+suelo madera exterior barato;15;0;0;30;1.04;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.87;440000;0.71,0.99,0.71,0.43,0.28,0.14,0.14,0.14,0.14,0.14,0.56,0.56
+reformas generales;15;13;-2;30;1.28;http://planreforma.com/;0.00;0.00;0.84;33800000;0.40,0.60,0.40,0.60,0.40,0.40,0.20,0.60,0.80,0.99,0.99,0.40
+ideas de recibidores;15;14;-1;30;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.06;407000;0.75,0.50,0.50,0.50,0.50,0.75,0.25,0.50,0.75,0.99,0.99,0.75
+decoración recibidor;18;15;-3;50;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.13;663000;0.78,0.33,0.33,0.22,0.44,0.56,0.78,0.78,0.78,0.78,0.99,0.78
+pisos para reformar en madrid;15;0;0;30;1.12;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.00;0.00;0.78;673000;0.99,0.80,0.60,0.40,0.20,0.20,0.40,0.40,0.20,0.40,0.40,0.99
+tarimas exteriores;15;14;-1;30;1.35;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.87;492000;0.56,0.99,0.43,0.43,0.43,0.43,0.43,0.28,0.43,0.28,0.28,0.43
+presupuestos de obra;18;0;0;50;1.87;http://planreforma.com/;0.00;0.00;0.94;23200000;0.99,0.99,0.71,0.71,0.71,0.43,0.71,0.56,0.71,0.56,0.71,0.71
+casas obra nueva;19;18;-1;50;0.30;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.75;13800000;0.43,0.43,0.56,0.71,0.71,0.71,0.56,0.56,0.99,0.43,0.99,0.99
+cambiar wc;19;17;-2;50;0.00;http://planreforma.com/blog/reformar-un-bano-%C2%BFpuedo-cambiar-los-sanitarios-de-lugar/;0.00;0.00;0.17;748000;0.71,0.56,0.71,0.56,0.71,0.71,0.43,0.56,0.56,0.99,0.71,0.56
+calefaccion suelo radiante precio;19;16;-3;50;0.90;http://planreforma.com/blog/sistemas-de-calefaccion-que-es-el-suelo-radiante-y-cuando-usarlo/;0.00;0.00;0.91;191000;0.28,0.24,0.24,0.24,0.24,0.06,0.24,0.41,0.28,0.28,0.65,0.99
+reformar pisos;14;12;-2;20;1.36;http://planreforma.com/blog/consejos-para-reformar-un-piso-de-alquiler/;0.00;0.00;0.89;13800000;0.99,0.99,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.99
+baldosa marmol;14;14;0;20;0.36;http://planreforma.com/blog/parquet-de-madera-laminado-marmol-baldosa-microcemento-o-de-pvc-que-tipo-de-suelo-elegir/;0.00;0.00;0.43;383000;0.67,0.67,0.99,0.33,0.67,0.33,0.67,0.67,0.67,0.33,0.67,0.67
+reformar una cocina precio;12;0;0;10;1.47;http://planreforma.com/calculador-reforma/;0.00;0.00;0.90;9680000;0.67,0.33,0.33,0.33,0.33,0.33,0.99,0.33,0.33,0.33,0.67,0.33
+distribucion feng shui;12;12;0;10;0.00;http://planreforma.com/blog/consejos-feng-shui-para-la-casa-ii-habitaciones-banos-y-cocina/;0.00;0.00;0.40;68000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto de construccion de vivienda;12;0;0;10;1.27;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.61;627000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.00,0.50,0.50,0.50
+iluminacion para techos bajos;12;0;0;10;0.00;http://planreforma.com/blog/7-consejos-en-interiorismo-para-que-los-techos-de-tu-casa-parezcan-mas-altos/;0.00;0.00;0.63;409000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99
+presupuesto de reforma de baño;12;0;0;10;1.93;http://planreforma.com/blog/presupuesto-de-la-reforma-de-un-bano/;0.00;0.00;0.88;500000;0.33,0.33,0.33,0.33,0.67,0.99,0.67,0.33,0.33,0.67,0.67,0.67
+presupuestos albañiles;12;16;4;10;0.00;http://planreforma.com/presupuesto-otros_cualquier_otra_obra_para_albaniles_pintores_reformistas_etc/;0.00;0.00;1.00;394000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+ideas para manteles;12;0;0;10;0.00;http://planreforma.com/blog/ideas-para-los-textiles-de-exterior-toldos-cojines-manteles-toldos-cortinas/;0.00;0.00;0.17;864000;0.99,0.99,0.99,0.00,0.00,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+reforma de pisos madrid;12;0;0;10;4.59;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.00;0.00;0.85;856000;0.99,0.14,0.14,0.14,0.14,0.14,0.43,0.14,0.14,0.14,0.14,0.14
+presupuestos de reformas de cocinas;12;0;0;10;1.82;http://planreforma.com/calculador-reforma/;0.00;0.00;0.79;488000;0.25,0.25,0.25,0.25,0.99,0.25,0.25,0.50,0.25,0.25,0.25,0.25
+cocinas suelos;12;11;-1;10;0.00;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.00;0.00;0.24;905000;0.99,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.67
+reforma on line;12;12;0;10;0.00;http://planreforma.com/;0.00;0.00;0.32;38200000;0.00,0.99,0.00,0.00,0.99,0.00,0.99,0.00,0.99,0.99,0.00,0.99
+sillas de comedor de colores;12;0;0;10;0.42;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.00;0.00;0.94;884000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.50,0.50,0.50,0.50
+graffiti decoracion;12;16;4;10;0.00;http://planreforma.com/blog/graffitis-para-decorar-interiores/;0.00;0.00;0.34;397000;0.99,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+pavimento madera exterior;18;19;1;40;0.00;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.65;444000;0.71,0.56,0.99,0.71,0.14,0.43,0.28,0.43,0.56,0.43,0.71,0.43
+arboles decorados de navidad;18;19;1;40;0.00;http://planreforma.com/blog/arboles-navidad-decorados-estilo-nordico/;0.00;0.00;0.03;157000;0.03,0.00,0.00,0.00,0.00,0.03,0.03,0.03,0.53,0.99,0.03,0.03
+licencia obra madrid;18;0;0;40;0.00;http://planreforma.com/blog/permisos-de-obra-para-reformas-en-madrid/;0.00;0.00;0.42;4710000;0.80,0.80,0.60,0.99,0.80,0.60,0.40,0.60,0.99,0.60,0.80,0.80
+tarima exterior precios;19;0;0;40;1.19;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.90;441000;0.99,0.56,0.56,0.56,0.44,0.22,0.22,0.22,0.22,0.11,0.33,0.22
+precio construccion metro cuadrado;17;15;-2;30;0.49;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.55;559000;0.80,0.40,0.60,0.40,0.60,0.99,0.99,0.80,0.40,0.40,0.40,0.40
+sillas de ruedas para casa;18;15;-3;40;0.89;http://planreforma.com/blog/adaptar-un-piso-o-vivienda-para-discapacitados-en-sillas-de-ruedas/;0.00;0.00;0.99;29100000;0.71,0.43,0.43,0.43,0.71,0.28,0.99,0.56,0.43,0.71,0.71,0.43
+precios ascensores;19;0;0;40;1.56;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.00;0.00;0.85;619000;0.43,0.56,0.71,0.28,0.43,0.43,0.56,0.43,0.71,0.56,0.99,0.99
+cemento pulido para suelos;17;0;0;30;1.32;http://planreforma.com/blog/cemento-pulido-exteriores/;0.00;0.00;0.99;271000;0.99,0.99,0.20,0.20,0.99,0.40,0.80,0.60,0.20,0.20,0.20,0.20
+papel croquis;17;0;0;30;0.00;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.00;0.00;0.02;589000;0.33,0.33,0.33,0.11,0.22,0.11,0.56,0.99,0.56,0.22,0.33,0.22
+cocinas con parquet;18;18;0;40;0.00;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.00;0.00;0.17;542000;0.80,0.60,0.60,0.99,0.40,0.40,0.80,0.99,0.80,0.60,0.99,0.80
+ideas reforma baño;19;19;0;40;0.76;http://planreforma.com/blog/consejos-para-reformar-y-disenar-un-bano/;0.00;0.00;0.62;497000;0.56,0.56,0.56,0.56,0.43,0.43,0.71,0.56,0.43,0.56,0.99,0.71
+presupuesto reforma cocina y baño;17;14;-3;30;2.95;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.00;0.00;0.89;434000;0.60,0.20,0.40,0.40,0.60,0.99,0.40,0.80,0.60,0.40,0.80,0.99
+microcemento granada;17;0;0;30;0.84;http://planreforma.com/directorio-gremios/microcemento/granada/?page=2;0.00;0.00;0.75;108000;0.99,0.43,0.28,0.14,0.28,0.43,0.43,0.43,0.43,0.28,0.43,0.43
+decoración de chimeneas;19;0;0;40;0.32;http://planreforma.com/blog/decoracion-chimeneas/;0.00;0.00;0.61;928000;0.14,0.28,0.28,0.28,0.43,0.56,0.71,0.56,0.99,0.99,0.71,0.71
+cojines terraza exterior;17;0;0;30;0.22;http://planreforma.com/blog/ideas-para-los-textiles-de-exterior-toldos-cojines-manteles-toldos-cortinas/;0.00;0.00;0.60;351000;0.99,0.56,0.56,0.33,0.33,0.11,0.11,0.11,0.11,0.00,0.33,0.33
+precio ascensores;20;0;0;40;1.68;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.00;0.00;0.97;757000;0.99,0.43,0.56,0.56,0.56,0.56,0.43,0.71,0.56,0.71,0.56,0.71
+precio metro cuadrado de construccion;18;18;0;40;0.84;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.39;584000;0.99,0.56,0.71,0.56,0.28,0.28,0.43,0.43,0.43,0.43,0.71,0.71
+decoracion con muebles de ikea;19;19;0;40;0.00;http://planreforma.com/blog/decoracion-de-un-piso-con-muebles-de-ikea-y-la-ayuda-de-una-decoradora/;0.00;0.00;0.23;842000;0.99,0.28,0.56,0.99,0.56,0.71,0.71,0.28,0.43,0.14,0.71,0.56
+parquet para cocinas;18;0;0;40;0.56;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.00;0.00;0.64;11100000;0.71,0.43,0.43,0.28,0.28,0.71,0.71,0.43,0.56,0.56,0.71,0.99
+suelo de madera para exterior;19;0;0;40;1.67;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.79;10000000;0.28,0.21,0.50,0.50,0.28,0.99,0.14,0.07,0.07,0.07,0.14,0.21
+decoracion recibidores y pasillos;16;17;1;20;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.31;58000;0.40,0.40,0.20,0.99,0.40,0.40,0.20,0.20,0.20,0.20,0.40,0.20
+busco empresa de reformas;16;0;0;20;5.81;http://planreforma.com/;0.00;0.00;0.77;570000;0.50,0.50,0.25,0.50,0.25,0.25,0.50,0.25,0.25,0.25,0.99,0.50
+casa obra nueva;15;13;-2;20;0.39;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.56;14000000;0.33,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.33,0.67,0.99
+hormigon pulido para exterior;15;12;-3;20;0.00;http://planreforma.com/blog/cemento-pulido-exteriores/;0.00;0.00;0.85;166000;0.33,0.99,0.67,0.99,0.33,0.67,0.33,0.67,0.33,0.33,0.67,0.33
+precio m2 construido;16;16;0;20;0.05;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.37;638000;0.67,0.67,0.67,0.33,0.67,0.67,0.33,0.99,0.67,0.67,0.67,0.99
+tipos cesped artificial;15;0;0;20;1.62;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.00;0.00;0.78;75000;0.75,0.99,0.75,0.75,0.99,0.75,0.50,0.50,0.25,0.25,0.25,0.25
+reformas y obras;16;0;0;20;2.36;http://planreforma.com/;0.00;0.00;0.80;31600000;0.99,0.50,0.99,0.50,0.25,0.25,0.50,0.50,0.50,0.75,0.50,0.99
+decoracion de suelos;16;15;-1;20;0.26;http://planreforma.com/blog/decoracion-de-suelos-con-baldosas-hidraulicas/;0.00;0.00;0.28;605000;0.67,0.33,0.67,0.33,0.99,0.67,0.99,0.99,0.67,0.67,0.67,0.99
+suelos sinteticos para exterior;16;18;2;20;0.81;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.75;42000;0.25,0.99,0.50,0.99,0.50,0.25,0.25,0.25,0.25,0.25,0.75,0.99
+cristales translucidos para ventanas;15;12;-3;20;1.29;http://planreforma.com/blog/soluciones-para-ventanas-ver-y-que-no-te-vean/;0.00;0.00;0.52;39000;0.99,0.33,0.67,0.99,0.33,0.33,0.33,0.33,0.67,0.33,0.33,0.33
+escaleras para buhardilla;15;11;-4;20;0.70;http://planreforma.com/blog/abrir-hueco-para-poner-una-escalera-en-un-atico-o-buhardilla-y-comunicarlo-con-una-terraza/;0.00;0.00;0.93;401000;0.25,0.25,0.25,0.25,0.25,0.99,0.75,0.75,0.25,0.99,0.99,0.75
+presupuesto para reformar una cocina;15;0;0;20;2.29;http://planreforma.com/presupuesto-reforma/;0.00;0.00;0.82;505000;0.33,0.33,0.99,0.33,0.33,0.33,0.67,0.33,0.33,0.67,0.67,0.67
+croquis de casas;15;15;0;20;0.00;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.00;0.00;0.18;582000;0.99,0.99,0.67,0.33,0.33,0.33,0.33,0.67,0.67,0.67,0.67,0.67
+vigas madera techo;16;14;-2;20;0.00;http://planreforma.com/blog/decoracion-con-vigas-de-madera-vistas/;0.00;0.00;0.37;517000;0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.99,0.33
+ideas para hacer un recibidor;13;0;0;10;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.09;297000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+hacer plato ducha obra;19;0;0;30;0.00;http://planreforma.com/blog/platos-de-ducha-de-obra-materiales-que-solucionan-sus-formas-irregulares/;0.00;0.00;0.51;229000;0.80,0.99,0.20,0.40,0.20,0.20,0.60,0.20,0.40,0.60,0.80,0.99
+tarimas de madera para piscinas;13;13;0;10;1.93;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.86;408000;0.99,0.67,0.67,0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+cortinas para exteriores;19;19;0;30;0.26;http://planreforma.com/blog/ideas-para-los-textiles-de-exterior-toldos-cojines-manteles-toldos-cortinas/;0.00;0.00;0.97;646000;0.60,0.99,0.99,0.80,0.99,0.80,0.40,0.20,0.40,0.40,0.40,0.40
+ideas para pintar el piso;13;11;-2;10;0.00;http://planreforma.com/blog/consejos-para-pintar-un-piso/;0.00;0.00;0.36;482000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+ideas de cabeceros;18;0;0;30;0.00;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.00;0.00;0.35;459000;0.40,0.40,0.40,0.60,0.60,0.80,0.40,0.40,0.99,0.40,0.99,0.80
+paredes con pizarra;13;11;-2;10;0.00;http://planreforma.com/blog/decorar-paredes-pizarra/;0.00;0.00;0.35;1040000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+listado arquitectos madrid;20;0;0;30;1.03;http://planreforma.com/directorio/;0.00;0.00;0.91;406000;0.60,0.60,0.60,0.60,0.60,0.40,0.80,0.80,0.60,0.80,0.99,0.60
+presupuesto de reforma cocina;13;14;1;10;0.00;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.00;0.00;0.00;628000;0.99,0.60,0.40,0.20,0.20,0.00,0.20,0.40,0.20,0.20,0.20,0.00
+las mejores ventanas de pvc;19;18;-1;30;0.50;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.00;0.00;0.72;457000;0.60,0.40,0.40,0.40,0.60,0.60,0.60,0.60,0.99,0.99,0.40,0.80
+parquet en cocina;19;18;-1;30;0.00;http://planreforma.com/blog/que-suelo-elegir-para-una-cocina/;0.00;0.00;0.23;15100000;0.99,0.75,0.99,0.25,0.25,0.50,0.50,0.25,0.99,0.50,0.99,0.75
+precio del metro cuadrado construido;18;0;0;30;0.00;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.17;596000;0.99,0.71,0.56,0.56,0.28,0.14,0.14,0.28,0.14,0.14,0.28,0.56
+trabajar en groupalia;19;18;-1;30;0.56;http://planreforma.com/blog/certificados-de-eficiencia-energetica-groupon-groupalia-letsbonus-se-suben-al-carro/;0.00;0.00;0.14;50000;0.99,0.75,0.75,0.25,0.50,0.25,0.50,0.75,0.75,0.50,0.99,0.75
+carton yeso precio;20;0;0;30;0.43;http://planreforma.com/blog/reformas-con-paneles-de-carton-yeso-o-ladrillo/;0.00;0.00;0.67;194000;0.99,0.56,0.43,0.43,0.28,0.43,0.28,0.14,0.43,0.43,0.43,0.43
+concurso interiorismo;19;19;0;30;0.00;http://planreforma.com/blog/primer-concurso-de-interiorismo-de-reformas-de-plan-reforma-2012/;0.00;0.00;0.18;299000;0.50,0.50,0.50,0.50,0.25,0.75,0.75,0.99,0.99,0.75,0.75,0.75
+reformas de hogar;18;19;1;30;2.29;http://planreforma.com/calculador-reforma/;0.00;0.00;0.89;9860000;0.75,0.75,0.75,0.25,0.50,0.50,0.50,0.75,0.99,0.25,0.50,0.99
+casa eficiente energeticamente;18;0;0;30;0.00;http://planreforma.com/blog/vivienda-energeticamente-autosuficiente/;0.00;0.00;0.35;42000;0.99,0.75,0.75,0.25,0.25,0.50,0.25,0.75,0.75,0.50,0.75,0.75
+poner suelo radiante;20;19;-1;30;0.99;http://planreforma.com/blog/sistemas-de-calefaccion-que-es-el-suelo-radiante-y-cuando-usarlo/;0.00;0.00;0.53;253000;0.28,0.43,0.14,0.14,0.14,0.28,0.14,0.28,0.56,0.56,0.99,0.71
+precio del metro cuadrado de construcción;13;0;0;10;0.00;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.18;592000;0.00,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.00,0.99
+decoracion de recibidores y pasillos;17;17;0;20;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.27;56000;0.28,0.43,0.28,0.28,0.43,0.14,0.99,0.43,0.28,0.14,0.28,0.28
+cabeceros ideas;17;17;0;20;0.66;http://planreforma.com/blog/ideas-cabeceros-para-la-cama-ii/;0.00;0.00;0.38;314000;0.99,0.50,0.99,0.99,0.50,0.99,0.50,0.50,0.99,0.50,0.99,0.99
+recibidores ideas;17;17;0;20;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.13;302000;0.33,0.33,0.33,0.33,0.67,0.99,0.99,0.67,0.99,0.67,0.67,0.99
+modelo presupuesto reforma vivienda;17;17;0;20;0.00;http://planreforma.com/blog/precio-de-la-reforma-de-un-piso-de-100-m2/;0.00;0.00;0.84;11800000;0.99,0.50,0.50,0.50,0.50,0.50,0.75,0.50,0.50,0.25,0.50,0.50
+reforma integral de vivienda;17;0;0;20;3.08;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.00;0.00;0.83;626000;0.25,0.25,0.75,0.25,0.50,0.25,0.25,0.50,0.50,0.75,0.50,0.99
+precios tarima exterior;17;14;-3;20;1.48;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;1.00;437000;0.75,0.50,0.50,0.25,0.99,0.50,0.25,0.25,0.25,0.25,0.25,0.25
+piso para reformar;17;0;0;20;3.13;http://planreforma.com/blog/consejos-para-reformar-un-piso-de-alquiler/;0.00;0.00;0.61;11500000;0.99,0.99,0.50,0.50,0.50,0.99,0.99,0.50,0.50,0.99,0.99,0.50
+presupuesto de reforma de cocina;17;0;0;20;3.38;http://planreforma.com/blog/cuanto-cuesta-reformar-una-cocina/;0.00;0.00;0.92;621000;0.99,0.67,0.67,0.33,0.33,0.33,0.33,0.67,0.33,0.67,0.67,0.99
+precio reforma integral baño;14;0;0;10;3.35;http://planreforma.com/blog/las-10-cosas-que-debes-saber-al-hacer-una-reforma-integral/;0.00;0.00;0.98;356000;0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.99
+tarimas para exteriores;14;0;0;10;1.17;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.81;504000;0.33,0.67,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.99
+el armario de tu casa;14;10;-4;10;0.00;http://planreforma.com/blog/escoger-armario-dormitorio/;0.00;0.00;0.00;467000;0.50,0.99,0.99,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50
+montaje ascensor;14;16;2;10;6.03;http://planreforma.com/blog/cuanto-cuesta-instalar-un-ascensor-en-un-edificio-antigua-y-otros-aspectos-tecnicos-a-tener-en-cuenta/;0.00;0.00;0.69;402000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.99,0.50
+presupuesto de reforma cocina;14;0;0;10;0.00;http://planreforma.com/presupuesto-reforma/;0.00;0.00;0.00;628000;0.99,0.60,0.40,0.20,0.20,0.00,0.20,0.40,0.20,0.20,0.20,0.00
+presupuesto de material de construccion;14;0;0;10;0.05;http://planreforma.com/blog/que-es-el-presupuesto-de-ejecucion-material-p-e-m-de-una-obra/;0.00;0.00;0.45;25900000;0.99,0.00,0.99,0.99,0.99,0.00,0.00,0.00,0.99,0.00,0.00,0.99
+recibidores decorados;14;0;0;10;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.23;655000;0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.99,0.67
+diseñar el baño;14;0;0;10;0.48;http://planreforma.com/blog/consejos-para-reformar-y-disenar-un-bano/;0.00;0.00;0.23;846000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50
+presupuesto de una casa;14;12;-2;10;0.05;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.63;41100000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+paredes de pladur o ladrillo;18;18;0;20;0.82;http://planreforma.com/blog/reformas-con-paneles-de-carton-yeso-o-ladrillo/;0.00;0.00;0.21;113000;0.99,0.99,0.50,0.50,0.50,0.99,0.99,0.50,0.99,0.99,0.99,0.99
+como colocar vigas de poliuretano;19;16;-3;20;0.54;http://planreforma.com/blog/vigas-de-poliuretano-una-alternativa-low-cost-sino-no-tienes-el-techo-con-vigas-vistas/;0.00;0.00;0.11;502000;0.75,0.25,0.25,0.25,0.50,0.50,0.50,0.50,0.75,0.50,0.25,0.99
+baños reformas ideas;19;0;0;20;2.62;http://planreforma.com/blog/consejos-para-reformar-y-disenar-un-bano/;0.00;0.00;0.60;463000;0.28,0.14,0.14,0.28,0.14,0.56,0.99,0.56,0.14,0.14,0.28,0.14
+lamparas para techos muy altos;19;19;0;20;0.21;http://planreforma.com/blog/7-consejos-en-interiorismo-para-que-los-techos-de-tu-casa-parezcan-mas-altos/;0.00;0.00;0.73;530000;0.40,0.40,0.40,0.40,0.60,0.20,0.20,0.40,0.60,0.40,0.99,0.40
+suelos madera exterior precios;19;17;-2;20;1.12;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.87;494000;0.43,0.28,0.43,0.99,0.28,0.56,0.14,0.14,0.14,0.14,0.14,0.14
+estilos interiorismo;19;16;-3;20;0.00;http://planreforma.com/blog/la-decoracion-clasica-en-interiorismo/;0.00;0.00;0.09;626000;0.50,0.50,0.50,0.25,0.25,0.25,0.25,0.75,0.50,0.25,0.25,0.99
+ikea decoracion de interiores;18;0;0;20;0.43;http://planreforma.com/blog/decoracion-de-un-piso-con-muebles-de-ikea-y-la-ayuda-de-una-decoradora/;0.00;0.00;0.67;394000;0.99,0.33,0.67,0.67,0.67,0.67,0.67,0.67,0.33,0.33,0.67,0.33
+vivir sin cedula de habitabilidad;18;18;0;20;0.00;http://planreforma.com/blog/convertir-un-local-en-una-vivienda-o-loft/;0.00;0.00;0.23;13000;0.99,0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.99,0.99,0.99,0.99
+sillas comedor colores;19;0;0;20;0.59;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.00;0.00;0.81;888000;0.33,0.67,0.67,0.67,0.33,0.67,0.33,0.33,0.33,0.33,0.99,0.99
+modelo presupuesto reforma vivienda;18;0;0;20;0.00;http://planreforma.com/presupuesto-reforma/;0.00;0.00;0.84;11800000;0.99,0.50,0.50,0.50,0.50,0.50,0.75,0.50,0.50,0.25,0.50,0.50
+reformar cocina y baño precio;19;0;0;20;1.87;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.00;0.00;0.85;1170000;0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.67,0.67,0.67,0.99,0.99
+poner ventanas de aluminio;19;0;0;20;0.90;http://planreforma.com/blog/ventanas-de-aluminio-o-de-pvc-que-elegir/;0.00;0.00;0.78;483000;0.99,0.80,0.40,0.20,0.20,0.20,0.80,0.40,0.20,0.60,0.20,0.40
+alicatado baños pequeños;18;18;0;20;0.00;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.00;0.00;0.15;65000;0.99,0.33,0.67,0.67,0.67,0.67,0.67,0.33,0.67,0.33,0.67,0.99
+ideas para reformar baños;18;0;0;20;0.82;http://planreforma.com/blog/consejos-para-reformar-y-disenar-un-bano/;0.00;0.00;0.72;144000;0.67,0.33,0.33,0.33,0.67,0.33,0.99,0.67,0.33,0.33,0.99,0.99
+baldosas pvc;18;11;-7;20;0.34;http://planreforma.com/blog/parquet-de-madera-laminado-marmol-baldosa-microcemento-o-de-pvc-que-tipo-de-suelo-elegir/;0.00;0.00;0.88;429000;0.67,0.67,0.33,0.33,0.67,0.33,0.33,0.67,0.67,0.33,0.33,0.99
+presupuesto de reforma de cocina;18;0;0;20;3.38;http://planreforma.com/presupuesto-reforma/;0.00;0.00;0.92;621000;0.99,0.67,0.67,0.33,0.33,0.33,0.33,0.67,0.33,0.67,0.67,0.99
+cuanto cuesta hacer una chimenea;19;18;-1;20;0.38;http://planreforma.com/blog/cambiar-una-chimenea-de-sitio-es-posible/;0.00;0.00;0.48;141000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.99,0.99,0.99
+tarimas para jardin;18;16;-2;20;0.59;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.84;686000;0.67,0.67,0.67,0.67,0.99,0.67,0.33,0.33,0.33,0.33,0.33,0.33
+precio reforma integral baño;15;0;0;10;3.35;http://planreforma.com/presupuesto-reforma/;0.00;0.00;0.98;356000;0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.99
+como alicatar un baño pequeño;16;15;-1;10;0.00;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.00;0.00;0.23;130000;0.99,0.33,0.67,0.33,0.33,0.33,0.67,0.33,0.33,0.67,0.33,0.67
+presupuesto construcción;16;0;0;10;0.00;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.56;52300000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50
+platos de ducha materiales;15;15;0;10;0.65;http://planreforma.com/blog/platos-de-ducha-de-obra-materiales-que-solucionan-sus-formas-irregulares/;0.00;0.00;0.74;492000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+empresa reforma;16;16;0;10;3.22;http://planreforma.com/;0.00;0.00;0.88;69300000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+busco decorador de interiores;15;0;0;10;0.56;http://planreforma.com/blog/%C2%BFpor-que-necesito-contratar-a-un-decorador/;0.00;0.00;0.83;117000;0.67,0.67,0.33,0.67,0.67,0.33,0.99,0.33,0.33,0.33,0.67,0.33
+como hacer planos de mi casa;15;0;0;10;0.17;http://planreforma.com/ayuda/usuario/como_hacer_croquis/;0.00;0.00;0.09;807000;0.99,0.25,0.75,0.25,0.00,0.25,0.25,0.25,0.00,0.00,0.25,0.25
+presupuesto de material de construccion;15;0;0;10;0.05;http://planreforma.com/blog/cuanto-cuesta-construir-la-casa-de-tus-suenos/;0.00;0.00;0.45;25900000;0.99,0.00,0.99,0.99,0.99,0.00,0.00,0.00,0.99,0.00,0.00,0.99
+suelo madera piscina;15;17;2;10;1.46;http://planreforma.com/blog/tarima-de-exterior-de-madera-o-sintetica/;0.00;0.00;0.53;717000;0.33,0.67,0.99,0.67,0.99,0.67,0.33,0.33,0.33,0.33,0.33,0.33
+espejos para baños pequeños;16;0;0;10;0.33;http://planreforma.com/blog/9-consejos-para-ganar-espacio-en-banos-pequenos/;0.00;0.00;0.59;537000;0.67,0.67,0.33,0.33,0.33,0.33,0.99,0.67,0.33,0.33,0.67,0.67
+precio del cesped artificial instalado;16;0;0;10;0.88;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.00;0.00;1.00;58000;0.99,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+materiales platos de ducha;16;16;0;10;0.93;http://planreforma.com/blog/platos-de-ducha-de-obra-materiales-que-solucionan-sus-formas-irregulares/;0.00;0.00;0.67;496000;0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.99,0.99
+presupuesto de una casa;15;13;-2;10;0.05;http://planreforma.com/;0.00;0.00;0.63;41100000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+el corte ingles reformas integrales;17;14;-3;10;1.82;http://planreforma.com/blog/dos-mares-la-nueva-coleccion-de-el-corte-ingles-mezcla-la-cultura-mediterranea-y-la-arabe/;0.00;0.00;0.82;39000;0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50
+loft vivienda;17;13;-4;10;0.00;http://planreforma.com/blog/convertir-un-local-en-una-vivienda-o-loft/;0.00;0.00;0.05;1620000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99
+buscador pisos sareb;17;16;-1;10;0.23;http://planreforma.com/blog/donde-encontrar-los-pisos-de-la-sareb/;0.00;0.00;0.75;27000;0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.00,0.33,0.33
+nueva coleccion el corte ingles 2014;17;17;0;10;0.00;http://planreforma.com/blog/dos-mares-la-nueva-coleccion-de-el-corte-ingles-mezcla-la-cultura-mediterranea-y-la-arabe/;0.00;0.00;0.00;105000;0.99,0.40,0.20,0.40,0.40,0.60,0.20,0.20,0.00,0.20,0.20,0.20
+locales vivienda;17;0;0;10;0.08;http://planreforma.com/blog/convertir-un-local-en-una-vivienda-o-loft/;0.00;0.00;0.37;63900000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.99,0.50
+modelos de mesas y sillas para comedor;17;0;0;10;0.00;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.00;0.00;0.00;539000;0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.99,0.99,0.99,0.00
+precio de un baño completo;17;17;0;10;1.03;http://planreforma.com/blog/cuanto-cuesta-reformar-un-bano/;0.00;0.00;0.85;56700000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.50
+para construir una casa;17;0;0;10;1.05;http://planreforma.com/calculador-obra_nueva/;0.00;0.00;0.74;63000000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+decoracion de pasillos y recibidores;19;0;0;10;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.38;56000;0.33,0.33,0.33,0.33,0.33,0.99,0.33,0.99,0.67,0.33,0.33,0.33
+comparador de casas;20;0;0;10;0.14;http://planreforma.com/;0.00;0.00;0.24;571000;0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99
+como decorar recibidores;18;0;0;10;0.00;http://planreforma.com/blog/ideas-sencillas-decorar-recibidor/;0.00;0.00;0.16;441000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+ideas de cabeceras;18;0;0;10;0.00;http://planreforma.com/blog/ideas-cabeceros-para-la-cama/;0.00;0.00;0.00;410000;0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.99,0.00,0.00,0.00
+modelos escaleras;18;19;1;10;0.00;http://planreforma.com/blog/escaleras-interior-modelos/;0.00;0.00;0.39;609000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+modelos sillas comedor;18;0;0;10;0.00;http://planreforma.com/blog/decorar-mesa-comedor-sillas-diferentes/;0.00;0.00;1.00;664000;0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99
+ideas para reformar baño;18;0;0;10;0.94;http://planreforma.com/blog/consejos-para-reformar-y-disenar-un-bano/;0.00;0.00;0.50;484000;0.33,0.67,0.33,0.33,0.33,0.33,0.99,0.67,0.67,0.33,0.67,0.67
+distribución de baños;19;0;0;10;0.00;http://planreforma.com/blog/reformar-un-bano-%C2%BFpuedo-cambiar-los-sanitarios-de-lugar/;0.00;0.00;0.16;18300000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+cuanto cuesta un departamento en madrid;20;0;0;10;0.00;http://planreforma.com/blog/presupuesto-reformas-madrid/;0.00;0.00;0.00;44400000;0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.99,0.00,0.00,0.00,0.00
+materiales para duchas;19;18;-1;10;0.50;http://planreforma.com/blog/platos-de-ducha-de-obra-materiales-que-solucionan-sus-formas-irregulares/;0.00;0.00;0.83;684000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+mediciones obra;19;0;0;10;0.00;http://planreforma.com/blog/que-son-las-mediciones-de-una-obra/;0.00;0.00;0.09;735000;0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+colocar vigas de poliuretano;18;19;1;10;0.00;http://planreforma.com/blog/vigas-de-poliuretano-una-alternativa-low-cost-sino-no-tienes-el-techo-con-vigas-vistas/;0.00;0.00;0.24;78000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.99,0.99,0.50,0.50
+baños ideas para reformar;18;0;0;10;0.22;http://planreforma.com/blog/consejos-para-reformar-y-disenar-un-bano/;0.00;0.00;0.43;150000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+decoracion con pintura de pizarra;18;0;0;10;0.00;http://planreforma.com/blog/decorar-paredes-pizarra/;0.00;0.00;0.20;846000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.99,0.50
+precios instalacion cesped artificial;18;0;0;10;1.74;http://planreforma.com/blog/cesped-artificial-que-hay-que-tener-en-cuenta/;0.00;0.00;0.84;49000;0.99,0.67,0.67,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+modelo de escaleras para interiores;19;0;0;10;0.00;http://planreforma.com/blog/escaleras-interior-modelos/;0.00;0.00;0.00;5310000;0.00,0.00,0.99,0.99,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00

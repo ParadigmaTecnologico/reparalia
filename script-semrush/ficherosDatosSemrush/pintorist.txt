@@ -1,0 +1,124 @@
+Keyword;Position;Previous Position;Position Difference;Search Volume;CPC;Url;Traffic (%);Traffic Cost (%);Competition;Number of Results;Trends
+pintores en valencia;11;11;0;1600;1.64;http://www.pintorist.es/pintores-valencia-p46;18.94;19.85;0.31;483000;0.34,0.66,0.66,0.30,0.17,0.25,0.34,0.30,0.99,0.83,0.83,0.55
+presupuesto pintar casa;1;2;1;110;1.44;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;13.02;11.98;0.74;603000;0.43,0.33,0.52,0.99,0.67,0.67,0.67,0.33,0.52,0.67,0.67,0.52
+cuanto cuesta pintar un piso;2;3;1;210;1.05;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;6.87;4.61;0.50;107000;0.65,0.81,0.81,0.99,0.99,0.99,0.99,0.81,0.81,0.54,0.81,0.99
+precio pintar piso;2;2;0;140;1.53;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;4.58;4.48;0.64;520000;0.99,0.99,0.67,0.52,0.52,0.52,0.67,0.67,0.81,0.52,0.81,0.67
+pintores en zaragoza;10;10;0;590;1.63;http://www.pintorist.es/pintores-zaragoza-p50;4.45;4.64;0.40;610000;0.07,0.68,0.53,0.11,0.14,0.17,0.99,0.46,0.21,0.14,0.07,0.11
+presupuesto pintar piso;3;3;0;170;1.81;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;3.85;4.45;0.73;411000;0.99,0.81,0.81,0.42,0.65,0.54,0.65,0.81,0.54,0.65,0.81,0.65
+presupuesto pintura casa;1;2;1;30;2.64;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;3.55;5.99;0.82;909000;0.14,0.14,0.28,0.28,0.99,0.14,0.43,0.14,0.43,0.14,0.71,0.99
+pintar piso;10;13;3;320;1.24;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;2.41;1.91;0.46;837000;0.99,0.67,0.82,0.82,0.82,0.44,0.82,0.99,0.82,0.54,0.82,0.67
+pintores barcelona;10;8;-2;320;2.31;http://www.pintorist.es/pintores-barcelona-p8;2.41;3.57;0.89;695000;0.54,0.44,0.54,0.54,0.67,0.44,0.67,0.99,0.81,0.54,0.99,0.99
+pintar piso precio;2;2;0;70;1.50;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;2.29;2.19;0.69;521000;0.53,0.24,0.28,0.24,0.18,0.12,0.53,0.53,0.53,0.53,0.82,0.99
+pintores en barcelona;8;8;0;260;2.76;http://www.pintorist.es/pintores-barcelona-p8;1.96;3.46;0.89;730000;0.54,0.35,0.44,0.54,0.54,0.54,0.67,0.99,0.44,0.44,0.44,0.44
+pintores en sevilla;4;5;1;110;2.13;http://www.pintorist.es/pintores-sevilla-p41;1.93;2.64;0.71;602000;0.65,0.65,0.65,0.53,0.53,0.53,0.65,0.65,0.65,0.99,0.82,0.99
+graffiti soria;7;9;2;170;1.43;http://www.pintorist.es/pintores/graffiti-soria-sl-e1600;1.71;1.56;0.01;263000;0.54,0.54,0.81,0.99,0.81,0.81,0.65,0.65,0.65,0.54,0.42,0.54
+pintor en malaga;10;16;6;210;1.36;http://www.pintorist.es/pintores-malaga-p29;1.58;1.37;0.44;503000;0.10,0.28,0.99,0.35,0.19,0.23,0.54,0.44,0.54,0.99,0.35,0.15
+pintores en murcia;5;5;0;110;0.32;http://www.pintorist.es/pintores-murcia-p30;1.38;0.28;0.64;646000;0.33,0.33,0.33,0.43,0.43,0.43,0.52,0.43,0.81,0.52,0.67,0.99
+pintores en malaga;5;7;2;110;2.02;http://www.pintorist.es/pintores-malaga-p29;1.38;1.78;0.46;412000;0.52,0.43,0.43,0.43,0.33,0.33,0.33,0.52,0.52,0.99,0.67,0.52
+quiero un buen trabajo;5;0;0;110;1.66;http://www.pintorist.es/articulos/quiero-un-buen-trabajo-a24;1.38;1.47;0.13;36300000;0.99,0.82,0.99,0.82,0.82,0.41,0.82,0.82,0.65,0.41,0.53,0.41
+pintores sevilla;8;7;-1;170;1.35;http://www.pintorist.es/pintores-sevilla-p41;1.28;1.10;0.56;736000;0.44,0.99,0.36,0.36,0.44,0.36,0.36,0.44,0.28,0.23,0.28,0.54
+pintores en albacete;4;4;0;70;0.92;http://www.pintorist.es/pintores-albacete-p2;1.23;0.72;0.51;500000;0.33,0.67,0.99,0.33,0.33,0.33,0.24,0.33,0.24,0.10,0.10,0.19
+pintores en leon;4;7;3;70;0.68;http://www.pintorist.es/pintores-leon-p24;1.23;0.53;0.20;387000;0.99,0.99,0.65,0.28,0.24,0.41,0.28,0.28,0.18,0.18,0.28,0.28
+cuanto vale pintar un piso;4;4;0;70;1.18;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;1.23;0.93;0.49;170000;0.99,0.78,0.99,0.78,0.78,0.33,0.56,0.78,0.56,0.44,0.56,0.78
+presupuesto pintar;3;4;1;50;1.64;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;1.13;1.18;0.93;700000;0.14,0.14,0.07,0.99,0.64,0.21,0.21,0.21,0.28,0.36,0.28,0.36
+pintores en granada;9;20;11;140;1.34;http://www.pintorist.es/pintores-granada-p18;1.05;0.90;0.78;540000;0.99,0.82,0.67,0.23,0.23,0.13,0.23,0.23,0.13,0.13,0.18,0.23
+pintores valencia;12;0;0;320;1.39;http://www.pintorist.es/pintores-valencia-p46;1.04;0.93;0.53;629000;0.67,0.35,0.44,0.44,0.54,0.81,0.81,0.81,0.44,0.35,0.99,0.44
+pintar piso;12;12;0;320;1.24;http://www.pintorist.es/pintores-barcelona-p8;1.04;0.83;0.46;837000;0.99,0.67,0.82,0.82,0.82,0.44,0.82,0.99,0.82,0.54,0.82,0.67
+presupuesto para pintar una casa;2;3;1;30;1.72;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.98;1.08;0.67;9990000;0.20,0.99,0.40,0.60,0.60,0.40,0.40,0.20,0.80,0.80,0.40,0.20
+pintores malaga;7;8;1;90;1.95;http://www.pintorist.es/pintores-malaga-p29;0.90;1.13;0.24;413000;0.79,0.50,0.50,0.79,0.64,0.79,0.50,0.99,0.79,0.99,0.64,0.50
+presupuesto pintor;4;6;2;50;2.80;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.88;1.57;0.70;742000;0.78,0.44,0.44,0.99,0.99,0.56,0.44,0.56,0.44,0.78,0.44,0.44
+pintores albacete;4;4;0;50;1.45;http://www.pintorist.es/pintores-albacete-p2;0.88;0.81;0.44;500000;0.99,0.71,0.99,0.28,0.43,0.56,0.56,0.56,0.71,0.43,0.43,0.71
+pintores zaragoza;12;12;0;260;1.09;http://www.pintorist.es/pintores-zaragoza-p50;0.85;0.59;0.43;660000;0.54,0.82,0.82,0.99,0.54,0.54,0.67,0.44,0.54,0.54,0.67,0.99
+pintor en barcelona;8;7;-1;110;2.60;http://www.pintorist.es/pintores-barcelona-p8;0.83;1.38;0.87;11800000;0.99,0.42,0.35,0.65,0.54,0.15,0.42,0.35,0.42,0.42,0.54,0.27
+pintar un piso;8;7;-1;110;1.19;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.83;0.63;0.39;29200000;0.79,0.79,0.99,0.79,0.99,0.79,0.79,0.64,0.64,0.64,0.64,0.64
+pintores en terrassa;4;4;0;40;2.27;http://www.pintorist.es/pintores-terrassa-c7600;0.70;1.02;0.97;201000;0.43,0.43,0.71,0.99,0.43,0.28,0.43,0.43,0.56,0.43,0.43,0.28
+pintores salamanca;4;4;0;40;0.97;http://www.pintorist.es/pintores-salamanca-p37;0.70;0.43;0.43;607000;0.60,0.60,0.60,0.99,0.99,0.80,0.99,0.60,0.99,0.40,0.99,0.80
+pintores girona;3;5;2;30;0.99;http://www.pintorist.es/pintores-girona-p17;0.68;0.43;0.69;527000;0.80,0.80,0.60,0.60,0.99,0.40,0.20,0.60,0.20,0.40,0.60,0.60
+pintores en burgos;8;9;1;90;0.00;http://www.pintorist.es/pintores-burgos-p9;0.68;0.00;0.11;584000;0.24,0.33,0.24,0.24,0.43,0.24,0.43,0.33,0.52,0.43,0.43,0.99
+pintores en salamanca;5;6;1;50;0.73;http://www.pintorist.es/pintores-salamanca-p37;0.62;0.29;0.72;589000;0.71,0.56,0.43,0.99,0.99,0.56,0.56,0.99,0.43,0.56,0.56,0.71
+pintores en almeria;6;6;0;50;0.72;http://www.pintorist.es/pintores-almeria-p4;0.62;0.28;0.53;338000;0.56,0.71,0.99,0.71,0.99,0.71,0.71,0.99,0.71,0.28,0.43,0.99
+acrobacias verticales;11;11;0;50;0.39;http://www.pintorist.es/pintores/acrobacias-verticales-e467;0.59;0.14;0.27;218000;0.99,0.99,0.99,0.56,0.56,0.56,0.99,0.99,0.71,0.71,0.56,0.99
+pintores huelva;5;6;1;40;0.00;http://www.pintorist.es/pintores-huelva-p21;0.50;0.00;0.26;519000;0.99,0.33,0.56,0.22,0.22,0.44,0.44,0.11,0.22,0.33,0.56,0.44
+pintores en cordoba;7;8;1;50;2.50;http://www.pintorist.es/pintores-cordoba-p14;0.50;0.80;0.37;430000;0.28,0.28,0.99,0.64,0.36,0.14,0.50,0.50,0.28,0.14,0.21,0.50
+presupuesto para pintar un piso;5;8;3;40;3.05;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.50;0.98;0.72;495000;0.99,0.14,0.14,0.28,0.99,0.71,0.71,0.71,0.43,0.14,0.56,0.56
+pintores castellon;5;5;0;40;0.94;http://www.pintorist.es/pintores-castellon-p12;0.50;0.30;0.94;298000;0.99,0.56,0.56,0.43,0.71,0.28,0.56,0.43,0.43,0.28,0.56,0.43
+pintores en castellon;5;5;0;40;1.10;http://www.pintorist.es/pintores-castellon-p12;0.50;0.35;0.96;297000;0.33,0.44,0.99,0.99,0.44,0.22,0.56,0.56,0.33,0.22,0.44,0.22
+pintores de albacete;5;5;0;40;1.53;http://www.pintorist.es/pintores-albacete-p2;0.50;0.49;0.38;934000;0.33,0.99,0.22,0.22,0.11,0.22,0.33,0.22,0.78,0.56,0.56,0.44
+pintor barcelona;13;11;-2;210;3.37;http://www.pintorist.es/pintores-barcelona-p8;0.47;1.02;0.87;12200000;0.66,0.66,0.44,0.53,0.66,0.44,0.66,0.66,0.81,0.53,0.99,0.81
+pintores badajoz;3;3;0;20;0.00;http://www.pintorist.es/pintores-badajoz-p6;0.45;0.00;0.28;511000;0.99,0.50,0.99,0.99,0.50,0.50,0.99,0.50,0.99,0.99,0.99,0.50
+precios pintar piso;3;3;0;20;1.93;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.45;0.55;0.73;452000;0.50,0.75,0.75,0.99,0.50,0.50,0.75,0.50,0.25,0.50,0.75,0.50
+pintores en badajoz;3;3;0;20;1.34;http://www.pintorist.es/pintores-badajoz-p6;0.45;0.38;0.35;501000;0.67,0.67,0.33,0.67,0.99,0.33,0.67,0.67,0.67,0.33,0.67,0.99
+pintores de interiores;3;4;1;20;1.11;http://www.pintorist.es/pintores-barcelona-p8;0.45;0.32;0.87;2400000;0.99,0.50,0.75,0.75,0.75,0.25,0.50,0.25,0.25,0.25,0.75,0.50
+pintores coruña;7;8;1;40;2.39;http://www.pintorist.es/pintores-a-coruna-p15;0.40;0.61;0.27;528000;0.71,0.99,0.71,0.71,0.56,0.71,0.56,0.43,0.71,0.28,0.71,0.56
+pintores en asturias;7;15;8;40;1.26;http://www.pintorist.es/pintores-asturias-p33;0.40;0.32;0.35;588000;0.99,0.43,0.43,0.43,0.43,0.43,0.56,0.43,0.43,0.28,0.56,0.71
+pintores pamplona;7;7;0;40;1.05;http://www.pintorist.es/pintores-navarra-p31;0.40;0.27;0.76;306000;0.56,0.71,0.56,0.43,0.56,0.71,0.71,0.99,0.43,0.56,0.56,0.43
+pintores almeria;6;6;0;30;0.67;http://www.pintorist.es/pintores-almeria-p4;0.37;0.16;0.42;333000;0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.43,0.56,0.28,0.56,0.99
+pintores tarragona;6;7;1;30;0.94;http://www.pintorist.es/pintores-tarragona-p43;0.37;0.22;0.70;527000;0.43,0.14,0.28,0.43,0.71,0.43,0.71,0.99,0.28,0.28,0.28,0.43
+pintores en guadalajara;6;4;-2;30;0.74;http://www.pintorist.es/pintores-guadalajara-p19;0.37;0.17;0.69;660000;0.99,0.22,0.11,0.33,0.33,0.22,0.11,0.22,0.56,0.11,0.22,0.33
+pintor sevilla;9;9;0;50;1.64;http://www.pintorist.es/pintores-sevilla-p41;0.37;0.39;0.34;3440000;0.56,0.71,0.99,0.43,0.71,0.71,0.56,0.71,0.56,0.71,0.71,0.71
+pintores en pamplona;6;6;0;30;1.95;http://www.pintorist.es/pintores-navarra-p31;0.37;0.47;0.69;305000;0.43,0.28,0.56,0.43,0.43,0.28,0.43,0.99,0.56,0.43,0.71,0.43
+pintores en toledo;10;11;1;50;0.64;http://www.pintorist.es/pintores-toledo-p45;0.37;0.15;0.46;373000;0.99,0.78,0.78,0.33,0.33,0.33,0.44,0.44,0.56,0.22,0.33,0.44
+pintores murcia;9;9;0;50;0.72;http://www.pintorist.es/pintores-murcia-p30;0.37;0.17;0.50;588000;0.64,0.36,0.36,0.36,0.45,0.27,0.64,0.99,0.45,0.27,0.45,0.64
+presupuesto de pintura;12;18;6;110;1.88;http://www.pintorist.es/articulos/consejos-para-pedir-un-buen-presupuesto-de-pintura-online-a5;0.36;0.43;0.75;2150000;0.99,0.82,0.82,0.65,0.65,0.53,0.53,0.53,0.65,0.28,0.53,0.65
+pintores de granada;11;11;0;30;1.06;http://www.pintorist.es/pintores-granada-p18;0.35;0.24;0.50;749000;0.60,0.60,0.60,0.20,0.40,0.20,0.99,0.40,0.20,0.40,0.60,0.99
+precio pintor;11;11;0;30;1.13;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.35;0.25;0.79;8570000;0.67,0.67,0.67,0.67,0.99,0.67,0.67,0.99,0.99,0.67,0.99,0.99
+pintores en avila;4;4;0;20;1.07;http://www.pintorist.es/pintores-avila-p5;0.35;0.24;0.84;415000;0.99,0.67,0.99,0.33,0.67,0.33,0.67,0.99,0.67,0.67,0.99,0.33
+cuanto cuesta pintar;2;0;0;10;0.00;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.32;0.00;0.18;826000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50
+empresas de pintura en barcelona;9;9;0;40;1.48;http://www.pintorist.es/pintores-barcelona-p8;0.30;0.28;0.91;950000;0.28,0.71,0.56,0.28,0.14,0.14,0.28,0.71,0.43,0.99,0.56,0.99
+pintar pisos;7;16;9;30;0.93;http://www.pintorist.es/pintores-barcelona-p8;0.30;0.17;0.42;1360000;0.60,0.60,0.40,0.40,0.60,0.60,0.60,0.99,0.60,0.60,0.80,0.99
+pintores en tarragona;7;8;1;30;1.63;http://www.pintorist.es/pintores-tarragona-p43;0.30;0.31;0.80;526000;0.40,0.40,0.60,0.40,0.60,0.80,0.60,0.80,0.40,0.40,0.99,0.60
+pintores de sevilla;7;8;1;30;1.18;http://www.pintorist.es/pintores-sevilla-p41;0.30;0.22;0.48;975000;0.33,0.33,0.56,0.22,0.22,0.22,0.22,0.22,0.33,0.56,0.22,0.99
+pintores cordoba;7;7;0;30;0.00;http://www.pintorist.es/pintores-cordoba-p14;0.30;0.00;0.20;1080000;0.44,0.33,0.22,0.22,0.44,0.33,0.33,0.33,0.11,0.22,0.33,0.99
+pintores de malaga;7;7;0;30;0.80;http://www.pintorist.es/pintores-malaga-p29;0.30;0.15;0.42;1220000;0.43,0.14,0.28,0.56,0.28,0.28,0.14,0.28,0.28,0.28,0.28,0.99
+pintores las palmas;5;7;2;20;0.72;http://www.pintorist.es/pintores-las-palmas-p35;0.25;0.11;0.62;585000;0.50,0.75,0.50,0.25,0.25,0.50,0.50,0.50,0.50,0.99,0.75,0.75
+pintores terrassa;6;7;1;20;2.35;http://www.pintorist.es/pintores-terrassa-c7600;0.25;0.37;0.90;208000;0.99,0.99,0.67,0.67,0.67,0.67,0.99,0.99,0.99,0.67,0.99,0.33
+pintores caceres;5;6;1;20;0.00;http://www.pintorist.es/pintores-caceres-p10;0.25;0.00;0.07;277000;0.33,0.33,0.33,0.67,0.67,0.67,0.67,0.99,0.99,0.33,0.67,0.67
+pintores en navarra;5;4;-1;20;0.97;http://www.pintorist.es/pintores-navarra-p31;0.25;0.15;0.45;521000;0.33,0.33,0.99,0.33,0.33,0.33,0.99,0.99,0.67,0.33,0.33,0.33
+pintores en cuenca;6;8;2;20;0.52;http://www.pintorist.es/pintores-cuenca-p16;0.25;0.08;0.35;334000;0.99,0.25,0.50,0.50,0.50,0.25,0.25,0.50,0.50,0.25,0.50,0.50
+pintores barcelona presupuesto;6;7;1;20;4.59;http://www.pintorist.es/pintores-barcelona-p8;0.25;0.73;0.98;404000;0.50,0.25,0.50,0.25,0.50,0.50,0.25,0.99,0.25,0.50,0.50,0.75
+pintores alicante;12;11;-1;70;0.85;http://www.pintorist.es/pintores-alicante-p3;0.22;0.12;0.72;556000;0.45,0.45,0.45,0.27,0.82,0.36,0.45,0.64,0.82,0.45,0.99,0.99
+presupuesto de pintura de casas;3;3;0;10;0.00;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.22;0.00;0.00;638000;0.00,0.99,0.00,0.99,0.99,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+presupuestos pintar piso;3;4;1;10;2.99;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.22;0.43;0.82;467000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99
+pintores burgos;9;9;0;30;0.00;http://www.pintorist.es/pintores-burgos-p9;0.22;0.00;0.19;596000;0.28,0.28,0.43,0.14,0.43,0.43,0.43,0.56,0.43,0.56,0.99,0.28
+pintar piso presupuesto;3;2;-1;10;1.70;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.22;0.24;0.71;410000;0.50,0.50,0.50,0.99,0.50,0.99,0.99,0.50,0.50,0.50,0.50,0.50
+pintores de huelva;8;8;0;30;0.00;http://www.pintorist.es/pintores-huelva-p21;0.22;0.00;0.22;1720000;0.18,0.27,0.27,0.18,0.18,0.18,0.18,0.27,0.18,0.27,0.27,0.99
+presupuesto pintar habitacion;8;8;0;30;1.33;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.22;0.19;0.62;171000;0.99,0.40,0.40,0.60,0.20,0.40,0.80,0.80,0.40,0.20,0.60,0.80
+pintores en málaga;4;0;0;10;0.00;http://www.pintorist.es/pintores-malaga-p29;0.17;0.00;0.30;622000;0.00,0.00,0.00,0.00,0.00,0.00,0.99,0.99,0.99,0.00,0.99,0.99
+pintores en alicante;12;11;-1;50;0.87;http://www.pintorist.es/pintores-alicante-p3;0.16;0.09;0.85;589000;0.71,0.71,0.99,0.71,0.99,0.71,0.99,0.56,0.71,0.28,0.56,0.56
+pintores de barcelona;9;9;0;20;2.73;http://www.pintorist.es/pintores-barcelona-p8;0.15;0.26;0.88;1620000;0.25,0.50,0.50,0.75,0.25,0.25,0.25,0.99,0.25,0.25,0.25,0.50
+pintores de almeria;8;8;0;20;0.60;http://www.pintorist.es/pintores-almeria-p4;0.15;0.05;0.31;1440000;0.28,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.99
+pintores en ciudad real;9;9;0;20;0.00;http://www.pintorist.es/pintores-ciudad-real-p13;0.15;0.00;0.37;634000;0.99,0.50,0.25,0.50,0.25,0.25,0.25,0.25,0.50,0.25,0.50,0.25
+pintores en cantabria;9;7;-2;20;0.82;http://www.pintorist.es/pintores-cantabria-p39;0.15;0.07;0.50;510000;0.67,0.99,0.33,0.33,0.33,0.99,0.67,0.99,0.99,0.67,0.33,0.33
+presupuesto para pintar una habitacion;10;10;0;20;0.28;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.15;0.02;0.44;315000;0.67,0.33,0.67,0.67,0.67,0.99,0.33,0.67,0.33,0.33,0.67,0.67
+como pintar un piso;19;16;-3;170;1.91;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.12;0.15;0.15;910000;0.99,0.99,0.99,0.99,0.99,0.99,0.82,0.82,0.65,0.53,0.82,0.99
+pintores cadiz;6;6;0;10;0.00;http://www.pintorist.es/pintores-cadiz-p11;0.12;0.00;0.17;382000;0.50,0.99,0.99,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.99
+empresas de pintores en barcelona;7;9;2;10;1.00;http://www.pintorist.es/pintores-barcelona-p8;0.10;0.06;1.00;527000;0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.33,0.33,0.33
+pintar piso madrid;15;17;2;70;1.94;http://www.pintorist.es/pintores-madrid-p28;0.08;0.10;0.83;635000;0.99,0.82,0.82,0.82,0.36,0.45,0.45,0.45,0.64,0.27,0.36,0.36
+pintores irun;8;15;7;10;2.06;http://www.pintorist.es/pintores-irun-c2108;0.07;0.09;0.78;70000;0.99,0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50
+presupuesto para pintar;8;9;1;10;0.00;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.07;0.00;0.41;633000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+pintores en huelva;8;6;-2;10;0.86;http://www.pintorist.es/pintores-huelva-p21;0.07;0.04;0.65;497000;0.99,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99
+pintores en getafe;17;17;0;70;2.34;http://www.pintorist.es/pintores-getafe-c2999;0.07;0.10;0.62;254000;0.64,0.36,0.64,0.36,0.64,0.50,0.21,0.14,0.36,0.99,0.64,0.79
+pintores cantabria;14;14;0;40;0.42;http://www.pintorist.es/pintores-cantabria-p39;0.07;0.01;0.35;528000;0.80,0.80,0.60,0.60,0.80,0.40,0.80,0.60,0.80,0.60,0.99,0.99
+pintores toledo;13;13;0;30;1.19;http://www.pintorist.es/pintores-toledo-p45;0.06;0.05;0.34;670000;0.60,0.60,0.40,0.40,0.40,0.20,0.40,0.40,0.40,0.40,0.80,0.99
+pintores en valladolid;18;16;-2;70;0.59;http://www.pintorist.es/pintores-valladolid-p47;0.05;0.01;0.62;554000;0.64,0.45,0.45,0.82,0.99,0.45,0.45,0.64,0.64,0.45,0.45,0.82
+pintores granada;17;17;0;50;1.54;http://www.pintorist.es/pintores-granada-p18;0.05;0.04;0.50;716000;0.99,0.99,0.99,0.71,0.71,0.56,0.99,0.71,0.56,0.43,0.56,0.99
+pintores sabadell;16;18;2;40;2.31;http://www.pintorist.es/pintores-sabadell-c6323;0.05;0.07;0.92;227000;0.40,0.99,0.99,0.60,0.99,0.40,0.99,0.40,0.99,0.40,0.80,0.60
+pintores en sabadell;16;17;1;40;1.94;http://www.pintorist.es/pintores-sabadell-c6323;0.05;0.06;0.95;227000;0.28,0.99,0.36,0.21,0.14,0.14,0.21,0.14,0.36,0.21,0.14,0.36
+pintores oviedo;13;0;0;20;0.00;http://www.pintorist.es/pintores-oviedo-c2077;0.04;0.00;0.51;355000;0.67,0.67,0.67,0.99,0.99,0.67,0.67,0.67,0.67,0.33,0.67,0.67
+precio pintura valentine;17;18;1;40;0.65;http://www.pintorist.es/articulos/precios-de-la-pintura-interiores-a10;0.04;0.01;0.46;88000;0.43,0.71,0.56,0.71,0.56,0.56,0.71,0.99,0.56,0.56,0.43,0.56
+pintura para lacar;15;9;-6;30;0.04;http://www.pintorist.es/articulos/lacar-o-pintar-a18;0.03;0.00;0.43;182000;0.75,0.99,0.50,0.50,0.75,0.99,0.99,0.99,0.99,0.75,0.50,0.75
+pintores santander;17;15;-2;30;0.02;http://www.pintorist.es/pintores-cantabria-p39;0.03;0.00;0.44;495000;0.99,0.99,0.40,0.60,0.40,0.40,0.60,0.20,0.60,0.60,0.40,0.40
+presupuestos pintura piso;15;16;1;20;6.30;http://www.pintorist.es/pintores-barcelona-p8;0.02;0.10;0.86;1100000;0.99,0.99,0.67,0.99,0.67,0.33,0.67,0.67,0.33,0.33,0.67,0.33
+pintores logroño;15;12;-3;20;1.21;http://www.pintorist.es/pintores-la-rioja-p26;0.02;0.01;0.31;142000;0.75,0.25,0.25,0.99,0.50,0.50,0.50,0.50,0.25,0.50,0.99,0.50
+pintores logroño;16;13;-3;20;1.21;http://www.pintorist.es/pintores-logrono-c3886;0.02;0.01;0.31;142000;0.75,0.25,0.25,0.99,0.50,0.50,0.50,0.50,0.25,0.50,0.99,0.50
+pintor en zaragoza;18;15;-3;30;2.56;http://www.pintorist.es/pintores-zaragoza-p50;0.02;0.03;0.31;903000;0.80,0.99,0.80,0.99,0.60,0.60,0.80,0.40,0.20,0.20,0.20,0.20
+pintores en jaen;18;15;-3;30;0.45;http://www.pintorist.es/pintores-jaen-p23;0.02;0.00;0.25;288000;0.11,0.22,0.33,0.22,0.11,0.22,0.44,0.33,0.99,0.78,0.44,0.33
+trabajos de pintor en barcelona;19;0;0;30;0.31;http://www.pintorist.es/pintores-barcelona-p8;0.02;0.00;0.82;586000;0.99,0.80,0.40,0.40,0.20,0.20,0.60,0.60,0.80,0.60,0.60,0.60
+presupuesto pintar fachada;17;0;0;20;0.00;http://www.pintorist.es/pintores-granada-p18;0.02;0.00;0.71;242000;0.99,0.99,0.99,0.99,0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.50
+pintores elche;18;17;-1;20;0.02;http://www.pintorist.es/pintores-elcheelx-c2978;0.01;0.00;0.60;203000;0.20,0.40,0.80,0.80,0.60,0.80,0.99,0.40,0.40,0.20,0.20,0.20
+pintar el piso;19;20;1;20;1.50;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.01;0.01;0.31;1700000;0.99,0.67,0.67,0.67,0.99,0.67,0.99,0.99,0.67,0.33,0.33,0.67
+pintura valentine precios;18;0;0;20;0.00;http://www.pintorist.es/articulos/precios-de-la-pintura-interiores-a10;0.01;0.00;0.53;56000;0.20,0.20,0.20,0.60,0.99,0.40,0.99,0.80,0.40,0.20,0.20,0.20
+pintura para interiores precios;19;13;-6;20;0.46;http://www.pintorist.es/articulos/precios-de-la-pintura-interiores-a10;0.01;0.00;0.94;627000;0.25,0.75,0.25,0.50,0.75,0.99,0.25,0.25,0.25,0.25,0.50,0.25
+pintores pisos;16;9;-7;10;2.02;http://www.pintorist.es/pintores-barcelona-p8;0.01;0.01;0.86;711000;0.99,0.50,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.50,0.50,0.25
+cuanto cuesta un piso;16;0;0;10;0.00;http://www.pintorist.es/articulos/cuanto-cuesta-pintar-un-piso-o-pintar-una-casa-a1;0.01;0.00;0.11;882000;0.50,0.50,0.99,0.50,0.50,0.99,0.50,0.50,0.99,0.99,0.99,0.99
+pintores pisos;17;0;0;10;2.02;http://www.pintorist.es/pintores-girona-p17;0.01;0.01;0.86;711000;0.99,0.50,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.50,0.50,0.25

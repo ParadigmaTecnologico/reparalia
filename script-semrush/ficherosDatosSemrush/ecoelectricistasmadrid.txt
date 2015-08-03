@@ -1,0 +1,28 @@
+Keyword;Position;Previous Position;Position Difference;Search Volume;CPC;Url;Traffic (%);Traffic Cost (%);Competition;Number of Results;Trends
+electricistas madrid;6;6;0;1600;12.50;http://ecoelectricistasmadrid.es/;32.25;49.23;0.89;679000;0.79,0.67,0.79,0.67,0.67,0.42,0.54,0.67,0.99,0.79,0.67,0.42
+boletin electrico;3;3;0;720;4.19;http://ecoelectricistasmadrid.es/boletin-electrico-madrid.php;26.12;13.36;0.82;1570000;0.67,0.55,0.99,0.82,0.99,0.44,0.82,0.82,0.82,0.82,0.82,0.82
+electricistas;9;9;0;880;4.38;http://ecoelectricistasmadrid.es/;10.64;5.69;0.81;1550000;0.88,0.88,0.88,0.88,0.72,0.59,0.88,0.88,0.99,0.99,0.99,0.88
+electricistas en madrid;6;6;0;320;10.32;http://ecoelectricistasmadrid.es/;6.45;8.12;0.50;538000;0.82,0.82,0.82,0.82,0.99,0.82,0.82,0.82,0.99,0.99,0.82,0.67
+boletines electricos;7;7;0;390;4.20;http://ecoelectricistasmadrid.es/boletin-electrico-madrid.php;6.29;3.22;0.73;294000;0.36,0.36,0.36,0.36,0.54,0.36,0.54,0.66,0.99,0.81,0.99,0.81
+electricista madrid;9;8;-1;480;11.89;http://ecoelectricistasmadrid.es/;5.80;8.43;0.95;541000;0.39,0.39,0.88,0.48,0.39,0.26,0.39,0.48,0.99,0.72,0.59,0.32
+boletin electrico madrid;2;2;0;110;7.86;http://ecoelectricistasmadrid.es/boletin-electrico-madrid.php;5.76;5.53;0.93;51000;0.99,0.79,0.99,0.99,0.79,0.64,0.79,0.79,0.50,0.64,0.79,0.99
+electricistas baratos;7;7;0;90;5.52;http://ecoelectricistasmadrid.es/;1.45;0.97;0.95;719000;0.19,0.19,0.19,0.10,0.43,0.43,0.33,0.52,0.67,0.67,0.99,0.52
+electricista en madrid;6;6;0;70;10.74;http://ecoelectricistasmadrid.es/;1.41;1.85;0.96;550000;0.50,0.36,0.36,0.50,0.79,0.36,0.64,0.50,0.99,0.50,0.36,0.28
+electricistas 24 horas;6;6;0;70;2.10;http://ecoelectricistasmadrid.es/;1.41;0.36;0.80;651000;0.82,0.82,0.99,0.36,0.64,0.36,0.45,0.64,0.99,0.82,0.64,0.45
+electricista 24 horas;10;8;-2;70;5.69;http://ecoelectricistasmadrid.es/;0.84;0.58;0.77;656000;0.64,0.64,0.64,0.36,0.45,0.45,0.64,0.64,0.64,0.99,0.82,0.82
+electricistas urgentes;6;6;0;40;1.17;http://ecoelectricistasmadrid.es/;0.80;0.11;0.99;480000;0.43,0.99,0.99,0.56,0.71,0.28,0.28,0.71,0.56,0.43,0.14,0.14
+boletín eléctrico;6;6;0;40;2.92;http://ecoelectricistasmadrid.es/boletin-electrico-madrid.php;0.80;0.28;0.72;2280000;0.60,0.60,0.40,0.60,0.60,0.99,0.99,0.80,0.80,0.80,0.80,0.60
+electricistas las rozas;7;5;-2;40;12.17;http://ecoelectricistasmadrid.es/baratos-las-rozas.php;0.64;0.95;0.80;110000;0.45,0.64,0.09,0.18,0.18,0.18,0.27,0.27,0.45,0.99,0.36,0.45
+electricista las rozas;6;5;-1;30;3.17;http://ecoelectricistasmadrid.es/baratos-las-rozas.php;0.60;0.23;0.86;322000;0.40,0.40,0.60,0.40,0.40,0.40,0.40,0.80,0.80,0.80,0.99,0.60
+precio certificado instalacion electrica;5;5;0;30;0.85;http://ecoelectricistasmadrid.es/boletin-electrico-madrid.php;0.60;0.06;0.64;124000;0.75,0.25,0.50,0.50,0.50,0.50,0.50,0.75,0.99,0.75,0.99,0.50
+electricistas en alcorcon;4;0;0;20;11.53;http://ecoelectricistasmadrid.es/baratos-alcorcon.php;0.56;0.79;0.54;71000;0.40,0.40,0.40,0.40,0.40,0.40,0.20,0.60,0.40,0.99,0.40,0.60
+electricista urgente;12;13;1;70;3.71;http://ecoelectricistasmadrid.es/;0.36;0.16;0.82;453000;0.53,0.41,0.53,0.24,0.24,0.99,0.28,0.41,0.65,0.41,0.41,0.24
+instaladores electricos madrid;9;9;0;30;2.88;http://ecoelectricistasmadrid.es/instaladores-autorizados.php;0.36;0.12;0.86;95000;0.80,0.60,0.80,0.80,0.60,0.40,0.20,0.80,0.60,0.80,0.40,0.99
+electricistas urgencias;9;0;0;20;1.57;http://ecoelectricistasmadrid.es/;0.24;0.04;0.94;472000;0.75,0.99,0.99,0.75,0.25,0.25,0.25,0.25,0.75,0.99,0.50,0.25
+electricistas 24h;7;0;0;10;0.00;http://ecoelectricistasmadrid.es/;0.16;0.00;0.93;376000;0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50
+electricistas de madrid;8;0;0;10;10.47;http://ecoelectricistasmadrid.es/;0.12;0.15;0.96;774000;0.33,0.33,0.33,0.33,0.33,0.99,0.33,0.33,0.67,0.67,0.33,0.33
+electricista alcala de henares;13;12;-1;30;8.93;http://ecoelectricistasmadrid.es/baratos-alcala-de-henares.php;0.10;0.11;0.89;317000;0.20,0.40,0.20,0.40,0.60,0.40,0.40,0.60,0.99,0.99,0.99,0.40
+instaladores electricos autorizados;15;11;-4;50;2.02;http://ecoelectricistasmadrid.es/instaladores-autorizados.php;0.10;0.02;0.84;102000;0.56,0.99,0.99,0.71,0.99,0.14,0.43,0.56,0.71,0.56,0.99,0.99
+electricistas alcobendas;18;0;0;70;8.35;http://ecoelectricistasmadrid.es/baratos-alcobendas.php;0.08;0.08;0.85;105000;0.36,0.50,0.36,0.36,0.64,0.79,0.50,0.64,0.99,0.79,0.50,0.14
+trabajo electricista madrid;20;0;0;70;0.03;http://ecoelectricistasmadrid.es/;0.08;0.00;0.54;439000;0.64,0.28,0.21,0.36,0.50,0.64,0.99,0.50,0.28,0.36,0.50,0.28
+se necesita electricista madrid;19;20;1;30;0.00;http://ecoelectricistasmadrid.es/boletin-electrico-madrid.php;0.03;0.00;0.74;365000;0.14,0.14,0.28,0.99,0.14,0.14,0.14,0.07,0.14,0.14,0.14,0.14

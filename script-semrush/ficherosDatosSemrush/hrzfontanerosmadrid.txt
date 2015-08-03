@@ -1,0 +1,30 @@
+Keyword;Position;Previous Position;Position Difference;Search Volume;CPC;Url;Traffic (%);Traffic Cost (%);Competition;Number of Results;Trends
+fontaneros madrid;4;4;0;1900;12.00;http://www.hrzfontanerosmadrid.com/;25.47;37.38;0.91;428000;0.99,0.66,0.66,0.66,0.45,0.30,0.45,0.66,0.83,0.55,0.55,0.55
+fontanero;11;11;0;2400;3.61;http://www.hrzfontanerosmadrid.com/;21.60;9.53;0.73;1270000;0.83,0.83,0.83,0.99,0.99,0.66,0.83,0.99,0.99,0.99,0.99,0.99
+fontaneros;6;6;0;1300;5.49;http://www.hrzfontanerosmadrid.com/;12.45;8.35;0.85;922000;0.62,0.55,0.62,0.55,0.62,0.81,0.81,0.81,0.99,0.99,0.81,0.62
+fontaneros urgentes madrid;1;1;0;110;13.69;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;9.90;16.57;1.00;356000;0.81,0.99,0.81,0.65,0.42,0.15,0.35,0.42,0.42,0.19,0.19,0.12
+fontanero madrid;4;3;-1;480;13.61;http://www.hrzfontanerosmadrid.com/;6.43;10.71;0.93;466000;0.72,0.39,0.32,0.39,0.39,0.32,0.48,0.59,0.99,0.48,0.59,0.48
+fontanero urgente;1;1;0;70;5.24;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;6.30;4.03;0.98;371000;0.19,0.19,0.14,0.14,0.19,0.19,0.33,0.33,0.33,0.19,0.24,0.99
+fontanero;12;12;0;2400;3.61;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;5.97;2.63;0.73;1270000;0.83,0.83,0.83,0.99,0.99,0.66,0.83,0.99,0.99,0.99,0.99,0.99
+fontaneros 24 horas madrid;2;2;0;90;4.16;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;2.24;1.14;0.95;312000;0.65,0.82,0.99,0.99,0.53,0.41,0.24,0.41,0.99,0.24,0.53,0.18
+fontaneros urgentes;1;2;1;20;7.00;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;1.80;1.54;1.00;474000;0.80,0.60,0.40,0.20,0.60,0.40,0.20,0.40,0.40,0.20,0.40,0.99
+fontaneros en madrid;8;8;0;260;9.36;http://www.hrzfontanerosmadrid.com/;1.49;1.71;0.71;526000;0.67,0.54,0.35,0.54,0.44,0.28,0.44,0.54,0.99,0.67,0.54,0.54
+fontanero urgente madrid;2;1;-1;50;10.79;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;1.24;1.64;0.97;134000;0.64,0.82,0.45,0.27,0.45,0.45,0.82,0.99,0.36,0.36,0.36,0.27
+fontanero 24 horas;3;3;0;70;4.50;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;1.20;0.66;0.82;581000;0.27,0.45,0.27,0.45,0.45,0.82,0.82,0.64,0.64,0.82,0.99,0.64
+fontaneria madrid;8;7;-1;170;5.81;http://www.hrzfontanerosmadrid.com/;0.97;0.69;0.92;486000;0.67,0.99,0.99,0.81,0.81,0.67,0.81,0.81,0.81,0.52,0.81,0.52
+fontaneros 24 horas;3;4;1;50;5.13;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;0.86;0.54;0.88;519000;0.99,0.56,0.78,0.33,0.56,0.56,0.44,0.56,0.99,0.99,0.56,0.56
+fontanero en madrid;6;6;0;90;3.99;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;0.86;0.42;0.90;483000;0.33,0.24,0.24,0.33,0.24,0.14,0.24,0.43,0.99,0.81,0.43,0.24
+fontanero en madrid;5;5;0;90;3.99;http://www.hrzfontanerosmadrid.com/;0.86;0.42;0.90;483000;0.33,0.24,0.24,0.33,0.24,0.14,0.24,0.43,0.99,0.81,0.43,0.24
+fontanero 24 horas madrid;3;3;0;50;13.39;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;0.86;1.41;0.92;177000;0.64,0.45,0.45,0.36,0.18,0.27,0.18,0.64,0.99,0.27,0.45,0.45
+urgencias madrid;15;0;0;880;0.71;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;0.84;0.07;0.14;1050000;0.77,0.55,0.68,0.55,0.68,0.55,0.55,0.68,0.68,0.77,0.99,0.77
+fontaneros de madrid;6;7;1;20;9.80;http://www.hrzfontanerosmadrid.com/;0.19;0.22;0.97;792000;0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.99,0.40,0.40,0.40
+fontaneria en madrid;9;7;-2;30;4.71;http://www.hrzfontanerosmadrid.com/;0.17;0.09;0.90;524000;0.60,0.99,0.60,0.40,0.40,0.20,0.99,0.40,0.60,0.40,0.40,0.40
+fontaneros de madrid;7;8;1;20;9.80;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;0.15;0.18;0.97;792000;0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.99,0.40,0.40,0.40
+fontanero fontanero;9;11;2;20;0.00;http://www.hrzfontanerosmadrid.com/;0.11;0.00;0.42;1120000;0.75,0.99,0.25,0.50,0.25,0.50,0.50,0.25,0.75,0.25,0.25,0.50
+fontaneros 24h;5;0;0;10;11.75;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;0.09;0.13;0.71;493000;0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.99,0.33,0.33,0.33,0.33
+fontaneria 24 horas;7;0;0;10;0.00;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;0.07;0.00;0.87;551000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+fontanería madrid;7;8;1;10;0.00;http://www.hrzfontanerosmadrid.com/;0.07;0.00;0.99;651000;0.67,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.99,0.33,0.67,0.33
+electricista urgente;17;19;2;70;3.71;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;0.05;0.02;0.82;453000;0.53,0.41,0.53,0.24,0.24,0.99,0.28,0.41,0.65,0.41,0.41,0.24
+fontanero madrid centro;17;18;1;50;13.57;http://www.hrzfontanerosmadrid.com/;0.03;0.06;0.93;58000;0.78,0.56,0.44,0.56,0.56,0.33,0.22,0.44,0.99,0.44,0.78,0.78
+fontanero fontanero;13;12;-1;20;0.00;http://www.hrzfontanerosmadrid.com/fontanero-urgente.php;0.03;0.00;0.42;1120000;0.75,0.99,0.25,0.50,0.25,0.50,0.50,0.25,0.75,0.25,0.25,0.50
+fontaneros madrid centro;21;0;0;90;10.96;http://www.hrzfontanerosmadrid.com/;0.03;0.04;0.83;105000;0.79,0.64,0.50,0.50,0.99,0.50,0.21,0.50,0.79,0.28,0.64,0.36

@@ -1,0 +1,389 @@
+Keyword;Position;Previous Position;Position Difference;Search Volume;CPC;Url;Traffic (%);Traffic Cost (%);Competition;Number of Results;Trends
+cuanto cuesta reformar una cocina;1;2;1;260;1.63;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;14.81;10.73;0.64;39000;0.67,0.54,0.67,0.44,0.54,0.44,0.67,0.67,0.67,0.54,0.99,0.82
+solicitar presupuestos;2;2;0;320;1.92;http://www.redformas.es/pedir-presupuesto/;5.04;4.30;0.03;17900000;0.18,0.36,0.82,0.82,0.67,0.99,0.82,0.82,0.82,0.99,0.82,0.67
+presupuestos obras;1;1;0;70;3.06;http://www.redformas.es/;3.98;5.42;0.93;26600000;0.82,0.99,0.82,0.64,0.45,0.27,0.45,0.64,0.64,0.36,0.64,0.64
+presupuestos obras y reformas;1;1;0;50;4.07;http://www.redformas.es/;2.84;5.15;0.89;565000;0.36,0.99,0.27,0.09,0.36,0.36,0.45,0.45,0.45,0.45,0.36,0.64
+presupuestos de obras;1;1;0;50;3.07;http://www.redformas.es/;2.84;3.88;0.93;27100000;0.99,0.56,0.99,0.56,0.43,0.28,0.71,0.99,0.56,0.71,0.71,0.99
+presupuesto reforma baño;3;3;0;260;1.89;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;2.83;2.38;0.87;503000;0.82,0.67,0.67,0.67,0.99,0.54,0.67,0.67,0.67,0.67,0.82,0.67
+precio reforma baño;4;4;0;320;1.74;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;2.71;2.10;0.85;7930000;0.82,0.67,0.67,0.67,0.67,0.54,0.67,0.67,0.82,0.67,0.99,0.99
+cuanto cuesta reformar un baño;6;9;3;390;1.69;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;2.36;1.77;0.79;36000;0.54,0.54,0.54,0.54,0.54,0.54,0.81,0.66,0.66,0.66,0.99,0.81
+cuanto cuesta reformar un baño;5;4;-1;390;1.69;http://blog.redformas.es/cuanto-cuesta-reformar-un-bano/;2.36;1.77;0.79;36000;0.54,0.54,0.54,0.54,0.54,0.54,0.81,0.66,0.66,0.66,0.99,0.81
+presupuestos de reformas;6;6;0;390;4.58;http://www.redformas.es/;2.36;4.81;0.86;11900000;0.81,0.99,0.66,0.54,0.44,0.44,0.66,0.66,0.66,0.66,0.44,0.44
+presupuesto obras;1;1;0;40;2.23;http://www.redformas.es/;2.27;2.25;0.74;51200000;0.43,0.43,0.99,0.71,0.56,0.43,0.43,0.43,0.71,0.43,0.43,0.71
+presupuesto reforma;5;5;0;320;4.00;http://www.redformas.es/;1.93;3.44;0.91;39600000;0.99,0.66,0.54,0.54,0.44,0.28,0.44,0.54,0.66,0.54,0.66,0.54
+reparar tarima flotante;2;2;0;110;1.68;http://blog.redformas.es/reparar-tarima-flotante/;1.73;1.29;0.41;46000;0.64,0.64,0.79,0.64,0.50,0.79,0.64,0.79,0.79,0.50,0.99,0.79
+cuanto puede costar reformar una cocina;1;1;0;30;1.53;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;1.70;1.16;0.81;198000;0.80,0.99,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60
+presupuestos reformas;6;8;2;260;4.38;http://www.redformas.es/;1.57;3.06;0.86;11800000;0.99,0.81,0.99,0.99,0.53,0.53,0.81,0.99,0.81,0.66,0.81,0.81
+cuanto cuesta una cocina;3;2;-1;140;0.82;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;1.52;0.55;0.28;1750000;0.82,0.65,0.53,0.65,0.65,0.65,0.82,0.65,0.99,0.65,0.99,0.99
+presupuesto obra;3;2;-1;140;1.88;http://www.redformas.es/;1.52;1.27;0.73;43400000;0.65,0.65,0.82,0.99,0.82,0.53,0.82,0.82,0.82,0.65,0.99,0.82
+reforma baño precio;4;4;0;170;2.11;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;1.44;1.35;0.87;7900000;0.66,0.53,0.34,0.22,0.66,0.53,0.53,0.28,0.53,0.66,0.99,0.81
+pedir presupuesto;3;4;1;110;2.94;http://www.redformas.es/pedir-presupuesto/;1.20;1.56;0.66;16500000;0.82,0.65,0.99,0.53,0.53,0.65,0.53,0.65,0.53,0.82,0.82,0.82
+reformar baño precio;3;4;1;110;1.47;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;1.20;0.78;0.90;3060000;0.42,0.35,0.42,0.42,0.27,0.27,0.27,0.35,0.42,0.54,0.81,0.99
+presupuestos gratis;3;3;0;110;1.31;http://www.redformas.es/;1.20;0.69;0.73;8820000;0.52,0.81,0.99,0.81,0.43,0.33,0.52,0.52,0.43,0.43,0.33,0.43
+acuchillar parquet precio;11;10;-1;210;2.38;http://blog.redformas.es/precio-acuchillar-parquet/;1.19;1.26;0.77;42000;0.12,0.36,0.81,0.28,0.12,0.07,0.24,0.19,0.28,0.19,0.81,0.99
+presupuestos obra;1;1;0;20;3.22;http://www.redformas.es/;1.13;1.63;0.71;23700000;0.75,0.50,0.75,0.75,0.50,0.25,0.75,0.99,0.50,0.25,0.50,0.75
+presupuesto reforma cocina;6;9;3;170;2.29;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;1.03;1.04;0.86;631000;0.99,0.65,0.65,0.65,0.65,0.54,0.54,0.65,0.81,0.65,0.81,0.81
+pedir presupuestos;5;4;-1;170;1.39;http://www.redformas.es/pedir-presupuesto/;1.03;0.63;0.59;1170000;0.28,0.44,0.99,0.82,0.82,0.82,0.67,0.18,0.05,0.08,0.05,0.08
+cuanto cuesta una cocina nueva;2;3;1;50;0.00;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.78;0.00;0.38;947000;0.99,0.99,0.99,0.56,0.56,0.22,0.44,0.22,0.44,0.11,0.22,0.78
+reformas de baños precios;4;4;0;90;1.41;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.76;0.47;0.87;653000;0.53,0.53,0.53,0.28,0.41,0.53,0.82,0.99,0.82,0.41,0.53,0.53
+precio reforma cocina;10;10;0;210;2.24;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.76;0.76;0.81;9300000;0.67,0.54,0.54,0.54,0.44,0.54,0.54,0.54,0.54,0.44,0.99,0.82
+pide presupuesto;3;4;1;70;1.73;http://www.redformas.es/pedir-presupuesto/;0.76;0.58;0.38;1270000;0.99,0.78,0.78,0.78,0.78,0.56,0.56,0.56,0.78,0.78,0.99,0.99
+reforma cocina precio;7;9;2;140;2.11;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.67;0.63;0.90;9290000;0.81,0.54,0.65,0.42,0.19,0.27,0.42,0.42,0.42,0.54,0.99,0.65
+presupuesto pintar casa;5;6;1;110;1.44;http://blog.redformas.es/cuanto-cuesta-pintar-una-casa-precio-ideas-y-consejos/;0.66;0.42;0.74;603000;0.43,0.33,0.52,0.99,0.67,0.67,0.67,0.33,0.52,0.67,0.67,0.52
+presupuesto pintar casa;6;7;1;110;1.44;http://blog.redformas.es/precio-pintar-casa/;0.66;0.42;0.74;603000;0.43,0.33,0.52,0.99,0.67,0.67,0.67,0.33,0.52,0.67,0.67,0.52
+presupuesto de reforma;5;5;0;110;3.92;http://www.redformas.es/;0.66;1.16;0.83;39800000;0.67,0.52,0.52,0.19,0.43,0.99,0.81,0.43,0.52,0.24,0.24,0.33
+precio acuchillar y barnizar parquet;5;3;-2;110;2.29;http://blog.redformas.es/precio-acuchillar-parquet/;0.66;0.67;0.53;25000;0.43,0.33,0.99,0.43,0.24,0.43,0.67,0.67,0.52,0.52,0.52,0.33
+reparar parquet levantado;2;2;0;40;0.40;http://blog.redformas.es/reparar-parquet-levantado/;0.63;0.11;0.34;15000;0.43,0.43,0.14,0.28,0.28,0.56,0.56,0.71,0.71,0.71,0.99,0.43
+precio acuchillar parquet;10;11;1;170;2.52;http://blog.redformas.es/precio-acuchillar-parquet/;0.61;0.69;0.67;42000;0.81,0.65,0.65,0.65,0.65,0.65,0.54,0.54,0.54,0.42,0.99,0.99
+precio tarima flotante colocada;4;4;0;70;1.60;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.59;0.42;0.77;7000;0.21,0.50,0.79,0.36,0.14,0.21,0.28,0.64,0.99,0.50,0.36,0.28
+cuanto cuesta una cocina completa;4;4;0;70;0.46;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.59;0.12;0.34;534000;0.28,0.36,0.28,0.21,0.21,0.50,0.64,0.79,0.36,0.50,0.99,0.79
+precio tarima flotante instalada;4;5;1;70;1.02;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.59;0.26;0.69;30000;0.99,0.33,0.14,0.33,0.33,0.67,0.14,0.14,0.19,0.14,0.24,0.52
+presupuesto para obras;1;2;1;10;0.00;http://www.redformas.es/;0.56;0.00;0.00;49300000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.00
+arreglar parquet;6;6;0;90;1.30;http://blog.redformas.es/como-arreglar-parquet/;0.54;0.31;0.63;142000;0.64,0.82,0.99,0.64,0.82,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto de reformas;6;6;0;90;3.91;http://www.redformas.es/;0.54;0.94;0.88;23800000;0.82,0.65,0.53,0.99,0.41,0.28,0.65,0.28,0.28,0.53,0.28,0.41
+aislamiento acustico precios;5;6;1;90;0.85;http://blog.redformas.es/precio-aislamiento-acustico/;0.54;0.20;1.00;85000;0.99,0.45,0.64,0.99,0.82,0.64,0.45,0.99,0.82,0.64,0.64,0.82
+reformar la cocina;7;7;0;110;1.67;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.53;0.39;0.81;12900000;0.79,0.64,0.64,0.64,0.50,0.99,0.99,0.99,0.79,0.64,0.79,0.99
+construccion de piscinas precios;11;11;0;90;1.77;http://blog.redformas.es/precio-construir-piscina/;0.51;0.40;0.90;499000;0.53,0.53,0.65,0.82,0.99,0.99,0.53,0.28,0.28,0.18,0.41,0.41
+cambiar ventanas precio;11;10;-1;90;0.83;http://blog.redformas.es/precio-cambiar-ventanas/;0.51;0.18;0.82;916000;0.41,0.41,0.41,0.24,0.18,0.18,0.28,0.53,0.82,0.99,0.65,0.41
+cerramientos de aluminio precios;11;13;2;90;1.33;http://blog.redformas.es/precio-cerrar-terraza/;0.51;0.30;0.89;447000;0.65,0.53,0.28,0.28,0.65,0.41,0.41,0.41,0.82,0.53,0.99,0.53
+presupuesto reformas;8;7;-1;140;4.65;http://www.redformas.es/;0.50;1.05;0.80;23200000;0.82,0.82,0.65,0.99,0.82,0.82,0.65,0.82,0.65,0.53,0.65,0.82
+presupuestos para reformas;9;7;-2;140;3.52;http://www.redformas.es/;0.50;0.79;0.64;11000000;0.43,0.19,0.33,0.67,0.99,0.52,0.52,0.81,0.67,0.67,0.99,0.81
+acristalar terraza;8;6;-2;140;1.52;http://blog.redformas.es/precio-acristalar-terraza/;0.50;0.34;0.81;21000;0.44,0.34,0.22,0.28,0.28,0.34,0.22,0.34,0.44,0.44,0.99,0.99
+web de reformas;2;2;0;30;2.04;http://www.redformas.es/;0.47;0.42;0.81;21500000;0.99,0.50,0.50,0.75,0.99,0.75,0.50,0.75,0.99,0.25,0.75,0.99
+cuanto vale reformar una cocina;2;2;0;30;0.97;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.47;0.20;0.83;177000;0.80,0.40,0.60,0.40,0.40,0.80,0.80,0.20,0.80,0.80,0.99,0.80
+presupuestos de obras y reformas;2;2;0;30;0.00;http://www.redformas.es/;0.47;0.00;0.83;12100000;0.99,0.43,0.56,0.43,0.14,0.14,0.28,0.71,0.56,0.43,0.28,0.14
+presupuesto de obras;2;2;0;30;2.59;http://www.redformas.es/;0.47;0.54;0.94;50300000;0.67,0.67,0.99,0.99,0.67,0.67,0.67,0.99,0.99,0.67,0.67,0.99
+arreglar parquet;7;7;0;90;1.30;http://blog.redformas.es/reparar-parquet-levantado/;0.43;0.25;0.63;142000;0.64,0.82,0.99,0.64,0.82,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+reformar cocina;16;0;0;720;1.77;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.43;0.34;0.84;12800000;0.72,0.59,0.59,0.48,0.48,0.59,0.59,0.59,0.72,0.72,0.99,0.99
+coste reforma baño;3;3;0;40;1.90;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.43;0.36;0.84;325000;0.56,0.43,0.43,0.28,0.56,0.56,0.71,0.71,0.71,0.56,0.99,0.71
+restaurar parquet;7;9;2;90;1.82;http://blog.redformas.es/reparar-parquet-rayado/;0.43;0.35;0.63;143000;0.82,0.45,0.82,0.64,0.64,0.82,0.82,0.82,0.64,0.99,0.82,0.82
+presupuesto baño completo;5;0;0;70;1.54;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.42;0.29;0.85;727000;0.64,0.45,0.45,0.45,0.45,0.45,0.82,0.82,0.99,0.36,0.82,0.99
+reparar parquet rayado;4;3;-1;50;0.00;http://blog.redformas.es/reparar-parquet-rayado/;0.42;0.00;0.24;6000;0.78,0.78,0.78,0.33,0.33,0.56,0.56,0.99,0.44,0.22,0.44,0.56
+cuanto cuesta alicatar un baño;4;5;1;50;1.08;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.42;0.20;0.49;28000;0.78,0.78,0.78,0.78,0.56,0.56,0.78,0.78,0.22,0.11,0.78,0.99
+precio reformar baño;4;4;0;50;2.35;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.42;0.44;0.88;18000000;0.44,0.56,0.56,0.56,0.44,0.56,0.78,0.78,0.78,0.56,0.99,0.78
+cuanto cuesta poner tarima flotante;6;7;1;70;1.82;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.42;0.34;0.64;7000;0.19,0.10,0.19,0.24,0.24,0.24,0.24,0.33,0.52,0.52,0.99,0.67
+presupuestos de obra;4;5;1;50;1.87;http://www.redformas.es/;0.42;0.35;0.94;23200000;0.99,0.99,0.71,0.71,0.71,0.43,0.71,0.56,0.71,0.56,0.71,0.71
+presupuestos reformas madrid;10;8;-2;110;5.42;http://www.redformas.es/;0.40;0.96;0.62;667000;0.35,0.35,0.42,0.42,0.35,0.27,0.19,0.42,0.42,0.42,0.99,0.65
+como reformar una casa;10;11;1;110;1.65;http://blog.redformas.es/como-reformar-tu-casa-al-menor-coste/;0.40;0.29;0.69;13600000;0.99,0.43,0.52,0.33,0.33,0.43,0.33,0.43,0.52,0.52,0.52,0.52
+reparar arañazos parquet;11;11;0;70;1.92;http://blog.redformas.es/reparar-tarima-flotante/;0.39;0.34;0.12;10000;0.36,0.50,0.50,0.50,0.28,0.50,0.36,0.28,0.36,0.36,0.99,0.36
+poner tarima flotante precio;7;7;0;70;1.06;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.33;0.15;0.84;143000;0.50,0.28,0.36,0.28,0.28,0.21,0.21,0.36,0.99,0.50,0.64,0.50
+coste reforma cocina;4;4;0;40;3.71;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.33;0.55;0.81;389000;0.80,0.80,0.40,0.80,0.80,0.80,0.80,0.80,0.99,0.99,0.99,0.80
+precio aislamiento acustico;4;7;3;40;0.78;http://blog.redformas.es/precio-aislamiento-acustico/;0.33;0.11;1.00;137000;0.80,0.60,0.80,0.60,0.40,0.40,0.99,0.99,0.80,0.80,0.80,0.80
+pedir presupuesto reforma;4;5;1;40;4.58;http://www.redformas.es/pedir-presupuesto/;0.33;0.69;0.97;4200000;0.44,0.22,0.33,0.56,0.56,0.33,0.99,0.99,0.33,0.33,0.44,0.11
+presupuestos reformas online;7;9;2;70;4.49;http://www.redformas.es/;0.33;0.67;0.75;643000;0.99,0.41,0.65,0.53,0.18,0.06,0.24,0.24,0.18,0.24,0.28,0.24
+reparar pladur;4;3;-1;40;0.00;http://blog.redformas.es/reparar-pladur/;0.33;0.00;0.04;138000;0.99,0.80,0.80,0.80,0.60,0.80,0.80,0.80,0.80,0.60,0.99,0.80
+presupuesto cuarto de baño;4;8;4;40;1.17;http://blog.redformas.es/cuanto-cuesta-reformar-un-bano/;0.33;0.17;0.89;20400000;0.56,0.56,0.56,0.43,0.14,0.43,0.56,0.56,0.71,0.43,0.56,0.99
+reformar un baño precio;3;3;0;30;1.28;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.32;0.18;0.74;3230000;0.80,0.40,0.40,0.40,0.40,0.40,0.80,0.99,0.20,0.20,0.60,0.60
+reformar una cocina;9;9;0;90;1.13;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.32;0.16;0.78;13000000;0.79,0.50,0.50,0.36,0.50,0.50,0.64,0.99,0.50,0.36,0.79,0.79
+reformar cocina precio;8;10;2;90;1.61;http://blog.redformas.es/reformar-cocina-precio/;0.32;0.23;0.86;6080000;0.82,0.53,0.65,0.65,0.41,0.28,0.65,0.53,0.99,0.41,0.28,0.53
+acuchillar y barnizar parquet;8;9;1;90;3.19;http://blog.redformas.es/precio-acuchillar-parquet/;0.32;0.46;0.66;43000;0.99,0.24,0.33,0.24,0.52,0.67,0.52,0.33,0.19,0.33,0.24,0.33
+presupuesto reformar baño;3;3;0;30;1.48;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.32;0.21;0.86;391000;0.40,0.40,0.40,0.60,0.80,0.60,0.99,0.80,0.60,0.40,0.80,0.60
+reformas baños precios;3;4;1;30;2.31;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.32;0.33;0.85;700000;0.22,0.11,0.22,0.56,0.22,0.11,0.22,0.22,0.22,0.78,0.99,0.78
+presupuesto gratis;3;3;0;30;1.34;http://www.redformas.es/;0.32;0.19;0.55;11800000;0.33,0.33,0.33,0.22,0.22,0.11,0.33,0.22,0.99,0.33,0.22,0.22
+presupuestos reformas baños;3;3;0;30;2.44;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.32;0.35;0.83;498000;0.28,0.28,0.28,0.14,0.28,0.14,0.14,0.99,0.56,0.56,0.71,0.71
+arreglar parquet rayado;3;2;-1;30;0.90;http://blog.redformas.es/reparar-parquet-rayado/;0.32;0.13;0.08;5000;0.99,0.75,0.75,0.25,0.50,0.75,0.99,0.75,0.50,0.50,0.50,0.75
+presupuestos gratis reformas;2;5;3;20;6.34;http://www.redformas.es/;0.31;0.88;0.43;865000;0.14,0.14,0.14,0.14,0.28,0.28,0.43,0.71,0.14,0.99,0.56,0.28
+precio cambiar cocina;2;0;0;20;0.25;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.31;0.03;0.64;60800000;0.99,0.99,0.50,0.50,0.50,0.50,0.99,0.99,0.99,0.50,0.99,0.99
+precio reformar cocina;6;10;4;50;3.02;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.30;0.40;0.90;2050000;0.71,0.99,0.56,0.71,0.56,0.99,0.71,0.71,0.71,0.56,0.99,0.99
+precio alicatar baño;11;12;1;50;0.87;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.28;0.11;0.53;84000;0.56,0.44,0.33,0.44,0.44,0.78,0.44,0.78,0.99,0.33,0.44,0.44
+presupuesto pintor;11;10;-1;50;2.80;http://blog.redformas.es/precio-pintar-casa/;0.28;0.35;0.70;742000;0.78,0.44,0.44,0.99,0.99,0.56,0.44,0.56,0.44,0.78,0.44,0.44
+presupuesto cambiar ventanas;11;11;0;50;0.90;http://blog.redformas.es/precio-cambiar-ventanas/;0.28;0.11;0.79;490000;0.56,0.44,0.56,0.56,0.44,0.44,0.44,0.56,0.78,0.56,0.99,0.99
+reforma barata;9;8;-1;70;1.88;http://blog.redformas.es/como-reformar-tu-casa-al-menor-coste/;0.25;0.21;0.66;2360000;0.28,0.28,0.41,0.18,0.41,0.65,0.99,0.82,0.53,0.41,0.41,0.28
+reparar suelo laminado;9;9;0;70;0.60;http://blog.redformas.es/reparar-suelo-laminado/;0.25;0.06;0.27;29000;0.45,0.64,0.64,0.64,0.64,0.45,0.64,0.64,0.64,0.64,0.99,0.82
+precio construccion piscina;10;10;0;70;1.35;http://blog.redformas.es/precio-construir-piscina/;0.25;0.15;0.91;777000;0.36,0.36,0.50,0.64,0.79,0.99,0.64,0.28,0.36,0.14,0.28,0.36
+cuanto vale una cocina;4;4;0;30;0.15;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.25;0.01;0.22;2430000;0.80,0.40,0.40,0.80,0.80,0.40,0.40,0.40,0.99,0.60,0.60,0.80
+reformas de cocinas precios;8;0;0;70;1.70;http://blog.redformas.es/reformar-cocina-precio/;0.25;0.19;0.86;627000;0.78,0.56,0.56,0.78,0.78,0.99,0.78,0.44,0.78,0.33,0.78,0.78
+reformas de cocinas precios;9;0;0;70;1.70;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.25;0.19;0.86;627000;0.78,0.56,0.56,0.78,0.78,0.99,0.78,0.44,0.78,0.33,0.78,0.78
+presupuesto tarima flotante;10;10;0;70;2.68;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.25;0.30;0.77;307000;0.64,0.45,0.64,0.82,0.45,0.45,0.64,0.64,0.45,0.45,0.99,0.82
+presupuesto cocina completa;8;8;0;70;1.06;http://blog.redformas.es/presupuesto-cocina-completa/;0.25;0.11;0.70;666000;0.24,0.28,0.41,0.41,0.28,0.28,0.18,0.18,0.28,0.82,0.99,0.53
+precio cambiar ventanas;9;8;-1;70;0.81;http://blog.redformas.es/precio-cambiar-ventanas/;0.25;0.09;0.81;1180000;0.50,0.36,0.36,0.21,0.21,0.36,0.79,0.36,0.64,0.50,0.99,0.99
+presupuesto gratis;4;4;0;30;1.34;http://www.redformas.es/pedir-presupuesto/;0.25;0.15;0.55;11800000;0.33,0.33,0.33,0.22,0.22,0.11,0.33,0.22,0.99,0.33,0.22,0.22
+precio m2 alicatado baño;4;6;2;30;0.00;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.25;0.00;0.34;288000;0.50,0.50,0.50,0.50,0.75,0.75,0.99,0.50,0.75,0.50,0.99,0.50
+de obras y reformas;6;5;-1;40;2.95;http://www.redformas.es/;0.24;0.31;0.87;576000;0.43,0.43,0.43,0.71,0.99,0.43,0.56,0.56,0.56,0.43,0.43,0.56
+reparar parquet dañado;7;5;-2;50;1.28;http://blog.redformas.es/reparar-parquet-danado/;0.24;0.13;0.39;15000;0.28,0.14,0.14,0.36,0.64,0.99,0.79,0.14,0.14,0.07,0.21,0.14
+pulir parquet precio;7;8;1;50;1.63;http://blog.redformas.es/precio-acuchillar-parquet/;0.24;0.17;0.85;602000;0.50,0.36,0.28,0.28,0.21,0.28,0.28,0.14,0.28,0.36,0.79,0.99
+cuanto vale una cocina completa;5;5;0;40;0.36;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.24;0.03;0.37;477000;0.56,0.43,0.43,0.14,0.28,0.56,0.56,0.71,0.71,0.43,0.99,0.56
+reparar parquet;13;16;3;210;1.48;http://blog.redformas.es/reparar-parquet-danado/;0.22;0.15;0.53;270000;0.81,0.53,0.81,0.66,0.53,0.81,0.66,0.66,0.81,0.66,0.99,0.81
+ideas reformas;11;9;-2;40;1.33;http://blog.redformas.es/ideas-para-reformar-la-casa/;0.22;0.13;0.24;18500000;0.18,0.18,0.18,0.36,0.36,0.27,0.18,0.82,0.99,0.18,0.36,0.36
+cuanto cuesta una reforma;11;13;2;40;1.02;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.22;0.10;0.36;892000;0.80,0.80,0.60,0.60,0.60,0.60,0.99,0.99,0.80,0.80,0.99,0.80
+piscina precios;11;12;1;40;0.44;http://blog.redformas.es/precio-construir-piscina/;0.22;0.04;1.00;118000000;0.21,0.21,0.28,0.50,0.99,0.28,0.21,0.14,0.14,0.07,0.14,0.14
+precio piscina;14;12;-2;260;1.06;http://blog.redformas.es/precio-construir-piscina/;0.22;0.10;1.00;182000000;0.44,0.44,0.54,0.81,0.99,0.99,0.54,0.44,0.28,0.28,0.35,0.44
+piscina precio;12;12;0;140;0.98;http://blog.redformas.es/precio-construir-piscina/;0.22;0.09;1.00;185000000;0.42,0.54,0.65,0.99,0.99,0.81,0.42,0.19,0.19,0.15,0.27,0.35
+precio pintar piso;12;12;0;140;1.53;http://blog.redformas.es/precio-pintar-casa/;0.22;0.15;0.64;520000;0.99,0.99,0.67,0.52,0.52,0.52,0.67,0.67,0.81,0.52,0.81,0.67
+presupuesto reforma de baño;3;0;0;20;2.76;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.21;0.26;0.95;499000;0.99,0.50,0.99,0.99,0.99,0.50,0.50,0.99,0.50,0.50,0.50,0.99
+reforma baño presupuesto;3;3;0;20;1.57;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.21;0.15;0.88;500000;0.25,0.50,0.50,0.50,0.25,0.25,0.25,0.99,0.75,0.25,0.50,0.25
+precios reformas baños;3;5;2;20;1.83;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.21;0.17;0.93;662000;0.28,0.14,0.99,0.28,0.14,0.28,0.14,0.28,0.28,0.28,0.43,0.56
+reparar parquet flotante;3;1;-2;20;0.51;http://blog.redformas.es/reparar-tarima-flotante/;0.21;0.04;0.34;18000;0.25,0.50,0.50,0.50,0.75,0.75,0.25,0.25,0.99,0.25,0.75,0.50
+presupuesto para reformar una cocina;3;0;0;20;2.29;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.21;0.22;0.82;505000;0.33,0.33,0.99,0.33,0.33,0.33,0.67,0.33,0.33,0.67,0.67,0.67
+presupuestos profesionales;3;4;1;20;2.44;http://www.redformas.es/;0.21;0.23;0.59;26200000;0.33,0.33,0.67,0.33,0.33,0.33,0.67,0.67,0.67,0.33,0.33,0.99
+precio reforma cocina completa;7;11;4;40;1.96;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.19;0.16;0.77;415000;0.71,0.99,0.56,0.56,0.43,0.56,0.71,0.56,0.71,0.28,0.43,0.43
+cambiar parquet;7;8;1;40;1.00;http://blog.redformas.es/reparar-parquet-levantado/;0.19;0.08;0.63;524000;0.80,0.60,0.40,0.60,0.60,0.99,0.60,0.60,0.99,0.80,0.99,0.99
+presupuesto pintar;9;7;-2;50;1.64;http://blog.redformas.es/precio-pintar-casa/;0.18;0.13;0.93;700000;0.14,0.14,0.07,0.99,0.64,0.21,0.21,0.21,0.28,0.36,0.28,0.36
+precio cerramiento aluminio;10;10;0;50;1.57;http://blog.redformas.es/precio-cerrar-terraza/;0.18;0.12;0.84;389000;0.99,0.99,0.99,0.43,0.56,0.56,0.99,0.99,0.71,0.99,0.56,0.43
+reformar cocina presupuesto;6;6;0;30;2.18;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.18;0.17;0.89;399000;0.18,0.18,0.09,0.18,0.27,0.18,0.27,0.09,0.18,0.36,0.99,0.45
+precio metro cuadrado tarima flotante;5;5;0;30;1.54;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.18;0.12;0.85;39000;0.75,0.25,0.50,0.25,0.50,0.25,0.75,0.99,0.75,0.50,0.99,0.99
+reformas presupuestos;8;6;-2;50;3.66;http://www.redformas.es/;0.18;0.29;0.92;12500000;0.36,0.18,0.18,0.18,0.36,0.27,0.27,0.36,0.45,0.64,0.82,0.99
+reparar parquet dañado;8;6;-2;50;1.28;http://blog.redformas.es/reparar-parquet-rayado/;0.18;0.10;0.39;15000;0.28,0.14,0.14,0.36,0.64,0.99,0.79,0.14,0.14,0.07,0.21,0.14
+cerramientos aluminio precios;10;11;1;50;1.28;http://blog.redformas.es/precio-cerrar-terraza/;0.18;0.10;0.92;445000;0.22,0.44,0.78,0.33,0.33,0.22,0.56,0.78,0.78,0.33,0.99,0.56
+reformas online;8;8;0;50;2.70;http://www.redformas.es/;0.18;0.21;0.80;9560000;0.56,0.33,0.99,0.44,0.33,0.22,0.99,0.56,0.78,0.56,0.78,0.78
+precio instalacion tarima flotante;10;10;0;50;1.28;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.18;0.10;0.78;132000;0.44,0.56,0.44,0.56,0.44,0.44,0.56,0.78,0.78,0.78,0.99,0.56
+precio alicatado baño;5;6;1;30;1.01;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.18;0.08;0.39;239000;0.20,0.20,0.40,0.40,0.20,0.20,0.60,0.20,0.80,0.80,0.99,0.80
+presupuesto para pintar una casa;6;6;0;30;1.72;http://blog.redformas.es/precio-pintar-casa/;0.18;0.13;0.67;9990000;0.20,0.99,0.40,0.60,0.60,0.40,0.40,0.20,0.80,0.80,0.40,0.20
+presupuesto reforma cocina y baño;5;6;1;30;2.95;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.18;0.23;0.89;434000;0.60,0.20,0.40,0.40,0.60,0.99,0.40,0.80,0.60,0.40,0.80,0.99
+presupuesto pintura casa;5;8;3;30;2.64;http://blog.redformas.es/precio-pintar-casa/;0.18;0.21;0.82;909000;0.14,0.14,0.28,0.28,0.99,0.14,0.43,0.14,0.43,0.14,0.71,0.99
+precio pulir parquet;9;8;-1;50;1.78;http://blog.redformas.es/precio-acuchillar-parquet/;0.18;0.14;0.86;81000;0.71,0.43,0.56,0.71,0.43,0.56,0.56,0.71,0.71,0.99,0.99,0.71
+obras reformas;5;4;-1;30;1.33;http://www.redformas.es/;0.18;0.10;0.86;30700000;0.43,0.28,0.43,0.14,0.28,0.28,0.71,0.28,0.99,0.28,0.56,0.43
+reformar cocina pequeña;10;6;-4;50;2.00;http://blog.redformas.es/reformar-una-cocina-pequena-consejos/;0.18;0.16;0.68;370000;0.44,0.56,0.22,0.33,0.22,0.56,0.56,0.44,0.78,0.78,0.99,0.99
+reformar cocina pequeña;9;7;-2;50;2.00;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.18;0.16;0.68;370000;0.44,0.56,0.22,0.33,0.22,0.56,0.56,0.44,0.78,0.78,0.99,0.99
+construir piscina precio;6;6;0;30;2.42;http://blog.redformas.es/precio-construir-piscina/;0.18;0.19;0.94;613000;0.43,0.43,0.71,0.99,0.43,0.43,0.28,0.14,0.14,0.14,0.28,0.14
+presupuesto cerramiento terraza;9;11;2;50;2.04;http://blog.redformas.es/precio-cerrar-terraza/;0.18;0.16;0.81;237000;0.56,0.56,0.22,0.22,0.44,0.44,0.99,0.44,0.44,0.56,0.99,0.99
+cuanto cuesta pintar un piso;14;14;0;210;1.05;http://blog.redformas.es/precio-pintar-casa/;0.17;0.08;0.50;107000;0.65,0.81,0.81,0.99,0.99,0.99,0.99,0.81,0.81,0.54,0.81,0.99
+reparar parquet;14;15;1;210;1.48;http://blog.redformas.es/reparar-parquet-rayado/;0.17;0.11;0.53;270000;0.81,0.53,0.81,0.66,0.53,0.81,0.66,0.66,0.81,0.66,0.99,0.81
+presupuesto electricidad vivienda;11;11;0;30;1.03;http://blog.redformas.es/presupuesto-de-instalacion-electrica/;0.17;0.07;0.54;572000;0.43,0.14,0.99,0.43,0.28,0.56,0.14,0.43,0.28,0.14,0.56,0.99
+cambiar tarima flotante;11;11;0;30;1.19;http://blog.redformas.es/reparar-tarima-flotante/;0.17;0.09;0.51;152000;0.20,0.40,0.40,0.40,0.60,0.60,0.60,0.40,0.20,0.40,0.60,0.99
+reforma cocina y baño;11;11;0;30;2.97;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.17;0.22;0.93;7900000;0.60,0.60,0.60,0.40,0.40,0.60,0.40,0.99,0.40,0.40,0.40,0.80
+presupuesto acuchillar parquet;11;11;0;30;1.27;http://blog.redformas.es/precio-acuchillar-parquet/;0.17;0.09;0.80;48000;0.75,0.99,0.75,0.75,0.99,0.75,0.50,0.99,0.50,0.25,0.50,0.75
+cambiar puertas interiores;11;12;1;30;2.10;http://blog.redformas.es/cambiar-las-puertas-de-interior-de-la-vivienda/;0.17;0.15;0.60;10100000;0.60,0.80,0.60,0.80,0.99,0.99,0.60,0.40,0.20,0.20,0.20,0.60
+precios reforma cocina;4;0;0;20;3.01;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.16;0.22;0.91;758000;0.67,0.33,0.33,0.67,0.33,0.33,0.67,0.33,0.99,0.67,0.99,0.99
+precio de reformar una cocina;4;0;0;20;2.60;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.16;0.19;0.80;24400000;0.25,0.25,0.25,0.25,0.50,0.25,0.25,0.50,0.50,0.50,0.99,0.99
+presupuesto para reformar un baño;4;4;0;20;2.44;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.16;0.18;0.87;516000;0.67,0.67,0.99,0.67,0.99,0.33,0.33,0.33,0.67,0.33,0.99,0.67
+web reformas;4;3;-1;20;1.75;http://www.redformas.es/;0.16;0.13;0.62;22300000;0.75,0.50,0.50,0.50,0.25,0.25,0.75,0.75,0.50,0.50,0.50,0.99
+reformas cocinas precios;4;6;2;20;1.88;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.16;0.14;0.85;570000;0.20,0.40,0.20,0.20,0.20,0.20,0.60,0.60,0.40,0.60,0.99,0.60
+reforma de baño precio;4;0;0;20;1.55;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.16;0.11;0.79;8750000;0.33,0.11,0.11,0.11,0.22,0.11,0.11,0.11,0.11,0.22,0.44,0.99
+reforma de baños precios;4;4;0;20;1.71;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.16;0.12;0.88;662000;0.75,0.50,0.50,0.50,0.50,0.75,0.75,0.75,0.25,0.25,0.75,0.99
+precios reforma baños;4;0;0;20;1.74;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.16;0.13;0.87;662000;0.20,0.20,0.20,0.20,0.20,0.20,0.40,0.20,0.60,0.40,0.99,0.40
+reforma de cocina precio;4;0;0;20;0.70;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.16;0.05;0.85;9810000;0.99,0.99,0.60,0.20,0.20,0.20,0.40,0.20,0.20,0.40,0.40,0.40
+presupuestos obras online;2;3;1;10;1.96;http://www.redformas.es/;0.15;0.13;0.99;603000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.00,0.50,0.50
+reforma ventanas;2;2;0;10;0.80;http://blog.redformas.es/cambiar-las-ventanas-de-casa-una-reforma-economica-y-sencilla/;0.15;0.05;0.84;1240000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.50,0.99,0.50
+cambiar cocina precio;2;0;0;10;1.19;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.15;0.08;0.59;59700000;0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.99,0.33,0.33,0.33,0.67
+presupuestos gratis de reformas;2;2;0;10;5.01;http://www.redformas.es/;0.15;0.35;0.86;822000;0.33,0.33,0.67,0.67,0.33,0.33,0.99,0.33,0.33,0.33,0.33,0.33
+presupuestos de reformas online;7;6;-1;30;3.95;http://www.redformas.es/;0.14;0.25;0.93;623000;0.80,0.60,0.40,0.40,0.20,0.20,0.60,0.99,0.60,0.40,0.99,0.99
+suelos de parquet flotante;8;8;0;40;0.92;http://blog.redformas.es/suelos-laminados-vs-parquet-flotante/;0.14;0.05;0.79;490000;0.11,0.22,0.99,0.78,0.44,0.22,0.22,0.33,0.56,0.33,0.78,0.44
+presupuesto para pintar una casa;7;7;0;30;1.72;http://blog.redformas.es/cuanto-cuesta-pintar-una-casa-precio-ideas-y-consejos/;0.14;0.11;0.67;9990000;0.20,0.99,0.40,0.60,0.60,0.40,0.40,0.20,0.80,0.80,0.40,0.20
+precio colocacion tarima flotante;9;8;-1;40;1.36;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.14;0.08;0.81;73000;0.22,0.33,0.33,0.56,0.44,0.33,0.22,0.33,0.78,0.33,0.44,0.99
+presupuestos online reformas;7;8;1;30;2.04;http://www.redformas.es/;0.14;0.13;0.90;607000;0.56,0.14,0.71,0.14,0.14,0.14,0.14,0.28,0.71,0.56,0.99,0.56
+presupuesto acuchillar y barnizar parquet;7;5;-2;30;1.14;http://blog.redformas.es/precio-acuchillar-parquet/;0.14;0.07;0.56;31000;0.75,0.75,0.75,0.99,0.75,0.99,0.99,0.99,0.75,0.50,0.99,0.99
+alicatar baño precio;8;8;0;40;0.67;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.14;0.04;0.45;82000;0.71,0.71,0.56,0.43,0.28,0.14,0.43,0.43,0.43,0.56,0.56,0.99
+cambiar las puertas de casa;10;11;1;40;0.20;http://blog.redformas.es/cambiar-las-puertas-de-interior-de-la-vivienda/;0.14;0.01;0.74;13100000;0.99,0.28,0.18,0.18,0.24,0.18,0.24,0.18,0.18,0.12,0.12,0.18
+reformar un baño;14;14;0;170;1.76;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.14;0.11;0.81;13200000;0.53,0.53,0.44,0.44,0.34,0.53,0.99,0.81,0.66,0.44,0.66,0.66
+cuanto cuesta reformar un piso;19;18;-1;390;2.15;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.14;0.13;0.72;42000;0.66,0.44,0.36,0.36,0.44,0.54,0.66,0.66,0.66,0.66,0.99,0.81
+cerrar terraza;17;0;0;260;2.23;http://blog.redformas.es/precio-cerrar-terraza/;0.12;0.12;0.73;14400000;0.82,0.54,0.54,0.67,0.54,0.54,0.67,0.82,0.82,0.67,0.82,0.99
+reforma cocina presupuesto;6;8;2;20;2.89;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.12;0.15;0.92;629000;0.50,0.25,0.50,0.50,0.50,0.25,0.50,0.50,0.75,0.25,0.50,0.99
+presupuesto reformar cocina;5;7;2;20;1.88;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.12;0.10;0.89;401000;0.67,0.33,0.67,0.67,0.99,0.33,0.67,0.67,0.33,0.33,0.99,0.67
+reformas y obras;5;5;0;20;2.36;http://www.redformas.es/;0.12;0.12;0.80;31600000;0.99,0.50,0.99,0.50,0.25,0.25,0.50,0.50,0.50,0.75,0.50,0.99
+presupuesto de pintores;6;6;0;20;0.39;http://blog.redformas.es/precio-pintar-casa/;0.12;0.02;0.77;2400000;0.25,0.25,0.75,0.25,0.75,0.50,0.50,0.25,0.25,0.25,0.99,0.25
+presupuesto de reforma de cocina;6;0;0;20;3.38;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.12;0.18;0.92;621000;0.99,0.67,0.67,0.33,0.33,0.33,0.33,0.67,0.33,0.67,0.67,0.99
+precios de reformas de baños;5;3;-2;20;1.57;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.12;0.08;0.93;487000;0.99,0.25,0.75,0.50,0.50,0.50,0.99,0.25,0.25,0.25,0.50,0.50
+cambiar puertas de casa;13;12;-1;110;0.26;http://blog.redformas.es/cambiar-las-puertas-de-interior-de-la-vivienda/;0.12;0.01;0.65;13000000;0.99,0.67,0.67,0.10,0.19,0.67,0.67,0.52,0.81,0.81,0.67,0.33
+precio cerramiento terraza;14;14;0;140;1.61;http://blog.redformas.es/precio-cerrar-terraza/;0.11;0.08;0.88;365000;0.43,0.33,0.43,0.43,0.52,0.43,0.52,0.52,0.81,0.67,0.99,0.99
+como reformar una cocina;14;15;1;140;1.07;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.11;0.05;0.68;13000000;0.53,0.65,0.53,0.65,0.65,0.82,0.65,0.82,0.99,0.65,0.99,0.99
+presupuesto de reformas de viviendas;11;0;0;20;3.44;http://www.redformas.es/;0.11;0.17;0.92;21600000;0.50,0.50,0.25,0.25,0.50,0.50,0.50,0.25,0.25,0.25,0.99,0.99
+reforma tu piso;11;11;0;20;2.13;http://blog.redformas.es/como-reformar-tu-casa-al-menor-coste/;0.11;0.10;0.86;2240000;0.99,0.67,0.33,0.67,0.33,0.67,0.33,0.33,0.67,0.33,0.67,0.67
+presupuestos de reformas en madrid;11;13;2;20;5.71;http://www.redformas.es/;0.11;0.28;0.61;635000;0.43,0.14,0.14,0.28,0.14,0.14,0.14,0.28,0.14,0.28,0.99,0.14
+como cambiar las puertas de casa;11;10;-1;20;0.28;http://blog.redformas.es/cambiar-las-puertas-de-interior-de-la-vivienda/;0.11;0.01;0.46;13100000;0.67,0.67,0.67,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.99
+precio instalacion tarima;11;11;0;20;1.58;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.11;0.08;0.84;299000;0.60,0.20,0.20,0.20,0.40,0.40,0.20,0.60,0.40,0.60,0.40,0.99
+cambiar puertas casa;12;16;4;70;0.00;http://blog.redformas.es/cambiar-las-puertas-de-interior-de-la-vivienda/;0.11;0.00;0.50;13400000;0.36,0.27,0.45,0.45,0.82,0.64,0.99,0.99,0.99,0.45,0.64,0.36
+cerrar terraza precio;12;11;-1;70;1.24;http://blog.redformas.es/precio-cerrar-terraza/;0.11;0.06;0.77;15200000;0.41,0.41,0.53,0.24,0.24,0.12,0.28,0.24,0.28,0.18,0.65,0.99
+precio de acuchillar y barnizar parquet;10;8;-2;30;3.00;http://blog.redformas.es/precio-acuchillar-parquet/;0.10;0.14;0.64;71000;0.56,0.56,0.99,0.43,0.43,0.28,0.28,0.14,0.43,0.28,0.14,0.28
+presupuesto para obra;3;3;0;10;0.00;http://www.redformas.es/;0.10;0.00;0.96;43000000;0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto alicatar baño;10;18;8;30;1.68;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.10;0.08;0.84;93000;0.80,0.40,0.60,0.20,0.40,0.60,0.60,0.40,0.80,0.60,0.99,0.40
+precio reforma cocina y baño;8;8;0;30;2.29;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.10;0.11;0.87;675000;0.60,0.40,0.80,0.60,0.60,0.60,0.40,0.40,0.20,0.40,0.99,0.60
+tipos de fachadas de casas;9;9;0;30;0.00;http://blog.redformas.es/fachadas-de-casas-eleccion-para-tu-vivienda/;0.10;0.00;0.18;505000;0.60,0.80,0.20,0.20,0.20,0.40,0.60,0.80,0.80,0.99,0.99,0.60
+presupuestos on line;10;11;1;30;1.81;http://www.redformas.es/;0.10;0.08;0.81;8740000;0.99,0.40,0.80,0.80,0.60,0.40,0.60,0.80,0.80,0.40,0.80,0.60
+reformar baño presupuesto;3;3;0;10;1.56;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.10;0.07;0.89;394000;0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.99
+presupuesto de reforma de baño;3;0;0;10;1.93;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.10;0.09;0.88;500000;0.33,0.33,0.33,0.33,0.67,0.99,0.67,0.33,0.33,0.67,0.67,0.67
+suelos parquet flotante;10;9;-1;30;1.49;http://blog.redformas.es/suelos-laminados-vs-parquet-flotante/;0.10;0.07;0.70;342000;0.14,0.28,0.28,0.14,0.28,0.28,0.71,0.56,0.43,0.28,0.99,0.28
+servicios de reformas;8;11;3;30;1.52;http://blog.redformas.es/;0.10;0.07;0.52;45900000;0.56,0.28,0.28,0.56,0.99,0.28,0.28,0.56,0.56,0.28,0.28,0.43
+precio reforma de baño;3;0;0;10;3.79;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.10;0.18;0.77;8910000;0.99,0.50,0.99,0.50,0.50,0.99,0.99,0.50,0.99,0.50,0.50,0.99
+presupuestos fontaneria;9;9;0;30;1.11;http://www.redformas.es/presupuestos-fontaneria-calefaccion-y-gas/;0.10;0.05;0.79;482000;0.60,0.40,0.40,0.40,0.40,0.20,0.80,0.80,0.60,0.40,0.99,0.40
+como arreglar parquet;8;7;-1;30;1.92;http://blog.redformas.es/como-arreglar-parquet/;0.10;0.09;0.28;142000;0.40,0.60,0.60,0.80,0.80,0.60,0.60,0.99,0.60,0.40,0.80,0.80
+como arreglar parquet;9;8;-1;30;1.92;http://blog.redformas.es/reparar-parquet-levantado/;0.10;0.09;0.28;142000;0.40,0.60,0.60,0.80,0.80,0.60,0.60,0.99,0.60,0.40,0.80,0.80
+reformas obras;8;8;0;30;3.44;http://www.redformas.es/;0.10;0.16;0.91;30700000;0.11,0.11,0.11,0.11,0.11,0.22,0.33,0.22,0.33,0.33,0.99,0.44
+presupuesto de reforma baño;3;5;2;10;0.00;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.10;0.00;0.00;500000;0.99,0.75,0.50,0.25,0.25,0.25,0.00,0.25,0.25,0.25,0.00,0.00
+precio de piscina;9;12;3;30;0.49;http://blog.redformas.es/precio-construir-piscina/;0.10;0.02;1.00;185000000;0.28,0.28,0.43,0.56,0.99,0.71,0.28,0.14,0.28,0.14,0.14,0.28
+tarima flotante o suelo laminado;9;9;0;30;0.56;http://blog.redformas.es/suelos-laminados-vs-parquet-flotante/;0.10;0.02;0.52;88000;0.40,0.40,0.60,0.40,0.60,0.40,0.60,0.80,0.99,0.20,0.80,0.99
+presupuesto reformas madrid;8;8;0;30;5.73;http://www.redformas.es/;0.10;0.27;0.56;703000;0.40,0.60,0.99,0.40,0.40,0.40,0.40,0.40,0.40,0.20,0.60,0.99
+baños completos precios;9;10;1;30;0.34;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.10;0.01;0.92;750000;0.11,0.33,0.44,0.33,0.11,0.22,0.56,0.99,0.44,0.11,0.22,0.11
+enace;16;14;-2;170;0.00;http://blog.redformas.es/redformas-y-enace-firman-un-acuerdo-de-colaboracion-en-el-salon-inmobiliario-de-madrid-sima-2014/;0.10;0.00;0.00;195000;0.53,0.44,0.44,0.99,0.66,0.28,0.53,0.81,0.66,0.44,0.44,0.66
+como reparar parquet;13;15;2;90;0.51;http://blog.redformas.es/reparar-parquet-rayado/;0.09;0.02;0.21;270000;0.82,0.64,0.64,0.45,0.82,0.82,0.82,0.99,0.82,0.82,0.82,0.82
+presupuesto reforma vivienda;13;12;-1;90;2.84;http://www.redformas.es/;0.09;0.12;0.93;12300000;0.41,0.41,0.53,0.28,0.41,0.28,0.28,0.41,0.65,0.53,0.82,0.99
+como cerrar una terraza;13;13;0;90;0.62;http://blog.redformas.es/precio-cerrar-terraza/;0.09;0.02;0.55;13900000;0.41,0.41,0.41,0.41,0.53,0.53,0.41,0.53,0.53,0.41,0.99,0.65
+presupuestos reforma;7;6;-1;20;3.70;http://www.redformas.es/;0.09;0.15;0.90;23600000;0.67,0.33,0.33,0.33,0.67,0.33,0.67,0.99,0.67,0.33,0.67,0.33
+presupuesto reforma online;7;7;0;20;3.80;http://www.redformas.es/;0.09;0.16;0.87;692000;0.50,0.50,0.99,0.75,0.25,0.25,0.50,0.50,0.50,0.25,0.50,0.50
+presupuesto para reforma;7;6;-1;20;1.94;http://www.redformas.es/;0.09;0.08;0.91;40000000;0.75,0.50,0.99,0.75,0.50,0.50,0.25,0.25,0.75,0.25,0.50,0.50
+presupuestos de reforma;7;7;0;20;5.48;http://www.redformas.es/;0.09;0.23;1.00;23700000;0.99,0.25,0.25,0.50,0.75,0.50,0.25,0.25,0.50,0.50,0.75,0.25
+obras de reforma;7;6;-1;20;1.90;http://www.redformas.es/;0.09;0.08;0.63;59600000;0.99,0.99,0.99,0.67,0.33,0.33,0.99,0.99,0.67,0.67,0.99,0.99
+parquet flotante laminado;7;7;0;20;0.19;http://blog.redformas.es/suelos-laminados-vs-parquet-flotante/;0.09;0.00;0.77;92000;0.20,0.20,0.40,0.40,0.40,0.40,0.99,0.20,0.40,0.40,0.40,0.40
+precio reforma integral baño;4;0;0;10;3.35;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.08;0.12;0.98;356000;0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.50,0.50,0.50,0.50,0.99
+reformar una cocina precio;4;0;0;10;1.47;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.08;0.05;0.90;9680000;0.67,0.33,0.33,0.33,0.33,0.33,0.99,0.33,0.33,0.33,0.67,0.33
+presupuesto instalacion electrica;15;14;-1;140;2.04;http://blog.redformas.es/presupuesto-de-instalacion-electrica/;0.08;0.07;0.47;279000;0.99,0.43,0.67,0.67,0.81,0.33,0.43,0.67,0.43,0.52,0.81,0.81
+presupuesto de obra;15;12;-3;140;2.48;http://www.redformas.es/;0.08;0.09;0.82;43400000;0.99,0.82,0.82,0.65,0.65,0.53,0.82,0.99,0.99,0.65,0.99,0.99
+precio de un baño completo;4;3;-1;10;1.03;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.08;0.03;0.85;56700000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.50
+cerramientos de terrazas precios;17;17;0;170;1.91;http://blog.redformas.es/precio-cerrar-terraza/;0.08;0.06;0.93;240000;0.81,0.99,0.81,0.54,0.15,0.54,0.65,0.27,0.42,0.42,0.81,0.99
+presupuesto fontaneria;12;12;0;50;1.12;http://www.redformas.es/presupuestos-fontaneria-calefaccion-y-gas/;0.07;0.03;0.78;391000;0.99,0.71,0.56,0.71,0.71,0.56,0.71,0.71,0.71,0.71,0.71,0.71
+reformar cocina pequeña;12;0;0;50;2.00;http://blog.redformas.es/reformar-cocina-pequena/;0.07;0.07;0.68;370000;0.44,0.56,0.22,0.33,0.22,0.56,0.56,0.44,0.78,0.78,0.99,0.99
+precio colocacion parquet;12;14;2;50;1.21;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.07;0.04;0.83;303000;0.56,0.44,0.33,0.33,0.33,0.22,0.33,0.56,0.56,0.56,0.99,0.78
+azulejos casañ;20;19;-1;210;0.06;http://www.redformas.es/empresa/azulejos-casan-s-l-valencia/;0.07;0.00;0.01;2000;0.65,0.81,0.99,0.99,0.81,0.65,0.81,0.99,0.81,0.65,0.99,0.99
+presupuesto instalacion electrica vivienda;13;14;1;70;2.47;http://blog.redformas.es/presupuesto-de-instalacion-electrica/;0.07;0.08;0.37;102000;0.45,0.64,0.99,0.45,0.27,0.27,0.27,0.82,0.64,0.64,0.64,0.64
+como reparar parquet;14;16;2;90;0.51;http://blog.redformas.es/reparar-parquet-danado/;0.07;0.01;0.21;270000;0.82,0.64,0.64,0.45,0.82,0.82,0.82,0.99,0.82,0.82,0.82,0.82
+reparacion bañeras barcelona;8;7;-1;20;0.63;http://blog.redformas.es/reparacion-baneras-barcelona/;0.07;0.02;0.86;76000;0.99,0.99,0.99,0.99,0.99,0.50,0.99,0.99,0.99,0.50,0.99,0.50
+presupuesto tarima;9;10;1;20;1.08;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.07;0.03;0.77;454000;0.50,0.50,0.50,0.25,0.25,0.25,0.50,0.50,0.50,0.75,0.99,0.50
+presupuestos pintura piso;10;12;2;20;6.30;http://blog.redformas.es/precio-pintar-casa/;0.07;0.20;0.86;1100000;0.99,0.99,0.67,0.99,0.67,0.33,0.67,0.67,0.33,0.33,0.67,0.33
+lijar parquet precio;10;7;-3;20;1.70;http://blog.redformas.es/precio-acuchillar-parquet/;0.07;0.05;0.69;44000;0.14,0.14,0.28,0.28,0.14,0.14,0.28,0.14,0.28,0.14,0.43,0.99
+presupuestos de reformas madrid;9;14;5;20;0.00;http://www.redformas.es/;0.07;0.00;0.81;608000;0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.78,0.22,0.11,0.99,0.22
+quiero construir mi casa;8;13;5;20;1.03;http://blog.redformas.es/quiero-construir-mi-casa/;0.07;0.03;0.89;746000;0.33,0.67,0.67,0.33,0.67,0.67,0.67,0.67,0.33,0.99,0.99,0.99
+presupuesto reforma madrid;9;11;2;20;4.08;http://www.redformas.es/;0.07;0.13;0.84;11200000;0.11,0.11,0.11,0.22,0.22,0.22,0.22,0.11,0.33,0.22,0.33,0.99
+presupuestos de fontaneria;9;8;-1;20;1.12;http://www.redformas.es/presupuestos-fontaneria-calefaccion-y-gas/;0.07;0.03;0.83;468000;0.99,0.99,0.67,0.33,0.33,0.67,0.67,0.33,0.99,0.67,0.99,0.99
+diferencia entre tarima flotante y suelo laminado;8;7;-1;20;0.00;http://blog.redformas.es/suelos-laminados-vs-parquet-flotante/;0.07;0.00;0.59;8000;0.99,0.99,0.50,0.99,0.99,0.99,0.50,0.99,0.99,0.50,0.99,0.99
+precio reforma baño y cocina;8;0;0;20;3.22;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.07;0.10;0.84;1020000;0.67,0.67,0.67,0.67,0.67,0.33,0.67,0.99,0.33,0.99,0.33,0.33
+reformar cocina y baño precio;8;0;0;20;1.87;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.07;0.06;0.85;1170000;0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.67,0.67,0.67,0.99,0.99
+diferencia entre suelo laminado y tarima flotante;8;9;1;20;3.44;http://blog.redformas.es/suelos-laminados-vs-parquet-flotante/;0.07;0.11;0.55;8000;0.67,0.33,0.33,0.67,0.99,0.67,0.33,0.99,0.67,0.33,0.67,0.67
+precio acuchillado y barnizado parquet;8;7;-1;20;4.01;http://blog.redformas.es/precio-acuchillar-parquet/;0.07;0.12;0.81;36000;0.50,0.50,0.50,0.25,0.50,0.25,0.50,0.50,0.50,0.25,0.50,0.99
+trabajos de escayola;9;7;-2;20;0.03;http://blog.redformas.es/trabajos-de-escayola/;0.07;0.00;0.51;450000;0.99,0.50,0.75,0.50,0.50,0.50,0.50,0.50,0.75,0.50,0.50,0.75
+precio cuarto de baño completo;9;7;-2;20;1.00;http://blog.redformas.es/cuanto-cuesta-reformar-un-bano/;0.07;0.03;0.66;17400000;0.99,0.75,0.50,0.50,0.50,0.50,0.25,0.50,0.25,0.25,0.75,0.75
+presupuestos reformas vivienda;10;0;0;20;2.74;http://www.redformas.es/;0.07;0.08;0.95;21200000;0.40,0.20,0.40,0.60,0.80,0.20,0.20,0.40,0.40,0.20,0.99,0.60
+presupuesto cocina nueva;10;19;9;20;1.49;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.07;0.04;0.80;1160000;0.50,0.25,0.50,0.25,0.25,0.25,0.75,0.50,0.50,0.50,0.75,0.99
+instalar plato de ducha acrilico;10;10;0;20;3.10;http://blog.redformas.es/plato-de-ducha/;0.07;0.10;0.53;37000;0.99,0.67,0.33,0.67,0.99,0.99,0.99,0.67,0.67,0.33,0.67,0.67
+material para baños;9;11;2;20;0.45;http://blog.redformas.es/reformas-de-banos-como-comprar-el-material-necesario/;0.07;0.01;0.56;10100000;0.50,0.25,0.50,0.50,0.25,0.75,0.50,0.25,0.25,0.50,0.99,0.50
+presupuesto de reforma de vivienda;10;10;0;20;2.77;http://www.redformas.es/;0.07;0.08;1.00;12700000;0.56,0.71,0.99,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14
+presupuesto reformas online;9;8;-1;20;4.32;http://www.redformas.es/;0.07;0.13;0.90;531000;0.67,0.99,0.67,0.67,0.99,0.67,0.67,0.67,0.67,0.33,0.67,0.67
+tipos de fachadas;17;19;2;140;0.52;http://blog.redformas.es/fachada-de-casa/;0.06;0.01;0.25;553000;0.65,0.65,0.65,0.82,0.53,0.53,0.82,0.82,0.99,0.82,0.99,0.99
+reformar el baño;17;17;0;140;1.70;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.06;0.05;0.83;13200000;0.54,0.54,0.54,0.54,0.42,0.54,0.54,0.54,0.65,0.27,0.65,0.99
+cerramientos terrazas precios;15;13;-2;110;1.48;http://blog.redformas.es/precio-cerrar-terraza/;0.06;0.04;0.85;239000;0.42,0.19,0.15,0.12,0.27,0.35,0.42,0.81,0.81,0.54,0.99,0.54
+parquet flotante precios;16;13;-3;110;0.81;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.06;0.02;0.90;118000;0.99,0.42,0.27,0.27,0.35,0.27,0.42,0.42,0.65,0.42,0.65,0.65
+cuanto cuesta pintar;6;0;0;10;0.00;http://blog.redformas.es/cuanto-cuesta-pintar-una-casa-precio-ideas-y-consejos/;0.06;0.00;0.18;826000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50
+presupuesto para pintar;6;6;0;10;0.00;http://blog.redformas.es/precio-pintar-casa/;0.06;0.00;0.41;633000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto de reforma cocina;6;9;3;10;0.00;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.06;0.00;0.00;628000;0.99,0.60,0.40,0.20,0.20,0.00,0.20,0.40,0.20,0.20,0.20,0.00
+material de baño;5;6;1;10;0.44;http://blog.redformas.es/reformas-de-banos-como-comprar-el-material-necesario/;0.06;0.01;0.60;24000000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99
+presupuestos de reformas de cocinas;5;0;0;10;1.82;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.06;0.04;0.79;488000;0.25,0.25,0.25,0.25,0.99,0.25,0.25,0.50,0.25,0.25,0.25,0.25
+precio de baño completo;5;5;0;10;0.41;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.06;0.01;0.98;50800000;0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.99,0.99
+presupuesto reforma casa;14;14;0;70;2.41;http://www.redformas.es/;0.05;0.06;0.94;13500000;0.56,0.44,0.78,0.78,0.99,0.78,0.78,0.78,0.78,0.44,0.78,0.78
+cuanto vale pintar un piso;14;12;-2;70;1.18;http://blog.redformas.es/precio-pintar-casa/;0.05;0.03;0.49;170000;0.99,0.78,0.99,0.78,0.78,0.33,0.56,0.78,0.56,0.44,0.56,0.78
+presupuestos obras construccion;11;0;0;10;4.71;http://www.redformas.es/;0.05;0.11;1.00;44300000;0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.33
+presupuestos pintar piso;11;11;0;10;2.99;http://blog.redformas.es/precio-pintar-casa/;0.05;0.07;0.82;467000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99
+reforma online;11;11;0;10;2.17;http://www.redformas.es/;0.05;0.05;0.59;26600000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+precio metro parquet;11;0;0;10;0.00;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.05;0.00;0.66;479000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.99,0.50,0.99
+pintar piso presupuesto;11;11;0;10;1.70;http://blog.redformas.es/precio-pintar-casa/;0.05;0.04;0.71;410000;0.50,0.50,0.50,0.99,0.50,0.99,0.99,0.50,0.50,0.50,0.50,0.50
+parquet flotante precio;13;12;-1;50;1.10;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.05;0.02;0.89;184000;0.36,0.64,0.64,0.64,0.99,0.27,0.45,0.64,0.09,0.18,0.18,0.27
+piscinas gresite;13;12;-1;50;0.63;http://blog.redformas.es/colocacion-gresite-piscina/;0.05;0.01;0.84;160000;0.64,0.82,0.99,0.64,0.82,0.45,0.27,0.27,0.18,0.18,0.27,0.27
+piscinas de gresite;13;15;2;50;1.10;http://blog.redformas.es/colocacion-gresite-piscina/;0.05;0.02;0.80;168000;0.78,0.78,0.99,0.78,0.99,0.33,0.56,0.22,0.22,0.22,0.33,0.44
+platos de ducha grandes;13;14;1;50;0.65;http://blog.redformas.es/platos-ducha/;0.05;0.01;0.90;548000;0.56,0.56,0.28,0.56,0.56,0.71,0.71,0.56,0.56,0.71,0.99,0.99
+casas antiguas reformadas;15;9;-6;90;0.44;http://blog.redformas.es/reformar-casas-antiguas/;0.05;0.01;0.20;36000;0.28,0.36,0.50,0.50,0.50,0.99,0.79,0.99,0.64,0.64,0.36,0.36
+como reparar parquet;15;17;2;90;0.51;http://blog.redformas.es/reparar-parquet-levantado/;0.05;0.01;0.21;270000;0.82,0.64,0.64,0.45,0.82,0.82,0.82,0.99,0.82,0.82,0.82,0.82
+precio instalacion electrica;17;15;-2;110;2.57;http://blog.redformas.es/presupuesto-de-instalacion-electrica/;0.05;0.06;0.46;769000;0.41,0.41,0.41,0.41,0.41,0.28,0.65,0.53,0.99,0.82,0.99,0.99
+presupuesto de pintura;17;11;-6;110;1.88;http://blog.redformas.es/precio-pintar-casa/;0.05;0.04;0.75;2150000;0.99,0.82,0.82,0.65,0.65,0.53,0.53,0.53,0.65,0.28,0.53,0.65
+como reformar un piso;17;0;0;110;1.72;http://blog.redformas.es/como-reformar-tu-casa-al-menor-coste/;0.05;0.04;0.68;13300000;0.79,0.50,0.79,0.64,0.79,0.99,0.99,0.79,0.64,0.50,0.99,0.99
+toldos casa juan de dios;20;0;0;140;0.11;http://www.redformas.es/empresa/toldos-casa-juan-de-dios-/;0.05;0.00;0.13;44000;0.65,0.81,0.81,0.99,0.99,0.54,0.42,0.27,0.27,0.27,0.35,0.35
+como colocar un plato de ducha;20;0;0;140;1.28;http://blog.redformas.es/plato-de-ducha/;0.05;0.02;0.46;430000;0.82,0.82,0.82,0.82,0.99,0.82,0.82,0.99,0.99,0.82,0.99,0.99
+presupuestos y reformas;7;7;0;10;4.45;http://www.redformas.es/;0.04;0.09;0.99;12500000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99
+precio pintura interior casa;7;6;-1;10;0.00;http://blog.redformas.es/precio-pintar-casa/;0.04;0.00;0.76;907000;0.00,0.50,0.50,0.50,0.99,0.50,0.50,0.00,0.50,0.50,0.50,0.50
+reformas presupuesto;7;6;-1;10;6.01;http://www.redformas.es/;0.04;0.12;0.96;23400000;0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.99
+precios de tarima flotante instalada;7;7;0;10;0.86;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.04;0.01;0.83;74000;0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.99
+reparaciones de parquet;7;0;0;10;1.28;http://blog.redformas.es/reparar-parquet-levantado/;0.04;0.02;0.79;497000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50
+como instalar un plato de ducha acrilico;12;10;-2;30;0.12;http://blog.redformas.es/plato-de-ducha/;0.04;0.00;0.41;49000;0.75,0.50,0.50,0.25,0.75,0.50,0.99,0.50,0.99,0.50,0.50,0.99
+presupuesto de instalacion electrica;12;18;6;30;1.68;http://blog.redformas.es/presupuesto-de-instalacion-electrica/;0.04;0.03;0.75;279000;0.99,0.99,0.99,0.99,0.99,0.67,0.33,0.99,0.67,0.99,0.67,0.67
+suelo tarima flotante precio;12;11;-1;30;0.87;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.04;0.01;0.88;389000;0.28,0.43,0.99,0.71,0.28,0.14,0.28,0.28,0.28,0.28,0.28,0.28
+suelos de tarima flotante precios;13;11;-2;40;1.06;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.04;0.02;0.82;199000;0.14,0.14,0.14,0.21,0.28,0.36,0.14,0.14,0.21,0.07,0.64,0.99
+pintar piso precio;15;12;-3;70;1.50;http://blog.redformas.es/precio-pintar-casa/;0.04;0.02;0.69;521000;0.53,0.24,0.28,0.24,0.18,0.12,0.53,0.53,0.53,0.53,0.82,0.99
+cerramiento terraza precio;15;14;-1;70;1.96;http://blog.redformas.es/precio-cerrar-terraza/;0.04;0.03;0.84;365000;0.64,0.36,0.64,0.50,0.50,0.79,0.99,0.21,0.36,0.36,0.79,0.50
+precio parquet flotante;18;17;-1;110;0.94;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.04;0.01;0.89;176000;0.99,0.50,0.50,0.79,0.79,0.64,0.28,0.50,0.99,0.79,0.99,0.99
+cerrar una terraza;19;16;-3;110;1.18;http://blog.redformas.es/precio-cerrar-terraza/;0.04;0.02;0.68;14100000;0.82,0.41,0.53,0.53,0.53,0.41,0.53,0.65,0.82,0.65,0.99,0.82
+presupuesto online;18;14;-4;110;2.85;http://www.redformas.es/;0.04;0.05;0.61;9790000;0.82,0.65,0.65,0.65,0.65,0.41,0.82,0.82,0.99,0.53,0.82,0.65
+presupuesto de pintura de casas;9;8;-1;10;0.00;http://blog.redformas.es/precio-pintar-casa/;0.03;0.00;0.00;638000;0.00,0.99,0.00,0.99,0.99,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+material baño;8;7;-1;10;0.00;http://blog.redformas.es/reformas-de-banos-como-comprar-el-material-necesario/;0.03;0.00;0.56;24900000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+materiales baño;10;10;0;10;1.21;http://blog.redformas.es/reformas-de-banos-como-comprar-el-material-necesario/;0.03;0.01;0.41;18000000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.99
+presupuesto cerramiento aluminio;9;9;0;10;1.20;http://blog.redformas.es/precio-cerrar-terraza/;0.03;0.01;0.85;317000;0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99
+presupuestos de reformas de casas;10;9;-1;10;1.56;http://www.redformas.es/;0.03;0.02;1.00;12100000;0.99,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.40,0.20,0.20
+materiales baños;10;10;0;10;0.00;http://blog.redformas.es/reformas-de-banos-como-comprar-el-material-necesario/;0.03;0.00;0.23;14500000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99
+reparacion piso parquet;9;0;0;10;0.00;http://blog.redformas.es/reparar-parquet-danado/;0.03;0.00;1.00;361000;0.99,0.00,0.99,0.00,0.00,0.00,0.00,0.99,0.00,0.00,0.00,0.99
+reparacion piso parquet;8;0;0;10;0.00;http://blog.redformas.es/reparar-parquet-levantado/;0.03;0.00;1.00;361000;0.99,0.00,0.99,0.00,0.00,0.00,0.00,0.99,0.00,0.00,0.00,0.99
+construccion piscinas precios;13;11;-2;30;1.75;http://blog.redformas.es/precio-construir-piscina/;0.03;0.02;0.84;513000;0.43,0.56,0.56,0.56,0.71,0.99,0.56,0.14,0.43,0.14,0.28,0.28
+construir una casa precio;20;20;0;90;0.34;http://blog.redformas.es/precio-construir-casa/;0.03;0.00;0.68;16800000;0.79,0.36,0.79,0.64,0.79,0.50,0.28,0.64,0.50,0.99,0.64,0.79
+reforma integral piso madrid;19;18;-1;90;3.90;http://blog.redformas.es/reforma-integral-piso-madrid/;0.03;0.05;0.94;243000;0.64,0.64,0.99,0.36,0.21,0.50,0.64,0.50,0.79,0.64,0.79,0.79
+presupuesto obra casa;13;14;1;30;2.52;http://www.redformas.es/pedir-presupuesto/;0.03;0.03;0.80;18200000;0.14,0.14,0.14,0.14,0.28,0.28,0.28,0.71,0.99,0.71,0.56,0.28
+piscinas construccion precios;12;11;-1;20;1.98;http://blog.redformas.es/precio-construir-piscina/;0.03;0.02;0.85;492000;0.50,0.50,0.75,0.50,0.50,0.99,0.25,0.25,0.25,0.25,0.25,0.25
+presupuesto de fontaneria;12;9;-3;20;0.00;http://www.redformas.es/presupuestos-fontaneria-calefaccion-y-gas/;0.03;0.00;0.90;624000;0.50,0.50,0.50,0.99,0.50,0.99,0.50,0.99,0.99,0.99,0.99,0.50
+cerrar terrazas;16;15;-1;50;2.08;http://blog.redformas.es/precio-cerrar-terraza/;0.03;0.02;0.75;864000;0.99,0.56,0.56,0.56,0.43,0.71,0.71,0.71,0.99,0.56,0.71,0.56
+piedras para fachadas de casas rusticas;15;0;0;50;0.63;http://blog.redformas.es/fachadas-de-casas-eleccion-para-tu-vivienda/;0.03;0.00;0.51;209000;0.27,0.36,0.36,0.45,0.45,0.36,0.64,0.45,0.64,0.45,0.82,0.99
+reformar cocinas;15;12;-3;50;1.98;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.03;0.02;0.84;465000;0.71,0.56,0.71,0.43,0.56,0.56,0.56,0.43,0.71,0.71,0.99,0.99
+cuanto vale reformar un piso;15;12;-3;50;1.25;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.03;0.01;0.85;70000;0.44,0.22,0.22,0.22,0.33,0.44,0.78,0.78,0.99,0.44,0.78,0.78
+reparacion parquet;16;12;-4;50;1.12;http://blog.redformas.es/reparar-parquet-rayado/;0.03;0.01;0.75;359000;0.71,0.56,0.56,0.71,0.71,0.56,0.71,0.56,0.56,0.71,0.99,0.71
+reparacion parquet;15;11;-4;50;1.12;http://blog.redformas.es/reparar-parquet-levantado/;0.03;0.01;0.75;359000;0.71,0.56,0.56,0.71,0.71,0.56,0.71,0.56,0.56,0.71,0.99,0.71
+presupuesto piscinas;14;0;0;30;2.12;http://blog.redformas.es/precio-construir-piscina/;0.02;0.02;0.87;851000;0.28,0.43,0.28,0.56,0.99,0.71,0.43,0.56,0.14,0.28,0.28,0.43
+acuchillado parquet;14;14;0;30;3.20;http://blog.redformas.es/precio-acuchillar-parquet/;0.02;0.03;0.82;106000;0.75,0.50,0.75,0.75,0.50,0.50,0.50,0.75,0.99,0.99,0.75,0.75
+alicatar cocina precio;14;19;5;30;0.88;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.02;0.00;0.43;81000;0.80,0.20,0.40,0.40,0.40,0.99,0.60,0.60,0.60,0.40,0.80,0.99
+reformas casas antiguas;14;13;-1;30;1.98;http://blog.redformas.es/reformar-casas-antiguas/;0.02;0.02;0.89;499000;0.40,0.40,0.20,0.40,0.80,0.99,0.80,0.40,0.60,0.20,0.60,0.99
+azulejos precios m2;14;16;2;30;0.11;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.02;0.00;0.63;451000;0.60,0.60,0.99,0.80,0.60,0.80,0.40,0.60,0.40,0.20,0.20,0.40
+presupuesto obra casa;14;15;1;30;2.52;http://www.redformas.es/;0.02;0.02;0.80;18200000;0.14,0.14,0.14,0.14,0.28,0.28,0.28,0.71,0.99,0.71,0.56,0.28
+reformar tu casa;14;15;1;30;1.95;http://blog.redformas.es/como-reformar-tu-casa-al-menor-coste/;0.02;0.02;0.64;949000;0.75,0.50,0.25,0.50,0.75,0.75,0.99,0.50,0.75,0.25,0.99,0.75
+mudanzas laser;17;0;0;50;3.94;http://www.redformas.es/empresa/mudanzas-laser-s-a-/;0.02;0.04;0.80;367000;0.56,0.71,0.71,0.56,0.99,0.28,0.56,0.99,0.71,0.56,0.56,0.71
+reparacion de parquet;16;14;-2;40;1.50;http://blog.redformas.es/reparar-parquet-levantado/;0.02;0.01;0.75;520000;0.99,0.99,0.40,0.80,0.40,0.99,0.80,0.80,0.80,0.40,0.99,0.80
+viviendas unifamiliares de diseño;16;17;1;40;0.69;http://blog.redformas.es/diseno-para-construccion-de-vivienda-unifamiliar/;0.02;0.00;0.56;426000;0.14,0.14,0.43,0.14,0.28,0.14,0.28,0.43,0.99,0.99,0.99,0.99
+precios piscina;16;17;1;40;0.93;http://blog.redformas.es/precio-construir-piscina/;0.02;0.01;1.00;116000000;0.44,0.11,0.56,0.99,0.99,0.78,0.56,0.22,0.22,0.11,0.11,0.22
+tarima flotante laminada;15;0;0;40;0.91;http://blog.redformas.es/suelos-laminados-vs-parquet-flotante/;0.02;0.00;0.75;66000;0.99,0.80,0.60,0.80,0.40,0.60,0.80,0.99,0.99,0.99,0.80,0.80
+precios pintar piso;13;11;-2;20;1.93;http://blog.redformas.es/precio-pintar-casa/;0.02;0.01;0.73;452000;0.50,0.75,0.75,0.99,0.50,0.50,0.75,0.50,0.25,0.50,0.75,0.50
+reformar casas antiguas;13;15;2;20;1.50;http://blog.redformas.es/reformar-casas-antiguas/;0.02;0.01;0.73;656000;0.99,0.33,0.67,0.33,0.33,0.99,0.33,0.67,0.33,0.67,0.99,0.67
+presupuesto de reforma de vivienda;13;13;0;20;2.77;http://www.redformas.es/pedir-presupuesto/;0.02;0.02;1.00;12700000;0.56,0.71,0.99,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14
+acemar hosteleria;17;18;1;40;0.00;http://www.redformas.es/empresa/acemar-hosteleria-s-l-madrid/;0.01;0.00;0.16;1000;0.99,0.80,0.99,0.99,0.60,0.20,0.40,0.80,0.60,0.40,0.80,0.80
+precio de una piscina;16;17;1;30;0.75;http://blog.redformas.es/precio-construir-piscina/;0.01;0.00;0.83;182000000;0.40,0.60,0.60,0.99,0.99,0.99,0.80,0.40,0.40,0.20,0.40,0.40
+como colocar un plato de ducha acrilico;16;16;0;30;0.49;http://blog.redformas.es/plato-de-ducha/;0.01;0.00;0.46;76000;0.40,0.40,0.60,0.80,0.40,0.80,0.99,0.40,0.20,0.40,0.20,0.80
+como hacer presupuestos de reformas;16;19;3;30;0.92;http://blog.redformas.es/;0.01;0.00;0.87;38500000;0.56,0.43,0.43,0.14,0.14,0.14,0.28,0.14,0.14,0.14,0.56,0.99
+cambiar azulejos cocina sin obra;16;16;0;30;0.17;http://blog.redformas.es/reformar-cocina-sin-obras/;0.01;0.00;0.25;93000;0.40,0.40,0.99,0.40,0.80,0.40,0.80,0.80,0.60,0.80,0.99,0.60
+precios de tarimas flotantes;20;19;-1;50;0.96;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.01;0.00;0.90;485000;0.99,0.56,0.56,0.99,0.43,0.56,0.56,0.99,0.71,0.56,0.71,0.56
+oferta panel sandwich teja;14;14;0;20;0.54;http://blog.redformas.es/oferta-panel-sandwich-teja/;0.01;0.00;0.64;32000;0.67,0.33,0.33,0.67,0.33,0.99,0.33,0.99,0.33,0.33,0.33,0.33
+ideas para reformar mi casa;14;15;1;20;4.20;http://blog.redformas.es/ideas-para-reformar-la-casa/;0.01;0.03;0.44;227000;0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.99,0.22,0.33,0.22,0.11
+presupuestos de electricidad;14;16;2;20;0.94;http://www.redformas.es/presupuestos-electricidad/;0.01;0.00;0.68;1160000;0.99,0.99,0.99,0.99,0.50,0.50,0.99,0.99,0.99,0.99,0.99,0.99
+precio baño;14;0;0;20;1.74;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.01;0.01;0.92;134000000;0.67,0.33,0.67,0.99,0.67,0.67,0.99,0.67,0.67,0.33,0.67,0.99
+presupuesto obra baño;14;18;4;20;1.66;http://blog.redformas.es/cuanto-cuesta-reformar-un-bano/;0.01;0.01;0.89;746000;0.25,0.25,0.50,0.50,0.25,0.50,0.50,0.50,0.75,0.99,0.75,0.75
+material para baño;12;17;5;10;0.48;http://blog.redformas.es/reformas-de-banos-como-comprar-el-material-necesario/;0.01;0.00;0.68;24200000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+pintar mi casa ideas;12;11;-1;10;0.00;http://blog.redformas.es/como-pintar-mi-casa-ideas-y-consejos/;0.01;0.00;0.12;567000;0.99,0.25,0.25,0.25,0.25,0.25,0.25,0.00,0.25,0.25,0.50,0.25
+precio metro parquet;12;12;0;10;0.00;http://blog.redformas.es/precio-acuchillar-parquet/;0.01;0.00;0.66;479000;0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.99,0.50,0.99
+pulido parquet precio;12;11;-1;10;0.84;http://blog.redformas.es/precio-acuchillar-parquet/;0.01;0.00;0.79;347000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99,0.99,0.99
+como pintar mi casa ideas;12;14;2;10;0.00;http://blog.redformas.es/como-pintar-mi-casa-ideas-y-consejos/;0.01;0.00;0.05;520000;0.99,0.40,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20
+precios parquet flotante;18;18;0;40;0.59;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.01;0.00;0.87;119000;0.80,0.80,0.60,0.20,0.40,0.20,0.60,0.99,0.99,0.99,0.99,0.99
+presupuestos pintura;18;0;0;40;2.02;http://blog.redformas.es/precio-pintar-casa/;0.01;0.01;0.85;1090000;0.99,0.43,0.56,0.56,0.99,0.43,0.56,0.56,0.71,0.28,0.56,0.71
+cerrar terraza aluminio;17;16;-1;30;1.33;http://blog.redformas.es/precio-cerrar-terraza/;0.01;0.00;0.74;545000;0.56,0.14,0.14,0.14,0.14,0.28,0.71,0.99,0.71,0.28,0.99,0.71
+acuchillado y barnizado de parquet;17;17;0;30;1.38;http://blog.redformas.es/precio-acuchillar-parquet/;0.01;0.00;0.81;105000;0.14,0.28,0.28,0.28,0.43,0.28,0.28,0.28,0.43,0.99,0.56,0.43
+presupuesto para pintar un piso;20;0;0;40;3.05;http://blog.redformas.es/precio-pintar-casa/;0.01;0.01;0.72;495000;0.99,0.14,0.14,0.28,0.99,0.71,0.71,0.71,0.43,0.14,0.56,0.56
+tipos de fachada;17;16;-1;30;0.00;http://blog.redformas.es/fachada-de-casa/;0.01;0.00;0.09;952000;0.80,0.60,0.99,0.40,0.20,0.20,0.60,0.99,0.80,0.99,0.99,0.80
+precio parquet instalado;20;20;0;40;1.29;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.01;0.00;0.79;206000;0.99,0.56,0.44,0.22,0.11,0.22,0.33,0.22,0.44,0.44,0.56,0.44
+como se coloca un plato de ducha;16;17;1;20;1.75;http://blog.redformas.es/plato-de-ducha/;0.01;0.00;0.37;249000;0.67,0.67,0.67,0.33,0.67,0.67,0.67,0.67,0.99,0.33,0.67,0.67
+colocar plato de ducha acrilico;16;17;1;20;0.22;http://blog.redformas.es/plato-de-ducha/;0.01;0.00;0.54;42000;0.50,0.25,0.99,0.25,0.50,0.50,0.25,0.99,0.50,0.50,0.25,0.99
+presupuesto obra baño;15;0;0;20;1.66;http://www.redformas.es/;0.01;0.00;0.89;746000;0.25,0.25,0.50,0.50,0.25,0.50,0.50,0.50,0.75,0.99,0.75,0.75
+reformar una vivienda;15;0;0;20;2.25;http://blog.redformas.es/como-reformar-tu-casa-al-menor-coste/;0.01;0.01;0.87;13800000;0.40,0.40,0.20,0.20,0.40,0.20,0.20,0.20,0.20,0.40,0.99,0.80
+presupuestos de piscinas;19;0;0;30;1.68;http://www.redformas.es/presupuestos-piscinas-saunas-y-spas/;0.01;0.00;0.92;708000;0.80,0.60,0.80,0.99,0.80,0.99,0.60,0.40,0.20,0.20,0.40,0.40
+coste piscina;19;15;-4;30;0.86;http://blog.redformas.es/precio-construir-piscina/;0.01;0.00;0.96;803000;0.28,0.28,0.56,0.56,0.56,0.99,0.56,0.43,0.14,0.28,0.28,0.43
+presupuesto reforma local;17;20;3;20;0.00;http://www.redformas.es/pedir-presupuesto/;0.00;0.00;0.94;20100000;0.67,0.67,0.99,0.67,0.99,0.33,0.67,0.67,0.67,0.33,0.67,0.67
+instalacion electrica presupuesto;14;13;-1;10;0.00;http://blog.redformas.es/presupuesto-de-instalacion-electrica/;0.00;0.00;0.20;280000;0.67,0.33,0.33,0.67,0.33,0.33,0.33,0.99,0.67,0.33,0.33,0.33
+reformas servicios;14;0;0;10;1.67;http://www.redformas.es/;0.00;0.00;0.85;47800000;0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.99,0.99,0.99
+material de aislamiento termico;14;16;2;10;2.34;http://blog.redformas.es/materiales-aislamiento-termico/;0.00;0.00;0.87;496000;0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.67,0.67
+presupuesto para reformar una casa;20;0;0;20;2.41;http://blog.redformas.es/como-reformar-tu-casa-al-menor-coste/;0.00;0.00;0.89;670000;0.99,0.67,0.99,0.99,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33
+precios para construir una casa;20;0;0;20;0.43;http://blog.redformas.es/precio-construir-casa/;0.00;0.00;0.77;11900000;0.99,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.33,0.33,0.67,0.33
+precio de parquet flotante;18;15;-3;20;1.21;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.00;0.00;0.85;359000;0.40,0.20,0.40,0.20,0.20,0.20,0.20,0.20,0.40,0.80,0.99,0.60
+instalacion de plato de ducha;18;17;-1;20;1.08;http://blog.redformas.es/plato-de-ducha/;0.00;0.00;0.76;236000;0.99,0.25,0.25,0.25,0.25,0.50,0.25,0.25,0.50,0.25,0.75,0.50
+como presupuestar una obra;19;0;0;20;0.00;http://www.redformas.es/;0.00;0.00;0.24;47200000;0.20,0.99,0.40,0.60,0.60,0.60,0.20,0.20,0.40,0.60,0.20,0.40
+instalar plato ducha acrilico;20;17;-3;20;0.00;http://blog.redformas.es/plato-de-ducha/;0.00;0.00;0.39;44000;0.67,0.67,0.33,0.67,0.99,0.67,0.33,0.67,0.33,0.67,0.33,0.33
+presupuestar obras;18;18;0;20;2.48;http://www.redformas.es/;0.00;0.00;0.76;177000;0.99,0.33,0.67,0.33,0.33,0.67,0.33,0.33,0.67,0.67,0.67,0.67
+presupuestar obras;19;19;0;20;2.48;http://www.redformas.es/pedir-presupuesto/;0.00;0.00;0.76;177000;0.99,0.33,0.67,0.33,0.33,0.67,0.33,0.33,0.67,0.67,0.67,0.67
+precios de parquet flotante;18;12;-6;20;1.69;http://blog.redformas.es/precio-colocar-tarima-flotante/;0.00;0.00;0.83;322000;0.67,0.99,0.99,0.67,0.67,0.67,0.67,0.99,0.67,0.67,0.67,0.67
+reparar el parquet;16;0;0;10;0.82;http://blog.redformas.es/reparar-parquet-danado/;0.00;0.00;0.71;409000;0.99,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+reparar el parquet;15;0;0;10;0.82;http://blog.redformas.es/reparar-parquet-rayado/;0.00;0.00;0.71;409000;0.99,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+pisos y azulejos para cocina;16;18;2;10;0.00;http://blog.redformas.es/cuanto-cuesta-reformar-una-cocina/;0.00;0.00;0.00;522000;0.99,0.99,0.00,0.99,0.00,0.00,0.99,0.99,0.99,0.99,0.99,0.00
+presupuesto para una obra de construccion;16;0;0;10;1.27;http://www.redformas.es/;0.00;0.00;0.60;41400000;0.00,0.99,0.00,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto de obras de construccion;16;0;0;10;2.02;http://www.redformas.es/;0.00;0.00;0.71;713000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50,0.99
+parquet reparacion;15;13;-2;10;0.00;http://blog.redformas.es/reparar-parquet-levantado/;0.00;0.00;0.80;445000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.00,0.99,0.99
+cambiar puertas de interior;15;16;1;10;0.74;http://blog.redformas.es/cambiar-las-puertas-de-interior-de-la-vivienda/;0.00;0.00;0.75;9860000;0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.67,0.67,0.33,0.67,0.99
+presupuesto reformar casa;17;17;0;10;2.04;http://www.redformas.es/;0.00;0.00;0.84;505000;0.99,0.99,0.50,0.50,0.50,0.50,0.99,0.50,0.50,0.50,0.99,0.99
+materiales para baño;17;13;-4;10;0.00;http://blog.redformas.es/reformas-de-banos-como-comprar-el-material-necesario/;0.00;0.00;0.62;14900000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+presupuesto para hacer un baño;17;17;0;10;0.53;http://blog.redformas.es/cual-es-el-precio-de-reformar-un-bano/;0.00;0.00;0.61;629000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+presupuesto para obras de construccion;20;0;0;10;0.08;http://www.redformas.es/;0.00;0.00;0.82;31600000;0.99,0.50,0.50,0.00,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+presupuestos para obras de construccion;20;0;0;10;1.57;http://www.redformas.es/;0.00;0.00;0.91;42800000;0.99,0.99,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50
+reformas en casas;18;18;0;10;0.76;http://blog.redformas.es/como-reformar-tu-casa-al-menor-coste/;0.00;0.00;0.99;75500000;0.67,0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.33,0.33
+presupuesto de construcción;19;0;0;10;0.00;http://www.redformas.es/;0.00;0.00;0.45;50900000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+silestone tenerife;18;0;0;10;0.00;http://www.redformas.es/empresas-santa-cruz-de-tenerife/construccion-y-reformas/marmol-silestone-granito/;0.00;0.00;0.07;83000;0.50,0.50,0.99,0.99,0.99,0.99,0.50,0.99,0.99,0.50,0.50,0.50
+presupuesto para hacer un baño;18;0;0;10;0.53;http://blog.redformas.es/cuanto-cuesta-reformar-un-bano/;0.00;0.00;0.61;629000;0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.99,0.50
+idea para pintar mi casa;18;18;0;10;0.00;http://blog.redformas.es/como-pintar-mi-casa-ideas-y-consejos/;0.00;0.00;0.00;375000;0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+materiales para aislamiento termico;19;0;0;10;1.33;http://blog.redformas.es/materiales-aislamiento-termico/;0.00;0.00;0.83;599000;0.33,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.99,0.99
+como pintar mi casa colores de moda;18;19;1;10;0.00;http://blog.redformas.es/como-pintar-mi-casa-ideas-y-consejos/;0.00;0.00;0.07;554000;0.67,0.99,0.67,0.67,0.33,0.33,0.67,0.33,0.33,0.33,0.33,0.33
+como colocar plato ducha acrilico;18;14;-4;10;0.00;http://blog.redformas.es/plato-de-ducha/;0.00;0.00;0.36;77000;0.99,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.67,0.33,0.33,0.33
+busco presupuesto para reforma;20;7;-13;10;2.45;http://www.redformas.es/;0.00;0.00;0.70;561000;0.67,0.67,0.33,0.67,0.99,0.33,0.33,0.33,0.33,0.33,0.33,0.33

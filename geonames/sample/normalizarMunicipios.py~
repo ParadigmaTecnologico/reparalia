@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+import unicodedata
+import sys
+
+def normalize_text ( text ):
+  return normalize('NFKD', text).encode('ASCII', 'ignore')
+
+for linea in open('/home/itirados/Development/reparalia/geonames/texto-a-normalizar.txt'):
+        u = unicode(linea, "utf-8")
+	print normalize_text(u)
+
+
+
+

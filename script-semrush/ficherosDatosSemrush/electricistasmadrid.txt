@@ -1,0 +1,10 @@
+Keyword;Position;Previous Position;Position Difference;Search Volume;CPC;Url;Traffic (%);Traffic Cost (%);Competition;Number of Results;Trends
+electricistas madrid;2;2;0;1600;12.50;http://www.electricistasmadrid.eu/;76.75;83.20;0.89;679000;0.79,0.67,0.79,0.67,0.67,0.42,0.54,0.67,0.99,0.79,0.67,0.42
+electricistas;8;8;0;880;4.38;http://www.electricistasmadrid.eu/;9.74;3.70;0.81;1550000;0.88,0.88,0.88,0.88,0.72,0.59,0.88,0.88,0.99,0.99,0.99,0.88
+electricista madrid;7;7;0;480;11.89;http://www.electricistasmadrid.eu/;7.08;7.30;0.95;541000;0.39,0.39,0.88,0.48,0.39,0.26,0.39,0.48,0.99,0.72,0.59,0.32
+electricistas en madrid;5;5;0;320;10.32;http://www.electricistasmadrid.eu/;5.90;5.28;0.50;538000;0.82,0.82,0.82,0.82,0.99,0.82,0.82,0.82,0.99,0.99,0.82,0.67
+electricista autorizado madrid;11;12;1;40;0.00;http://www.electricistasmadrid.eu/;0.69;0.00;0.92;268000;0.27,0.18,0.27,0.27,0.18,0.09,0.09,0.36,0.99,0.64,0.27,0.18
+electricistas autorizados madrid;3;3;0;20;3.82;http://www.electricistasmadrid.eu/;0.66;0.22;0.97;97000;0.33,0.33,0.33,0.99,0.67,0.67,0.33,0.33,0.67,0.33,0.99,0.99
+electricistas de madrid;3;0;0;10;10.47;http://www.electricistasmadrid.eu/;0.33;0.30;0.96;774000;0.33,0.33,0.33,0.33,0.33,0.99,0.33,0.33,0.67,0.67,0.33,0.33
+electricistas autorizados;9;6;-3;20;0.78;http://www.electricistasmadrid.eu/;0.22;0.01;0.82;439000;0.67,0.33,0.33,0.33,0.67,0.33,0.99,0.67,0.33,0.67,0.99,0.67
+electricista en madrid;20;0;0;70;10.74;http://www.electricistasmadrid.eu/;0.07;0.07;0.96;550000;0.50,0.36,0.36,0.50,0.79,0.36,0.64,0.50,0.99,0.50,0.36,0.28

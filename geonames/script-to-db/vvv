@@ -1,0 +1,2 @@
+ select Keyword,min(Position),SearchVolume,Relevant from tablaConsolidada where Relevant = 'relevant' group by Keyword;
+ select Keyword,min(Position),SearchVolume,CPC,Url,Traffic,TrafficCost,Competition, NumberResults, Name from semrushKeywords group by Keyword limit 223

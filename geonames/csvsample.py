@@ -1,0 +1,18 @@
+import xlrd
+import csv
+import re
+
+def csv_from_excel():
+
+    wb = xlrd.open_workbook('keywords-hazmeprecio-00.xlsx')
+    sh = wb.sheet_by_name('Recuperado_Hoja2')
+    your_csv_file = open('keywords-hazmeprecio-00.csv', 'wb')
+    wr = csv.writer(your_csv_file, quoting=csv.QUOTE_ALL)
+
+    for rownum in xrange(sh.nrows):
+        wr.writerow(sh.row_values(rownum))
+
+    your_csv_file.close()
+
+csv_from_excel()
+
